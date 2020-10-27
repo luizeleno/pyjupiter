@@ -1,0 +1,79 @@
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#{{include.disciplina.sigla}}">
+  {{include.disciplina.sigla}}
+</a> {{include.disciplina.nome}}
+
+<!-- Modal -->
+<div class="modal fade" id="{{include.disciplina.sigla}}" tabindex="-1" role="dialog" aria-labelledby="{{include.disciplina.nome}}" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header alert-primary">
+        <h5 class="modal-title" id="{{include.nome}}">{{include.disciplina.sigla}}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <h1>{{include.disciplina.sigla}} - {{include.disciplina.nome}}</h1>
+        <h2><i>{{include.disciplina.nome_en}}</i></h2>
+        <ul>
+          <li> Créditos-aula: {{include.disciplina.CA}}</li>
+          <li> Créditos-trabalho: {{include.disciplina.CT}}</li>
+          <li> Carga horária: {{include.disciplina.CH}}</li>
+          <li> Departamento: {{include.disciplina.departamento}}</li>
+        </ul>
+        
+        <h3>Objetivos</h3>
+        
+        <p>{{include.disciplina.objetivos | newline_to_br}}</p>
+        <p><i>{{include.disciplina.objectives | newline_to_br}}</i></p>
+        
+        <h3>Docente(s) Responsável(eis)</h3>
+        
+        <ul>
+        {%for docente in include.disciplina.docentes %}
+          <li>{{docente}}</li>
+        {%endfor%}
+      </ul>
+        
+        <h3>Programa resumido</h3>
+        
+          <p>{{include.disciplina.resumo | newline_to_br}}</p>
+          <p><i>{{include.disciplina.abstract | newline_to_br}}</i></p>
+          
+          <h3>Programa</h3>
+          
+            <p>{{include.disciplina.programa | newline_to_br}}</p>
+            <p><i>{{include.disciplina.program | newline_to_br}}</i></p>
+            
+          <h3>Avaliação</h3>
+          <ul>
+            <li><b>Método:</b> {{include.disciplina.metodo | newline_to_br}}</li>
+            <li><b>Critério:</b> {{include.disciplina.criterio | newline_to_br}}</li>
+            <li><b>Norma de recuperação:</b> {{include.disciplina.exame | newline_to_br}}</li>
+          </ul>
+          
+          <h3>Bibliografia</h3>
+          
+          <p>{{include.disciplina.bibliografia | newline_to_br}}</p>
+          
+          {% if include.disciplina.requisitos %}
+          
+            <h3>Requisitos</h3>
+            <ul>
+              {%for requisito in include.disciplina.requisitos %}
+              <li>{{requisito.sigla}}: {{requisito.nome}} ({{requisito.tipo}})</li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+        
+      </div>
+      <div class="modal-footer">
+        <a type="button" class="btn btn-primary" href='{{include.disciplina.link}}' target='_blank'>Ver no Jupiter</a>
+        <a type="button" class="btn btn-primary" href='{{site.baseurl}}/{{include.curso}}/{{include.disciplina.sigla | downcase}}.pdf' target='_blank'>Salvar em pdf</a>
+        <a type="button" class="btn btn-primary" href='{{site.baseurl}}/{{include.curso}}/{{include.disciplina.sigla | downcase}}.docx' target='_blank'>Salvar em docx</a>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+      </div>
+    </div>
+  </div>
+</div>
