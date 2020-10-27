@@ -67,3 +67,28 @@ page_gen:
   template: 'disciplina-page'
   name: 'sigla'
   dir: 'EM'
+
+- data: 'EA'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EA'
+
+- data: 'EB'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EB'
+
+- data: 'EP'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EP'
+
+- data: 'EQD'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EQD'
+
+- data: 'EQN'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EQN'
