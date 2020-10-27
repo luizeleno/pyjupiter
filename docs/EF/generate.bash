@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-for x in `ls ../_site/EF/*.html`
+for x in `ls ../docs/EF/*.html`
 do
   
   y=`basename $x .html`
