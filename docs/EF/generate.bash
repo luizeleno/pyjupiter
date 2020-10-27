@@ -6,7 +6,7 @@ do
   y=`basename $x .html`
   
   echo $y
-  # wkhtmltopdf $x $y.pdf
+  wkhtmltopdf $x $y.pdf
   
   abiword --to=docx $y.pdf
 done
