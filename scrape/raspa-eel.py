@@ -17,7 +17,7 @@ for curso, codigo, hab in [EF, EM, EA, EB, EP, EQD, EQN]:
     f = open(f'../_data/{curso}.yml', 'w')
     rc.recursive_print_dict(dados, f)
     f.close()
-    
+
     f = open(f'{curso}.json', 'w')
     json.dump(dados, f)
     f.close()
