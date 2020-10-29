@@ -1,9 +1,10 @@
+import json
 import raspa_curso as rc
 
-EF = 'EF', '301', '0'
-EM = 'EM', '202', '0'
 EA = 'EA', '251', '0'
 EB = 'EB', '152', '0'
+EF = 'EF', '301', '0'
+EM = 'EM', '202', '0'
 EP = 'EP', '351', '4'
 EQD = 'EQD', '052', '1'
 EQN = 'EQN', '052', '4'
@@ -15,4 +16,8 @@ for curso, codigo, hab in [EF, EM, EA, EB, EP, EQD, EQN]:
     dados = rc.scrape_curso(URL)
     f = open(f'../_data/{curso}.yml', 'w')
     rc.recursive_print_dict(dados, f)
+    f.close()
+    
+    f = open(f'{curso}.json', 'w')
+    json.dump(dados, f)
     f.close()
