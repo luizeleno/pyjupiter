@@ -116,7 +116,7 @@ dd {
 /* the selector matches and external link (ie. starting with http),
 not including links to the current domain
 nor links with id="no-ext-link" */
-[href^="http"]:not([href*="demar.eel.usp.br"]):not([id*="no-ext-link"])::after {
+[href^="http"]:not([href*="computeel.org"]):not([id*="no-ext-link"])::after {
   content: '(external link)';
   display: inline-block;
   width: .7em;

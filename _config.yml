@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cursos de Graduação da EEL
+title: PyJupiter
 email: luizeleno@usp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Raspagem dos cursos da EEL-USP no  Júpiter
@@ -28,9 +28,9 @@ twitter_username:
 github_username:  
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-datapage-generator
 
 # location of built site:
