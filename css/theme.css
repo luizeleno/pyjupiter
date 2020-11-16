@@ -124,7 +124,7 @@ nor links with id="no-ext-link" */
   text-indent: .7em;
   white-space: nowrap;
   overflow: hidden;
-  background-image: url(//143.107.119.5/novo/assets/images/clipart/Icon_External_Link.svg);
+  background-image: url(//pyjupiter/assets/images/clipart/Icon_External_Link.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -157,3 +157,4 @@ hr.top-color-bar {
   object-fit: cover;
   overflow: hidden;
 }
+'
