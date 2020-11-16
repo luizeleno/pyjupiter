@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Jupiter-scrap :: Cursos de graduação da EEL</title>
+  <title>Cursos de Graduação da EEL :: Cursos de Graduação da EEL-USP</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
@@ -22,38 +22,120 @@
 </head>
 
 <body>
+  
+<div class="fixed-top">
+
+<nav class="navbar navbar-expand-xl navbar-dark bg-dark py-0 my-0">
+
+<a class="navbar-brand" href="/pyjupiter/">
+  <img src="/pyjupiter/assets/images/logos/eel-logo.png" height="30px" title=" — /">
+  <span data-toggle="tooltip" data-placement="bottom" title=" — /">
+    Cursos de Graduação da EEL
+  </span>
+</a>
+
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+    <ul class="navbar-nav mr-auto">
+      
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              O Projeto
+            </a>
+            <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
+              
+                  <a class="dropdown-item text-light bg-dark" href="/pyjupiter/sobre/">Sobre o projeto</a>
+              
+                  <a class="dropdown-item text-light bg-dark" href="/pyjupiter/equipe/">Equipe</a>
+              
+            </div>
+          </li>
+        
+      
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Cursos
+            </a>
+            <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
+              
+                  <a class="dropdown-item text-light bg-dark" href="/pyjupiter/grade-ea/">Engenharia Ambiental (EA)</a>
+              
+                  <a class="dropdown-item text-light bg-dark" href="/pyjupiter/grade-eb/">Engenharia Bioquímica (EB)</a>
+              
+                  <a class="dropdown-item text-light bg-dark" href="/pyjupiter/grade-ep/">Engenharia de Produção (EP)</a>
+              
+                  <a class="dropdown-item text-light bg-dark" href="/pyjupiter/grade-em/">Engenharia de Materiais (EM)</a>
+              
+                  <a class="dropdown-item text-light bg-dark" href="/pyjupiter/grade-ef/">Engenharia Física (EF)</a>
+              
+                  <a class="dropdown-item text-light bg-dark" href="/pyjupiter/grade-eqd/">Engenharia Química - diurno (EQD)</a>
+              
+                  <a class="dropdown-item text-light bg-dark" href="/pyjupiter/grade-eqn/">Engenharia Química - noturno (EQN)</a>
+              
+            </div>
+          </li>
+        
+      
+    </ul>
+
+    <!-- <div class="my-2 mr-2 my-lg-0">
+      <a id="no-ext-link" href="https://www5.usp.br/" title="Universidade de São Paulo - USP" target="_blank"><img src="/pyjupiter/assets/images/logos/usp-2018-logo.png" height="30px"></a>
+    </div>
+
+    <div class="my-2 mr-4 my-lg-0">
+      <a id="no-ext-link" href="https://site.eel.usp.br/" title="Escola de Engenharia de Lorena - EEL" target="_blank"><img src="/pyjupiter/assets/images/logos/logo_eel_2017.png" height="30px"></a>
+    </div> -->
+
+  </div>
+
+</nav>
+
+  <hr class="top-color-bar" style="background-color:#fcb421;">
+  <hr class="top-color-bar" style="background-color:#64c4d2;">
+  <hr class="top-color-bar" style="background-color:#1094ab;">
+
+</div>
 
 
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <div class="well">
-<h1>Cursos de graduação da EEL</h1>
+<h1 class="alert alert-dark">Cursos de Graduação da EEL-USP</h1>
 <hr>
-<ul>
-  <li><a href="/pyjupiter/grade-ea">Engenharia Ambiental (EA)</a></li>
-  <li><a href="/pyjupiter/grade-eb">Engenharia Bioquímica (EB)</a></li>
-  <li><a href="/pyjupiter/grade-ep">Engenharia de Produção (EP)</a></li>
-  <li><a href="/pyjupiter/grade-em">Engenharia de Materiais (EM)</a></li>
-  <li><a href="/pyjupiter/grade-ef">Engenharia Física (EF)</a></li>
-  <li><a href="/pyjupiter/grade-eqn">Engenharia Química - diurno (EQD)</a></li>
-  <li><a href="/pyjupiter/grade-eqn">Engenharia Química - noturno (EQN)</a></li>
-</ul>
+<p class="lead"><strong>Pyjupiter:</strong> simplificando o Júpiter da USP usando raspagem de páginas (<em>webscraping</em>)</p>
+
+<div class="text-center">
+<div class="col-md-2 float-md-right mx-2 my-2">
+<a id="no-ext-link" href="https://github.com/luizeleno/pyjupiter" target="_blank">
+<img class="figure-img img-fluid rounded w-100 mx-auto" src="/pyjupiter/assets/images/logos/github.png">
+Código no Github
+</a>
+</div>
+</div>
+
+<p>Há muito tempo o <a href="https://uspdigital.usp.br/jupiterweb/" target="_blank">Sistema Júpiter</a> da <a href="https://www5.usp.br/" target="_blank">Universidade de São Paulo</a> (USP) merece melhorias; no entanto, não as recebe, e não sabemos bem o porquê. A atualização do antigo sistema <code class="language-plaintext highlighter-rouge">uspdigital</code> para o novo <a href="https://portalservicos.usp.br/" target="_blank">Portal de Serviços</a> foi um banho de água fria para aqueles com alguma esperança de mudanças reais, pois recebemos apenas uma nova <a href="https://pt.wikipedia.org/wiki/Carenagem" target="_blank">carenagem</a> num carro cujo motor ainda é o da internet 1.0.</p>
+
+<p>O projeto <a href="https://github.com/luizeleno/pyjupiter" target="_blank">pyjupiter</a> surgiu para tentar contornar a situação. Aproveitando a eficiência, motivação e proatividade do alunos do curso de <a href="http://www.demar.eel.usp.br/grad/" target="_blank">Engenharia Física</a> do <a href="http://www.demar.eel.usp.br/" target="_blank">Departamento de Engenharia de Materiais</a> da <a href="https://site.eel.usp.br/" target="_blank">Escola de Engenharia de Lorena</a> da <a href="https://www5.usp.br/" target="_blank">Universidade de São Paulo</a> (EEL-USP), usamos <strong>modernas técnicas de <em>webscraping</em> em python</strong> para extrair os dados do Sistema Júpiter.</p>
+
+<h2 class="alert alert-success" id="bulb-como-usar-acesse-os-cursos-da-eel-usando-o-menu-no-topo-da-página">
+<img class="emoji" title=":bulb:" alt=":bulb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png" height="20" width="20"> <strong>Como usar:</strong> acesse os cursos da EEL usando o menu no topo da página</h2>
+
+<p>Por enquanto, extraímos apenas dados das disciplinas da EEL, ainda sem informações de turmas, horários, número de vagas e professores ministrantes. Já conseguimos gerar as ementas de todas as nossas disciplinas em arquivos pdf e docx, o que pode auxiliar também na reformulação dessas ementas visando as novas DCNs.</p>
+
+<p>Para o futuro, o plano é estender a raspagem para mais detalhes dos cursos e disciplinas, além de, ainda mais adiante, montar uma plataforma para a criação de grades horárias pela Comissão de Graduação da EEL. É um plano de longo prazo, com trabalho “da meia-noite às seis” a ser feito pela <a href="/pyjupiter/equipe/">equipe</a> de voluntários e alunos de conclusão de curso que se interessarem pelo projeto.</p>
 
 </div>
 
       </div>
     </div>
   </div>
-
-<!-- <footer class="footer navbar-dark bg-dark">
-    © 2020 .
-    Contact: <a href="mailto:luizeleno@usp.br">luizeleno@usp.br</a>.
-    Powered by <a href="http://jekyllrb.com" id="no-ext-link">Jekyll</a> and <a href="https://pages.github.com/" id="no-ext-link">Github pages</a>.
-    <a href="https://github.com/scotte/jekyll-clean" id="no-ext-link">Original theme</a>
-    under
-    <a href="http://creativecommons.org/licenses/by/4.0/" id="no-ext-link">Creative Commons Attribution</a>
-</footer>
 
 </body>
 </html>

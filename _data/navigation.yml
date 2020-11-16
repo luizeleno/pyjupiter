@@ -1,0 +1,23 @@
+pages:
+  - title: O Projeto
+    sublinks:
+      - title: Sobre o projeto
+        url: /sobre/
+      - title: Equipe
+        url: /equipe/
+  - title: Cursos
+    sublinks:
+      - title: Engenharia Ambiental (EA)
+        url: /grade-ea/
+      - title: Engenharia Bioquímica (EB)
+        url: /grade-eb/
+      - title: Engenharia de Produção (EP)
+        url: /grade-ep/
+      - title: Engenharia de Materiais (EM)
+        url: /grade-em/
+      - title: Engenharia Física (EF)
+        url: /grade-ef/
+      - title: Engenharia Química - diurno (EQD)
+        url: /grade-eqd/
+      - title: Engenharia Química - noturno (EQN)
+        url: /grade-eqn/

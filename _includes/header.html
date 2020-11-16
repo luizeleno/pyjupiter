@@ -1,1 +1,57 @@
 <body>
+  
+<div class="fixed-top">
+
+<nav class="navbar navbar-expand-xl navbar-dark bg-dark py-0 my-0">
+
+<a class="navbar-brand" href="{{site.baseurl}}/">
+  <img src="{{site.baseurl}}/assets/images/logos/eel-logo.png" height="30px" title="{{site.name}} &mdash; {{site.unidade.sigla}}/{{site.universidade.sigla}}">
+  <span data-toggle="tooltip" data-placement="bottom" title="{{site.name}} &mdash; {{site.unidade.sigla}}/{{site.universidade.sigla}}">
+    {{site.title}}
+  </span>
+</a>
+
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+    <ul class="navbar-nav mr-auto">
+      {% for item in site.data.navigation.pages %}
+        {% if item.sublinks == nil %}
+          <li class="nav-item">
+              <a class="nav-link" href="{{site.baseurl }}{{ item.url }}">{{ item.title}}{{item.sublinks.size}}</a>
+          </li>
+        {% else %}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              {{ item.title}}
+            </a>
+            <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
+              {% for subitem in item.sublinks %}
+                  <a class="dropdown-item text-light bg-dark" href="{{site.baseurl}}{{ subitem.url }}">{{ subitem.title }}</a>
+              {% endfor%}
+            </div>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    <!-- <div class="my-2 mr-2 my-lg-0">
+      <a id="no-ext-link" href="https://www5.usp.br/" title="Universidade de São Paulo - USP" target="_blank"><img src="{{site.baseurl}}/assets/images/logos/usp-2018-logo.png" height="30px"></a>
+    </div>
+
+    <div class="my-2 mr-4 my-lg-0">
+      <a id="no-ext-link" href="https://site.eel.usp.br/" title="Escola de Engenharia de Lorena - EEL" target="_blank"><img src="{{site.baseurl}}/assets/images/logos/logo_eel_2017.png" height="30px"></a>
+    </div> -->
+
+  </div>
+
+</nav>
+
+  <hr class="top-color-bar" style="background-color:#fcb421;">
+  <hr class="top-color-bar" style="background-color:#64c4d2;">
+  <hr class="top-color-bar" style="background-color:#1094ab;">
+
+</div>
