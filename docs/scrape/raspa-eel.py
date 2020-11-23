@@ -14,10 +14,8 @@ for curso, codigo, hab in [EF, EM, EA, EB, EP, EQD, EQN]:
     print(URL)
 
     dados = rc.scrape_curso(URL)
-    f = open(f'../_data/{curso}.yml', 'w')
-    rc.recursive_print_dict(dados, f)
-    f.close()
+    with open(f'../_data/{curso}.yml', 'w') as f:
+        rc.recursive_print_dict(dados, f)
 
-    f = open(f'{curso}.json', 'w')
-    json.dump(dados, f)
-    f.close()
+    with open(f'{curso}.json', 'w') as f:
+        json.dump(dados, f)

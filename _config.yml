@@ -29,9 +29,9 @@ github_username:
 
 # Build settings
 #theme: minima
-plugins:
+# plugins:
 #  - jekyll-feed
-  - jekyll-datapage-generator
+  #- jekyll-datapage-generator
 
 # location of built site:
 destination: docs/ #docs/
