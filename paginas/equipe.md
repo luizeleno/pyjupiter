@@ -13,3 +13,8 @@ Caio Pages
 
 Camila Abrantes
 : Aluna do último ano de Engenharia Física. Criação de uma plataforma para atribuição de carga horária pelas chefias de departamento.
+
+---
+
+:satellite: Estamos sempre em busca de mais gente pra contribuir. Se tiver interesse em trabalhar no Projeto PyJupiter, mande um email (ver o rodapé da página)!
+{: .alert .alert-success}
