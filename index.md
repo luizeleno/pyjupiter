@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cursos de Graduação da EEL-USP
+title: Projeto PyJupiter
 ---
 
 **Pyjupiter:** simplificando o Júpiter da USP usando raspagem de páginas (_webscraping_) 

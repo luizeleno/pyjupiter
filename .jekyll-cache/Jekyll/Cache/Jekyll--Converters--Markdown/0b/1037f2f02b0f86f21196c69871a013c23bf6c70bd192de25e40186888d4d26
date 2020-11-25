@@ -1,4 +1,4 @@
-I"�<p class="lead">Simplificando o Júpiter da USP usando raspagem de páginas (<em>webscraping</em>)</p>
+I"1<p class="lead">Simplificando o Júpiter da USP usando raspagem de páginas (<em>webscraping</em>)</p>
 
 <div class="col-md-4 float-md-right mx-2 my-2">
 <blockquote class="blockquote text-right">
@@ -23,4 +23,6 @@
 </div>
 
 <p>O <strong>Projeto PyJupiter</strong> foi criado pensando em facilitar a vida dos docentes e coordenadores de cursos (e também dos alunos, que passam a ter uma plataforma mais amigável de consulta de dados das disciplinas de seus e de outros cursos) da EEL/USP. As disciplinas de todos os cursos estão aqui e seus dados podem ser exportados em formato <code class="language-plaintext highlighter-rouge">pdf</code>, <code class="language-plaintext highlighter-rouge">docx</code> e <code class="language-plaintext highlighter-rouge">xlsx</code>. Com o tempo, acrescentaremos mais funcionalidades ao projeto de modo a torná-lo cada vez mais útil a docentes e alunos da EEL.</p>
+
+<p class="alert alert-warning">:heavy_exclamation_mark: O conteúdo aqui encontrado é independente da Universidade de São Paulo e de responsabilidade exclusiva dos desenvolvedores do <strong>Projeto PyJupiter</strong>. Todos os dados empregados são de acesso público e encontrados no <a href="https://portalservicos.usp.br/" target="_blank">Portal de Serviços da USP</a>.</p>
 :ET
