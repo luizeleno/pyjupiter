@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Equipe jupiter
+title: Equipe PyJupiter
 permalink: /equipe/
 ---
 
