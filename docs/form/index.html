@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>PyJupiter :: About</title>
+  <title>PyJupiter :: Formulário</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
@@ -18,6 +18,30 @@
 
   <link type="text/css" rel="stylesheet" href="/pyjupiter/js/lightslider/css/lightslider.css" />
   <script src="/pyjupiter/js/lightslider/js/lightslider.js"></script>
+  
+  
+    <script
+	src="https://code.jquery.com/jquery-3.4.1.js"
+	integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+	crossorigin="anonymous">
+</script>
+<script>
+function SubForm (){
+	$.ajax({
+		url:"https://api.apispreadsheets.com/data/4129/",
+		type:"post",
+		data:$("#myForm").serializeArray(),
+		success: function(){
+			alert("Form Data Submitted :)")
+		},
+		error: function(){
+			alert("There was an error :(")
+		}
+	});
+}
+</script>
+
+  
 
 </head>
 
@@ -111,19 +135,33 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="well">
-<h1 class='alert bg-dark text-light'>About</h1>
+<h1 class='alert bg-dark text-light'>Formulário</h1>
 <hr>
 <div class="clearfix">
-<p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
-
-<p>You can find the source code for Minima at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/minima">minima</a></p>
-
-<p>You can find the source code for Jekyll at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
-
+<form id="myForm">
+	<label>docente</label>
+	<input name="docente" />
+	<br />
+	<label>sigla</label>
+	<input name="sigla" />
+	<br />
+	<label>nome</label>
+	<input name="nome" />
+	<br />
+	<label>nome_en</label>
+	<input name="nome_en" />
+	<br />
+	<label>CA</label>
+	<input name="CA" />
+	<br />
+	<label>CT</label>
+	<input name="CT" />
+	<br />
+	<label>CH</label>
+	<input name="CH" />
+	<br />
+</form>
+<p><button onclick="SubForm()">Submit</button></p>
 
 </div>
 </div>

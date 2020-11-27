@@ -18,5 +18,9 @@
 
   <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/js/lightslider/css/lightslider.css" />
   <script src="{{ site.baseurl }}/js/lightslider/js/lightslider.js"></script>
+  
+  {% if page.form %}
+    {% include form-script.html %}
+  {% endif %}
 
 </head>
