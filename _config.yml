@@ -26,6 +26,7 @@ baseurl: /pyjupiter # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
+google_analytics: G-J42QBMBTBB
 
 # Build settings
 #theme: minima
@@ -56,39 +57,39 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-page_gen:
-
-- data: 'EF'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EF'
-
-- data: 'EM'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EM'
-
-- data: 'EA'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EA'
-
-- data: 'EB'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EB'
-
-- data: 'EP'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EP'
-
-- data: 'EQD'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EQD'
-
-- data: 'EQN'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EQN'
+# page_gen:
+# 
+# - data: 'EF'
+#   template: 'disciplina-page'
+#   name: 'sigla'
+#   dir: 'EF'
+# 
+# - data: 'EM'
+#   template: 'disciplina-page'
+#   name: 'sigla'
+#   dir: 'EM'
+# 
+# - data: 'EA'
+#   template: 'disciplina-page'
+#   name: 'sigla'
+#   dir: 'EA'
+# 
+# - data: 'EB'
+#   template: 'disciplina-page'
+#   name: 'sigla'
+#   dir: 'EB'
+# 
+# - data: 'EP'
+#   template: 'disciplina-page'
+#   name: 'sigla'
+#   dir: 'EP'
+# 
+# - data: 'EQD'
+#   template: 'disciplina-page'
+#   name: 'sigla'
+#   dir: 'EQD'
+# 
+# - data: 'EQN'
+#   template: 'disciplina-page'
+#   name: 'sigla'
+#   dir: 'EQN'

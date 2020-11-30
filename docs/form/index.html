@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
+<head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J42QBMBTBB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J42QBMBTBB');
+</script>
+<meta charset="utf-8">
   <title>PyJupiter :: Formulário</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,30 +27,6 @@
   <link type="text/css" rel="stylesheet" href="/pyjupiter/js/lightslider/css/lightslider.css" />
   <script src="/pyjupiter/js/lightslider/js/lightslider.js"></script>
   
-  
-    <script
-	src="https://code.jquery.com/jquery-3.4.1.js"
-	integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
-	crossorigin="anonymous">
-</script>
-<script>
-function SubForm (){
-	$.ajax({
-		url:"https://api.apispreadsheets.com/data/4129/",
-		type:"post",
-		data:$("#myForm").serializeArray(),
-		success: function(){
-			alert("Form Data Submitted :)")
-		},
-		error: function(){
-			alert("There was an error :(")
-		}
-	});
-}
-</script>
-
-  
-
 </head>
 
 <body>
@@ -139,29 +123,87 @@ function SubForm (){
 <hr>
 <div class="clearfix">
 <form id="myForm">
-	<label>docente</label>
-	<input name="docente" />
-	<br />
-	<label>sigla</label>
-	<input name="sigla" />
-	<br />
-	<label>nome</label>
-	<input name="nome" />
-	<br />
-	<label>nome_en</label>
-	<input name="nome_en" />
-	<br />
-	<label>CA</label>
-	<input name="CA" />
-	<br />
-	<label>CT</label>
-	<input name="CT" />
-	<br />
-	<label>CH</label>
-	<input name="CH" />
-	<br />
+
+<div class="form-group">
+
+  <h2>Dados do docente responsável</h2>
+
+    <label for="docente">Docente:</label>
+    <input class="form-control" type="text" name="docente" id="docente" required="" />
+    
+    <br />
+    
+    <label for="email">E-mail:</label>
+    <input class="form-control" name="email" id="email" type="email" required="" />
+
+    <hr />
+
+    <label>sigla</label>
+    <input name="sigla" />
+
+    <br />
+
+    <label>nome</label>
+    <input name="nome" />
+
+    <br />
+
+    <label>nome_en</label>
+    <input name="nome_en" />
+
+    <br />
+
+    <label>CA</label>
+    <input name="CA" />
+
+    <br />
+
+    <label>CT</label>
+    <input name="CT" />
+
+    <br />
+
+    <label>CH</label>
+    <input name="CH" />
+
+    <br />
+
+  </div>
+
+<button type="submit" class="btn btn-primary" id="validar">Validar</button>
+
 </form>
-<p><button onclick="SubForm()">Submit</button></p>
+
+<p><button type="button" class="btn btn-primary mt-2" onclick="SubForm()" id="enviar" disabled="">Enviar</button></p>
+
+<script>
+$("#validar").on("click", function() {
+  if ($('#enviar').prop('disabled'))
+    $('#enviar').prop("disabled", false);
+  else
+    $('#enviar').prop("disabled", true);
+});</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous">
+</script>
+
+<script>
+function SubForm (){
+	$.ajax({
+		url:"https://api.apispreadsheets.com/data/4129/",
+		type:"post",
+		data:$("#myForm").serializeArray(),
+		success: function(){
+			alert("Obrigado pela colaboração!")
+      $('#enviar').prop("disabled", true);
+		},
+		error: function(){
+			alert("There was an error :(")
+		}
+	});
+}
+</script>
+
 
 </div>
 </div>

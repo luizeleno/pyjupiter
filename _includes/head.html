@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+  
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {% include analytics.html %}
+  {%- endif -%}
+  
   <meta charset="utf-8">
   <title>{{ site.title }} :: {{page.title}}</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,8 +24,4 @@
   <link type="text/css" rel="stylesheet" href="{{ site.baseurl }}/js/lightslider/css/lightslider.css" />
   <script src="{{ site.baseurl }}/js/lightslider/js/lightslider.js"></script>
   
-  {% if page.form %}
-    {% include form-script.html %}
-  {% endif %}
-
 </head>
