@@ -1,19 +1,27 @@
 import pandas
 import os
 import xlsxwriter
+import row_counter as rc
+# from googletrans import Translator
+# translator = Translator()
 
-
-def rows():
-    n = 0
-    while True:
-        yield n
-        n += 1
 
 def write(df, field):
     return f'{df[field]}'
 
 
+def traduzir(texto):
+    # try:
+        # result = translator.translate(texto)
+        # trans = result.text
+    # except:
+        # print('##Aviso: não foi possível traduzir. Deixando em branco')
+        # transl = ''
+    return ''  # transl
+
+
 cursos = ['EA', 'EB', 'EF', 'EM', 'EP', 'EQD', 'EQN']
+#cursos = ['EF']
 
 for curso in cursos:
 
@@ -25,7 +33,7 @@ for curso in cursos:
 
     for index, discpln in df.iterrows():
 
-        row = rows()
+        row = rc.rows()
 
         print(f'{discpln["sigla"]} - {discpln["nome"]}')
 
@@ -63,9 +71,20 @@ for curso in cursos:
         worksheet.write(r, 2, write(discpln, 'nome'))
 
         r = next(row)
-        worksheet.write(r, 0, 'Name:')
-        worksheet.write(r, 1, write(discpln, 'nome_en'))
-        worksheet.write(r, 2, write(discpln, 'nome_en'))
+        # worksheet.write(r, 0, 'Name:')
+        # worksheet.write(r, 1, write(discpln, 'nome_en'))
+        # worksheet.write(r, 2, write(discpln, 'nome_en'))
+        
+        if discpln['nome_en']:
+            worksheet.write(r, 0, 'Name:')
+            worksheet.write(r, 1, write(discpln, 'nome_en'))
+            worksheet.write(r, 2, write(discpln, 'nome_en'))
+        else:
+            text = traduzir(discpln['nome'])
+            # worksheet.write(r, 0, 'Name (Google Translator):')
+            worksheet.write(r, 0, 'Name:')
+            worksheet.write(r, 1, text)
+            worksheet.write(r, 2, text)
 
         r = next(row)
         worksheet.write(r, 0, 'Créditos-aula:')
@@ -100,18 +119,28 @@ for curso in cursos:
 
         r = next(row)
         worksheet.set_row(r, 60)
-        worksheet.write(r, 0, 'Objectives:')
-        worksheet.write(r, 1, write(discpln, 'objectives'))
-        worksheet.write(r, 2, write(discpln, 'objectives'))
+        # worksheet.write(r, 0, 'Objectives:')
+        # worksheet.write(r, 1, write(discpln, 'objectives'))
+        
+        if discpln['objectives']:
+            worksheet.write(r, 0, 'Objectives:')
+            worksheet.write(r, 1, write(discpln, 'objectives'))
+            worksheet.write(r, 2, write(discpln, 'objectives'))
+        else:
+            text = traduzir(discpln['objetivos'])
+            # worksheet.write(r, 0, 'Objectives (Google Translator):')
+            worksheet.write(r, 0, 'Objectives:')
+            worksheet.write(r, 1, text)
+            worksheet.write(r, 2, text)
 
         ndoc = discpln['ndoc']
         if ndoc:
             r = next(row)
             worksheet.write(r, 0, 'Docentes responsáveis:')
-            for i in range(ndoc):
+            for doc in discpln["docentes"]:
                 r = next(row)
-                worksheet.write(r, 1, f'{discpln["docentes"][i]}')
-                worksheet.write(r, 2, f'{discpln["docentes"][i]}')
+                worksheet.write(r, 1, doc)
+                worksheet.write(r, 2, doc)
 
         r = next(row)
         worksheet.set_row(r, 60)
@@ -121,9 +150,20 @@ for curso in cursos:
 
         r = next(row)
         worksheet.set_row(r, 60)
-        worksheet.write(r, 0, 'Short syllabus:')
-        worksheet.write(r, 1, write(discpln, 'abstract'))
-        worksheet.write(r, 2, write(discpln, 'abstract'))
+        # worksheet.write(r, 0, 'Short syllabus:')
+        # worksheet.write(r, 1, write(discpln, 'abstract'))
+        # worksheet.write(r, 2, write(discpln, 'abstract'))
+
+        if discpln['abstract']:
+            worksheet.write(r, 0, 'Short syllabus:')
+            worksheet.write(r, 1, write(discpln, 'abstract'))
+            worksheet.write(r, 2, write(discpln, 'abstract'))
+        else:
+            text = traduzir(discpln['resumo'])
+            # worksheet.write(r, 0, 'Short syllabus (Google Translator):')
+            worksheet.write(r, 0, 'Short syllabus:')
+            worksheet.write(r, 1, text)
+            worksheet.write(r, 2, text)
 
         r = next(row)
         worksheet.set_row(r, 120)
@@ -133,9 +173,20 @@ for curso in cursos:
 
         r = next(row)
         worksheet.set_row(r, 120)
-        worksheet.write(r, 0, 'Syllabus:')
-        worksheet.write(r, 1, write(discpln, 'program'))
-        worksheet.write(r, 2, write(discpln, 'program'))
+        # worksheet.write(r, 0, 'Syllabus:')
+        # worksheet.write(r, 1, write(discpln, 'program'))
+        # worksheet.write(r, 2, write(discpln, 'program'))
+
+        if discpln['program']:
+            worksheet.write(r, 0, 'Syllabus:')
+            worksheet.write(r, 1, write(discpln, 'program'))
+            worksheet.write(r, 2, write(discpln, 'program'))
+        else:
+            text = traduzir(discpln['program'])
+            # worksheet.write(r, 0, 'Syllabus (Google Translator):')
+            worksheet.write(r, 0, 'Syllabus:')
+            worksheet.write(r, 1, text)
+            worksheet.write(r, 2, text)
 
         r = next(row)
         worksheet.write(r, 0, 'Avaliação:')
