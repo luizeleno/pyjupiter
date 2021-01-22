@@ -15,7 +15,7 @@ for curso in cursos:
         os.mkdir(f'../{curso}')
     except FileExistsError:
         pass
-    docname = f'../{curso}/docentes-{curso}.xlsx'
+    docname = f'../assets/cursos/{curso}/docentes-{curso}.xlsx'
     
     workbook = xlsxwriter.Workbook(docname)
     worksheet = workbook.add_worksheet(f'{curso}')

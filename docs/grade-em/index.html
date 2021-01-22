@@ -1,16 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head><!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J42QBMBTBB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-J42QBMBTBB');
-</script>
-<meta charset="utf-8">
+<head><meta charset="utf-8">
   <title>PyJupiter :: Engenharia de Materiais (EM)</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -104,9 +95,15 @@
       <a id="no-ext-link" href="https://site.eel.usp.br/" title="Escola de Engenharia de Lorena - EEL" target="_blank"><img src="/pyjupiter/assets/images/logos/logo_eel_2017.png" height="30px"></a>
     </div> -->
 
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-0 mr-sm-2" type="search" placeholder="Buscar disciplina..." aria-label="Search" id="search-input">
+    </form>
+
   </div>
 
 </nav>
+
+  <ul id="results-container" class="list-group"></ul>
 
   <hr class="top-color-bar" style="background-color:#fcb421;">
   <hr class="top-color-bar" style="background-color:#64c4d2;">
@@ -9025,8 +9022,21 @@ LOT2030
     </div>
   </div>
 
+<!-- Script pointing to search-script.js -->
+<script src="/pyjupiter/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/pyjupiter/search/search.json',
+  searchResultTemplate: '<li class="list-group-item list-group-item-action"><a class="stretched-link" href="{url}">{title} -{nome}</a></li>'
+})
+</script>
+
 <footer class="footer navbar-dark bg-dark">
-    © 2020 .
+    © 2021 .
     Contato: <a href="mailto:luizeleno@usp.br">luizeleno@usp.br</a>.
     Powered by <a href="http://jekyllrb.com" id="no-ext-link">Jekyll</a> and <a href="https://pages.github.com/" id="no-ext-link">Github pages</a>.
     <a href="https://github.com/scotte/jekyll-clean" id="no-ext-link">Original theme</a>

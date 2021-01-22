@@ -21,7 +21,7 @@ for curso in cursos:
             os.mkdir(f'../{curso}')
         except  FileExistsError:
             pass
-        docname = f'../{curso}/{discpln["sigla"]}.docx'
+        docname = f'../assets/cursos/{curso}/{discpln["sigla"]}.docx'
 
         doc.add_heading(f'{discpln["sigla"]} - {discpln["nome"]}')
         doc.add_heading(f'{discpln["nome_en"]}', level=3)

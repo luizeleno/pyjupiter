@@ -30,9 +30,10 @@ google_analytics: G-J42QBMBTBB
 
 # Build settings
 #theme: minima
-# plugins:
+
+plugins:
 #  - jekyll-feed
-  #- jekyll-datapage-generator
+  - jekyll-datapage-generator
 
 # location of built site:
 destination: docs/ #docs/
@@ -57,39 +58,42 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# page_gen:
-# 
-# - data: 'EF'
-#   template: 'disciplina-page'
-#   name: 'sigla'
-#   dir: 'EF'
-# 
-# - data: 'EM'
-#   template: 'disciplina-page'
-#   name: 'sigla'
-#   dir: 'EM'
-# 
-# - data: 'EA'
-#   template: 'disciplina-page'
-#   name: 'sigla'
-#   dir: 'EA'
-# 
-# - data: 'EB'
-#   template: 'disciplina-page'
-#   name: 'sigla'
-#   dir: 'EB'
-# 
-# - data: 'EP'
-#   template: 'disciplina-page'
-#   name: 'sigla'
-#   dir: 'EP'
-# 
-# - data: 'EQD'
-#   template: 'disciplina-page'
-#   name: 'sigla'
-#   dir: 'EQD'
-# 
-# - data: 'EQN'
-#   template: 'disciplina-page'
-#   name: 'sigla'
-#   dir: 'EQN'
+gems: 
+- jekyll-octicons
+
+page_gen:
+
+- data: 'EF'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EF'
+
+- data: 'EM'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EM'
+
+- data: 'EA'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EA'
+
+- data: 'EB'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EB'
+
+- data: 'EP'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EP'
+
+- data: 'EQD'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EQD'
+
+- data: 'EQN'
+  template: 'disciplina-page'
+  name: 'sigla'
+  dir: 'EQN'

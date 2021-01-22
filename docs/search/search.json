@@ -1,0 +1,3821 @@
+
+
+[
+  
+    {
+      "title"    : "LOB1003",
+      "url"      : "/pyjupiter/EF/lob1003.html",
+      "nome"     : " Cálculo I"
+    } ,
+  
+    {
+      "title"    : "LOB1018",
+      "url"      : "/pyjupiter/EF/lob1018.html",
+      "nome"     : " Física I"
+    } ,
+  
+    {
+      "title"    : "LOB1036",
+      "url"      : "/pyjupiter/EF/lob1036.html",
+      "nome"     : " Geometria Analítica"
+    } ,
+  
+    {
+      "title"    : "LOB1038",
+      "url"      : "/pyjupiter/EF/lob1038.html",
+      "nome"     : " Física Experimental I"
+    } ,
+  
+    {
+      "title"    : "LOM3218",
+      "url"      : "/pyjupiter/EF/lom3218.html",
+      "nome"     : " Introdução à Engenharia Física"
+    } ,
+  
+    {
+      "title"    : "LOM3258",
+      "url"      : "/pyjupiter/EF/lom3258.html",
+      "nome"     : " Introdução à Eletrônica e Computação Física"
+    } ,
+  
+    {
+      "title"    : "LOQ4031",
+      "url"      : "/pyjupiter/EF/loq4031.html",
+      "nome"     : " Química Geral I"
+    } ,
+  
+    {
+      "title"    : "LOB1004",
+      "url"      : "/pyjupiter/EF/lob1004.html",
+      "nome"     : " Cálculo II"
+    } ,
+  
+    {
+      "title"    : "LOB1019",
+      "url"      : "/pyjupiter/EF/lob1019.html",
+      "nome"     : " Física II"
+    } ,
+  
+    {
+      "title"    : "LOB1037",
+      "url"      : "/pyjupiter/EF/lob1037.html",
+      "nome"     : " Àlgebra Linear"
+    } ,
+  
+    {
+      "title"    : "LOB1041",
+      "url"      : "/pyjupiter/EF/lob1041.html",
+      "nome"     : " Física Experimental II"
+    } ,
+  
+    {
+      "title"    : "LOB1045",
+      "url"      : "/pyjupiter/EF/lob1045.html",
+      "nome"     : " Leitura e Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOM3204",
+      "url"      : "/pyjupiter/EF/lom3204.html",
+      "nome"     : " Desenho Técnico e Projeto Assistido por Computador"
+    } ,
+  
+    {
+      "title"    : "LOM3240",
+      "url"      : "/pyjupiter/EF/lom3240.html",
+      "nome"     : " Química Inorgânica Fundamental e Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOM3260",
+      "url"      : "/pyjupiter/EF/lom3260.html",
+      "nome"     : " Computação Científica em Python"
+    } ,
+  
+    {
+      "title"    : "LOQ4095",
+      "url"      : "/pyjupiter/EF/loq4095.html",
+      "nome"     : " Química Geral Experimental"
+    } ,
+  
+    {
+      "title"    : "LOB1006",
+      "url"      : "/pyjupiter/EF/lob1006.html",
+      "nome"     : " Cálculo IV"
+    } ,
+  
+    {
+      "title"    : "LOB1008",
+      "url"      : "/pyjupiter/EF/lob1008.html",
+      "nome"     : " Ciência, Tecnologia e Sociedade"
+    } ,
+  
+    {
+      "title"    : "LOB1039",
+      "url"      : "/pyjupiter/EF/lob1039.html",
+      "nome"     : " Física Experimental III"
+    } ,
+  
+    {
+      "title"    : "LOB1052",
+      "url"      : "/pyjupiter/EF/lob1052.html",
+      "nome"     : " Cálculo III"
+    } ,
+  
+    {
+      "title"    : "LOB1053",
+      "url"      : "/pyjupiter/EF/lob1053.html",
+      "nome"     : " Física III"
+    } ,
+  
+    {
+      "title"    : "LOM3016",
+      "url"      : "/pyjupiter/EF/lom3016.html",
+      "nome"     : " Introdução à  Ciência dos Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3236",
+      "url"      : "/pyjupiter/EF/lom3236.html",
+      "nome"     : " Processos de Fabricação"
+    } ,
+  
+    {
+      "title"    : "LOM3241",
+      "url"      : "/pyjupiter/EF/lom3241.html",
+      "nome"     : " Química de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3257",
+      "url"      : "/pyjupiter/EF/lom3257.html",
+      "nome"     : " Mecânica Clássica"
+    } ,
+  
+    {
+      "title"    : "LOB1012",
+      "url"      : "/pyjupiter/EF/lob1012.html",
+      "nome"     : " Estatística"
+    } ,
+  
+    {
+      "title"    : "LOB1021",
+      "url"      : "/pyjupiter/EF/lob1021.html",
+      "nome"     : " Física IV"
+    } ,
+  
+    {
+      "title"    : "LOB1042",
+      "url"      : "/pyjupiter/EF/lob1042.html",
+      "nome"     : " Física Experimental IV"
+    } ,
+  
+    {
+      "title"    : "LOM3081",
+      "url"      : "/pyjupiter/EF/lom3081.html",
+      "nome"     : " Introdução à Mecânica dos Sólidos"
+    } ,
+  
+    {
+      "title"    : "LOM3202",
+      "url"      : "/pyjupiter/EF/lom3202.html",
+      "nome"     : " Circuitos Elétricos"
+    } ,
+  
+    {
+      "title"    : "LOM3205",
+      "url"      : "/pyjupiter/EF/lom3205.html",
+      "nome"     : " Eletromagnetismo"
+    } ,
+  
+    {
+      "title"    : "LOM3253",
+      "url"      : "/pyjupiter/EF/lom3253.html",
+      "nome"     : " Física Matemática"
+    } ,
+  
+    {
+      "title"    : "LOM3254",
+      "url"      : "/pyjupiter/EF/lom3254.html",
+      "nome"     : " Laboratório de Circuitos Elétricos"
+    } ,
+  
+    {
+      "title"    : "LOM3049",
+      "url"      : "/pyjupiter/EF/lom3049.html",
+      "nome"     : " Termodinâmica de Máquinas"
+    } ,
+  
+    {
+      "title"    : "LOM3206",
+      "url"      : "/pyjupiter/EF/lom3206.html",
+      "nome"     : " Eletrônica"
+    } ,
+  
+    {
+      "title"    : "LOM3217",
+      "url"      : "/pyjupiter/EF/lom3217.html",
+      "nome"     : " Física Estatística"
+    } ,
+  
+    {
+      "title"    : "LOM3221",
+      "url"      : "/pyjupiter/EF/lom3221.html",
+      "nome"     : " Laboratório de Eletrônica"
+    } ,
+  
+    {
+      "title"    : "LOM3226",
+      "url"      : "/pyjupiter/EF/lom3226.html",
+      "nome"     : " Mecânica Quântica"
+    } ,
+  
+    {
+      "title"    : "LOM3227",
+      "url"      : "/pyjupiter/EF/lom3227.html",
+      "nome"     : " Métodos Computacionais da Física"
+    } ,
+  
+    {
+      "title"    : "LOM3228",
+      "url"      : "/pyjupiter/EF/lom3228.html",
+      "nome"     : " Métodos Experimentais da Física I"
+    } ,
+  
+    {
+      "title"    : "LOQ4234",
+      "url"      : "/pyjupiter/EF/loq4234.html",
+      "nome"     : " Empreendedorismo"
+    } ,
+  
+    {
+      "title"    : "LOM3212",
+      "url"      : "/pyjupiter/EF/lom3212.html",
+      "nome"     : " Fenômenos de Transporte A"
+    } ,
+  
+    {
+      "title"    : "LOM3215",
+      "url"      : "/pyjupiter/EF/lom3215.html",
+      "nome"     : " Física do Estado Sólido"
+    } ,
+  
+    {
+      "title"    : "LOM3229",
+      "url"      : "/pyjupiter/EF/lom3229.html",
+      "nome"     : " Métodos Experimentais da Física II"
+    } ,
+  
+    {
+      "title"    : "LOM3233",
+      "url"      : "/pyjupiter/EF/lom3233.html",
+      "nome"     : " Microprocessadores"
+    } ,
+  
+    {
+      "title"    : "LOM3234",
+      "url"      : "/pyjupiter/EF/lom3234.html",
+      "nome"     : " Óptica Física"
+    } ,
+  
+    {
+      "title"    : "LOM3238",
+      "url"      : "/pyjupiter/EF/lom3238.html",
+      "nome"     : " Projeto Integrado I"
+    } ,
+  
+    {
+      "title"    : "LOM3246",
+      "url"      : "/pyjupiter/EF/lom3246.html",
+      "nome"     : " Técnicas de Caracterização de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3095",
+      "url"      : "/pyjupiter/EF/lom3095.html",
+      "nome"     : " Tecnologias Limpas para Geração de Energia"
+    } ,
+  
+    {
+      "title"    : "LOM3203",
+      "url"      : "/pyjupiter/EF/lom3203.html",
+      "nome"     : " Controle e Automação"
+    } ,
+  
+    {
+      "title"    : "LOM3213",
+      "url"      : "/pyjupiter/EF/lom3213.html",
+      "nome"     : " Fenômenos de Transporte B"
+    } ,
+  
+    {
+      "title"    : "LOM3223",
+      "url"      : "/pyjupiter/EF/lom3223.html",
+      "nome"     : " Materiais e Dispositivos Magnéticos e Supercondutores"
+    } ,
+  
+    {
+      "title"    : "LOM3230",
+      "url"      : "/pyjupiter/EF/lom3230.html",
+      "nome"     : " Métodos Experimentais da Física III"
+    } ,
+  
+    {
+      "title"    : "LOQ4050",
+      "url"      : "/pyjupiter/EF/loq4050.html",
+      "nome"     : " Engenharia Econômica"
+    } ,
+  
+    {
+      "title"    : "LOQ4233",
+      "url"      : "/pyjupiter/EF/loq4233.html",
+      "nome"     : " Gestão de Negócios"
+    } ,
+  
+    {
+      "title"    : "LOM3231",
+      "url"      : "/pyjupiter/EF/lom3231.html",
+      "nome"     : " Métodos Experimentais da Física IV"
+    } ,
+  
+    {
+      "title"    : "LOM3239",
+      "url"      : "/pyjupiter/EF/lom3239.html",
+      "nome"     : " Projeto Integrado II"
+    } ,
+  
+    {
+      "title"    : "LOM3259",
+      "url"      : "/pyjupiter/EF/lom3259.html",
+      "nome"     : " Materiais e Dispositivos Eletrônicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4209",
+      "url"      : "/pyjupiter/EF/loq4209.html",
+      "nome"     : " Engenharia da Qualidade I"
+    } ,
+  
+    {
+      "title"    : "LOQ4250",
+      "url"      : "/pyjupiter/EF/loq4250.html",
+      "nome"     : " Fundamentos de Administração da Produção"
+    } ,
+  
+    {
+      "title"    : "LOB1010",
+      "url"      : "/pyjupiter/EF/lob1010.html",
+      "nome"     : " Direito  Aplicado à Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOB1031",
+      "url"      : "/pyjupiter/EF/lob1031.html",
+      "nome"     : " Psicologia Organizacional e do Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOM3243",
+      "url"      : "/pyjupiter/EF/lom3243.html",
+      "nome"     : " Seminários em Engenharia Física"
+    } ,
+  
+    {
+      "title"    : "LOM3250",
+      "url"      : "/pyjupiter/EF/lom3250.html",
+      "nome"     : " Trabalho de Graduação"
+    } ,
+  
+    {
+      "title"    : "LOM3210",
+      "url"      : "/pyjupiter/EF/lom3210.html",
+      "nome"     : " Estágio Supervisionado"
+    } ,
+  
+    {
+      "title"    : "LOM3255",
+      "url"      : "/pyjupiter/EF/lom3255.html",
+      "nome"     : " Introdução a Projetos de Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOM3207",
+      "url"      : "/pyjupiter/EF/lom3207.html",
+      "nome"     : " Eletrônica de Potência"
+    } ,
+  
+    {
+      "title"    : "LOM3208",
+      "url"      : "/pyjupiter/EF/lom3208.html",
+      "nome"     : " Eletroquímica"
+    } ,
+  
+    {
+      "title"    : "LOM3211",
+      "url"      : "/pyjupiter/EF/lom3211.html",
+      "nome"     : " Estruturas e Propriedades de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3225",
+      "url"      : "/pyjupiter/EF/lom3225.html",
+      "nome"     : " Materiais e Dispositivos Semicondutores"
+    } ,
+  
+    {
+      "title"    : "LOM3242",
+      "url"      : "/pyjupiter/EF/lom3242.html",
+      "nome"     : " Reologia"
+    } ,
+  
+    {
+      "title"    : "LOM3248",
+      "url"      : "/pyjupiter/EF/lom3248.html",
+      "nome"     : " Tópicos Especiais em Engenharia Física I"
+    } ,
+  
+    {
+      "title"    : "LOM3256",
+      "url"      : "/pyjupiter/EF/lom3256.html",
+      "nome"     : " Tópicos em Cálculo de Estrutura Eletrônica dos Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3201",
+      "url"      : "/pyjupiter/EF/lom3201.html",
+      "nome"     : " Biofísica Molecular"
+    } ,
+  
+    {
+      "title"    : "LOM3214",
+      "url"      : "/pyjupiter/EF/lom3214.html",
+      "nome"     : " Física de Superfícies"
+    } ,
+  
+    {
+      "title"    : "LOM3222",
+      "url"      : "/pyjupiter/EF/lom3222.html",
+      "nome"     : " Materiais e Dispositivos Dielétricos e Piezelétricos"
+    } ,
+  
+    {
+      "title"    : "LOM3235",
+      "url"      : "/pyjupiter/EF/lom3235.html",
+      "nome"     : " Processamento de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3244",
+      "url"      : "/pyjupiter/EF/lom3244.html",
+      "nome"     : " Sensores e Transdutores"
+    } ,
+  
+    {
+      "title"    : "LOM3249",
+      "url"      : "/pyjupiter/EF/lom3249.html",
+      "nome"     : " Tópicos Especiais em Engenharia Física II"
+    } ,
+  
+    {
+      "title"    : "LOM3219",
+      "url"      : "/pyjupiter/EF/lom3219.html",
+      "nome"     : " Introdução à Nanotecnologia"
+    } ,
+  
+    {
+      "title"    : "LOM3220",
+      "url"      : "/pyjupiter/EF/lom3220.html",
+      "nome"     : " Introdução à Spintrônica"
+    } ,
+  
+    {
+      "title"    : "LOM3224",
+      "url"      : "/pyjupiter/EF/lom3224.html",
+      "nome"     : " Materiais e Dispositivos Ópticos e Fotônicos"
+    } ,
+  
+    {
+      "title"    : "LOM3232",
+      "url"      : "/pyjupiter/EF/lom3232.html",
+      "nome"     : " Metrologia"
+    } ,
+  
+    {
+      "title"    : "LOM3245",
+      "url"      : "/pyjupiter/EF/lom3245.html",
+      "nome"     : " Técnicas Avançadas de Caracterização de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3247",
+      "url"      : "/pyjupiter/EF/lom3247.html",
+      "nome"     : " Técnicas de Análises Espectroscópicas"
+    } ,
+  
+    {
+      "title"    : "LOM3251",
+      "url"      : "/pyjupiter/EF/lom3251.html",
+      "nome"     : " Vibração e Acústica"
+    } ,
+  
+    {
+      "title"    : "LOB1003",
+      "url"      : "/pyjupiter/EM/lob1003.html",
+      "nome"     : " Cálculo I"
+    } ,
+  
+    {
+      "title"    : "LOB1018",
+      "url"      : "/pyjupiter/EM/lob1018.html",
+      "nome"     : " Física I"
+    } ,
+  
+    {
+      "title"    : "LOB1036",
+      "url"      : "/pyjupiter/EM/lob1036.html",
+      "nome"     : " Geometria Analítica"
+    } ,
+  
+    {
+      "title"    : "LOB1038",
+      "url"      : "/pyjupiter/EM/lob1038.html",
+      "nome"     : " Física Experimental I"
+    } ,
+  
+    {
+      "title"    : "LOB1045",
+      "url"      : "/pyjupiter/EM/lob1045.html",
+      "nome"     : " Leitura e Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOM3018",
+      "url"      : "/pyjupiter/EM/lom3018.html",
+      "nome"     : " Introdução à Engenharia de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3204",
+      "url"      : "/pyjupiter/EM/lom3204.html",
+      "nome"     : " Desenho Técnico e Projeto Assistido por Computador"
+    } ,
+  
+    {
+      "title"    : "LOQ4031",
+      "url"      : "/pyjupiter/EM/loq4031.html",
+      "nome"     : " Química Geral I"
+    } ,
+  
+    {
+      "title"    : "LOB1004",
+      "url"      : "/pyjupiter/EM/lob1004.html",
+      "nome"     : " Cálculo II"
+    } ,
+  
+    {
+      "title"    : "LOB1008",
+      "url"      : "/pyjupiter/EM/lob1008.html",
+      "nome"     : " Ciência, Tecnologia e Sociedade"
+    } ,
+  
+    {
+      "title"    : "LOB1019",
+      "url"      : "/pyjupiter/EM/lob1019.html",
+      "nome"     : " Física II"
+    } ,
+  
+    {
+      "title"    : "LOB1037",
+      "url"      : "/pyjupiter/EM/lob1037.html",
+      "nome"     : " Àlgebra Linear"
+    } ,
+  
+    {
+      "title"    : "LOB1041",
+      "url"      : "/pyjupiter/EM/lob1041.html",
+      "nome"     : " Física Experimental II"
+    } ,
+  
+    {
+      "title"    : "LOM3013",
+      "url"      : "/pyjupiter/EM/lom3013.html",
+      "nome"     : " Ciência dos Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3038",
+      "url"      : "/pyjupiter/EM/lom3038.html",
+      "nome"     : " Recursos Naturais"
+    } ,
+  
+    {
+      "title"    : "LOQ4073",
+      "url"      : "/pyjupiter/EM/loq4073.html",
+      "nome"     : " Química Geral II"
+    } ,
+  
+    {
+      "title"    : "LOQ4095",
+      "url"      : "/pyjupiter/EM/loq4095.html",
+      "nome"     : " Química Geral Experimental"
+    } ,
+  
+    {
+      "title"    : "LOB1012",
+      "url"      : "/pyjupiter/EM/lob1012.html",
+      "nome"     : " Estatística"
+    } ,
+  
+    {
+      "title"    : "LOB1039",
+      "url"      : "/pyjupiter/EM/lob1039.html",
+      "nome"     : " Física Experimental III"
+    } ,
+  
+    {
+      "title"    : "LOB1052",
+      "url"      : "/pyjupiter/EM/lob1052.html",
+      "nome"     : " Cálculo III"
+    } ,
+  
+    {
+      "title"    : "LOB1053",
+      "url"      : "/pyjupiter/EM/lob1053.html",
+      "nome"     : " Física III"
+    } ,
+  
+    {
+      "title"    : "LOB1056",
+      "url"      : "/pyjupiter/EM/lob1056.html",
+      "nome"     : " Introdução aos Métodos Numéricos e Computacionais"
+    } ,
+  
+    {
+      "title"    : "LOM3037",
+      "url"      : "/pyjupiter/EM/lom3037.html",
+      "nome"     : " Química Inorgânica"
+    } ,
+  
+    {
+      "title"    : "LOM3056",
+      "url"      : "/pyjupiter/EM/lom3056.html",
+      "nome"     : " Fundamentos de Química Orgânica"
+    } ,
+  
+    {
+      "title"    : "LOM3099",
+      "url"      : "/pyjupiter/EM/lom3099.html",
+      "nome"     : " Estática"
+    } ,
+  
+    {
+      "title"    : "LOB1006",
+      "url"      : "/pyjupiter/EM/lob1006.html",
+      "nome"     : " Cálculo IV"
+    } ,
+  
+    {
+      "title"    : "LOB1011",
+      "url"      : "/pyjupiter/EM/lob1011.html",
+      "nome"     : " Eletricidade Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOB1021",
+      "url"      : "/pyjupiter/EM/lob1021.html",
+      "nome"     : " Física IV"
+    } ,
+  
+    {
+      "title"    : "LOB1040",
+      "url"      : "/pyjupiter/EM/lob1040.html",
+      "nome"     : " Laboratório de Eletricidade"
+    } ,
+  
+    {
+      "title"    : "LOB1042",
+      "url"      : "/pyjupiter/EM/lob1042.html",
+      "nome"     : " Física Experimental IV"
+    } ,
+  
+    {
+      "title"    : "LOM3015",
+      "url"      : "/pyjupiter/EM/lom3015.html",
+      "nome"     : " Termodinâmica de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3047",
+      "url"      : "/pyjupiter/EM/lom3047.html",
+      "nome"     : " Técnicas de Análise Química"
+    } ,
+  
+    {
+      "title"    : "LOM3081",
+      "url"      : "/pyjupiter/EM/lom3081.html",
+      "nome"     : " Introdução à Mecânica dos Sólidos"
+    } ,
+  
+    {
+      "title"    : "LOM3003",
+      "url"      : "/pyjupiter/EM/lom3003.html",
+      "nome"     : " Cinética de Transformação em Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3005",
+      "url"      : "/pyjupiter/EM/lom3005.html",
+      "nome"     : " Diagrama de Fases"
+    } ,
+  
+    {
+      "title"    : "LOM3046",
+      "url"      : "/pyjupiter/EM/lom3046.html",
+      "nome"     : " Técnicas de Análise Microestrutural"
+    } ,
+  
+    {
+      "title"    : "LOM3057",
+      "url"      : "/pyjupiter/EM/lom3057.html",
+      "nome"     : " Introdução aos Materiais Poliméricos"
+    } ,
+  
+    {
+      "title"    : "LOM3071",
+      "url"      : "/pyjupiter/EM/lom3071.html",
+      "nome"     : " Tratamento de Minérios"
+    } ,
+  
+    {
+      "title"    : "LOM3082",
+      "url"      : "/pyjupiter/EM/lom3082.html",
+      "nome"     : " Cerâmica Física"
+    } ,
+  
+    {
+      "title"    : "LOM3085",
+      "url"      : "/pyjupiter/EM/lom3085.html",
+      "nome"     : " Laboratório de Engenharia de Materiais I"
+    } ,
+  
+    {
+      "title"    : "LOM3089",
+      "url"      : "/pyjupiter/EM/lom3089.html",
+      "nome"     : " Mecânica dos Fluidos e Reologia"
+    } ,
+  
+    {
+      "title"    : "LOM3011",
+      "url"      : "/pyjupiter/EM/lom3011.html",
+      "nome"     : " Ensaios Mecânicos"
+    } ,
+  
+    {
+      "title"    : "LOM3036",
+      "url"      : "/pyjupiter/EM/lom3036.html",
+      "nome"     : " Propriedades Mecânicas"
+    } ,
+  
+    {
+      "title"    : "LOM3049",
+      "url"      : "/pyjupiter/EM/lom3049.html",
+      "nome"     : " Termodinâmica de Máquinas"
+    } ,
+  
+    {
+      "title"    : "LOM3058",
+      "url"      : "/pyjupiter/EM/lom3058.html",
+      "nome"     : " Química de Polímeros"
+    } ,
+  
+    {
+      "title"    : "LOM3059",
+      "url"      : "/pyjupiter/EM/lom3059.html",
+      "nome"     : " Processamentos de Polímeros"
+    } ,
+  
+    {
+      "title"    : "LOM3072",
+      "url"      : "/pyjupiter/EM/lom3072.html",
+      "nome"     : " Hidrometalurgia"
+    } ,
+  
+    {
+      "title"    : "LOM3083",
+      "url"      : "/pyjupiter/EM/lom3083.html",
+      "nome"     : " Fenômenos de Transporte em Engenharia de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3086",
+      "url"      : "/pyjupiter/EM/lom3086.html",
+      "nome"     : " Laboratório de Engenharia de Materiais II"
+    } ,
+  
+    {
+      "title"    : "LOM3101",
+      "url"      : "/pyjupiter/EM/lom3101.html",
+      "nome"     : " Mecânica dos Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3004",
+      "url"      : "/pyjupiter/EM/lom3004.html",
+      "nome"     : " Processamento de Materiais Metálicos I"
+    } ,
+  
+    {
+      "title"    : "LOM3008",
+      "url"      : "/pyjupiter/EM/lom3008.html",
+      "nome"     : " Eletrometalurgia"
+    } ,
+  
+    {
+      "title"    : "LOM3027",
+      "url"      : "/pyjupiter/EM/lom3027.html",
+      "nome"     : " Pirometalurgia"
+    } ,
+  
+    {
+      "title"    : "LOM3048",
+      "url"      : "/pyjupiter/EM/lom3048.html",
+      "nome"     : " Tecnologia de Vidros"
+    } ,
+  
+    {
+      "title"    : "LOM3073",
+      "url"      : "/pyjupiter/EM/lom3073.html",
+      "nome"     : " Processamento de Cerâmicas I"
+    } ,
+  
+    {
+      "title"    : "LOM3087",
+      "url"      : "/pyjupiter/EM/lom3087.html",
+      "nome"     : " Laboratório de Engenharia de Materiais III"
+    } ,
+  
+    {
+      "title"    : "LOM3094",
+      "url"      : "/pyjupiter/EM/lom3094.html",
+      "nome"     : " Processamento de Materiais Metálicos II"
+    } ,
+  
+    {
+      "title"    : "LOM3096",
+      "url"      : "/pyjupiter/EM/lom3096.html",
+      "nome"     : " Propriedades Elétricas, Magnéticas, Térmicas e Ópticas"
+    } ,
+  
+    {
+      "title"    : "LOQ4233",
+      "url"      : "/pyjupiter/EM/loq4233.html",
+      "nome"     : " Gestão de Negócios"
+    } ,
+  
+    {
+      "title"    : "LOB1010",
+      "url"      : "/pyjupiter/EM/lob1010.html",
+      "nome"     : " Direito  Aplicado à Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOB1031",
+      "url"      : "/pyjupiter/EM/lob1031.html",
+      "nome"     : " Psicologia Organizacional e do Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOB1055",
+      "url"      : "/pyjupiter/EM/lob1055.html",
+      "nome"     : " Fundamentos de Engenharia de Segurança no Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOM3006",
+      "url"      : "/pyjupiter/EM/lom3006.html",
+      "nome"     : " Degradação e Proteção de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3043",
+      "url"      : "/pyjupiter/EM/lom3043.html",
+      "nome"     : " Seleção de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3074",
+      "url"      : "/pyjupiter/EM/lom3074.html",
+      "nome"     : " Processamento de Cerâmicas II"
+    } ,
+  
+    {
+      "title"    : "LOM3084",
+      "url"      : "/pyjupiter/EM/lom3084.html",
+      "nome"     : " Inspeção e Ensaios Não Destrutivos"
+    } ,
+  
+    {
+      "title"    : "LOM3088",
+      "url"      : "/pyjupiter/EM/lom3088.html",
+      "nome"     : " Laboratório de Engenharia de Materiais IV"
+    } ,
+  
+    {
+      "title"    : "LOM3095",
+      "url"      : "/pyjupiter/EM/lom3095.html",
+      "nome"     : " Tecnologias Limpas para Geração de Energia"
+    } ,
+  
+    {
+      "title"    : "LOM3103",
+      "url"      : "/pyjupiter/EM/lom3103.html",
+      "nome"     : " Processamento de Materiais Metálicos III"
+    } ,
+  
+    {
+      "title"    : "LOM3062",
+      "url"      : "/pyjupiter/EM/lom3062.html",
+      "nome"     : " Trabalho de Graduação I"
+    } ,
+  
+    {
+      "title"    : "LOM3070",
+      "url"      : "/pyjupiter/EM/lom3070.html",
+      "nome"     : " Estágio Supervisionado"
+    } ,
+  
+    {
+      "title"    : "LOM3063",
+      "url"      : "/pyjupiter/EM/lom3063.html",
+      "nome"     : " Trabalho de Graduação II"
+    } ,
+  
+    {
+      "title"    : "LOQ4234",
+      "url"      : "/pyjupiter/EM/loq4234.html",
+      "nome"     : " Empreendedorismo"
+    } ,
+  
+    {
+      "title"    : "LOM3032",
+      "url"      : "/pyjupiter/EM/lom3032.html",
+      "nome"     : " Produtos Cerâmicos"
+    } ,
+  
+    {
+      "title"    : "LOM3033",
+      "url"      : "/pyjupiter/EM/lom3033.html",
+      "nome"     : " Produtos Metálicos"
+    } ,
+  
+    {
+      "title"    : "LOM3050",
+      "url"      : "/pyjupiter/EM/lom3050.html",
+      "nome"     : " Tópicos Especiais em Engenharia de Materiais I"
+    } ,
+  
+    {
+      "title"    : "LOM3065",
+      "url"      : "/pyjupiter/EM/lom3065.html",
+      "nome"     : " Tecnologia de Plásticos"
+    } ,
+  
+    {
+      "title"    : "LOM3091",
+      "url"      : "/pyjupiter/EM/lom3091.html",
+      "nome"     : " Microscopia Eletrônica de Varredura"
+    } ,
+  
+    {
+      "title"    : "LOM3092",
+      "url"      : "/pyjupiter/EM/lom3092.html",
+      "nome"     : " Biomateriais"
+    } ,
+  
+    {
+      "title"    : "LOM3102",
+      "url"      : "/pyjupiter/EM/lom3102.html",
+      "nome"     : " Teoria da Elasticidade Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOQ4019",
+      "url"      : "/pyjupiter/EM/loq4019.html",
+      "nome"     : " Planejamento de Experimentos"
+    } ,
+  
+    {
+      "title"    : "LOQ4044",
+      "url"      : "/pyjupiter/EM/loq4044.html",
+      "nome"     : " Introdução à Engenharia da Qualidade"
+    } ,
+  
+    {
+      "title"    : "LOQ4046",
+      "url"      : "/pyjupiter/EM/loq4046.html",
+      "nome"     : " Gestão da Produção e Logística"
+    } ,
+  
+    {
+      "title"    : "LOQ4050",
+      "url"      : "/pyjupiter/EM/loq4050.html",
+      "nome"     : " Engenharia Econômica"
+    } ,
+  
+    {
+      "title"    : "LOQ4209",
+      "url"      : "/pyjupiter/EM/loq4209.html",
+      "nome"     : " Engenharia da Qualidade I"
+    } ,
+  
+    {
+      "title"    : "LOQ4235",
+      "url"      : "/pyjupiter/EM/loq4235.html",
+      "nome"     : " Tópicos Especiais de Gestão de Negócios"
+    } ,
+  
+    {
+      "title"    : "LOQ4250",
+      "url"      : "/pyjupiter/EM/loq4250.html",
+      "nome"     : " Fundamentos de Administração da Produção"
+    } ,
+  
+    {
+      "title"    : "LOT2039",
+      "url"      : "/pyjupiter/EM/lot2039.html",
+      "nome"     : " Estrutura e Química de Materiais Lignocelulósicos"
+    } ,
+  
+    {
+      "title"    : "LOM3019",
+      "url"      : "/pyjupiter/EM/lom3019.html",
+      "nome"     : " Introdução à Supercondutividade"
+    } ,
+  
+    {
+      "title"    : "LOM3051",
+      "url"      : "/pyjupiter/EM/lom3051.html",
+      "nome"     : " Tópicos Especiais em Engenharia de Materiais II"
+    } ,
+  
+    {
+      "title"    : "LOM3053",
+      "url"      : "/pyjupiter/EM/lom3053.html",
+      "nome"     : " Tecnologias de Vácuo e Baixa Temperatura"
+    } ,
+  
+    {
+      "title"    : "LOM3066",
+      "url"      : "/pyjupiter/EM/lom3066.html",
+      "nome"     : " Materiais Compósitos"
+    } ,
+  
+    {
+      "title"    : "LOM3075",
+      "url"      : "/pyjupiter/EM/lom3075.html",
+      "nome"     : " Cerâmicas Refratárias"
+    } ,
+  
+    {
+      "title"    : "LOM3077",
+      "url"      : "/pyjupiter/EM/lom3077.html",
+      "nome"     : " Usinagem de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3097",
+      "url"      : "/pyjupiter/EM/lom3097.html",
+      "nome"     : " Estágio Avançado em Engenharia de Materiais"
+    } ,
+  
+    {
+      "title"    : "LOM3098",
+      "url"      : "/pyjupiter/EM/lom3098.html",
+      "nome"     : " Tecnologia de Abrasivos"
+    } ,
+  
+    {
+      "title"    : "LOM3100",
+      "url"      : "/pyjupiter/EM/lom3100.html",
+      "nome"     : " Dinâmica"
+    } ,
+  
+    {
+      "title"    : "LOQ4005",
+      "url"      : "/pyjupiter/EM/loq4005.html",
+      "nome"     : " Controle Estatístico de Processos"
+    } ,
+  
+    {
+      "title"    : "LOQ4008",
+      "url"      : "/pyjupiter/EM/loq4008.html",
+      "nome"     : " Gestão Tecnológica"
+    } ,
+  
+    {
+      "title"    : "LOQ4212",
+      "url"      : "/pyjupiter/EM/loq4212.html",
+      "nome"     : " Engenharia da Qualidade II"
+    } ,
+  
+    {
+      "title"    : "LOT2030",
+      "url"      : "/pyjupiter/EM/lot2030.html",
+      "nome"     : " Tecnologia de Conversão de Biomassa Vegetal"
+    } ,
+  
+    {
+      "title"    : "LOB1003",
+      "url"      : "/pyjupiter/EA/lob1003.html",
+      "nome"     : " Cálculo I"
+    } ,
+  
+    {
+      "title"    : "LOB1009",
+      "url"      : "/pyjupiter/EA/lob1009.html",
+      "nome"     : " Leitura e Interpretação de Desenho Técnico"
+    } ,
+  
+    {
+      "title"    : "LOB1018",
+      "url"      : "/pyjupiter/EA/lob1018.html",
+      "nome"     : " Física I"
+    } ,
+  
+    {
+      "title"    : "LOB1036",
+      "url"      : "/pyjupiter/EA/lob1036.html",
+      "nome"     : " Geometria Analítica"
+    } ,
+  
+    {
+      "title"    : "LOB1038",
+      "url"      : "/pyjupiter/EA/lob1038.html",
+      "nome"     : " Física Experimental I"
+    } ,
+  
+    {
+      "title"    : "LOB1045",
+      "url"      : "/pyjupiter/EA/lob1045.html",
+      "nome"     : " Leitura e Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOB1201",
+      "url"      : "/pyjupiter/EA/lob1201.html",
+      "nome"     : " Introdução à Engenharia Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOB1205",
+      "url"      : "/pyjupiter/EA/lob1205.html",
+      "nome"     : " Ecologia Básica"
+    } ,
+  
+    {
+      "title"    : "LOQ4031",
+      "url"      : "/pyjupiter/EA/loq4031.html",
+      "nome"     : " Química Geral I"
+    } ,
+  
+    {
+      "title"    : "LOT2045",
+      "url"      : "/pyjupiter/EA/lot2045.html",
+      "nome"     : " Biologia"
+    } ,
+  
+    {
+      "title"    : "LOB1004",
+      "url"      : "/pyjupiter/EA/lob1004.html",
+      "nome"     : " Cálculo II"
+    } ,
+  
+    {
+      "title"    : "LOB1019",
+      "url"      : "/pyjupiter/EA/lob1019.html",
+      "nome"     : " Física II"
+    } ,
+  
+    {
+      "title"    : "LOB1037",
+      "url"      : "/pyjupiter/EA/lob1037.html",
+      "nome"     : " Àlgebra Linear"
+    } ,
+  
+    {
+      "title"    : "LOB1041",
+      "url"      : "/pyjupiter/EA/lob1041.html",
+      "nome"     : " Física Experimental II"
+    } ,
+  
+    {
+      "title"    : "LOB1206",
+      "url"      : "/pyjupiter/EA/lob1206.html",
+      "nome"     : " Solos I"
+    } ,
+  
+    {
+      "title"    : "LOB1254",
+      "url"      : "/pyjupiter/EA/lob1254.html",
+      "nome"     : " Geologia para Engenharia Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOQ4073",
+      "url"      : "/pyjupiter/EA/loq4073.html",
+      "nome"     : " Química Geral II"
+    } ,
+  
+    {
+      "title"    : "LOQ4095",
+      "url"      : "/pyjupiter/EA/loq4095.html",
+      "nome"     : " Química Geral Experimental"
+    } ,
+  
+    {
+      "title"    : "LOB1024",
+      "url"      : "/pyjupiter/EA/lob1024.html",
+      "nome"     : " Mecânica"
+    } ,
+  
+    {
+      "title"    : "LOB1039",
+      "url"      : "/pyjupiter/EA/lob1039.html",
+      "nome"     : " Física Experimental III"
+    } ,
+  
+    {
+      "title"    : "LOB1052",
+      "url"      : "/pyjupiter/EA/lob1052.html",
+      "nome"     : " Cálculo III"
+    } ,
+  
+    {
+      "title"    : "LOB1053",
+      "url"      : "/pyjupiter/EA/lob1053.html",
+      "nome"     : " Física III"
+    } ,
+  
+    {
+      "title"    : "LOB1056",
+      "url"      : "/pyjupiter/EA/lob1056.html",
+      "nome"     : " Introdução aos Métodos Numéricos e Computacionais"
+    } ,
+  
+    {
+      "title"    : "LOB1210",
+      "url"      : "/pyjupiter/EA/lob1210.html",
+      "nome"     : " Solos II"
+    } ,
+  
+    {
+      "title"    : "LOM3016",
+      "url"      : "/pyjupiter/EA/lom3016.html",
+      "nome"     : " Introdução à  Ciência dos Materiais"
+    } ,
+  
+    {
+      "title"    : "LOQ4053",
+      "url"      : "/pyjupiter/EA/loq4053.html",
+      "nome"     : " Balanços de Massa e Energia"
+    } ,
+  
+    {
+      "title"    : "LOT2046",
+      "url"      : "/pyjupiter/EA/lot2046.html",
+      "nome"     : " Microbiologia e Bioquimica Aplicadas"
+    } ,
+  
+    {
+      "title"    : "LOB1006",
+      "url"      : "/pyjupiter/EA/lob1006.html",
+      "nome"     : " Cálculo IV"
+    } ,
+  
+    {
+      "title"    : "LOB1012",
+      "url"      : "/pyjupiter/EA/lob1012.html",
+      "nome"     : " Estatística"
+    } ,
+  
+    {
+      "title"    : "LOB1021",
+      "url"      : "/pyjupiter/EA/lob1021.html",
+      "nome"     : " Física IV"
+    } ,
+  
+    {
+      "title"    : "LOB1042",
+      "url"      : "/pyjupiter/EA/lob1042.html",
+      "nome"     : " Física Experimental IV"
+    } ,
+  
+    {
+      "title"    : "LOB1255",
+      "url"      : "/pyjupiter/EA/lob1255.html",
+      "nome"     : " Hidrologia Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOM3081",
+      "url"      : "/pyjupiter/EA/lom3081.html",
+      "nome"     : " Introdução à Mecânica dos Sólidos"
+    } ,
+  
+    {
+      "title"    : "LOQ4076",
+      "url"      : "/pyjupiter/EA/loq4076.html",
+      "nome"     : " Termodinâmica Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOQ4081",
+      "url"      : "/pyjupiter/EA/loq4081.html",
+      "nome"     : " Química Orgânica"
+    } ,
+  
+    {
+      "title"    : "LOQ4083",
+      "url"      : "/pyjupiter/EA/loq4083.html",
+      "nome"     : " Fenômenos de Transporte I"
+    } ,
+  
+    {
+      "title"    : "LOB1011",
+      "url"      : "/pyjupiter/EA/lob1011.html",
+      "nome"     : " Eletricidade Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOB1031",
+      "url"      : "/pyjupiter/EA/lob1031.html",
+      "nome"     : " Psicologia Organizacional e do Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOB1040",
+      "url"      : "/pyjupiter/EA/lob1040.html",
+      "nome"     : " Laboratório de Eletricidade"
+    } ,
+  
+    {
+      "title"    : "LOB1207",
+      "url"      : "/pyjupiter/EA/lob1207.html",
+      "nome"     : " Poluição Ambiental I"
+    } ,
+  
+    {
+      "title"    : "LOB1208",
+      "url"      : "/pyjupiter/EA/lob1208.html",
+      "nome"     : " Química Analítica Ambiental I"
+    } ,
+  
+    {
+      "title"    : "LOB1221",
+      "url"      : "/pyjupiter/EA/lob1221.html",
+      "nome"     : " Legislação Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOB1256",
+      "url"      : "/pyjupiter/EA/lob1256.html",
+      "nome"     : " Cartografia e Topografia Aplicadas à Estudos Ambientais"
+    } ,
+  
+    {
+      "title"    : "LOQ4079",
+      "url"      : "/pyjupiter/EA/loq4079.html",
+      "nome"     : " Cinética Aplicada e Reatores"
+    } ,
+  
+    {
+      "title"    : "LOQ4084",
+      "url"      : "/pyjupiter/EA/loq4084.html",
+      "nome"     : " Fenômenos de Transporte II"
+    } ,
+  
+    {
+      "title"    : "LOQ4231",
+      "url"      : "/pyjupiter/EA/loq4231.html",
+      "nome"     : " Introdução à Econômia"
+    } ,
+  
+    {
+      "title"    : "LOQ4233",
+      "url"      : "/pyjupiter/EA/loq4233.html",
+      "nome"     : " Gestão de Negócios"
+    } ,
+  
+    {
+      "title"    : "LOB1202",
+      "url"      : "/pyjupiter/EA/lob1202.html",
+      "nome"     : " Introdução ao Gerenciamento de Projetos Ambientais"
+    } ,
+  
+    {
+      "title"    : "LOB1211",
+      "url"      : "/pyjupiter/EA/lob1211.html",
+      "nome"     : " Poluição Ambiental II"
+    } ,
+  
+    {
+      "title"    : "LOB1212",
+      "url"      : "/pyjupiter/EA/lob1212.html",
+      "nome"     : " Química Analítica Ambiental II"
+    } ,
+  
+    {
+      "title"    : "LOB1213",
+      "url"      : "/pyjupiter/EA/lob1213.html",
+      "nome"     : " Climatologia Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOB1214",
+      "url"      : "/pyjupiter/EA/lob1214.html",
+      "nome"     : " Sistemas de Informações Geográficas"
+    } ,
+  
+    {
+      "title"    : "LOB1215",
+      "url"      : "/pyjupiter/EA/lob1215.html",
+      "nome"     : " Recursos Energéticos"
+    } ,
+  
+    {
+      "title"    : "LOB1235",
+      "url"      : "/pyjupiter/EA/lob1235.html",
+      "nome"     : " Impactos e Adeqüação Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOB1258",
+      "url"      : "/pyjupiter/EA/lob1258.html",
+      "nome"     : " Hidráulica Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOB1055",
+      "url"      : "/pyjupiter/EA/lob1055.html",
+      "nome"     : " Fundamentos de Engenharia de Segurança no Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOB1217",
+      "url"      : "/pyjupiter/EA/lob1217.html",
+      "nome"     : " Operações Unitárias e Processos"
+    } ,
+  
+    {
+      "title"    : "LOB1223",
+      "url"      : "/pyjupiter/EA/lob1223.html",
+      "nome"     : " Trabalho de Graduação I"
+    } ,
+  
+    {
+      "title"    : "LOB1230",
+      "url"      : "/pyjupiter/EA/lob1230.html",
+      "nome"     : " Ecossistemas Aquáticos e Terrestres"
+    } ,
+  
+    {
+      "title"    : "LOB1232",
+      "url"      : "/pyjupiter/EA/lob1232.html",
+      "nome"     : " Licenciamento Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOB1233",
+      "url"      : "/pyjupiter/EA/lob1233.html",
+      "nome"     : " Caracterização de Bacias Hidrográficas"
+    } ,
+  
+    {
+      "title"    : "LOB1240",
+      "url"      : "/pyjupiter/EA/lob1240.html",
+      "nome"     : " Condicionantes Geológico-geotécnicos em Estudos Ambientais"
+    } ,
+  
+    {
+      "title"    : "LOB1257",
+      "url"      : "/pyjupiter/EA/lob1257.html",
+      "nome"     : " Sistema de Abastecimento e Tratamento de Água"
+    } ,
+  
+    {
+      "title"    : "LOB1008",
+      "url"      : "/pyjupiter/EA/lob1008.html",
+      "nome"     : " Ciência, Tecnologia e Sociedade"
+    } ,
+  
+    {
+      "title"    : "LOB1209",
+      "url"      : "/pyjupiter/EA/lob1209.html",
+      "nome"     : " Gestão de Resíduos Sólidos"
+    } ,
+  
+    {
+      "title"    : "LOB1225",
+      "url"      : "/pyjupiter/EA/lob1225.html",
+      "nome"     : " Tratamento de Águas Residuárias"
+    } ,
+  
+    {
+      "title"    : "LOB1226",
+      "url"      : "/pyjupiter/EA/lob1226.html",
+      "nome"     : " Recuperação de Áreas Degradadas"
+    } ,
+  
+    {
+      "title"    : "LOB1228",
+      "url"      : "/pyjupiter/EA/lob1228.html",
+      "nome"     : " Gestão Ambiental na Empresa"
+    } ,
+  
+    {
+      "title"    : "LOB1229",
+      "url"      : "/pyjupiter/EA/lob1229.html",
+      "nome"     : " Trabalho de Graduação II"
+    } ,
+  
+    {
+      "title"    : "LOB1218",
+      "url"      : "/pyjupiter/EA/lob1218.html",
+      "nome"     : " Recursos Hídricos"
+    } ,
+  
+    {
+      "title"    : "LOB1231",
+      "url"      : "/pyjupiter/EA/lob1231.html",
+      "nome"     : " Modelagem Matemática Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOB1224",
+      "url"      : "/pyjupiter/EA/lob1224.html",
+      "nome"     : " Planejamento Ambiental e Urbanismo"
+    } ,
+  
+    {
+      "title"    : "LOB1236",
+      "url"      : "/pyjupiter/EA/lob1236.html",
+      "nome"     : " Ações Mitigadoras de Impactos Ambientais"
+    } ,
+  
+    {
+      "title"    : "LOB1237",
+      "url"      : "/pyjupiter/EA/lob1237.html",
+      "nome"     : " Estágio Supervisionado em Engenharia Ambiental"
+    } ,
+  
+    {
+      "title"    : "8800009",
+      "url"      : "/pyjupiter/EA/8800009.html",
+      "nome"     : " Canto Coral I"
+    } ,
+  
+    {
+      "title"    : "8800010",
+      "url"      : "/pyjupiter/EA/8800010.html",
+      "nome"     : " Canto Coral II"
+    } ,
+  
+    {
+      "title"    : "LOB1252",
+      "url"      : "/pyjupiter/EA/lob1252.html",
+      "nome"     : " Tecnologia de Mitigação de CO2"
+    } ,
+  
+    {
+      "title"    : "8800011",
+      "url"      : "/pyjupiter/EA/8800011.html",
+      "nome"     : " Canto Coral III"
+    } ,
+  
+    {
+      "title"    : "8800012",
+      "url"      : "/pyjupiter/EA/8800012.html",
+      "nome"     : " Canto Coral IV"
+    } ,
+  
+    {
+      "title"    : "LOB1251",
+      "url"      : "/pyjupiter/EA/lob1251.html",
+      "nome"     : " Introdução a Inovação Sistemática com TRIZ"
+    } ,
+  
+    {
+      "title"    : "LOB1259",
+      "url"      : "/pyjupiter/EA/lob1259.html",
+      "nome"     : " Introdução a Ecotoxicologia Aquática"
+    } ,
+  
+    {
+      "title"    : "LOB1260",
+      "url"      : "/pyjupiter/EA/lob1260.html",
+      "nome"     : " Tópicos Especiais em Engenharia Ambiental I"
+    } ,
+  
+    {
+      "title"    : "LOB1203",
+      "url"      : "/pyjupiter/EA/lob1203.html",
+      "nome"     : " Filosofia da Ciência e da Tecnologia"
+    } ,
+  
+    {
+      "title"    : "LOB1261",
+      "url"      : "/pyjupiter/EA/lob1261.html",
+      "nome"     : " Tópicos Especiais em Engenharia Ambiental II"
+    } ,
+  
+    {
+      "title"    : "LOB1262",
+      "url"      : "/pyjupiter/EA/lob1262.html",
+      "nome"     : " Educação Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOB1263",
+      "url"      : "/pyjupiter/EA/lob1263.html",
+      "nome"     : " Introdução a Eco-Inovação Tecnológica"
+    } ,
+  
+    {
+      "title"    : "LOB1238",
+      "url"      : "/pyjupiter/EA/lob1238.html",
+      "nome"     : " Adeqüação Ambiental em Áreas Urbanas"
+    } ,
+  
+    {
+      "title"    : "LOB1239",
+      "url"      : "/pyjupiter/EA/lob1239.html",
+      "nome"     : " Concepção e Projeto de Sistemas de Tratamento de Água"
+    } ,
+  
+    {
+      "title"    : "LOB1241",
+      "url"      : "/pyjupiter/EA/lob1241.html",
+      "nome"     : " Estudo de Casos em Impacto Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOB1243",
+      "url"      : "/pyjupiter/EA/lob1243.html",
+      "nome"     : " Métodos de Investigação Geológico-geotécnica em Estudos Ambientais"
+    } ,
+  
+    {
+      "title"    : "LOB1245",
+      "url"      : "/pyjupiter/EA/lob1245.html",
+      "nome"     : " Projeto de Sistemas de Tratamento de Águas Residuárias"
+    } ,
+  
+    {
+      "title"    : "LOB1242",
+      "url"      : "/pyjupiter/EA/lob1242.html",
+      "nome"     : " Geossintéticos em Obras de Proteção e Recuperação Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOB1244",
+      "url"      : "/pyjupiter/EA/lob1244.html",
+      "nome"     : " Monitoramento Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOB1246",
+      "url"      : "/pyjupiter/EA/lob1246.html",
+      "nome"     : " Tratamento Avançado e Reuso de Águas"
+    } ,
+  
+    {
+      "title"    : "LOB1003",
+      "url"      : "/pyjupiter/EB/lob1003.html",
+      "nome"     : " Cálculo I"
+    } ,
+  
+    {
+      "title"    : "LOB1009",
+      "url"      : "/pyjupiter/EB/lob1009.html",
+      "nome"     : " Leitura e Interpretação de Desenho Técnico"
+    } ,
+  
+    {
+      "title"    : "LOB1036",
+      "url"      : "/pyjupiter/EB/lob1036.html",
+      "nome"     : " Geometria Analítica"
+    } ,
+  
+    {
+      "title"    : "LOB1045",
+      "url"      : "/pyjupiter/EB/lob1045.html",
+      "nome"     : " Leitura e Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOM3016",
+      "url"      : "/pyjupiter/EB/lom3016.html",
+      "nome"     : " Introdução à  Ciência dos Materiais"
+    } ,
+  
+    {
+      "title"    : "LOQ4031",
+      "url"      : "/pyjupiter/EB/loq4031.html",
+      "nome"     : " Química Geral I"
+    } ,
+  
+    {
+      "title"    : "LOT2002",
+      "url"      : "/pyjupiter/EB/lot2002.html",
+      "nome"     : " Biologia Celular"
+    } ,
+  
+    {
+      "title"    : "LOT2043",
+      "url"      : "/pyjupiter/EB/lot2043.html",
+      "nome"     : " Introdução à Engenharia Bioquímica"
+    } ,
+  
+    {
+      "title"    : "LOB1004",
+      "url"      : "/pyjupiter/EB/lob1004.html",
+      "nome"     : " Cálculo II"
+    } ,
+  
+    {
+      "title"    : "LOB1018",
+      "url"      : "/pyjupiter/EB/lob1018.html",
+      "nome"     : " Física I"
+    } ,
+  
+    {
+      "title"    : "LOB1037",
+      "url"      : "/pyjupiter/EB/lob1037.html",
+      "nome"     : " Àlgebra Linear"
+    } ,
+  
+    {
+      "title"    : "LOB1038",
+      "url"      : "/pyjupiter/EB/lob1038.html",
+      "nome"     : " Física Experimental I"
+    } ,
+  
+    {
+      "title"    : "LOQ4073",
+      "url"      : "/pyjupiter/EB/loq4073.html",
+      "nome"     : " Química Geral II"
+    } ,
+  
+    {
+      "title"    : "LOQ4095",
+      "url"      : "/pyjupiter/EB/loq4095.html",
+      "nome"     : " Química Geral Experimental"
+    } ,
+  
+    {
+      "title"    : "LOT2040",
+      "url"      : "/pyjupiter/EB/lot2040.html",
+      "nome"     : " Engenharia Genética"
+    } ,
+  
+    {
+      "title"    : "LOT2050",
+      "url"      : "/pyjupiter/EB/lot2050.html",
+      "nome"     : " Microbiologia Experimental"
+    } ,
+  
+    {
+      "title"    : "LOT2053",
+      "url"      : "/pyjupiter/EB/lot2053.html",
+      "nome"     : " Microbiologia"
+    } ,
+  
+    {
+      "title"    : "LOB1012",
+      "url"      : "/pyjupiter/EB/lob1012.html",
+      "nome"     : " Estatística"
+    } ,
+  
+    {
+      "title"    : "LOB1019",
+      "url"      : "/pyjupiter/EB/lob1019.html",
+      "nome"     : " Física II"
+    } ,
+  
+    {
+      "title"    : "LOB1052",
+      "url"      : "/pyjupiter/EB/lob1052.html",
+      "nome"     : " Cálculo III"
+    } ,
+  
+    {
+      "title"    : "LOB1056",
+      "url"      : "/pyjupiter/EB/lob1056.html",
+      "nome"     : " Introdução aos Métodos Numéricos e Computacionais"
+    } ,
+  
+    {
+      "title"    : "LOQ4053",
+      "url"      : "/pyjupiter/EB/loq4053.html",
+      "nome"     : " Balanços de Massa e Energia"
+    } ,
+  
+    {
+      "title"    : "LOQ4083",
+      "url"      : "/pyjupiter/EB/loq4083.html",
+      "nome"     : " Fenômenos de Transporte I"
+    } ,
+  
+    {
+      "title"    : "LOT2036",
+      "url"      : "/pyjupiter/EB/lot2036.html",
+      "nome"     : " Química Bioinorgânica"
+    } ,
+  
+    {
+      "title"    : "LOT2059",
+      "url"      : "/pyjupiter/EB/lot2059.html",
+      "nome"     : " Química Orgânica Fundamental"
+    } ,
+  
+    {
+      "title"    : "LOB1006",
+      "url"      : "/pyjupiter/EB/lob1006.html",
+      "nome"     : " Cálculo IV"
+    } ,
+  
+    {
+      "title"    : "LOB1024",
+      "url"      : "/pyjupiter/EB/lob1024.html",
+      "nome"     : " Mecânica"
+    } ,
+  
+    {
+      "title"    : "LOB1039",
+      "url"      : "/pyjupiter/EB/lob1039.html",
+      "nome"     : " Física Experimental III"
+    } ,
+  
+    {
+      "title"    : "LOB1053",
+      "url"      : "/pyjupiter/EB/lob1053.html",
+      "nome"     : " Física III"
+    } ,
+  
+    {
+      "title"    : "LOQ4087",
+      "url"      : "/pyjupiter/EB/loq4087.html",
+      "nome"     : " Termodinâmica Química Aplicada I"
+    } ,
+  
+    {
+      "title"    : "LOT2005",
+      "url"      : "/pyjupiter/EB/lot2005.html",
+      "nome"     : " Bioquímica Experimental I"
+    } ,
+  
+    {
+      "title"    : "LOT2007",
+      "url"      : "/pyjupiter/EB/lot2007.html",
+      "nome"     : " Bioquímica I"
+    } ,
+  
+    {
+      "title"    : "LOT2039",
+      "url"      : "/pyjupiter/EB/lot2039.html",
+      "nome"     : " Estrutura e Química de Materiais Lignocelulósicos"
+    } ,
+  
+    {
+      "title"    : "LOT2060",
+      "url"      : "/pyjupiter/EB/lot2060.html",
+      "nome"     : " Tecnologia de Biopolímeros"
+    } ,
+  
+    {
+      "title"    : "LOB1011",
+      "url"      : "/pyjupiter/EB/lob1011.html",
+      "nome"     : " Eletricidade Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOB1040",
+      "url"      : "/pyjupiter/EB/lob1040.html",
+      "nome"     : " Laboratório de Eletricidade"
+    } ,
+  
+    {
+      "title"    : "LOQ4056",
+      "url"      : "/pyjupiter/EB/loq4056.html",
+      "nome"     : " Química Analítica para Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOQ4084",
+      "url"      : "/pyjupiter/EB/loq4084.html",
+      "nome"     : " Fenômenos de Transporte II"
+    } ,
+  
+    {
+      "title"    : "LOQ4085",
+      "url"      : "/pyjupiter/EB/loq4085.html",
+      "nome"     : " Operações Unitárias I"
+    } ,
+  
+    {
+      "title"    : "LOQ4088",
+      "url"      : "/pyjupiter/EB/loq4088.html",
+      "nome"     : " Termodinâmica Química Aplicada II"
+    } ,
+  
+    {
+      "title"    : "LOQ4233",
+      "url"      : "/pyjupiter/EB/loq4233.html",
+      "nome"     : " Gestão de Negócios"
+    } ,
+  
+    {
+      "title"    : "LOT2006",
+      "url"      : "/pyjupiter/EB/lot2006.html",
+      "nome"     : " Bioquímica Experimental II"
+    } ,
+  
+    {
+      "title"    : "LOT2008",
+      "url"      : "/pyjupiter/EB/lot2008.html",
+      "nome"     : " Bioquímica II"
+    } ,
+  
+    {
+      "title"    : "LOQ4001",
+      "url"      : "/pyjupiter/EB/loq4001.html",
+      "nome"     : " Análise Instrumental"
+    } ,
+  
+    {
+      "title"    : "LOQ4003",
+      "url"      : "/pyjupiter/EB/loq4003.html",
+      "nome"     : " Cinética Química Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOQ4054",
+      "url"      : "/pyjupiter/EB/loq4054.html",
+      "nome"     : " Fenômenos de Transporte III"
+    } ,
+  
+    {
+      "title"    : "LOQ4060",
+      "url"      : "/pyjupiter/EB/loq4060.html",
+      "nome"     : " Laboratório de Engenharia Química I"
+    } ,
+  
+    {
+      "title"    : "LOQ4086",
+      "url"      : "/pyjupiter/EB/loq4086.html",
+      "nome"     : " Operações Unitárias II"
+    } ,
+  
+    {
+      "title"    : "LOT2028",
+      "url"      : "/pyjupiter/EB/lot2028.html",
+      "nome"     : " Tecnologia de Processos Fermentativos"
+    } ,
+  
+    {
+      "title"    : "LOT2030",
+      "url"      : "/pyjupiter/EB/lot2030.html",
+      "nome"     : " Tecnologia de Conversão de Biomassa Vegetal"
+    } ,
+  
+    {
+      "title"    : "LOT2054",
+      "url"      : "/pyjupiter/EB/lot2054.html",
+      "nome"     : " Engenharia de Segurança do Trabalho e Biossegurança"
+    } ,
+  
+    {
+      "title"    : "LOT2058",
+      "url"      : "/pyjupiter/EB/lot2058.html",
+      "nome"     : " Fundamentos de Engenharia Econômica"
+    } ,
+  
+    {
+      "title"    : "LOQ4057",
+      "url"      : "/pyjupiter/EB/loq4057.html",
+      "nome"     : " Operações Unitárias III"
+    } ,
+  
+    {
+      "title"    : "LOQ4061",
+      "url"      : "/pyjupiter/EB/loq4061.html",
+      "nome"     : " Laboratório de Engenharia Química II"
+    } ,
+  
+    {
+      "title"    : "LOQ4209",
+      "url"      : "/pyjupiter/EB/loq4209.html",
+      "nome"     : " Engenharia da Qualidade I"
+    } ,
+  
+    {
+      "title"    : "LOQ4250",
+      "url"      : "/pyjupiter/EB/loq4250.html",
+      "nome"     : " Fundamentos de Administração da Produção"
+    } ,
+  
+    {
+      "title"    : "LOT2012",
+      "url"      : "/pyjupiter/EB/lot2012.html",
+      "nome"     : " Engenharia Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOT2013",
+      "url"      : "/pyjupiter/EB/lot2013.html",
+      "nome"     : " Engenharia Bioquímica I"
+    } ,
+  
+    {
+      "title"    : "LOT2017",
+      "url"      : "/pyjupiter/EB/lot2017.html",
+      "nome"     : " Enzimologia"
+    } ,
+  
+    {
+      "title"    : "LOT2049",
+      "url"      : "/pyjupiter/EB/lot2049.html",
+      "nome"     : " Genética e Biotecnologia Vegetal"
+    } ,
+  
+    {
+      "title"    : "LOQ4062",
+      "url"      : "/pyjupiter/EB/loq4062.html",
+      "nome"     : " Laboratório de Engenharia Química III"
+    } ,
+  
+    {
+      "title"    : "LOT2015",
+      "url"      : "/pyjupiter/EB/lot2015.html",
+      "nome"     : " Engenharia Bioquímica II"
+    } ,
+  
+    {
+      "title"    : "LOT2022",
+      "url"      : "/pyjupiter/EB/lot2022.html",
+      "nome"     : " Modelagem e Simulação de Processos Biotecnológicos"
+    } ,
+  
+    {
+      "title"    : "LOT2023",
+      "url"      : "/pyjupiter/EB/lot2023.html",
+      "nome"     : " Processos Bioquímicos Industriais"
+    } ,
+  
+    {
+      "title"    : "LOT2025",
+      "url"      : "/pyjupiter/EB/lot2025.html",
+      "nome"     : " Reatores Bioquímicos"
+    } ,
+  
+    {
+      "title"    : "LOT2035",
+      "url"      : "/pyjupiter/EB/lot2035.html",
+      "nome"     : " Tratamento Biológico de Efluentes"
+    } ,
+  
+    {
+      "title"    : "LOT2037",
+      "url"      : "/pyjupiter/EB/lot2037.html",
+      "nome"     : " Instrumentação e Controle de Bioprocessos"
+    } ,
+  
+    {
+      "title"    : "LOT2047",
+      "url"      : "/pyjupiter/EB/lot2047.html",
+      "nome"     : " Laboratório de Engenharia Bioquímica"
+    } ,
+  
+    {
+      "title"    : "LOT2038",
+      "url"      : "/pyjupiter/EB/lot2038.html",
+      "nome"     : " Tecnologia de Bebidas"
+    } ,
+  
+    {
+      "title"    : "LOT2052",
+      "url"      : "/pyjupiter/EB/lot2052.html",
+      "nome"     : " Tecnologia de Bebidas Experimental"
+    } ,
+  
+    {
+      "title"    : "LOT2055",
+      "url"      : "/pyjupiter/EB/lot2055.html",
+      "nome"     : " Estatística em Bioprocessos"
+    } ,
+  
+    {
+      "title"    : "LOT2056",
+      "url"      : "/pyjupiter/EB/lot2056.html",
+      "nome"     : " Trabalho de Conclusão de Curso I"
+    } ,
+  
+    {
+      "title"    : "LOT2044",
+      "url"      : "/pyjupiter/EB/lot2044.html",
+      "nome"     : " Estágio Supervisionado"
+    } ,
+  
+    {
+      "title"    : "LOT2051",
+      "url"      : "/pyjupiter/EB/lot2051.html",
+      "nome"     : " Tecnologia do Cultivo de Células Animais"
+    } ,
+  
+    {
+      "title"    : "LOT2057",
+      "url"      : "/pyjupiter/EB/lot2057.html",
+      "nome"     : " Trabalho de Conclusão de Curso II"
+    } ,
+  
+    {
+      "title"    : "LOB1008",
+      "url"      : "/pyjupiter/EB/lob1008.html",
+      "nome"     : " Ciência, Tecnologia e Sociedade"
+    } ,
+  
+    {
+      "title"    : "LOB1010",
+      "url"      : "/pyjupiter/EB/lob1010.html",
+      "nome"     : " Direito  Aplicado à Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOB1031",
+      "url"      : "/pyjupiter/EB/lob1031.html",
+      "nome"     : " Psicologia Organizacional e do Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOB1047",
+      "url"      : "/pyjupiter/EB/lob1047.html",
+      "nome"     : " Tópicos Especiais de Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4052",
+      "url"      : "/pyjupiter/EB/loq4052.html",
+      "nome"     : " Tópicos Especiais de Gestão e Produção"
+    } ,
+  
+    {
+      "title"    : "LOQ4234",
+      "url"      : "/pyjupiter/EB/loq4234.html",
+      "nome"     : " Empreendedorismo"
+    } ,
+  
+    {
+      "title"    : "LOT2026",
+      "url"      : "/pyjupiter/EB/lot2026.html",
+      "nome"     : " Tecnologia de Alimentos"
+    } ,
+  
+    {
+      "title"    : "LOQ4235",
+      "url"      : "/pyjupiter/EB/loq4235.html",
+      "nome"     : " Tópicos Especiais de Gestão de Negócios"
+    } ,
+  
+    {
+      "title"    : "LOB1003",
+      "url"      : "/pyjupiter/EP/lob1003.html",
+      "nome"     : " Cálculo I"
+    } ,
+  
+    {
+      "title"    : "LOB1036",
+      "url"      : "/pyjupiter/EP/lob1036.html",
+      "nome"     : " Geometria Analítica"
+    } ,
+  
+    {
+      "title"    : "LOB1045",
+      "url"      : "/pyjupiter/EP/lob1045.html",
+      "nome"     : " Leitura e Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4031",
+      "url"      : "/pyjupiter/EP/loq4031.html",
+      "nome"     : " Química Geral I"
+    } ,
+  
+    {
+      "title"    : "LOQ4095",
+      "url"      : "/pyjupiter/EP/loq4095.html",
+      "nome"     : " Química Geral Experimental"
+    } ,
+  
+    {
+      "title"    : "LOQ4201",
+      "url"      : "/pyjupiter/EP/loq4201.html",
+      "nome"     : " Introdução à Engenharia de Produção"
+    } ,
+  
+    {
+      "title"    : "LOQ4236",
+      "url"      : "/pyjupiter/EP/loq4236.html",
+      "nome"     : " Projeto Integrado de Engenharia de Produção I"
+    } ,
+  
+    {
+      "title"    : "LOB1004",
+      "url"      : "/pyjupiter/EP/lob1004.html",
+      "nome"     : " Cálculo II"
+    } ,
+  
+    {
+      "title"    : "LOB1009",
+      "url"      : "/pyjupiter/EP/lob1009.html",
+      "nome"     : " Leitura e Interpretação de Desenho Técnico"
+    } ,
+  
+    {
+      "title"    : "LOB1018",
+      "url"      : "/pyjupiter/EP/lob1018.html",
+      "nome"     : " Física I"
+    } ,
+  
+    {
+      "title"    : "LOB1038",
+      "url"      : "/pyjupiter/EP/lob1038.html",
+      "nome"     : " Física Experimental I"
+    } ,
+  
+    {
+      "title"    : "LOQ4073",
+      "url"      : "/pyjupiter/EP/loq4073.html",
+      "nome"     : " Química Geral II"
+    } ,
+  
+    {
+      "title"    : "LOQ4203",
+      "url"      : "/pyjupiter/EP/loq4203.html",
+      "nome"     : " Sistemas Produtivos I"
+    } ,
+  
+    {
+      "title"    : "LOQ4239",
+      "url"      : "/pyjupiter/EP/loq4239.html",
+      "nome"     : " Administração e Organização I"
+    } ,
+  
+    {
+      "title"    : "LOB1012",
+      "url"      : "/pyjupiter/EP/lob1012.html",
+      "nome"     : " Estatística"
+    } ,
+  
+    {
+      "title"    : "LOB1019",
+      "url"      : "/pyjupiter/EP/lob1019.html",
+      "nome"     : " Física II"
+    } ,
+  
+    {
+      "title"    : "LOB1041",
+      "url"      : "/pyjupiter/EP/lob1041.html",
+      "nome"     : " Física Experimental II"
+    } ,
+  
+    {
+      "title"    : "LOB1052",
+      "url"      : "/pyjupiter/EP/lob1052.html",
+      "nome"     : " Cálculo III"
+    } ,
+  
+    {
+      "title"    : "LOQ4205",
+      "url"      : "/pyjupiter/EP/loq4205.html",
+      "nome"     : " Sistemas Produtivos II"
+    } ,
+  
+    {
+      "title"    : "LOQ4221",
+      "url"      : "/pyjupiter/EP/loq4221.html",
+      "nome"     : " Gestão de Projetos"
+    } ,
+  
+    {
+      "title"    : "LOQ4240",
+      "url"      : "/pyjupiter/EP/loq4240.html",
+      "nome"     : " Administração e Organização II"
+    } ,
+  
+    {
+      "title"    : "LOB1037",
+      "url"      : "/pyjupiter/EP/lob1037.html",
+      "nome"     : " Àlgebra Linear"
+    } ,
+  
+    {
+      "title"    : "LOB1039",
+      "url"      : "/pyjupiter/EP/lob1039.html",
+      "nome"     : " Física Experimental III"
+    } ,
+  
+    {
+      "title"    : "LOB1049",
+      "url"      : "/pyjupiter/EP/lob1049.html",
+      "nome"     : " Estatística Multivariada"
+    } ,
+  
+    {
+      "title"    : "LOB1053",
+      "url"      : "/pyjupiter/EP/lob1053.html",
+      "nome"     : " Física III"
+    } ,
+  
+    {
+      "title"    : "LOB1056",
+      "url"      : "/pyjupiter/EP/lob1056.html",
+      "nome"     : " Introdução aos Métodos Numéricos e Computacionais"
+    } ,
+  
+    {
+      "title"    : "LOQ4237",
+      "url"      : "/pyjupiter/EP/loq4237.html",
+      "nome"     : " Projeto Integrado de Engenharia de Produção II"
+    } ,
+  
+    {
+      "title"    : "LOB1006",
+      "url"      : "/pyjupiter/EP/lob1006.html",
+      "nome"     : " Cálculo IV"
+    } ,
+  
+    {
+      "title"    : "LOB1024",
+      "url"      : "/pyjupiter/EP/lob1024.html",
+      "nome"     : " Mecânica"
+    } ,
+  
+    {
+      "title"    : "LOM3016",
+      "url"      : "/pyjupiter/EP/lom3016.html",
+      "nome"     : " Introdução à  Ciência dos Materiais"
+    } ,
+  
+    {
+      "title"    : "LOQ4006",
+      "url"      : "/pyjupiter/EP/loq4006.html",
+      "nome"     : " Fenômeno de Transporte Experimental"
+    } ,
+  
+    {
+      "title"    : "LOQ4077",
+      "url"      : "/pyjupiter/EP/loq4077.html",
+      "nome"     : " Fundamentos de Fenômenos de Transporte"
+    } ,
+  
+    {
+      "title"    : "LOQ4206",
+      "url"      : "/pyjupiter/EP/loq4206.html",
+      "nome"     : " Pesquisa Operacional I"
+    } ,
+  
+    {
+      "title"    : "LOB1011",
+      "url"      : "/pyjupiter/EP/lob1011.html",
+      "nome"     : " Eletricidade Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOB1040",
+      "url"      : "/pyjupiter/EP/lob1040.html",
+      "nome"     : " Laboratório de Eletricidade"
+    } ,
+  
+    {
+      "title"    : "LOM3081",
+      "url"      : "/pyjupiter/EP/lom3081.html",
+      "nome"     : " Introdução à Mecânica dos Sólidos"
+    } ,
+  
+    {
+      "title"    : "LOQ4204",
+      "url"      : "/pyjupiter/EP/loq4204.html",
+      "nome"     : " Economia Geral"
+    } ,
+  
+    {
+      "title"    : "LOQ4210",
+      "url"      : "/pyjupiter/EP/loq4210.html",
+      "nome"     : " Pesquisa Operacional II"
+    } ,
+  
+    {
+      "title"    : "LOQ4223",
+      "url"      : "/pyjupiter/EP/loq4223.html",
+      "nome"     : " Modelagem e Simulação de Sistemas"
+    } ,
+  
+    {
+      "title"    : "LOQ4234",
+      "url"      : "/pyjupiter/EP/loq4234.html",
+      "nome"     : " Empreendedorismo"
+    } ,
+  
+    {
+      "title"    : "LOB1046",
+      "url"      : "/pyjupiter/EP/lob1046.html",
+      "nome"     : " Engenharia do Meio Ambiente"
+    } ,
+  
+    {
+      "title"    : "LOM3079",
+      "url"      : "/pyjupiter/EP/lom3079.html",
+      "nome"     : " Processos da Indústria Mecânica"
+    } ,
+  
+    {
+      "title"    : "LOM3080",
+      "url"      : "/pyjupiter/EP/lom3080.html",
+      "nome"     : " Processos da Indústria Metalúrgica e Siderúrgica"
+    } ,
+  
+    {
+      "title"    : "LOQ4076",
+      "url"      : "/pyjupiter/EP/loq4076.html",
+      "nome"     : " Termodinâmica Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOQ4207",
+      "url"      : "/pyjupiter/EP/loq4207.html",
+      "nome"     : " Processos da Indústria Química"
+    } ,
+  
+    {
+      "title"    : "LOQ4208",
+      "url"      : "/pyjupiter/EP/loq4208.html",
+      "nome"     : " Processos da Indústria de Serviços"
+    } ,
+  
+    {
+      "title"    : "LOQ4209",
+      "url"      : "/pyjupiter/EP/loq4209.html",
+      "nome"     : " Engenharia da Qualidade I"
+    } ,
+  
+    {
+      "title"    : "LOQ4238",
+      "url"      : "/pyjupiter/EP/loq4238.html",
+      "nome"     : " Projeto Integrado em Engenharia de Produção III"
+    } ,
+  
+    {
+      "title"    : "LOQ4241",
+      "url"      : "/pyjupiter/EP/loq4241.html",
+      "nome"     : " Sistemas de Apoio à Decisão"
+    } ,
+  
+    {
+      "title"    : "LOB1051",
+      "url"      : "/pyjupiter/EP/lob1051.html",
+      "nome"     : " Gestão Ambiental"
+    } ,
+  
+    {
+      "title"    : "LOQ4212",
+      "url"      : "/pyjupiter/EP/loq4212.html",
+      "nome"     : " Engenharia da Qualidade II"
+    } ,
+  
+    {
+      "title"    : "LOQ4213",
+      "url"      : "/pyjupiter/EP/loq4213.html",
+      "nome"     : " Contabilidade e Custos"
+    } ,
+  
+    {
+      "title"    : "LOQ4227",
+      "url"      : "/pyjupiter/EP/loq4227.html",
+      "nome"     : " Organização do Trabalho na Produção"
+    } ,
+  
+    {
+      "title"    : "LOQ4242",
+      "url"      : "/pyjupiter/EP/loq4242.html",
+      "nome"     : " Automação e Controle de Processos Produtivos"
+    } ,
+  
+    {
+      "title"    : "LOQ4243",
+      "url"      : "/pyjupiter/EP/loq4243.html",
+      "nome"     : " Engenharia de Sistemas Eletrônicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4216",
+      "url"      : "/pyjupiter/EP/loq4216.html",
+      "nome"     : " Projeto da Fábrica"
+    } ,
+  
+    {
+      "title"    : "LOQ4217",
+      "url"      : "/pyjupiter/EP/loq4217.html",
+      "nome"     : " Logística e Cadeia de Suprimento"
+    } ,
+  
+    {
+      "title"    : "LOQ4218",
+      "url"      : "/pyjupiter/EP/loq4218.html",
+      "nome"     : " Engenharia da Qualidade III"
+    } ,
+  
+    {
+      "title"    : "LOQ4219",
+      "url"      : "/pyjupiter/EP/loq4219.html",
+      "nome"     : " Projeto do Produto e Processo"
+    } ,
+  
+    {
+      "title"    : "LOQ4222",
+      "url"      : "/pyjupiter/EP/loq4222.html",
+      "nome"     : " Engenharia Econômica e Finanças"
+    } ,
+  
+    {
+      "title"    : "LOB1031",
+      "url"      : "/pyjupiter/EP/lob1031.html",
+      "nome"     : " Psicologia Organizacional e do Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOQ4215",
+      "url"      : "/pyjupiter/EP/loq4215.html",
+      "nome"     : " Planejamento e Controle da Produção"
+    } ,
+  
+    {
+      "title"    : "LOQ4220",
+      "url"      : "/pyjupiter/EP/loq4220.html",
+      "nome"     : " Logística Reversa"
+    } ,
+  
+    {
+      "title"    : "LOQ4224",
+      "url"      : "/pyjupiter/EP/loq4224.html",
+      "nome"     : " Planejamento de Experimentos"
+    } ,
+  
+    {
+      "title"    : "LOQ4226",
+      "url"      : "/pyjupiter/EP/loq4226.html",
+      "nome"     : " Gestão Estratégica da Produção"
+    } ,
+  
+    {
+      "title"    : "LOQ4244",
+      "url"      : "/pyjupiter/EP/loq4244.html",
+      "nome"     : " Lean Six Sigma"
+    } ,
+  
+    {
+      "title"    : "LOB1008",
+      "url"      : "/pyjupiter/EP/lob1008.html",
+      "nome"     : " Ciência, Tecnologia e Sociedade"
+    } ,
+  
+    {
+      "title"    : "LOB1055",
+      "url"      : "/pyjupiter/EP/lob1055.html",
+      "nome"     : " Fundamentos de Engenharia de Segurança no Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOQ4225",
+      "url"      : "/pyjupiter/EP/loq4225.html",
+      "nome"     : " Gestão da Tecnologia da Informação"
+    } ,
+  
+    {
+      "title"    : "LOQ4228",
+      "url"      : "/pyjupiter/EP/loq4228.html",
+      "nome"     : " Trabalho de Graduação em Engenharia de Produção I"
+    } ,
+  
+    {
+      "title"    : "LOQ4245",
+      "url"      : "/pyjupiter/EP/loq4245.html",
+      "nome"     : " Ergonomia"
+    } ,
+  
+    {
+      "title"    : "LOB1010",
+      "url"      : "/pyjupiter/EP/lob1010.html",
+      "nome"     : " Direito  Aplicado à Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOQ4229",
+      "url"      : "/pyjupiter/EP/loq4229.html",
+      "nome"     : " Trabalho de Graduação em Engenharia de Produção II"
+    } ,
+  
+    {
+      "title"    : "LOQ4230",
+      "url"      : "/pyjupiter/EP/loq4230.html",
+      "nome"     : " Estágio em Engenharia de Produção"
+    } ,
+  
+    {
+      "title"    : "LOQ4232",
+      "url"      : "/pyjupiter/EP/loq4232.html",
+      "nome"     : " Processos da Indústria Eletro Eletrônica"
+    } ,
+  
+    {
+      "title"    : "8800006",
+      "url"      : "/pyjupiter/EP/8800006.html",
+      "nome"     : " Projeto de Engenharia I"
+    } ,
+  
+    {
+      "title"    : "8800007",
+      "url"      : "/pyjupiter/EP/8800007.html",
+      "nome"     : " Projeto de Engenharia II"
+    } ,
+  
+    {
+      "title"    : "LOQ4246",
+      "url"      : "/pyjupiter/EP/loq4246.html",
+      "nome"     : " Engenharia da Sustentabilidade"
+    } ,
+  
+    {
+      "title"    : "LOQ4247",
+      "url"      : "/pyjupiter/EP/loq4247.html",
+      "nome"     : " Desenho Assistido por Computador"
+    } ,
+  
+    {
+      "title"    : "LOQ4248",
+      "url"      : "/pyjupiter/EP/loq4248.html",
+      "nome"     : " Marketing Estratégico"
+    } ,
+  
+    {
+      "title"    : "LOQ4249",
+      "url"      : "/pyjupiter/EP/loq4249.html",
+      "nome"     : " Oficina de Inovação"
+    } ,
+  
+    {
+      "title"    : "LOB1003",
+      "url"      : "/pyjupiter/EQD/lob1003.html",
+      "nome"     : " Cálculo I"
+    } ,
+  
+    {
+      "title"    : "LOB1009",
+      "url"      : "/pyjupiter/EQD/lob1009.html",
+      "nome"     : " Leitura e Interpretação de Desenho Técnico"
+    } ,
+  
+    {
+      "title"    : "LOB1018",
+      "url"      : "/pyjupiter/EQD/lob1018.html",
+      "nome"     : " Física I"
+    } ,
+  
+    {
+      "title"    : "LOB1036",
+      "url"      : "/pyjupiter/EQD/lob1036.html",
+      "nome"     : " Geometria Analítica"
+    } ,
+  
+    {
+      "title"    : "LOB1038",
+      "url"      : "/pyjupiter/EQD/lob1038.html",
+      "nome"     : " Física Experimental I"
+    } ,
+  
+    {
+      "title"    : "LOB1045",
+      "url"      : "/pyjupiter/EQD/lob1045.html",
+      "nome"     : " Leitura e Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4010",
+      "url"      : "/pyjupiter/EQD/loq4010.html",
+      "nome"     : " Introdução à  Engenharia  Química"
+    } ,
+  
+    {
+      "title"    : "LOQ4031",
+      "url"      : "/pyjupiter/EQD/loq4031.html",
+      "nome"     : " Química Geral I"
+    } ,
+  
+    {
+      "title"    : "LOB1004",
+      "url"      : "/pyjupiter/EQD/lob1004.html",
+      "nome"     : " Cálculo II"
+    } ,
+  
+    {
+      "title"    : "LOB1008",
+      "url"      : "/pyjupiter/EQD/lob1008.html",
+      "nome"     : " Ciência, Tecnologia e Sociedade"
+    } ,
+  
+    {
+      "title"    : "LOB1019",
+      "url"      : "/pyjupiter/EQD/lob1019.html",
+      "nome"     : " Física II"
+    } ,
+  
+    {
+      "title"    : "LOB1037",
+      "url"      : "/pyjupiter/EQD/lob1037.html",
+      "nome"     : " Àlgebra Linear"
+    } ,
+  
+    {
+      "title"    : "LOM3016",
+      "url"      : "/pyjupiter/EQD/lom3016.html",
+      "nome"     : " Introdução à  Ciência dos Materiais"
+    } ,
+  
+    {
+      "title"    : "LOQ4053",
+      "url"      : "/pyjupiter/EQD/loq4053.html",
+      "nome"     : " Balanços de Massa e Energia"
+    } ,
+  
+    {
+      "title"    : "LOQ4073",
+      "url"      : "/pyjupiter/EQD/loq4073.html",
+      "nome"     : " Química Geral II"
+    } ,
+  
+    {
+      "title"    : "LOQ4095",
+      "url"      : "/pyjupiter/EQD/loq4095.html",
+      "nome"     : " Química Geral Experimental"
+    } ,
+  
+    {
+      "title"    : "LOB1012",
+      "url"      : "/pyjupiter/EQD/lob1012.html",
+      "nome"     : " Estatística"
+    } ,
+  
+    {
+      "title"    : "LOB1024",
+      "url"      : "/pyjupiter/EQD/lob1024.html",
+      "nome"     : " Mecânica"
+    } ,
+  
+    {
+      "title"    : "LOB1039",
+      "url"      : "/pyjupiter/EQD/lob1039.html",
+      "nome"     : " Física Experimental III"
+    } ,
+  
+    {
+      "title"    : "LOB1052",
+      "url"      : "/pyjupiter/EQD/lob1052.html",
+      "nome"     : " Cálculo III"
+    } ,
+  
+    {
+      "title"    : "LOB1053",
+      "url"      : "/pyjupiter/EQD/lob1053.html",
+      "nome"     : " Física III"
+    } ,
+  
+    {
+      "title"    : "LOB1056",
+      "url"      : "/pyjupiter/EQD/lob1056.html",
+      "nome"     : " Introdução aos Métodos Numéricos e Computacionais"
+    } ,
+  
+    {
+      "title"    : "LOQ4055",
+      "url"      : "/pyjupiter/EQD/loq4055.html",
+      "nome"     : " Quimica Inorgânica"
+    } ,
+  
+    {
+      "title"    : "LOQ4083",
+      "url"      : "/pyjupiter/EQD/loq4083.html",
+      "nome"     : " Fenômenos de Transporte I"
+    } ,
+  
+    {
+      "title"    : "LOB1006",
+      "url"      : "/pyjupiter/EQD/lob1006.html",
+      "nome"     : " Cálculo IV"
+    } ,
+  
+    {
+      "title"    : "LOB1011",
+      "url"      : "/pyjupiter/EQD/lob1011.html",
+      "nome"     : " Eletricidade Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOB1040",
+      "url"      : "/pyjupiter/EQD/lob1040.html",
+      "nome"     : " Laboratório de Eletricidade"
+    } ,
+  
+    {
+      "title"    : "LOB1055",
+      "url"      : "/pyjupiter/EQD/lob1055.html",
+      "nome"     : " Fundamentos de Engenharia de Segurança no Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOM3081",
+      "url"      : "/pyjupiter/EQD/lom3081.html",
+      "nome"     : " Introdução à Mecânica dos Sólidos"
+    } ,
+  
+    {
+      "title"    : "LOQ4033",
+      "url"      : "/pyjupiter/EQD/loq4033.html",
+      "nome"     : " Química Inorgânica Experimental"
+    } ,
+  
+    {
+      "title"    : "LOQ4037",
+      "url"      : "/pyjupiter/EQD/loq4037.html",
+      "nome"     : " Química Orgânica I"
+    } ,
+  
+    {
+      "title"    : "LOQ4056",
+      "url"      : "/pyjupiter/EQD/loq4056.html",
+      "nome"     : " Química Analítica para Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOQ4087",
+      "url"      : "/pyjupiter/EQD/loq4087.html",
+      "nome"     : " Termodinâmica Química Aplicada I"
+    } ,
+  
+    {
+      "title"    : "LOQ4009",
+      "url"      : "/pyjupiter/EQD/loq4009.html",
+      "nome"     : " Instrumentação na Industria Química"
+    } ,
+  
+    {
+      "title"    : "LOQ4022",
+      "url"      : "/pyjupiter/EQD/loq4022.html",
+      "nome"     : " Processos Químicos Industriais I"
+    } ,
+  
+    {
+      "title"    : "LOQ4038",
+      "url"      : "/pyjupiter/EQD/loq4038.html",
+      "nome"     : " Química Orgânica II"
+    } ,
+  
+    {
+      "title"    : "LOQ4084",
+      "url"      : "/pyjupiter/EQD/loq4084.html",
+      "nome"     : " Fenômenos de Transporte II"
+    } ,
+  
+    {
+      "title"    : "LOQ4085",
+      "url"      : "/pyjupiter/EQD/loq4085.html",
+      "nome"     : " Operações Unitárias I"
+    } ,
+  
+    {
+      "title"    : "LOQ4088",
+      "url"      : "/pyjupiter/EQD/loq4088.html",
+      "nome"     : " Termodinâmica Química Aplicada II"
+    } ,
+  
+    {
+      "title"    : "LOQ4234",
+      "url"      : "/pyjupiter/EQD/loq4234.html",
+      "nome"     : " Empreendedorismo"
+    } ,
+  
+    {
+      "title"    : "LOM3022",
+      "url"      : "/pyjupiter/EQD/lom3022.html",
+      "nome"     : " Materiais para a  Indústria Química"
+    } ,
+  
+    {
+      "title"    : "LOQ4001",
+      "url"      : "/pyjupiter/EQD/loq4001.html",
+      "nome"     : " Análise Instrumental"
+    } ,
+  
+    {
+      "title"    : "LOQ4003",
+      "url"      : "/pyjupiter/EQD/loq4003.html",
+      "nome"     : " Cinética Química Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOQ4054",
+      "url"      : "/pyjupiter/EQD/loq4054.html",
+      "nome"     : " Fenômenos de Transporte III"
+    } ,
+  
+    {
+      "title"    : "LOQ4060",
+      "url"      : "/pyjupiter/EQD/loq4060.html",
+      "nome"     : " Laboratório de Engenharia Química I"
+    } ,
+  
+    {
+      "title"    : "LOQ4082",
+      "url"      : "/pyjupiter/EQD/loq4082.html",
+      "nome"     : " Corrosão"
+    } ,
+  
+    {
+      "title"    : "LOQ4086",
+      "url"      : "/pyjupiter/EQD/loq4086.html",
+      "nome"     : " Operações Unitárias II"
+    } ,
+  
+    {
+      "title"    : "LOT2004",
+      "url"      : "/pyjupiter/EQD/lot2004.html",
+      "nome"     : " Bioquímica"
+    } ,
+  
+    {
+      "title"    : "LOB1046",
+      "url"      : "/pyjupiter/EQD/lob1046.html",
+      "nome"     : " Engenharia do Meio Ambiente"
+    } ,
+  
+    {
+      "title"    : "LOQ4002",
+      "url"      : "/pyjupiter/EQD/loq4002.html",
+      "nome"     : " Reatores Quimicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4004",
+      "url"      : "/pyjupiter/EQD/loq4004.html",
+      "nome"     : " Controle de Processos Químicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4057",
+      "url"      : "/pyjupiter/EQD/loq4057.html",
+      "nome"     : " Operações Unitárias III"
+    } ,
+  
+    {
+      "title"    : "LOQ4061",
+      "url"      : "/pyjupiter/EQD/loq4061.html",
+      "nome"     : " Laboratório de Engenharia Química II"
+    } ,
+  
+    {
+      "title"    : "LOQ4064",
+      "url"      : "/pyjupiter/EQD/loq4064.html",
+      "nome"     : " Engenharia de Processos Quimicos I"
+    } ,
+  
+    {
+      "title"    : "LOQ4209",
+      "url"      : "/pyjupiter/EQD/loq4209.html",
+      "nome"     : " Engenharia da Qualidade I"
+    } ,
+  
+    {
+      "title"    : "LOQ4233",
+      "url"      : "/pyjupiter/EQD/loq4233.html",
+      "nome"     : " Gestão de Negócios"
+    } ,
+  
+    {
+      "title"    : "LOQ4023",
+      "url"      : "/pyjupiter/EQD/loq4023.html",
+      "nome"     : " Processos Químicos Industriais II"
+    } ,
+  
+    {
+      "title"    : "LOQ4059",
+      "url"      : "/pyjupiter/EQD/loq4059.html",
+      "nome"     : " Polímeros"
+    } ,
+  
+    {
+      "title"    : "LOQ4062",
+      "url"      : "/pyjupiter/EQD/loq4062.html",
+      "nome"     : " Laboratório de Engenharia Química III"
+    } ,
+  
+    {
+      "title"    : "LOQ4063",
+      "url"      : "/pyjupiter/EQD/loq4063.html",
+      "nome"     : " Laboratório de Engenharia Química IV"
+    } ,
+  
+    {
+      "title"    : "LOQ4065",
+      "url"      : "/pyjupiter/EQD/loq4065.html",
+      "nome"     : " Engenharia de Processos Químicos II"
+    } ,
+  
+    {
+      "title"    : "LOQ4078",
+      "url"      : "/pyjupiter/EQD/loq4078.html",
+      "nome"     : " Modelagem e Simulação de Processos"
+    } ,
+  
+    {
+      "title"    : "LOT2041",
+      "url"      : "/pyjupiter/EQD/lot2041.html",
+      "nome"     : " Engenharia Bioquímica"
+    } ,
+  
+    {
+      "title"    : "LOB1010",
+      "url"      : "/pyjupiter/EQD/lob1010.html",
+      "nome"     : " Direito  Aplicado à Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOB1031",
+      "url"      : "/pyjupiter/EQD/lob1031.html",
+      "nome"     : " Psicologia Organizacional e do Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOQ4024",
+      "url"      : "/pyjupiter/EQD/loq4024.html",
+      "nome"     : " Processos Químicos Industriais III"
+    } ,
+  
+    {
+      "title"    : "LOQ4047",
+      "url"      : "/pyjupiter/EQD/loq4047.html",
+      "nome"     : " Trabalho de Conclusão de Curso I"
+    } ,
+  
+    {
+      "title"    : "LOQ4049",
+      "url"      : "/pyjupiter/EQD/loq4049.html",
+      "nome"     : " Projeto na Industria Química"
+    } ,
+  
+    {
+      "title"    : "LOQ4050",
+      "url"      : "/pyjupiter/EQD/loq4050.html",
+      "nome"     : " Engenharia Econômica"
+    } ,
+  
+    {
+      "title"    : "LOQ4250",
+      "url"      : "/pyjupiter/EQD/loq4250.html",
+      "nome"     : " Fundamentos de Administração da Produção"
+    } ,
+  
+    {
+      "title"    : "LOT2042",
+      "url"      : "/pyjupiter/EQD/lot2042.html",
+      "nome"     : " Processos Bioquímicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4048",
+      "url"      : "/pyjupiter/EQD/loq4048.html",
+      "nome"     : " Trabalho de  Conclusão do Curso II"
+    } ,
+  
+    {
+      "title"    : "LOQ4051",
+      "url"      : "/pyjupiter/EQD/loq4051.html",
+      "nome"     : " Estágio Supervisionado"
+    } ,
+  
+    {
+      "title"    : "LOQ4091",
+      "url"      : "/pyjupiter/EQD/loq4091.html",
+      "nome"     : " Projeto Integrador em Engenharia Química I"
+    } ,
+  
+    {
+      "title"    : "LOQ4092",
+      "url"      : "/pyjupiter/EQD/loq4092.html",
+      "nome"     : " Ecoeficiência na Indústria"
+    } ,
+  
+    {
+      "title"    : "LOQ4058",
+      "url"      : "/pyjupiter/EQD/loq4058.html",
+      "nome"     : " Fenômenos de Superfície e Eletroquímica"
+    } ,
+  
+    {
+      "title"    : "LOQ4096",
+      "url"      : "/pyjupiter/EQD/loq4096.html",
+      "nome"     : " Moléculas Funcionais e Dispositivos Tecnologicos"
+    } ,
+  
+    {
+      "title"    : "8800008",
+      "url"      : "/pyjupiter/EQD/8800008.html",
+      "nome"     : " Projetos Especiais em Engenharia I"
+    } ,
+  
+    {
+      "title"    : "8800014",
+      "url"      : "/pyjupiter/EQD/8800014.html",
+      "nome"     : " Projetos Especiais em Gestão da Inovação"
+    } ,
+  
+    {
+      "title"    : "8800013",
+      "url"      : "/pyjupiter/EQD/8800013.html",
+      "nome"     : " Projetos Especiais em Engenharia II"
+    } ,
+  
+    {
+      "title"    : "LOQ4093",
+      "url"      : "/pyjupiter/EQD/loq4093.html",
+      "nome"     : " Petróleo e Gás Natural"
+    } ,
+  
+    {
+      "title"    : "LOB1013",
+      "url"      : "/pyjupiter/EQD/lob1013.html",
+      "nome"     : " Filosofia da Ciência"
+    } ,
+  
+    {
+      "title"    : "LOB1047",
+      "url"      : "/pyjupiter/EQD/lob1047.html",
+      "nome"     : " Tópicos Especiais de Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4005",
+      "url"      : "/pyjupiter/EQD/loq4005.html",
+      "nome"     : " Controle Estatístico de Processos"
+    } ,
+  
+    {
+      "title"    : "LOQ4008",
+      "url"      : "/pyjupiter/EQD/loq4008.html",
+      "nome"     : " Gestão Tecnológica"
+    } ,
+  
+    {
+      "title"    : "LOQ4019",
+      "url"      : "/pyjupiter/EQD/loq4019.html",
+      "nome"     : " Planejamento de Experimentos"
+    } ,
+  
+    {
+      "title"    : "LOQ4043",
+      "url"      : "/pyjupiter/EQD/loq4043.html",
+      "nome"     : " Tubulações Industriais"
+    } ,
+  
+    {
+      "title"    : "LOQ4052",
+      "url"      : "/pyjupiter/EQD/loq4052.html",
+      "nome"     : " Tópicos Especiais de Gestão e Produção"
+    } ,
+  
+    {
+      "title"    : "LOQ4066",
+      "url"      : "/pyjupiter/EQD/loq4066.html",
+      "nome"     : " Sistemas Particulados"
+    } ,
+  
+    {
+      "title"    : "LOQ4067",
+      "url"      : "/pyjupiter/EQD/loq4067.html",
+      "nome"     : " Tópicos Especiais em Engenharia Química I"
+    } ,
+  
+    {
+      "title"    : "LOQ4068",
+      "url"      : "/pyjupiter/EQD/loq4068.html",
+      "nome"     : " Tópicos Especiais em Engenharia Química II"
+    } ,
+  
+    {
+      "title"    : "LOQ4069",
+      "url"      : "/pyjupiter/EQD/loq4069.html",
+      "nome"     : " Tópicos Especiais de Operações Unitárias"
+    } ,
+  
+    {
+      "title"    : "LOQ4070",
+      "url"      : "/pyjupiter/EQD/loq4070.html",
+      "nome"     : " Tópicos Especiais de Reatores Químicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4071",
+      "url"      : "/pyjupiter/EQD/loq4071.html",
+      "nome"     : " Tópicos Especiais de Gestão da Qualidade"
+    } ,
+  
+    {
+      "title"    : "LOQ4072",
+      "url"      : "/pyjupiter/EQD/loq4072.html",
+      "nome"     : " Processos de Separação por Membranas"
+    } ,
+  
+    {
+      "title"    : "LOQ4235",
+      "url"      : "/pyjupiter/EQD/loq4235.html",
+      "nome"     : " Tópicos Especiais de Gestão de Negócios"
+    } ,
+  
+    {
+      "title"    : "LOQ4094",
+      "url"      : "/pyjupiter/EQD/loq4094.html",
+      "nome"     : " Petroquímica"
+    } ,
+  
+    {
+      "title"    : "LOB1003",
+      "url"      : "/pyjupiter/EQN/lob1003.html",
+      "nome"     : " Cálculo I"
+    } ,
+  
+    {
+      "title"    : "LOB1009",
+      "url"      : "/pyjupiter/EQN/lob1009.html",
+      "nome"     : " Leitura e Interpretação de Desenho Técnico"
+    } ,
+  
+    {
+      "title"    : "LOB1036",
+      "url"      : "/pyjupiter/EQN/lob1036.html",
+      "nome"     : " Geometria Analítica"
+    } ,
+  
+    {
+      "title"    : "LOB1045",
+      "url"      : "/pyjupiter/EQN/lob1045.html",
+      "nome"     : " Leitura e Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOM3016",
+      "url"      : "/pyjupiter/EQN/lom3016.html",
+      "nome"     : " Introdução à  Ciência dos Materiais"
+    } ,
+  
+    {
+      "title"    : "LOQ4010",
+      "url"      : "/pyjupiter/EQN/loq4010.html",
+      "nome"     : " Introdução à  Engenharia  Química"
+    } ,
+  
+    {
+      "title"    : "LOQ4031",
+      "url"      : "/pyjupiter/EQN/loq4031.html",
+      "nome"     : " Química Geral I"
+    } ,
+  
+    {
+      "title"    : "LOB1004",
+      "url"      : "/pyjupiter/EQN/lob1004.html",
+      "nome"     : " Cálculo II"
+    } ,
+  
+    {
+      "title"    : "LOB1018",
+      "url"      : "/pyjupiter/EQN/lob1018.html",
+      "nome"     : " Física I"
+    } ,
+  
+    {
+      "title"    : "LOB1037",
+      "url"      : "/pyjupiter/EQN/lob1037.html",
+      "nome"     : " Àlgebra Linear"
+    } ,
+  
+    {
+      "title"    : "LOB1038",
+      "url"      : "/pyjupiter/EQN/lob1038.html",
+      "nome"     : " Física Experimental I"
+    } ,
+  
+    {
+      "title"    : "LOQ4073",
+      "url"      : "/pyjupiter/EQN/loq4073.html",
+      "nome"     : " Química Geral II"
+    } ,
+  
+    {
+      "title"    : "LOQ4095",
+      "url"      : "/pyjupiter/EQN/loq4095.html",
+      "nome"     : " Química Geral Experimental"
+    } ,
+  
+    {
+      "title"    : "LOB1019",
+      "url"      : "/pyjupiter/EQN/lob1019.html",
+      "nome"     : " Física II"
+    } ,
+  
+    {
+      "title"    : "LOB1024",
+      "url"      : "/pyjupiter/EQN/lob1024.html",
+      "nome"     : " Mecânica"
+    } ,
+  
+    {
+      "title"    : "LOB1052",
+      "url"      : "/pyjupiter/EQN/lob1052.html",
+      "nome"     : " Cálculo III"
+    } ,
+  
+    {
+      "title"    : "LOB1056",
+      "url"      : "/pyjupiter/EQN/lob1056.html",
+      "nome"     : " Introdução aos Métodos Numéricos e Computacionais"
+    } ,
+  
+    {
+      "title"    : "LOQ4053",
+      "url"      : "/pyjupiter/EQN/loq4053.html",
+      "nome"     : " Balanços de Massa e Energia"
+    } ,
+  
+    {
+      "title"    : "LOB1006",
+      "url"      : "/pyjupiter/EQN/lob1006.html",
+      "nome"     : " Cálculo IV"
+    } ,
+  
+    {
+      "title"    : "LOB1012",
+      "url"      : "/pyjupiter/EQN/lob1012.html",
+      "nome"     : " Estatística"
+    } ,
+  
+    {
+      "title"    : "LOB1039",
+      "url"      : "/pyjupiter/EQN/lob1039.html",
+      "nome"     : " Física Experimental III"
+    } ,
+  
+    {
+      "title"    : "LOB1053",
+      "url"      : "/pyjupiter/EQN/lob1053.html",
+      "nome"     : " Física III"
+    } ,
+  
+    {
+      "title"    : "LOQ4055",
+      "url"      : "/pyjupiter/EQN/loq4055.html",
+      "nome"     : " Quimica Inorgânica"
+    } ,
+  
+    {
+      "title"    : "LOQ4083",
+      "url"      : "/pyjupiter/EQN/loq4083.html",
+      "nome"     : " Fenômenos de Transporte I"
+    } ,
+  
+    {
+      "title"    : "LOB1008",
+      "url"      : "/pyjupiter/EQN/lob1008.html",
+      "nome"     : " Ciência, Tecnologia e Sociedade"
+    } ,
+  
+    {
+      "title"    : "LOB1011",
+      "url"      : "/pyjupiter/EQN/lob1011.html",
+      "nome"     : " Eletricidade Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOB1040",
+      "url"      : "/pyjupiter/EQN/lob1040.html",
+      "nome"     : " Laboratório de Eletricidade"
+    } ,
+  
+    {
+      "title"    : "LOM3081",
+      "url"      : "/pyjupiter/EQN/lom3081.html",
+      "nome"     : " Introdução à Mecânica dos Sólidos"
+    } ,
+  
+    {
+      "title"    : "LOQ4037",
+      "url"      : "/pyjupiter/EQN/loq4037.html",
+      "nome"     : " Química Orgânica I"
+    } ,
+  
+    {
+      "title"    : "LOQ4056",
+      "url"      : "/pyjupiter/EQN/loq4056.html",
+      "nome"     : " Química Analítica para Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOQ4087",
+      "url"      : "/pyjupiter/EQN/loq4087.html",
+      "nome"     : " Termodinâmica Química Aplicada I"
+    } ,
+  
+    {
+      "title"    : "LOQ4022",
+      "url"      : "/pyjupiter/EQN/loq4022.html",
+      "nome"     : " Processos Químicos Industriais I"
+    } ,
+  
+    {
+      "title"    : "LOQ4033",
+      "url"      : "/pyjupiter/EQN/loq4033.html",
+      "nome"     : " Química Inorgânica Experimental"
+    } ,
+  
+    {
+      "title"    : "LOQ4038",
+      "url"      : "/pyjupiter/EQN/loq4038.html",
+      "nome"     : " Química Orgânica II"
+    } ,
+  
+    {
+      "title"    : "LOQ4084",
+      "url"      : "/pyjupiter/EQN/loq4084.html",
+      "nome"     : " Fenômenos de Transporte II"
+    } ,
+  
+    {
+      "title"    : "LOQ4085",
+      "url"      : "/pyjupiter/EQN/loq4085.html",
+      "nome"     : " Operações Unitárias I"
+    } ,
+  
+    {
+      "title"    : "LOQ4088",
+      "url"      : "/pyjupiter/EQN/loq4088.html",
+      "nome"     : " Termodinâmica Química Aplicada II"
+    } ,
+  
+    {
+      "title"    : "LOQ4001",
+      "url"      : "/pyjupiter/EQN/loq4001.html",
+      "nome"     : " Análise Instrumental"
+    } ,
+  
+    {
+      "title"    : "LOQ4003",
+      "url"      : "/pyjupiter/EQN/loq4003.html",
+      "nome"     : " Cinética Química Aplicada"
+    } ,
+  
+    {
+      "title"    : "LOQ4054",
+      "url"      : "/pyjupiter/EQN/loq4054.html",
+      "nome"     : " Fenômenos de Transporte III"
+    } ,
+  
+    {
+      "title"    : "LOQ4086",
+      "url"      : "/pyjupiter/EQN/loq4086.html",
+      "nome"     : " Operações Unitárias II"
+    } ,
+  
+    {
+      "title"    : "LOT2004",
+      "url"      : "/pyjupiter/EQN/lot2004.html",
+      "nome"     : " Bioquímica"
+    } ,
+  
+    {
+      "title"    : "LOQ4002",
+      "url"      : "/pyjupiter/EQN/loq4002.html",
+      "nome"     : " Reatores Quimicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4057",
+      "url"      : "/pyjupiter/EQN/loq4057.html",
+      "nome"     : " Operações Unitárias III"
+    } ,
+  
+    {
+      "title"    : "LOQ4060",
+      "url"      : "/pyjupiter/EQN/loq4060.html",
+      "nome"     : " Laboratório de Engenharia Química I"
+    } ,
+  
+    {
+      "title"    : "LOQ4064",
+      "url"      : "/pyjupiter/EQN/loq4064.html",
+      "nome"     : " Engenharia de Processos Quimicos I"
+    } ,
+  
+    {
+      "title"    : "LOQ4209",
+      "url"      : "/pyjupiter/EQN/loq4209.html",
+      "nome"     : " Engenharia da Qualidade I"
+    } ,
+  
+    {
+      "title"    : "LOQ4234",
+      "url"      : "/pyjupiter/EQN/loq4234.html",
+      "nome"     : " Empreendedorismo"
+    } ,
+  
+    {
+      "title"    : "LOB1046",
+      "url"      : "/pyjupiter/EQN/lob1046.html",
+      "nome"     : " Engenharia do Meio Ambiente"
+    } ,
+  
+    {
+      "title"    : "LOB1055",
+      "url"      : "/pyjupiter/EQN/lob1055.html",
+      "nome"     : " Fundamentos de Engenharia de Segurança no Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOQ4009",
+      "url"      : "/pyjupiter/EQN/loq4009.html",
+      "nome"     : " Instrumentação na Industria Química"
+    } ,
+  
+    {
+      "title"    : "LOQ4023",
+      "url"      : "/pyjupiter/EQN/loq4023.html",
+      "nome"     : " Processos Químicos Industriais II"
+    } ,
+  
+    {
+      "title"    : "LOQ4061",
+      "url"      : "/pyjupiter/EQN/loq4061.html",
+      "nome"     : " Laboratório de Engenharia Química II"
+    } ,
+  
+    {
+      "title"    : "LOQ4082",
+      "url"      : "/pyjupiter/EQN/loq4082.html",
+      "nome"     : " Corrosão"
+    } ,
+  
+    {
+      "title"    : "LOT2041",
+      "url"      : "/pyjupiter/EQN/lot2041.html",
+      "nome"     : " Engenharia Bioquímica"
+    } ,
+  
+    {
+      "title"    : "LOQ4004",
+      "url"      : "/pyjupiter/EQN/loq4004.html",
+      "nome"     : " Controle de Processos Químicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4050",
+      "url"      : "/pyjupiter/EQN/loq4050.html",
+      "nome"     : " Engenharia Econômica"
+    } ,
+  
+    {
+      "title"    : "LOQ4059",
+      "url"      : "/pyjupiter/EQN/loq4059.html",
+      "nome"     : " Polímeros"
+    } ,
+  
+    {
+      "title"    : "LOQ4062",
+      "url"      : "/pyjupiter/EQN/loq4062.html",
+      "nome"     : " Laboratório de Engenharia Química III"
+    } ,
+  
+    {
+      "title"    : "LOQ4065",
+      "url"      : "/pyjupiter/EQN/loq4065.html",
+      "nome"     : " Engenharia de Processos Químicos II"
+    } ,
+  
+    {
+      "title"    : "LOT2042",
+      "url"      : "/pyjupiter/EQN/lot2042.html",
+      "nome"     : " Processos Bioquímicos"
+    } ,
+  
+    {
+      "title"    : "LOM3022",
+      "url"      : "/pyjupiter/EQN/lom3022.html",
+      "nome"     : " Materiais para a  Indústria Química"
+    } ,
+  
+    {
+      "title"    : "LOQ4024",
+      "url"      : "/pyjupiter/EQN/loq4024.html",
+      "nome"     : " Processos Químicos Industriais III"
+    } ,
+  
+    {
+      "title"    : "LOQ4047",
+      "url"      : "/pyjupiter/EQN/loq4047.html",
+      "nome"     : " Trabalho de Conclusão de Curso I"
+    } ,
+  
+    {
+      "title"    : "LOQ4063",
+      "url"      : "/pyjupiter/EQN/loq4063.html",
+      "nome"     : " Laboratório de Engenharia Química IV"
+    } ,
+  
+    {
+      "title"    : "LOQ4078",
+      "url"      : "/pyjupiter/EQN/loq4078.html",
+      "nome"     : " Modelagem e Simulação de Processos"
+    } ,
+  
+    {
+      "title"    : "LOQ4233",
+      "url"      : "/pyjupiter/EQN/loq4233.html",
+      "nome"     : " Gestão de Negócios"
+    } ,
+  
+    {
+      "title"    : "LOB1010",
+      "url"      : "/pyjupiter/EQN/lob1010.html",
+      "nome"     : " Direito  Aplicado à Engenharia"
+    } ,
+  
+    {
+      "title"    : "LOB1031",
+      "url"      : "/pyjupiter/EQN/lob1031.html",
+      "nome"     : " Psicologia Organizacional e do Trabalho"
+    } ,
+  
+    {
+      "title"    : "LOQ4048",
+      "url"      : "/pyjupiter/EQN/loq4048.html",
+      "nome"     : " Trabalho de  Conclusão do Curso II"
+    } ,
+  
+    {
+      "title"    : "LOQ4049",
+      "url"      : "/pyjupiter/EQN/loq4049.html",
+      "nome"     : " Projeto na Industria Química"
+    } ,
+  
+    {
+      "title"    : "LOQ4051",
+      "url"      : "/pyjupiter/EQN/loq4051.html",
+      "nome"     : " Estágio Supervisionado"
+    } ,
+  
+    {
+      "title"    : "LOQ4250",
+      "url"      : "/pyjupiter/EQN/loq4250.html",
+      "nome"     : " Fundamentos de Administração da Produção"
+    } ,
+  
+    {
+      "title"    : "LOQ4091",
+      "url"      : "/pyjupiter/EQN/loq4091.html",
+      "nome"     : " Projeto Integrador em Engenharia Química I"
+    } ,
+  
+    {
+      "title"    : "LOQ4092",
+      "url"      : "/pyjupiter/EQN/loq4092.html",
+      "nome"     : " Ecoeficiência na Indústria"
+    } ,
+  
+    {
+      "title"    : "LOQ4096",
+      "url"      : "/pyjupiter/EQN/loq4096.html",
+      "nome"     : " Moléculas Funcionais e Dispositivos Tecnologicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4058",
+      "url"      : "/pyjupiter/EQN/loq4058.html",
+      "nome"     : " Fenômenos de Superfície e Eletroquímica"
+    } ,
+  
+    {
+      "title"    : "LOQ4093",
+      "url"      : "/pyjupiter/EQN/loq4093.html",
+      "nome"     : " Petróleo e Gás Natural"
+    } ,
+  
+    {
+      "title"    : "LOB1013",
+      "url"      : "/pyjupiter/EQN/lob1013.html",
+      "nome"     : " Filosofia da Ciência"
+    } ,
+  
+    {
+      "title"    : "LOB1047",
+      "url"      : "/pyjupiter/EQN/lob1047.html",
+      "nome"     : " Tópicos Especiais de Produção de Textos Acadêmicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4005",
+      "url"      : "/pyjupiter/EQN/loq4005.html",
+      "nome"     : " Controle Estatístico de Processos"
+    } ,
+  
+    {
+      "title"    : "LOQ4008",
+      "url"      : "/pyjupiter/EQN/loq4008.html",
+      "nome"     : " Gestão Tecnológica"
+    } ,
+  
+    {
+      "title"    : "LOQ4019",
+      "url"      : "/pyjupiter/EQN/loq4019.html",
+      "nome"     : " Planejamento de Experimentos"
+    } ,
+  
+    {
+      "title"    : "LOQ4043",
+      "url"      : "/pyjupiter/EQN/loq4043.html",
+      "nome"     : " Tubulações Industriais"
+    } ,
+  
+    {
+      "title"    : "LOQ4052",
+      "url"      : "/pyjupiter/EQN/loq4052.html",
+      "nome"     : " Tópicos Especiais de Gestão e Produção"
+    } ,
+  
+    {
+      "title"    : "LOQ4066",
+      "url"      : "/pyjupiter/EQN/loq4066.html",
+      "nome"     : " Sistemas Particulados"
+    } ,
+  
+    {
+      "title"    : "LOQ4067",
+      "url"      : "/pyjupiter/EQN/loq4067.html",
+      "nome"     : " Tópicos Especiais em Engenharia Química I"
+    } ,
+  
+    {
+      "title"    : "LOQ4068",
+      "url"      : "/pyjupiter/EQN/loq4068.html",
+      "nome"     : " Tópicos Especiais em Engenharia Química II"
+    } ,
+  
+    {
+      "title"    : "LOQ4069",
+      "url"      : "/pyjupiter/EQN/loq4069.html",
+      "nome"     : " Tópicos Especiais de Operações Unitárias"
+    } ,
+  
+    {
+      "title"    : "LOQ4070",
+      "url"      : "/pyjupiter/EQN/loq4070.html",
+      "nome"     : " Tópicos Especiais de Reatores Químicos"
+    } ,
+  
+    {
+      "title"    : "LOQ4071",
+      "url"      : "/pyjupiter/EQN/loq4071.html",
+      "nome"     : " Tópicos Especiais de Gestão da Qualidade"
+    } ,
+  
+    {
+      "title"    : "LOQ4072",
+      "url"      : "/pyjupiter/EQN/loq4072.html",
+      "nome"     : " Processos de Separação por Membranas"
+    } ,
+  
+    {
+      "title"    : "LOQ4094",
+      "url"      : "/pyjupiter/EQN/loq4094.html",
+      "nome"     : " Petroquímica"
+    } ,
+  
+    {
+      "title"    : "LOQ4235",
+      "url"      : "/pyjupiter/EQN/loq4235.html",
+      "nome"     : " Tópicos Especiais de Gestão de Negócios"
+    } 
+  
+]
