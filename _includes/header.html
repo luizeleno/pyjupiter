@@ -5,7 +5,7 @@
 <nav class="navbar navbar-expand-xl navbar-dark bg-dark py-0 my-0">
 
 <a class="navbar-brand" href="{{site.baseurl}}/">
-  <img src="{{site.baseurl}}/assets/images/logos/eel-logo.png" height="30px" title="{{site.name}} &mdash; {{site.unidade.sigla}}/{{site.universidade.sigla}}">
+  <img src="{{site.baseurl}}/assets/images/logos/jupiter.jpg" height="30px" title="{{site.name}} &mdash; {{site.unidade.sigla}}/{{site.universidade.sigla}}">
   <span data-toggle="tooltip" data-placement="bottom" title="{{site.name}} &mdash; {{site.unidade.sigla}}/{{site.universidade.sigla}}">
     {{site.title}}
   </span>
@@ -46,9 +46,14 @@
       <a id="no-ext-link" href="https://site.eel.usp.br/" title="Escola de Engenharia de Lorena - EEL" target="_blank"><img src="{{site.baseurl}}/assets/images/logos/logo_eel_2017.png" height="30px"></a>
     </div> -->
 
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-0 mr-sm-2" type="search" placeholder="Buscar disciplina..." aria-label="Search" id="search-input">
-    </form>
+    <div class="form-inline my-2 my-lg-0">
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <span class="input-group-text" id="Busca">{% octicon search %}</span>
+        </div>
+        <input type="search" class="form-control mr-0 mr-sm-2" placeholder="Buscar disciplina..." aria-label="Search" aria-describedby="Search" id="search-input">
+      </div>
+    </div>
 
   </div>
 
