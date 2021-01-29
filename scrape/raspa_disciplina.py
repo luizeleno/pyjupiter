@@ -25,6 +25,12 @@ def scrape_disciplina(URL):
     text = page.text
     text = remove_control_characters(text)
     text = text.replace('<br>', '\n')
+    text = text.replace('<BR>', '\n')
+
+    # Patch: correção específica para LOM3015, na norma de recuperação
+    # até encontrar maneira de evitar a conjunção <NF< ser interpretada como tag
+    text = text.replace('<NF<', '&leq;NF&lt;')
+
     soup = BeautifulSoup(text, 'html5lib')
 
     for span_tag in soup('span'):
@@ -84,9 +90,8 @@ def scrape_disciplina(URL):
 
 
 if __name__ == '__main__':
-    disciplina = 'https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1003&codcur=88301&codhab=0'
+    disciplina = 'https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3015&codcur=88202&codhab=0'
+    # disciplina = 'https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3071&codcur=88202&codhab=0'
     dic = {}
     dic = scrape_disciplina(disciplina)
-    # for k, v in dic.items():
-        # print(f'{k}: {v}')
-        # print('-'*30)
+    # [ print(f'{k}: {v}\n' + '-' * 30) for k, v in dic.items() ]

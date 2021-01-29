@@ -181,7 +181,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   CT: "0"
   CH: "30 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2014"
+  ativacao: "01/01/2021"
   objetivos: "Apresentar a engenharia de produção e suas principais áreas de atuação, bem como introduzir o aluno num ambiente de engenharia."
   resumo: "A engenharia de Produção. As grandes áreas da engenharia de produção. Projeto de Engenharia."
   programa: "1 - A ENGENHARIA DE PRODUÇÃO: O campo de trabalho do engenheiro de produção..As áreas de atuação da engenharia de produção. O currículo do curso de engenharia de produção na EEL/USP
@@ -189,15 +189,15 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
 2 - AS GRANDES AREAS DA ENGENHARIA DE PRODUÇÃO: Noções básicas de Planejamento e controle da produção, pesquisa operacional. Gestão e controle de qualidade. Projeto do produto. Projeto da fábrica. Projeto e estudo de métodos de trabalho. Engenharia da Sustentabilidade, Engenharia Econômica, Gestão de Tecnologia de Informação.
 
 3  PROJETO DE ENGENHARIA: Noções básicas de projetos de engenharia."
-  metodo: "Trabalhos em grupo; palestras e aulas expositivas"
-  criterio: "Provas e trabalhos."
-  exame: "Prova única com nota maior ou igual a 5,0 (cinco)"
+  metodo: "Aulas expositivas e dialogadas; dinâmicas, projetos e trabalhos em grupo; exercícios individuais; e, seminários, debates e palestras"
+  criterio: "Média Aritmética dos Projetos, Trabalhos e Exercícios realizados no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude) desenvolvidas."
+  exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "BAZZO, W.A. Introdução à Engenharia. Florianópolis: Editora da UFSC, 1998.
 
 SLACK, N. et. al. Administração da Produção. São Paulo, Atlas, 1999. 
 
 BATALHA, M.O. et al , Introdução à Engenharia de Produção, Rio de Janeiro, Elsevier, 2008."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  docentes: ['11079086 - Herlandí de Souza Andrade']
 - LOQ4236:
   sigla: "LOQ4236"
   nome: " Projeto Integrado de Engenharia de Produção I"
@@ -438,20 +438,20 @@ Textos complementares serão usados durante o curso."
   objectives: ""
   abstract: ""
   program: ""
-  ndoc: "1"
+  ndoc: "2"
   CA: "2"
   CT: "0"
   CH: "30 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2015"
+  ativacao: "01/01/2021"
   objetivos: "Introduzir os conceitos fundamentais da ciência administração e de configurações de uma organização."
   resumo: "1. Conceitos Fundamentais de Administração.
 2. Noções Básicas de Estratégia."
   programa: "1. Teoria Geral de Administração: Histórico. Visão de Taylor. Escola clássica de administração.
 2. Conceitos básicos de Estratégia, Análise SWOT, Balanced ScoreCard, Mapas Estratégicos"
-  metodo: "Aulas Expositivas; trabalhos em grupo; exercícios individuais e palestras"
-  criterio: "Provas e trabalhos."
-  exame: "Prova única com nota maior ou igual a 5,0 (cinco)"
+  metodo: "Aulas expositivas e dialogadas; dinâmicas, projetos e trabalhos em grupo; exercícios individuais; e, seminários, debates e palestras."
+  criterio: "Média Aritmética dos Projetos, Trabalhos e Exercícios realizados no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude) desenvolvidas."
+  exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "CHIAVENATO, I; SAPIRO, A. Planejamento Estratégico. Rio de Janeiro. Campus, 2004 
 
 COLLINS, J.C.; PORRAS, J. I. Feitas para Durar: Práticas bem-sucedidas de empresas visionárias. 9ª Ed.  Rio de Janeiro. Rocco, 2007 
@@ -465,7 +465,7 @@ KAPLAN, R; NORTON, D. A Estratégia em Ação: Balanced Scorecard. Rio de Janeir
 KAPLAN, R; NORTON, D. Mapas Estratégicos. Rio de Janeiro. Campus, 2004 
 
 TZU, S. A Arte da Guerra (Edição Completa). São Paulo. WMF Martins Fontes, 2009."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  docentes: ['11079086 - Herlandí de Souza Andrade', '5840560 - Marco Antonio Carvalho Pereira']
 - LOB1012:
   sigla: "LOB1012"
   nome: " Estatística"
@@ -677,42 +677,28 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   nome: " Administração e Organização II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4240&codcur=88351&codhab=4"
   requisitos:
-    - LOQ4239:
-      sigla: "LOQ4239"
-      nome: " Administração e Organização I "
-      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
   nome_en: "Management and Organization II"
-  objectives: ""
-  abstract: ""
-  program: ""
+  objectives: "Introduce the fundamental concepts of management science and organization selttings."
+  abstract: "1. Management Practice Areas. 2. Organizational structure"
+  program: "1. Basic notions of Marketing, Finance and Human Resources.2. Different organization settings."
   ndoc: "1"
   CA: "2"
   CT: "0"
   CH: "30 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2015"
+  ativacao: "01/01/2021"
   objetivos: "Introduzir os conceitos fundamentais da ciência administração e de configurações de uma organização."
-  resumo: "1. Áreas de Atuação da Administração.
-2. Estrutura organizacional."
-  programa: "1. Noções básicas de Marketing, Finanças e Recursos Humanos. 
-2. Diferentes configurações de organização."
-  metodo: "Aulas Expositivas; trabalhos em grupo; exercícios individuais e palestras."
-  criterio: "Provas e trabalhos."
-  exame: "Prova única com nota maior ou igual a 5,0 (cinco)"
-  bibliografia: "BOLMAN, L.G.; DEAL, T.E. Reframing organizations. San Francisco, John Wiley, 2013
-
-CHIAVENATO, I. Gestão de Pessoas. 2 ed. Rio de Janeiro, Campus, 2005.
-
-KOTLER, P.. O Marketing sem segredos. 1 ed. Porto Alegre. Bookman, 2005
-
-MINTZBERG, H. Criando organizações eficazes. 2 ed. São Paulo, Atlas, 2006.
-
-MORGAN, G. Imagens da organização. São Paulo, Atlas, 1996."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  resumo: "1. Áreas de Atuação da Administração.2. Estrutura organizacional."
+  programa: "1. Noções básicas de Marketing, Finanças e Recursos Humanos. 2. Diferentes configurações de organização."
+  metodo: "Aulas expositivas e dialogadas; dinâmicas, projetos e trabalhos em grupo; exercícios individuais; e, seminários, debates e palestras."
+  criterio: "Média Aritmética dos Projetos, Trabalhos, Exercícios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude, que incluem a presença e participação dos alunos nas aulas) desenvolvidas"
+  exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação"
+  bibliografia: "Chiavenato, I. Gestão de Pessoas. 4 ed. São Paulo: Manole, 2014.Chiavenato, I. Recursos Humanos: o capital humano das organizações. 10 ed. Rio de Janeiro, Campus, 2015.ROBBINS, S. P.; DECENZO, D. A.; WOLTER, R. Fundamentos de Gestão de Pessoas. São Paulo, saraiva, 2013.KOTLER, P. - ARMSTRONG, G. Princípios De Marketing. 15 ed. São Paulo: Pearson, 2014.KOTLER, P.; KELLER, K. L. Administração De Marketing. 15 ed. São Paulo: Pearson, 2019.CHIAVENATO, I. Introdução À Teoria Geral da Administração. 9 ed. São Paulo: Manole, 2014. MAXIMIANO, A. C. A. Teoria Geral da Administração: da Revolução Urbana À Revolução Digital. 8 ed. São Paulo: Atlas, 2017.GUERRINI, F. M.; ESCRIÇÃO FILHO, E.; ROSIM, D. Administração Para Engenheiros. Rio de Janeiro: Campus, 2016.CHIAVENATO, I. Administração Para Não Administradores: a Gestão de Negócios Ao Alcance de Todos. 2 ed. São Paulo: Manole, 2011.SILVA, M. M. L. Administração para Estudantes e Profissionais de Áreas Técnicas. São Paulo: Brasport, 2018.GITMAN, L. J. - ZUTTER, C. J. Princípios de Administração Financeira. 14 ed. São Paulo: Perason, 2017.GROPPELLI, A. A.; NIKBAKHT, E. Administração Financeira. 3 ed. São Paulo: Saraiva, 2010.MARCOUSÉ, I.; SURRIDGE, M.; GILLESPIE, A. Finanças. São Paulo: Saraiva, 2013.BOLMAN, L.G.; DEAL, T.E. Reframing organizations. San Francisco, John Wiley, 2013KOTLER, P.. O Marketing sem segredos. 1 ed. Porto Alegre. Bookman, 2005MINTZBERG, H. Criando organizações eficazes. 2 ed. São Paulo, Atlas, 2006.MORGAN, G. Imagens da organização. São Paulo, Atlas, 1996."
+  docentes: ['11079086 - Herlandí de Souza Andrade']
 - LOB1037:
   sigla: "LOB1037"
   nome: " Àlgebra Linear"
@@ -788,7 +774,7 @@ MORGAN, G. Imagens da organização. São Paulo, Atlas, 1996."
   semestre: "4"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
-  nome_en: ""
+  nome_en: "Multivariate Statistics"
   objectives: ""
   abstract: ""
   program: ""
@@ -797,31 +783,14 @@ MORGAN, G. Imagens da organização. São Paulo, Atlas, 1996."
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2016"
+  ativacao: "01/01/2021"
   objetivos: "Fornecer aos alunos os conceitos básicos de Estatística Multivariada assim como sua aplicação nos estudos de fenômenos onde vários componentes se comportam de forma correlacionada."
-  resumo: "Distribuições Multivariadas, Confiabilidade, Distribuições Amostrais Multivariadas, Inferências Sobre Vetores de Médias, Testes de Hipóteses Sobre Médias, Associação entre variáveis , Regressão Logística, Análise de Variância Multivariada, Análise de Agrupamento, Componentes Principais, Análise Fatorial"
-  programa: "Vetor de variáveis aleatórias, Distribuição conjunta, distribuição marginal, distribuição condicional. Esperança e variância condicional/marginal. Covariância e correlação entre duas variáveis aleatórias.Aplicação de probabilidade: confiabilidade (definição de função de confiabilidade, taxa de falha) e teoria de decisão,Método de estimação e propriedade dos estimadores.
-Teste para comparação de duas populações (média, proporção e variância); teste t-pareado.
-Distribuição qui-quadrado: testes de independência e aderência.
-Associação entre variáveis qualitativas: tabelas de contingência, coeficiente de associação, sensitividade e especificidade, risco relativo, razão de chances; abordagem não paramétrica.
-Associação ente uma variável quantitativa e uma variável qualitativa: homogeneidade de distribuições, anova com um fator, gráficos de médias, gráficos de perfis, regressão logística; abordagem não paramétrica.
-Associação entre variáveis quantitativas: gráficos de dispersão, correlação linear, concordância, gráfico de perfis, regressão linear simples; abordagem não paramétrica.
-Associação entre três ou mais variáveis: regressão linear múltipla, anova com dois fatores; abordagem não paramétrica.
-Análise de agrupamentos.
-Análise de componentes principais.
-Análise fatorial"
-  metodo: "Aulas expositivas teóricas, aulas práticas, aulas de exercícios."
-  criterio: "Duas Avaliações P1 e P2 sendo a média calculada por (P1+2*P2)/3"
-  exame: "Média aritmética da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recuperação."
-  bibliografia: "W. O. Bussab, P. A. Morettin, Estatística Básica, 8a ed., São Paulo: Editora Saraiva, 2013.
-
-M. N. Magalhães, A. C. Pedroso de Lima, Noções de Probabilidade e Estatística, 7a ed., 2ª reimpressão revista, São Paulo: Edusp, 2013.
-
-D. C. Montgomery, E. A. Peck, G. G. Vining, Introduction to Linear Regression Analysis, 4th ed., Hoboken: John Wiley, 2006.
-
-W. J. Conover, Practical Nonparametric Statistics, 3rd ed., New York: John Wiley d Sons, 1999.
-
-R. A. Johnson, D. W. Wichern, Applied Multivariate Statistical Analysis, 6th ed., New Jersey: Prentice Hall, 2007."
+  resumo: "Probabilidade: Vetor de variáveis aleatórias, Distribuição conjunta/marginal, Esperança e variância condicional/marginal. Estatística: Regressão Logística simples, Teste Qui-Quadrado, Testes de normalidade, Testes não-paramétricos. Técnicas Multivariadas: Gráficos multivariados, Regressão Linear Múltipla, Regressão Logística Múltipla, Análise de Variância Múltipla; Análise de agrupamento; Análise de componentes principais; Análise fatorial; Análise discriminante e Análise de correspondência"
+  programa: "Probabilidade: Vetor de variáveis aleatórias, Distribuição conjunta/marginal, Esperança e Variância condicional/marginal.Estatística: Regressão Logística simples (coeficiente de associação, sensitividade e especificidade, risco relativo, razão de chances), Teste Qui-Quadrado (testes de aderência, homogeneidade e independência), Teste de normalidade (Shapiro-Wilk, Teste de Kolmogorov-Smirnov), Testes não-paramétricos para amostras pareadas e independentes.Técnicas Multivariadas: Gráficos multivariados, Regressão Linear Múltipla, Regressão Logística Múltipla, Análise de Variância Múltipla; Análise de agrupamento; Análise de componentes principais; Análise fatorial; Análise discriminante e Análise de correspondência"
+  metodo: "NF=A avaliação será composta por provas, listas, projetos, seminários e outras formas que farão a composição das notas, sendo estipulada a média final a somatória destas notas (N), com no mínimo duas avaliações, sendo: N = (N1+...+Nn)/n"
+  criterio: "NF≥ 5,0."
+  exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
+  bibliografia: "G.C. Runger, D. Montgomery. Estatística aplicada e probabilidade para engenheiros. São Paulo: Ed. LTC, 2009. D. C. Montgomery, E. A. Peck, G. G. Vining, Introduction to Linear Regression Analysis, 4th ed., Hoboken: John Wiley, 2006.W. J. Conover, Practical Nonparametric Statistics, 3rd ed., New York: John Wiley d Sons, 1999.R. A. Johnson, D. W. Wichern, Applied Multivariate Statistical Analysis, 6th ed., New Jersey: Prentice Hall, 2007."
   docentes: ['4894221 - Mariana Pereira de Melo']
 - LOB1053:
   sigla: "LOB1053"
@@ -1109,49 +1078,14 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "Habilitar o aluno resolver problemas práticos em mecânica dos fluidos, modelando situações reais (através das equações de conservação e fenomenológicas), promovendo abstrações e adequando os casos ilustrados a novas situações. Capacitar o aluno a realizar cálculos de transferência de calor, utilizando os mecanismos, de condução e convecção, combinados ou não. Fornecer ao aluno condições de estabelecer um pré dimensionamento de um trocador de calor."
-  resumo: "Conceitos ligados ao escoamento de fluídos e equações fundamentais, Escoamento incompressível de fluidos não viscosos, Escoamento viscoso incompressível, Transferência de Calor."
-  programa: "1. Conceitos ligados ao escoamento de fluídos e equações fundamentais 
-1.1. Características e definições dos escoamentos;
-1.2. Conceitos de sistema e volume de controle;
-1.3. Equação da conservação da massa;
-1.4. Equação da conservação da energia;
-1.5. Equação da conservação da quantidade de movimento; 
-1.6. Introdução à análise diferencial do movimento de fluidos.
-2. Escoamento incompressível de fluidos não viscosos
-2.1. Equação de Euler;
-2.2. Equação de Bernoulli;
-2.3. Aplicações da equação de Bernoulli.
-3. Escoamento viscoso incompressível
-3.1. Atrito e perda de carga;
-3.2. Avaliação das perdas de carga: regime laminar e turbulento;
-3.3. Equações de Hagen - Poiseuille e Darcy  Weisbach
-3.4. Diagrama de Moody e Moody Rouse;
-3.5. Método dos comprimentos equivalentes.
-3.6. Presença de máquina no escoamento (bomba e turbina), Potência e rendimento;
-3.7. Medidores de vazão.
-4. Transferência de Calor
-4.1. Definição de Calor.
-4.2. Mecanismo da Condução.
-4.3. Mecanismo da Convecção.
-4.4. Associação de Mecanismos.
-5. Transferência de Massa
-5.1. Difusão e convecção mássica;
-5.2. 1ª lei de Fick;
-5.3. Concentrações mássica e molar;
-5.4. Frações mássica e molar;
-5.5. Velocidades médias mássica e molar;
-5.6. Fluxos difusivo mássico, difusivo molar, convectivo mássico e convectivo molar;
-5.7. Fluxo mássico total e fluxo molar total."
-  metodo: "Aulas expositivas teóricas, aulas práticas, aulas de exercícios."
+  ativacao: "01/01/2021"
+  objetivos: "1.Integrar o aluno com o conhecimento teórico e prático de fenômenos de transporte, abordando temas relacionados à Mecânica dos Fluidos, Transferência de Calor e Transferência de Massa, de forma a torná-lo capaz de compreender os processos físicos envolvidos nesses processos;2.Habilitar o aluno resolver problemas práticos em mecânica dos fluidos, modelando situações reais (através das equações de conservação e fenomenológicas), promovendo abstrações e adequando os casos ilustrados a novas situações.3.Capacitar o aluno a realizar cálculos de transferência de calor, utilizando os mecanismos, de condução e convecção, combinados ou não."
+  resumo: "Sistemas de unidades e dimensões. Conceitos básicos de escoamentos de fluidos e analogias entre transferência de momento linear, de calor e de massa. Estática e cinemática dos fluídos.  Descrição e classificação de escoamentos. Introdução à análise de escoamentos (volume de controle e diferencial). Introdução aos modos de transferência de calor (regime permanente e transiente). Introdução à transferência de massa."
+  programa: "1. Conceitos ligados ao escoamento de fluídos e equações fundamentais 1.1. Características e definições dos escoamentos;1.2. Conceitos de sistema e volume de controle;1.3. Equação da conservação da massa;1.4. Equação da conservação da energia;1.5. Equação da conservação da quantidade de movimento; 1.6. Introdução à análise diferencial do movimento de fluidos.2. Escoamento incompressível de fluidos não viscosos2.1. Equação de Euler;2.2. Equação de Bernoulli;2.3. Aplicações da equação de Bernoulli.3. Escoamento viscoso incompressível3.1. Atrito e perda de carga;3.2. Avaliação das perdas de carga: regime laminar e turbulento;3.3. Equações de Hagen - Poiseuille e Darcy  Weisbach3.4. Diagrama de Moody e Moody Rouse;3.5. Método dos comprimentos equivalentes.3.6. Presença de máquina no escoamento (bomba e turbina), Potência e rendimento;3.7. Medidores de vazão.4. Transferência de Calor4.1. Definição de Calor.4.2. Mecanismo da Condução.4.3. Mecanismo da Convecção.4.4. Associação de Mecanismos.5. Transferência de Massa5.1. Difusão e convecção mássica;5.2. 1ª lei de Fick;5.3. Concentrações mássica e molar;5.4. Frações mássica e molar;5.5. Velocidades médias mássica e molar;5.6. Fluxos difusivo mássico, difusivo molar, convectivo mássico e convectivo molar;5.7. Fluxo mássico total e fluxo molar total."
+  metodo: "Duas provas escritas"
   criterio: "A média para a primeira avaliação será calculada a partir das notas das duas provas, P1 e P2, segundo a fórmula: M1 = (P1 + 2 x P2)/3. Alunos com nota final igual ou superior a 5,0 estão aprovados, inferior a 5,0 estão de recuperação."
   exame: "A recuperação consistirá de uma prova envolvendo o assunto do semestre todo, à qual será atribuída nota NR. A média da segunda avaliação será calculada segunda a fórmula: M2 = (M1 + NR)/2. Alunos com nota M2 igual ou superior a 5,0 estarão aprovados, inferior a 5,0 estarão reprovados."
-  bibliografia: "1. FOX, R.W., MCDONALD, A.T., Introdução à Mecânica dos Fluidos, Ed. Guanabara Koogan.
-2. STREETER, V.L., WYLE,E.B., Mecânica dos Fluidos, Ed. Mc Graw Hill.
-3. OZISIK,M.N., Transferência de Calor., Ed. Guanabara Koogan. 
-4. INCROPERA, F.P.W., Fundamentos de Transferência de Calor e Massa, Ed. Guanabara Koogan.
-5. CREMASCO, M. A., Fundamentos de Transferência de Massa, Campinas, Editora da UNICAMP, 1998."
+  bibliografia: "1.LEVI, Celso P., Fundamentos de Fenômenos de Transporte. 2 ed. Ed. Gen/LTC. Rio de Janeiro/RJ. 2013.2.FOX, Robert.W., McDonald, Alan.T.; PRITCHARD, Philip J., Introdução à Mecânica dos Fluidos, 7 ed. Ed. Gen/LTC. Rio de Janeiro/RJ. 2012.3.KREITH, Frank; BOHN, Mark S., Fundamentos de Transferência de Calor, Ed. Cengage Learning, São Paulo/SP. 2011. 4.INCROPERA/ DEWITT/ BERGMAN/ LAVINE. Fundamentos de Transferência de Calor e Massa. 7 ed. Ed. Gen/LTC. Rio de Janeiro/RJ. 20145.CREMASCO, Marco. A., Fundamentos de Transferência de Massa, 3ed. Ed.  Blücher, São Paulo/SP. 2016"
   docentes: ['4808662 - Lucrécio Fábio dos Santos']
 - LOQ4206:
   sigla: "LOQ4206"
@@ -1169,19 +1103,19 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nome_en: "Operational Research I"
   objectives: "Understand Operational Research as a science applied to Industrial Engineering. Provide knowledge of the typical problems encountered in Industrial Engineering. Analyze, model and solve problems through Operational Research."
   abstract: "Introduction to Operational Research, Linear Programming, Simplex Method, Introduction to Graphs and Network Optimization, Case Study in Linear Programming, Introduction to Queue Theory."
-  program: "Introduction to Operational Research, Linear Programming, Simplex Method, Introduction to Graphs and Network Optimization, Case Study in Linear Programming, Introduction to Queue Theory."
+  program: "1. Introduction to Operational Research 1.1. Concepts of Operational Research; 1.2. Modeling; 1.3. Structure of Mathematical Models; 1.4. Mathematical techniques in Operational Research; 1.2. Phases of a Study in Operational Research 2. Linear Programming 2.1. Definition 2.2. Formulation of Models 2.3. Graphic Resolution; 3. Simplex method 3.1. Development of the Simplex Method; 3.2. Simplex Method Procedure; 4. Introduction to Graphs and Network Optimization 4.1. Basic Concepts in Graph Theory 4.2. Maximum Flow Problems; 4.3. Minimum Path Problems 5. Case Studies in Linear Programming 5.1. Simple Transport Model 5.2. Model of Designation. 6. Introduction to Queuing Theory 6.1. Queuing Theory Concepts 6.2. Markovian Models"
   ndoc: "1"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
+  ativacao: "01/01/2021"
   objetivos: "Compreender a Pesquisa Operacional como ciência aplicada à Engenharia de Produção. Proporcionar conhecimento dos problemas típicos encontrados em Engenharia de Produção. Analisar, Modelar e solucionar os problemas por meio da Pesquisa Operacional."
   resumo: "Introdução a Pesquisa Operacional, Programação Linear, Método Simplex, Introdução aos Grafos e à Otimização em Rede, Estudo de Casos em Programação Linear, Introdução a Teoria das Filas,"
   programa: "1. Introdução a Pesquisa Operacional1.1. Conceitos de Pesquisa Operacional;1.2. Modelagem;1.3. Estrutura dos Modelos Matemáticos;1.4. Técnicas matemáticas em Pesquisa Operacional;1.2. Fases de Um Estudo em Pesquisa Operacional2. Programação Linear2.1. Definição2.2. Formulação de Modelos2.3. Resolução Gráfica;3. Método Simplex3.1. Desenvolvimento do Método Simplex;3.2. Procedimento do Método Simplex;4. Introdução aos Grafos e à Otimização em Rede4.1. Conceitos Básicos em Teoria dos Grafos4.2. Problemas de Fluxo Máximo;4.3. Problemas de Caminho Mínimo5. Estudo de Casos em Programação Linear5.1. Modelo de Transporte Simples5.2. Modelo da Designação.6. Introdução a Teoria das Filas6.1. Conceitos da Teoria das Filas6.2. Modelos Markovianos"
-  metodo: "Aulas expositivas teóricas, aulas práticas, aulas de laboratório, aulas de exercícios."
-  criterio: "MF = (0,45*P1 + 0,45*P2 + 0,10*TRAB), onde P1 e P2 são provas e TRAB é a nota média de trabalhos e seminários."
-  exame: "Média aritmética da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recuperação."
+  metodo: "NF=A avaliação será composta por provas, listas, projetos, seminários e outras formas que farão a composição das notas, sendo estipulada a média final a somatória destas notas (N), com no mínimo duas avaliações, sendo: (N1+...+Nn)/n."
+  criterio: "NF≥ 5,0."
+  exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. HILLIER, F.S., LIEBERMAN, G.J., Introdução à Pesquisa Operacional, 8ªed., Editora McGraw-Hill, 2006.
 2. LACHTERMACHER, G., Pesquisa Operacional na Tomada de Decisão (modelagem em Excel), 4ª ed., Editora Campus, 2009.
 3. ANDERSON, D.R., SWEENEY, D.J. e WILLIAMS, T.A., An Introduction to Management Science 9ª ed., South-Western College Publishing, 2000.
@@ -1301,37 +1235,23 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
   nome_en: "General Economy"
-  objectives: "Introduce students of production engineering the basic concepts of Economic Science, enabling them to understand the main micro and macroeconomic concepts and to interpret the discourse and practice of economics, guided by their own critical sense."
-  abstract: "1 - Microeconomics. 2 - Macroeconomics. 3 - Analysis of the Brazilian Economy"
-  program: "MICROECONOMICS1. Introduction to the concepts of economics and fundamentals of microeconomic analysis.2. Consumer theory and demand.3. Firm and offer theory.4. Costs and price formation.5. Market Structures6. Strategic behavior and competition.7. Technology as a factor of production.8. Sustainability: resources, costs and environmental indicators.MACROECONOMICS1. Fundamentals of macroeconomic analysis.2. National accounting.3. Classical and Keynesian equilibria.4. Monetary system.5. Fiscal policy.6. World economy and international trade.7. Fundamentals of regression as a tool to quantify economic relations.8. Public sector.BRAZILIAN ECONOMY1. The historical experience of Brazilian industrialization.2. The internationalization of the Brazilian economy.3. Theory of cycles and Brazilian reality.4. The economic cycles of Brazil throughout its recent history."
-  ndoc: "1"
+  objectives: "Introduce the students of Production Engineering to the basic concepts of Economic Science, enabling students to understand the main micro and macroeconomic concepts and to interpret the discourse and practice of economics, guided by their own critical sense."
+  abstract: "A. Microeconomy. B. Macroeconomy. C. Economic Development. D. International Economy. E. Brazilian Economy"
+  program: "A. MICROECONOMY: 1. Introduction to the concepts of Economics and fundamentals of microeconomic analysis. 2. Consumer and demand theory. 3. Firm and offer theory. 4. Costs and price formation. 5. Market Structures 6. Strategic behavior and competition. 7. Technology as a factor of production. 8. Sustainability: resources, costs and environmental indicators.B. MACROECONOMY: 1. Fundamentals of macroeconomic analysis. 2. National accounting. 3. Classical and Keynesian balances. 4. Monetary system. 5. Fiscal policy. 6. World economy and international trade. 7. Fundamentals of regression as a tool to quantify economic relationships. 8. Public sector.C. ECONOMIC DEVELOPMENT: 1. Growth factors. 2. Sources of Development. 3. Financing Economic Development. 4. A model of economic growth. 5. The internationalization and globalization process.D. INTERNATIONAL ECONOMY: 1. Fundamentals of International Trade. 2. Determination of Exchange Rates. 3. External policies. 4. Factors determining the behavior of imports and exports.E. BRAZILIAN ECONOMY: 1. The historical experience of Brazilian industrialization. 2. The internationalization of the Brazilian economy. 3. Cycle theory and Brazilian reality. 4. Brazil's economic cycles throughout its recent history."
+  ndoc: "0"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "Apresentar aos alunos de Engenharia de Produção os conceitos básicos da Ciência Econômica, capacitando-os a compreender os principais conceitos micro e macroeconômicos e a interpretar o discurso e a prática da economia, orientados pelo seu próprio senso crítico."
-  resumo: "1  Microecomonia. 2 - Macroeconomia. 3 - Análise da Economia Brasileira"
-  programa: "MICROECONOMIA1. Introdução aos conceitos de Economia e fundamentos da análise microeconômica.2. Teoria do consumidor e da demanda.3. Teoria da firma e da oferta. 4. Custos e formação de preços. 5. Estruturas de Mercado6. Comportamento estratégico e concorrência.7. Tecnologia como fator de produção.8. Sustentabilidade: recursos, custos e indicadores ambientais.MACROECONOMIA1. Fundamentos da análise macroeconômica.2. Contabilidade nacional.3. Equilíbrios clássicos e keynesiano.4. Sistema monetário.5. Política fiscal.6. Economia mundial e comércio internacional.7. Fundamentos da regressão como ferramenta para quantificar relações econômicas.8. Setor público.ECONOMIA BRASILEIRA1. A experiência histórica da industrialização brasileira.2. A internacionalização da economia brasileira.3. Teoria dos ciclos e realidade brasileira.4. Os ciclos econômicos do Brasil ao longo de sua história recente."
-  metodo: "Aulas Expositivas; trabalhos em grupo; exercícios individuais e palestras."
-  criterio: "MF = (0,40*P1 + 0,40*P2 + 0,20*TRAB), onde P1 e P2 são provas e TRAB é a nota média de trabalhos e seminários."
-  exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação"
-  bibliografia: "BACHA , Edmar. Introdução à Macroeconomia: Uma perspectiva brasileira. Rio de Janeiro: Campus,1987.
-
-BEGG, D.; DORNBUSCH, R.; FISCHER, S. Introdução A Economia. Rio de Janeiro: Campus, 2003. 
-
-FURTADO, C. Formação econômica do Brasil. São Paulo: Companhia Editora Nacional, 2003.
-
-GRAMAUD, A. P. et alli. Manual de economia. São Paulo. Saraiva. 2004.
-
-GRAMAUD, A. P. et alli. Economia Brasileira Contemporânea. 6.ed. São Paulo. Atlas, 2006.
-
-HUNT, E. K.; SHERMAN, H. J. História do Pensamento Econômico.  Petrópolis : Vozes, 1997.
-
-MANKIW, N.G. Introdução à economia. São Paulo: Thomson Learning, 2006.
-
-SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
-  docentes: ['5840671 - Francisco José Moreira Chaves']
+  ativacao: "01/01/2021"
+  objetivos: "Apresentar  os conceitos básicos da Ciência Econômica, capacitando-os a compreender os principais conceitos micro e macroeconômicos e a interpretar o discurso e a prática da economia, orientados pelo seu próprio senso crítico."
+  resumo: "A. Microeconomia. B. Macroeconomia. C. Desenvolvimento Econômico. D. Economia Internacional. E. Economia Brasileira"
+  programa: "A. MICROECONOMIA: 1. Introdução aos conceitos de Economia e fundamentos da análise microeconômica. 2. Teoria do consumidor e da demanda. 3. Teoria da firma e da oferta. 4. Custos e formação de preços. 5. Estruturas de Mercado 6. Comportamento estratégico e concorrência. 7. Tecnologia como fator de produção. 8. Sustentabilidade: recursos, custos e indicadores ambientais. B. MACROECONOMIA: 1. Fundamentos da análise macroeconômica. 2. Contabilidade nacional. 3. Equilíbrios clássicos e keynesiano. 4. Sistema monetário. 5. Política fiscal. 6. Economia mundial e comércio internacional. 7. Fundamentos da regressão como ferramenta para quantificar relações econômicas. 8. Setor público. C. DESENVOLVIMENTO ECONÔMICO: 1. Fatores de Crescimento. 2. Fontes de Desenvolvimento. 3. Financiamento do Desenvolvimento Econômico. 4. Um modelo de Crescimento Econômico. 5. O Processo de internacionalização e globalização.D. ECONOMIA INTERNACIONAL: 1. Fundamentos do Comércio Internacional. 2. Determinação das Taxas de Câmbio. 3. Políticas Externas. 4. Fatores determinantes do comportamento das importações e exportações.E. ECONOMIA BRASILEIRA: 1. A experiência histórica da industrialização brasileira. 2. A internacionalização da economia brasileira. 3. Teoria dos ciclos e realidade brasileira. 4. Os ciclos econômicos do Brasil ao longo de sua história recente."
+  metodo: "Aulas expositivas e dialogadas; dinâmicas, projetos e trabalhos em grupo; exercícios individuais; e, seminários, debates e palestras."
+  criterio: "Média Aritmética dos Projetos, Trabalhos, Exercícios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude, que incluem a presença e participação dos alunos nas aulas) desenvolvidas."
+  exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
+  bibliografia: "VASCONCELLOS, M. A. S.; GARCIA, M. E. Fundamentos de Economia. 6 ed. São Paulo: Saraiva, 2018.GREMAUD, A. P. Introdução à Economia. São Paulo: Atlas, 2017.ROSSETTI, J. P. Introdução à Economia - Livro Texto. São Paulo: Atlas, 2016.VASCONCELLOS, M. A. S. ECONOMIA: Micro e Macro. São Paulo: Atlas, 2015.ALBERGONI, L. INTRODUÇÃO À ECONOMIA: Aplicações no Cotidiano. São Paulo: Atlas, 2015.GREMAUD, A. P.; VASCONCELLOS, M. A. S.; TONETO JÚNIOR, R. Economia Brasileira Contemporânea. 8 ed. São Paulo: Atlas, 2017.MÉNARD, C.; SAES, M. S. M.; SILVA, V. L. S.; RAYNAUD, E. Economia das Organizações: Formas Plurais e Desafios. São Paulo: Atlas, 2014.BACHA et Al. Estado da Economia Mundial - Desafios e Respostas - Seminário em Homenagem a Pedro Malan. São Paulo: LTC, 2015.BACHA , Edmar. Introdução à Macroeconomia: Uma perspectiva brasileira. Rio de Janeiro: Campus,1987.BEGG, D.; DORNBUSCH, R.; FISCHER, S. Introdução A Economia. Rio de Janeiro: Campus, 2003. FURTADO, C. Formação econômica do Brasil. São Paulo: Companhia Editora Nacional, 2003.GRAMAUD, A. P. et alli. Manual de economia. São Paulo. Saraiva. 2004.GRAMAUD, A. P. et alli. Economia Brasileira Contemporânea. 6.ed. São Paulo. Atlas, 2006.HUNT, E. K.; SHERMAN, H. J. História do Pensamento Econômico. Petrópolis : Vozes, 1997.MANKIW, N.G. Introdução à economia. São Paulo: Thomson Learning, 2006.SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
+  docentes: []
 - LOQ4210:
   sigla: "LOQ4210"
   nome: " Pesquisa Operacional II"
@@ -1383,22 +1303,20 @@ SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
   nome_en: "Modeling and Simulation of Systems"
   objectives: "Provide the student with basic skills in developing models, experimenting, interpreting and analyzing the results provided through simulation sessions, as well as empowering him in choosing the right tool for certain classes of problems."
   abstract: "Systems Theory, Modeling Processes, Modeling for Simulation, Simulation Languages, Statistical Aspects of System Simulation, Model Validation."
-  program: "Systems Theory, Modeling Processes, Modeling for Simulation, Simulation Languages, Statistical Aspects of System Simulation, Model Validation."
+  program: "1. Systems Theory.1.1. Basic Concepts on Systems Theory;1.2. Systemic Approach;1.3. Classification of Systems;1.4. Systems Life Cycle;2. System Modeling Process.2.1. Formal Model;2.2. Computational Model;2.3. Theory of Models;3. Modeling for Simulation3.1. Discrete Modeling;3.2. Event-Driven Modeling;4. Simulation Languages.5. Statistical Aspects of Systems Simulation.5.1. Random Number Generators;5.2. Generation of Random Variables;5.3. Statistical inference;5.4. Statistical Problems Related to Simulation;6. Validation of Models."
   ndoc: "1"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
+  ativacao: "01/01/2021"
   objetivos: "Fornecer para o aluno habilidades básicas no desenvolvimento de modelos, experimentação, interpretação e análise dos resultados fornecidos através de sessões de simulação, bem como capacitá-lo na escolha da ferramenta adequada para determinadas classes de problemas."
   resumo: "Teoria dos Sistemas, Processo de Modelagem de Sistemas, Modelagem para Simulação, Linguagens de Simulação, Aspectos Estatísticos da Simulação de Sistemas, Validação de Modelos."
-  programa: "1. Teoria dos Sistemas.1.1. Conceitos Básicos sobre Teoria dos Sistemas;1.2. Abordagem Sistêmica;1.3. Classificação dos Sistemas;1.4. Ciclo de Vida dos Sistemas;2. Processo de Modelagem de Sistemas.2.1. Modelo Formal;2.2. Modelo Computacional;2.3. Teoria dos Modelos;3. Modelagem para Simulação3.1. Modelagem Discreta;3.2. Modelagem Orientada a Eventos;4. Linguagens de Simulação.5. Aspectos Estatísticos da Simulação de Sistemas.5.1. Geradores de Números Aleatórios;5.2. Geração de Variáveis Aleatórias;5.3. Inferência Estatística;5.4. Problemas Estatísticos Relacionados com Simulação;6. Validação de Modelos.6.1. Planejamento de Experimentos;6.2. Análise de Confiabilidade;"
-  metodo: "Aulas expositivas teóricas, aulas práticas, aulas de laboratório, aulas de exercícios"
-  criterio: "MF = (0,5*P + 0,5*T), onde P é uma prova e T é um trabalho."
-  exame: "Média aritmética da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recuperação."
-  bibliografia: "1. BANKS, J., CARSON, J.S., Discrete-Event System Simulation., Printice Hall, 2000.
-2. PRADO, D., Utilizando o Arena em Simulação, Editora INDG, 2ª ed., 2004.
-3. LAW, A.M., KELTON, W.D., Simulation Modeling and Analysis., McGraw Hill, 1999."
+  programa: "1. Teoria dos Sistemas. 1.1. Conceitos Básicos sobre Teoria dos Sistemas;1.2. Abordagem Sistêmica; 1.3. Classificação dos Sistemas; 1.4. Ciclo de Vida dos Sistemas; 2. Processo de Modelagem de Sistemas. 2.1. Modelo Formal; 2.2. Modelo Computacional; 2.3. Teoria dos Modelos; 3. Modelagem para Simulação 3.1. Modelagem Discreta; 3.2. Modelagem Orientada a Eventos; 4. Linguagens de Simulação. 5. Aspectos Estatísticos da Simulação de Sistemas. 5.1. Geradores de Números Aleatórios; 5.2. Geração de Variáveis Aleatórias; 5.3. Inferência Estatística; 5.4. Problemas Estatísticos Relacionados com Simulação; 6. Validação de Modelos."
+  metodo: "NF=A avaliação será composta por provas, listas, projetos, seminários e outras formas que farão a composição das notas, sendo estipulada a média final a somatória destas notas (N), com no mínimo duas avaliações, sendo: (N1+...+Nn)/n."
+  criterio: "NF≥ 5,0."
+  exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
+  bibliografia: "1. BANKS, J., CARSON, J.S., “Discrete-Event System Simulation.”, Printice Hall, 2000.2. CHWIF, L., MEDINA, A.C. e col. “Introdução ao Simul8: um guia prático”, Livro Eletrônico, 1ª ed., 2015.3. Fishman, G.S. “Discrete-Event Simulation: Modeling, Programming, and Analysis”, Springer-Verlag, 2001."
   docentes: ['5840917 - Fabrício Maciel Gomes']
 - LOQ4234:
   sigla: "LOQ4234"
@@ -1954,35 +1872,23 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
   nome_en: "Accounting and Cost"
-  objectives: ""
-  abstract: ""
-  program: ""
+  objectives: "Present the fundamentals of General Accounting, so that students can understand the basic concepts and principles of Accounting. Train in the production and analysis of documents and records of accounting transactions. Understand costing systems and their application. Empower to design and implement costing systems. Empower to analyze costs in relation to an organization's market and production strategy."
+  abstract: "1 - Fundamentals of Accounting. 2 - Costing Systems. 3 - Costing Systems Project. 4 - Cost Analysis."
+  program: "1. ACCOUNTING FUNDAMENTALSAccounting concept. Production Accounting and Engineering. Balance sheet: assets, liabilities, equity. Basic accounting procedures. Changes in equity; expense, revenue. Accrual and cash regimes. Deferred income and expenses. Accounting Facts. Goods operations. Inventory. Property, Plant and Equipment and Amortization. Statement of origins and applications. Balance sheet and results analysis.2. COSTING SYSTEMSDirect and indirect costs, fixed and variable. Accumulation of costs, classification, cost factors. Absorption costing. Orderly, continuous, joint production. Direct Costing: contribution margin. ABC costing.3. COSTING SYSTEMS DESIGNProducts and Departments. Production and costing systems. The inflation problem.4. COST ANALYSISCost-Volume-Profit. Marginal contribution. Analysis of variations. Global productivity equation. Operational leverage. IRR and profitability."
   ndoc: "1"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "Fornecer ao aluno o conhecimento da contabilidade de custos de forma a capacitá-lo a classificar, apurar contabilizar e interpretar informações de custos."
+  ativacao: "01/01/2021"
+  objetivos: "Apresentar os fundamentos da Contabilidade Geral, de modo que os alunos possam compreender os conceitos e princípios básicos de Contabilidade. Capacitar na produção e análise de documentos e de registros de transações contábeis. Compreender os sistemas de custeio e sua aplicação. Capacitar a projetar e implantar sistemas de custeio. Capacitar a analisar custos em relação a estratégia de mercado e de produção de uma organização."
   resumo: "1  Fundamentos de Contabilidade. 2 - Sistemas de Custeio. 3 - Projeto de Sistemas de Custeio. 4 - Análise de Custos."
-  programa: "1. FUNDAMENTOS DE CONTABILIDADE
-Conceito de contabilidade. Contabilidade e Engenharia de Produção. Balanço: ativo, passivo, patrimônio líquido. Procedimentos contábeis básicos. Variações da situação líquida; despesa, receita. Regimes de competência e caixa. Receitas e despesas diferidas. Fatos Contábeis. Operações com mercadorias. Inventário. Ativo Imobilizado e Amortização. Demonstrativo de origens e aplicações. Análise de Balanço e de resultados.
-2. SISTEMAS DE CUSTEIO
-Custos diretos e indiretos, fixos e variáveis. Acumulação de custos, classificação, fatores de custo. Custeio por Absorção. Produção por ordem, contínua, conjunta. Custeio Direto: margem de contribuição. Custeio ABC.
-3. PROJETO DE SISTEMAS DE CUSTEIO
-Produtos e Departamentos. Sistemas de produção e sistemas de custeio. O problema da inflação.
-4. ANÁLISE DE CUSTOS
-Custo-Volume-Lucro. Contribuição marginal. Análise de variações. Equação de produtividade global. Alavancagem operacional. TIR e lucratividade."
-  metodo: "Aulas expositivas com aplicação de exercícios, trabalhos e provas."
-  criterio: "MF=(0,8xP+0,2xET) , onde: MF = Média Final da primeira avaliação; P = média ponderada das provas; ET = média ponderada dos exercícios e trabalhos."
-  exame: "NF=(MF+REC)/2, onde: NF = Média Final da segunda avaliação e REC = nota obtida na prova do período de recuperação."
-  bibliografia: "Bruni, Adriano L., Fama, Rubens. Gestão de custos e formação de preços. 5. Ed., São Paulo: Atlas, 2008.
-Hansen, Don R., Mowen, Maryanne M., Gestão de custos  contabilidade e controle. São Paulo: Pioneira Thomson, 2001
-Horngren, Charles T., Datar, Srikant M., Foster, George. Contabilidade de custos (vol. 1 e 2). 11. Ed. São Paulo: Pearson, 2004.
-Maher, Michael. Contabilidade de custos  criando valor para a administração. 5. ed., São Paulo: Atlas, 2001.
-Martins, Eliseu. Contabilidade de Custos (livro de exercícios). 9. Ed., São Paulo: Atlas, 2006.
-Martins, Eliseu. Contabilidade de Custos (livro texto). 9. Ed., São Paulo: Atlas, 2003."
-  docentes: ['5840671 - Francisco José Moreira Chaves']
+  programa: "1. FUNDAMENTOS DE CONTABILIDADEConceito de contabilidade. Contabilidade e Engenharia de Produção. Balanço: ativo, passivo, patrimônio líquido. Procedimentos contábeis básicos. Variações da situação líquida; despesa, receita. Regimes de competência e caixa. Receitas e despesas diferidas. Fatos Contábeis. Operações com mercadorias. Inventário. Ativo Imobilizado e Amortização. Demonstrativo de origens e aplicações. Análise de Balanço e de resultados.2. SISTEMAS DE CUSTEIOCustos diretos e indiretos, fixos e variáveis. Acumulação de custos, classificação, fatores de custo. Custeio por Absorção. Produção por ordem, contínua, conjunta. Custeio Direto: margem de contribuição. Custeio ABC.3. PROJETO DE SISTEMAS DE CUSTEIOProdutos e Departamentos. Sistemas de produção e sistemas de custeio. O problema da inflação.4. ANÁLISE DE CUSTOSCusto-Volume-Lucro. Contribuição marginal. Análise de variações. Equação de produtividade global. Alavancagem operacional. TIR e lucratividade."
+  metodo: "Aulas expositivas e dialogadas; dinâmicas, projetos e trabalhos em grupo; exercícios individuais; e, seminários, debates e palestras."
+  criterio: "Média Aritmética dos Projetos, Trabalhos e Exercícios realizados no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude) desenvolvidas."
+  exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
+  bibliografia: "IUDICIBUS, S.; MARION, J. C. Curso de Contabilidade para não Contadores. 8 ed. São Paulo: Atlas, 2018.MARTINS, E. Contabilidade de Custos. 11 ed. São Paulo: Atlas, 2018.SANTOS, J. J. Manual de Contabilidade e Análise de Custos. 7 ed. São Paulo: Atlas, 2017.SILVA, R. N. S.; LINS, L. S. Gestão de Custos - Contabilidade, Controle e Análise. 4 ed. São Paulo: Atlas, 2017.DUTRA, R. G. Custos: Uma Abordagem Prática. 8 ed. São Paulo: Atlas, 2017.MEGLIORINI, E.; BUENO, A. S. Contabilidade para cursos de Engenharia. São Paulo: Atlas, 2014.MORANTE, A. S. Análise das Demonstrações Financeiras. 2 ed. São Paulo: Atlas, 2009.Bruni, Adriano L., Fama, Rubens. Gestão de custos e formação de preços. 5. Ed., São Paulo: Atlas, 2008.Hansen, Don R., Mowen, Maryanne M., Gestão de custos – contabilidade e controle. São Paulo: Pioneira Thomson, 2001Horngren, Charles T., Datar, Srikant M., Foster, George. Contabilidade de custos (vol. 1 e 2). 11. Ed. São Paulo: Pearson, 2004.Maher, Michael. Contabilidade de custos – criando valor para a administração. 5. ed., São Paulo: Atlas, 2001.Martins, Eliseu. Contabilidade de Custos (livro de exercícios). 9. Ed., São Paulo: Atlas, 2006.Martins, Eliseu. Contabilidade de Custos (livro texto). 9. Ed., São Paulo: Atlas, 2003."
+  docentes: ['11079086 - Herlandí de Souza Andrade']
 - LOQ4227:
   sigla: "LOQ4227"
   nome: " Organização do Trabalho na Produção"
@@ -2005,34 +1911,15 @@ Martins, Eliseu. Contabilidade de Custos (livro texto). 9. Ed., São Paulo: Atla
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2012"
+  ativacao: "01/01/2021"
   objetivos: "Compreender as várias possíveis formas de organização do trabalho na produção a partir dos fundamentos das diversas escolas de organização do trabalho, com ênfase na escola sócio-técnica moderna."
-  resumo: "1. As necessidades das empresas modernas.
-2. Os novos modelos de produção. 
-3. As escolas de organização do trabalho. 
-4. Princípios sócio-técnicos de planejamento do trabalho. 
-5. Trabalho em grupo
-6. Organização por processos.
-7. Mudanças organizacionais."
-  programa: "1.  As necessidades das empresas modernas: Organização, produtividade, qualidade, flexibilidade e competitividade.
-2. Os novos modelos de produção: a revolução contemporânea nas fábricas.
-3. As escolas de organização do trabalho: escola clássica (taylorismo/fordismo), escola de relações humanas (enriquecimento de cargos), escola sócio-técnica (grupos semi-autônomos).
-4. Princípios sócio-técnicos de planejamento do trabalho: metodologia original de projeto organizacional de Tavistock.
-5. Trabalho em grupo: tipos, casos. Grupos abertos e grupos fechados. Relações de fronteira (produção-manutenção, qualidade e planejamento, dentre outros).
-6. Organização por processos.
-7. Implantação de mudanças organizacionais."
-  metodo: "2 provas escritas"
-  criterio: "Média aritmética das duas provas."
+  resumo: "1. As necessidades das empresas modernas.2. Os novos modelos de produção. 3. As escolas de organização do trabalho. 4. Princípios sócio-técnicos de planejamento do trabalho. 5. Trabalho em grupo6. Organização por processos.7. Mudanças organizacionais."
+  programa: "1. As necessidades das empresas modernas: Organização, produtividade, qualidade, flexibilidade e competitividade.2. Os novos modelos de produção: a revolução contemporânea nas fábricas.3. As escolas de organização do trabalho: administração científica, escola clássica (taylorismo/fordismo), escola de relações humanas (enriquecimento de cargos), escola sócio-técnica (grupos semi-autônomos), da contingência4. Princípios sócio-técnicos de planejamento do trabalho: metodologia original de projeto organizacional de Tavistock.5. Trabalho em grupo: tipos, casos. Grupos abertos e grupos fechados. Relações de fronteira (produção-manutenção, qualidade e planejamento, dentre outros).6. Organização por processos.7. Implantação de mudanças organizacionais"
+  metodo: "Apresentação de seminário e  prova escrita"
+  criterio: "Média aritmética das duas  atividades avaliativas."
   exame: "uma prova escrita"
-  bibliografia: "FLEURY, Afonso C.C.; VARGAS, N. Organização do trabalho. São Paulo: Atlas, 1983.
-HELOANI, Roberto. Organização do Trabalho e Administração: Uma Visão Multidisciplinar. São Paulo: Cortez, 1994.
-MARX, Roberto. Trabalho em grupo e autonomia como instrumentos da competição. São Paulo: Atlas, 1998.
-SALERNO, Mario S. Projeto organizacional de produção integrada e flexível. São Paulo: EPUSP/PRO, 1998.
-SOUZA LIMA, J. C. Relações entre empresas da cadeia e questões contemporâneas de organização do trabalho. Itu: Ottoni, 2006.
-TAYLOR, Frederick W. Princípios de administração científica. São Paulo: Atlas, 1976.
-VARGAS, Nilton. Organização do trabalho e capital. Rio de Janeiro: COPPE/UFRJ/PEP, 1979.
-WOOMACK, James P.; JONES, Daniel T.; ROOS, Daniel. A máquina que mudou o mundo. Rio de Janeiro: Campus, 1992."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  bibliografia: "FLEURY, Afonso C.C.; VARGAS, N. Organização do trabalho. São Paulo: Atlas, 1983.HELOANI, Roberto. Organização do Trabalho e Administração: Uma Visão Multidisciplinar. São Paulo: Cortez, 1994.MARX, Roberto. Trabalho em grupo e autonomia como instrumentos da competição. São Paulo: Atlas, 1998.SALERNO, Mario S. Projeto organizacional de produção integrada e flexível. São Paulo: EPUSP/PRO, 1998.SOUZA LIMA, J. C. Relações entre empresas da cadeia e questões contemporâneas de organização do trabalho. Itu: Ottoni, 2006.TAYLOR, Frederick W. Princípios de administração científica. São Paulo: Atlas, 1976.VARGAS, Nilton. Organização do trabalho e capital. Rio de Janeiro: COPPE/UFRJ/PEP, 1979.WOOMACK, James P.; JONES, Daniel T.; ROOS, Daniel. A máquina que mudou o mundo. Rio de Janeiro: Campus, 1992."
+  docentes: ['8188658 - Maria Auxiliadora Motta Barreto']
 - LOQ4242:
   sigla: "LOQ4242"
   nome: " Automação e Controle de Processos Produtivos"
@@ -2086,22 +1973,22 @@ WOOMACK, James P.; JONES, Daniel T.; ROOS, Daniel. A máquina que mudou o mundo.
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
   nome_en: "Electronic Systems Engineering"
-  objectives: "This course aims to introduce the main concepts of electronic and electrical circuits mainly for undergraduates in production engineering."
-  abstract: "Analog and digital electronics; Sensors and actuators; Amplifiers; Microcontrollers; Mechatronic systems"
-  program: "Digital and analog electronics: Fundamentals, circuits applied; Sensors and actuators: types, applications; Amplifiers: transistors, operational amplifiers, linear and non-linear applications; Microcontrollers: types, basic programming, embedded systems, applied circuits, PIC, Arduino; Mechatronic systems applied to production."
+  objectives: "This course aims to present the main concepts related to the use of electronics, focusing on the identification of components and functionalities, for use in projects related to the undergraduate course in production engineering"
+  abstract: "Fundamentals of Electronics; Sensors and actuators; Microcontrollers; Mechatronic systems; Practical experiments."
+  program: "Fundamentals of Electronics: digital and analog; Use of sensors and actuators in production processes; Basic programming of microcontrollers, focusing on Arduino or similar; Projects for use in mechatronic systems applied to production engineering; Practical experiments"
   ndoc: "1"
   CA: "2"
   CT: "1"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "Este curso visa apresentar os principais conceitos de circuitos eletrônicos e elétricos principalmente para alunos de graduação em engenharia de produção."
-  resumo: "Eletrônica digital e analógica; Sensores e atuadores; Amplificadores; Microcontroladores; Sistemas mecatrônicos"
-  programa: "Eletrônica digital e analógica: fundamentos, circuitos aplicados; Sensores e atuadores: tipos, aplicações; Amplificadores: transistor, amplificadores operacionais, aplicações lineares e não lineares; Microcontroladores: tipos, fundamentos de programação, sistemas embarcados, circuitos aplicados, PIC, Arduino; Sistemas mecatrônicos aplicados a produção."
-  metodo: "Aulas expositivas e práticas."
-  criterio: "Exercícios de aprendizado e exercícios de avaliação farão parte da composição de notas individuais (NI), com aplicação de trabalhos práticos em grupo (NG). Sendo: Nota Final = (NI+NG)/2"
-  exame: "A recuperação deverá consistir de uma prova englobando a matéria toda do semestre. - A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
-  bibliografia: "Tutoriais de Arduino disponibilizados pelo fabricante (arduino.cc)BOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos Eletrônicos e Teoria de Circuitos. 8ª ed. São Paulo: Pearson. 696 p.THOMAZINI, Daniel; ALBUQUERQUE, Pedro U.B. Sensores Industriais – Fundamentos e Aplicações. 8ª ed. São Paulo: Érica, 2011. 224 p."
+  ativacao: "01/01/2021"
+  objetivos: "Este curso visa apresentar os principais conceitos relacionados ao uso da eletrônica, com foco na identificação de componentes e funcionalidades, para o uso em projetos relacionados ao curso de graduação em engenharia de produção."
+  resumo: "Fundamentos da Eletrônica; Sensores e atuadores; Microcontroladores;Sistemas mecatrônicos;Experimentos práticos."
+  programa: "Fundamentos da Eletrônica: digital e analógica; Uso de sensores e atuadores em processos produtivos; Programação básica de microcontroladores, com foco em Arduino ou similar;Projetos de uso em sistemas mecatrônicos aplicados a engenharia de produção;Experimentos práticos."
+  metodo: "Esta disciplina deverá conter no mínimo duas avaliações denominadas A1 e A2. As avalições poderão ser: escritas, práticas, seminários, trabalhos de campo, projetos, ou outra forma de avaliação definida pelo professor."
+  criterio: "Média ponderada das avaliações (M)."
+  exame: "A recuperação será composta por uma única prova (RC) englobando toda a matéria ministrada ao longo do semestre. A média final, para os alunos em recuperação, será calculada com base na relação: MF=(M+RC)/2"
+  bibliografia: "Tutoriais de Arduino disponibilizados pelo fabricante (arduino.cc) BOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos Eletrônicos e Teoria de Circuitos. 8ª ed. São Paulo: Pearson. 696 p. THOMAZINI, Daniel; ALBUQUERQUE, Pedro U.B. Sensores Industriais – Fundamentos e Aplicações. 8ª ed. São Paulo: Érica, 2011. 224 p.Bibliografia complementar será indicada ao longo do curso."
   docentes: ['8767640 - Eduardo Ferro dos Santos']
 - LOQ4216:
   sigla: "LOQ4216"
@@ -2125,15 +2012,15 @@ WOOMACK, James P.; JONES, Daniel T.; ROOS, Daniel. A máquina que mudou o mundo.
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
+  ativacao: "01/01/2021"
   objetivos: "Apresentar conceitos e metodologias fundamentais para concepção e projeto de fábricas, com ênfase no projeto e organização dos processos de produção, movimentação e armazenagem de materiais, visando o adequado aproveitamento do espaço físico e a eficiência nos fluxos de materiais e ordens de produção no ambiente interno das fábricas."
   resumo: "Arranjo Físico da Fábrica; Sistema de Movimentação e Armazenagem de Materiais; Análise do Fluxo de Materiais."
   programa: "1. Objetivos de Desempenho de Empresas de Manufatura e de suas Fábricas. 2. Conceitos de Produto, Recurso e Processo para Projeto da Fábrica. 3. Tipos de Produção e Tipos de Arranjo Físico. 4. Planejamento do Arranjo Físico e dos Fluxos Internos. 5. Manufatura Celular. 6. Planejamento do Sistema de Movimentação e Armazenagem de Materiais"
-  metodo: "Aulas expositivas e práticas."
-  criterio: "Exercícios de aprendizado e exercícios de avaliação farão parte da composição de notas individuais (NI), com aplicação de trabalhos práticos em grupo (NG). Sendo: Nota Final = (NI+NG)/2"
-  exame: "A recuperação deverá consistir de uma prova englobando a matéria toda do semestre. - A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação"
-  bibliografia: "Müther, R. Planejamento do Layout: Sistema SLP. São Paulo, Edgard Blücher, 1978. Francischini, P.G.; Gurgel, F.A.C. Administração de recursos materiais e patrimoniais. 2a. Edição. São Paulo. Editora Cengage. 2013. Slack, N. et al Administração da Produção. 3ª ed. São Paulo, Atlas, 2009. Valle, C.E. Implantação de Indústrias. Rio de Janeiro, LTC Editora, 1975."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  metodo: "Provas e Trabalhos"
+  criterio: "M = (0,6P + 0,4T)P = Prova escritaT = Trabalho sobre projeto de fábricaM = Média de aproveitamento do alunoAprovação com média de aproveitamento maior ou igual a 5,0 e no mínimo 70% de frequência às aulas.A média das provas deve ser maior ou igual a 5,0 (cinco) para que o aluno possa utilizar a nota do Trabalho."
+  exame: "MF = (0,5 M + 0,5 R)M = Média de aproveitamento do aluno, antes da recuperaçãoR = Nota de uma prova de recuperaçãoMF = nota final de aproveitamento, após a recuperaçãoAprovação com média final de aproveitamento maior ou igual a 5,0.A recuperação deverá consistir de uma prova escrita englobando a matéria toda do semestre.Terá direito à prova de recuperação aqueles alunos reprovados com nota acima de 3,0 e frequência mínima de 70%."
+  bibliografia: "BANZATO, Eduardo et al. Atualidades na armazenagem. São Paulo: IMAM, 2003.BARNES, R.M. Estudo de Movimentos de Tempos: projeto e medida do trabalho. São Paulo, Edgar Blücher, 1977.GURGEL, F.A.C. Administração de recursos materiais e patrimoniais. 2a. Edição. São Paulo. Editora Cengage. 2013. FRANCISCHINI, P.G.; VALLE, C.E. Implantação de Indústrias. Rio de Janeiro, LTC Editora, 1975.LEE, Q et al. Projeto de Instalações e Locais de Trabalho. São Paulo: IMAM, 1998.MOURA, Reinaldo Aparecido. Sistemas e técnicas de movimentação e armazenagem de materiais. IMAM, 2012.NEWMANN, C.; SCALICE, R.K. Projeto de Fábrica e Layout. Rio de Janeiro, Elsevier, 2015.Müther, R. Planejamento do Layout: Sistema SLP. São Paulo, Edgard Blücher, 1978. SLACK, Nigel et al. Administração da produção. São Paulo: Atlas, 8ª ed. 2018.TOMPKINS, James A. et al. Planejamento de instalações. Editora LTC:, 2013."
+  docentes: ['5701460 - Antonio Iacono']
 - LOQ4217:
   sigla: "LOQ4217"
   nome: " Logística e Cadeia de Suprimento"
@@ -2156,76 +2043,14 @@ WOOMACK, James P.; JONES, Daniel T.; ROOS, Daniel. A máquina que mudou o mundo.
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "Apresentar os conceitos básicos da Logística Empresarial e da Gestão da Cadeia de Suprimentos. Capacitar o aluno para aplicação de técnicas e métodos quantitativos para otimização dos problemas em Logística e Cadeias de Suprimentos."
-  resumo: "Logística Integrada, Serviço ao Cliente, Administração do Transporte, Custos Logísticos, Armazenagem e Localização das Instalações, Tecnologia de Informação Aplicada à Logística, Canais de Distribuição e Distribuição Física, Roterização de Veículos e Operadores Logísticos, Organização e Controle de Estoques."
-  programa: "1. Logística Integrada 
-1.1. O trabalho da logística; 
-1.2. Logística integrada; 
-1.3. Objetivos operacionais; 
-1.4. Barreiras à integração interna; 
-1.5. Ciclos de atividades da logística; 
-1.6. Gerenciamento da incerteza operacional;
-
-2. Serviço ao Cliente
-2.1. Marketing focado no cliente; 
-2.2. Definição de serviço ao cliente; 
-2.3. Capacidade de prestação de serviço básico;
-2.4. Crescentes expectativas dos clientes; 
-2.5. Atendimento de pedido perfeito; 
-2.6. Serviços com valor agregado;
-
-3. Administração do Transporte
-3.1. Funcionalidade e princípios do transporte;
-3.2. Infra-estrutura de transporte;
-3.3. Prestadores de serviços de transporte;
-3.4. Aspectos básicos da economia e da formação de preço de transporte;
-3.5. Tomadas de decisão em transporte;
-
-4. Custos Logísticos.
-4.1. Planejamento das operações;
-4.2. Métricas do projeto logístico;
-4.3. Formação de preços;
-
-5. Armazenagem e Localização das Instalações.
-5.1. Funcionalidade e princípios da estocagem;
-5.2. Recursos de armazenagem;
-5.3. Reengenharia logística;
-5.4. Logística baseada no tempo;
-5.5. Estratégias logísticas alternativas;
-5.6. Integração estratégica;
-5.7. Técnicas de controle da logística baseada no tempo;
-
-6. Tecnologia de Informação Aplicada à Logística.
-6.1. Funcionalidade e princípio da informação;
-6.2. Arquitetura da informação;
-6.3. Aplicações de novas tecnologias de informação;
-6.4. Padrões de intercâmbio eletrônico de dados;
-
-7. Canais de Distribuição e Distribuição Física
-7.1. Estrutura dos canais;
-7.2. Aspectos econômicos da distribuição;
-7.3. Relacionamentos no canal;
-7.4. Alianças de serviços logísticos;
-
-8. Roterização de Veículos e Operadores Logísticos
-
-9. Organização e Controle de Estoques
-
-9.1. Processo de elaboração de previsões;
-9.2. Técnicas de previsão;
-9.3. Planejamento do estoque;
-9.4. Políticas de gerenciamento de estoques;"
+  ativacao: "01/01/2021"
+  objetivos: "Apresentar os conceitos de Logística, Logística Reversa e Gestão da Cadeia de Suprimentos. Capacitar o aluno para aplicação de técnicas e métodos quantitativos para otimização dos problemas em Logística e Cadeias de Suprimentos."
+  resumo: "1. Introdução: 2. Gestão estratégica3. Gestão dos relacionamentos4. Gestão global de suprimentos5. Avaliação de desempenho6. Mapeamento e análise de processos7. Gestão de demanda8. Gestão e coordenação de estoques9. Gestão da logística10. Logística reversa"
+  programa: "1. Introdução: A concorrência entre cadeias de suprimento. Definição operacional. A globalização e a gestão de cadeia de suprimentos. Governança das cadeias de suprimentos2. Gestão estratégica: Estratégia de cadeia de suprimentos. Produtos funcionais x produtos inovadores. Fluxos empurrados puxados e híbridos. Custo de transação e a decisão estratégica de comprar ou fazer. Padronização. Integração de parceiros da cadeia de suprimento no projeto de novos produtos e processos.3. Gestão dos relacionamentos: Confiança entre parceiros. Negociação. Gestão do relacionamento com clientes. Segmentação de produtos. Gestão do relacionamento com fornecedores4. Gestão global de suprimentos: Tipos de suplemento. Estrutura organizacional para suprimentos. O processo de suprimento. Coopetição. Ética e responsabilidade social na gestão global de suprimentos5. Avaliação de desempenho: O que é medição de desempenho? Porque medir desempenho. Características de uma boa medida de desempenho. Alinhamento de incentivos em cadeias globais de suprimento. Tipos de contrato de relacionamento6. Mapeamento e análise de processos: Principais processos na cadeia de suprimento. O modelo SCOR (Supply Chain Operations Reference). Análise e melhoramento de processos.7. Gestão de demanda: Ações sobre a demanda para redução de variabilidade. Causas da variabilidade da demanda. Previsão de demanda. Processo de previsão de vendas. Métodos usados em previsões. Método Delphi. Incerteza de previsão8. Gestão e coordenação de estoques: Definição de estoques. Causa do surgimento dos estoques. Tipos de estoque. VMI (vendor management inventory) - estoque gerenciado pelo distribuidor. VOI (vendor owner inventory) - consignação9. Gestão da logística: Centralização versus descentralização. Pontos de armazenagem/distribuição. Funções dos armazéns. Sistemas logísticos escalonados. Localização de unidades logísticas. Gestão de transportes na cadeia de suprimentos.10. Logística reversa: Conceito, importância, estrutura e tendências. Sustentabilidade. Ciclo fechado. Tipos de ciclo fechado. Motivação empresarial. Gerenciamento integrado de resíduos. Modelos de roteirização. Programação de frotas de veículos."
   metodo: "Aulas expositivas teóricas, aulas de exercícios."
-  criterio: "Média aritmética de duas provas teóricas."
-  exame: "Média aritmética da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recuperação."
-  bibliografia: "CORRÊA, H. L.; CORRÊA, C. A., Administração de Produção e Operações - Manufatura e Serviços: Uma Abordagem Estratégica., Editora Atlas, 2005.
-
-CONTADOR, J. C., Gestão de Operações.,  2ª ed., Ed. Edgard Blücher, 2001.
-
-SLACK, N.; CHAMBERS, S.; JOHNSTON, R., Administração da Produção., 3ª ed. Editora Atlas, 2009.
-
-VOLLMANN, T. E.; BERRY, W. L.; WHYBARK, D. C., Manufacturing Planning and Control Systems., 4ª ed., McGraw-Hill, 1997."
+  criterio: "Média de Provas e trabalhos (MF)."
+  exame: "Prova de Recuperação (PR). A Nota final (NF) será a média aritmética entre MF e PR"
+  bibliografia: "CORRÊA, HENRIQUE LUIZ. Gestão de rede de suprimento: integrando cadeias de suprimento no mundo globalizado. Editora Atlas, 2009CORREA, HENRIQUE LUIZ. Administração de cadeias de suprimento e logística: o essencial. Editora Atlas 2014PIRES, SÉRGIO. Gestão da cadeia de suprimentos (Supply Chain Management): conceitos, estratégias, práticas e casos. Editora Atlas segunda edição. 2009IYER, ANANTH; SESHHADRI, SHIDHAR; VASHER, ROY. A gestão da cadeia de suprimentos da Toyota. Bookman. 2009MYERSON, PAUL. Lean Supply Chain and logistics management. McGrawHill. 2012"
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
 - LOQ4218:
   sigla: "LOQ4218"
@@ -2277,22 +2102,22 @@ VOLLMANN, T. E.; BERRY, W. L.; WHYBARK, D. C., Manufacturing Planning and Contro
   departamento: "Engenharia Química"
   nome_en: "Product and Process Design"
   objectives: "a) Provide the student an integrated vision of the product development process, from initial idea generation steps, economic evaluation and development of the concept of the product to the factory, production preparation and release of the product. b) Present as the main knowledge of the formation of production engineer can be applied in the product development process. c) Provide practical experience of project."
-  abstract: "Concept of business and process reference model; Product development as a process: main phases of the product development process; Definition and basic concepts of project management; Strategic product planning; Project planning: information design, conceptual design, detailed design, launch and post-development."
-  program: "1. Overview of the process of product development. Concept of business process. Reference model and product development as a process. Main phases of the product development process. Definition and basic concepts of project management. 2. presentation of a reference model for product development. Description of the reference model. Importance and use of the reference model. Main features of the reference model for product development. 3. presentation of the stages of the product development process. In this section are presented the main concepts and methodologies of each phase of the product development. In parallel with the students, as a group, the development of a product such as theme suggested by the teacher. 3.1. Strategic planning of products. Information about the importance and how to prepare the product strategy, carry out the project portfolio management and draw up the draft of the project. 3.2. Project planning. Information about project planning techniques and analysis of economic feasibility. 3.3. informational Project. General concepts of market research, types of data sources for market research, differences between the data sources, forms of use of research and study on the type of survey-based research. Also presented in detail the technique of quality function deployment (QFD). 3.4. Conceptual design. The various creative methods to design, such as functions, Morphological Matrix diagram and array of Pugh, and demonstrates with examples how to use them to generate and choose a robust product design. Then, the Design concepts for X, in particular the mounting Design, design for manufacturing and design for the environment (eco-design). 3.5. Detailed design and preparation of production. The objective and summary of activities carried out in two phases. Deepened in aspects related to the professional performance of the production engineer, they are: classification of items, critical parameters, make or buy decision and FMEA. In the post-development discusses in particular the aspects relating to the environment, such as disposal and reuse of parts of the product. 4. Practical lessons. Offer hands-on experience in methods and steps of the PDP, in order to complement the theoretical learning from the development of skills and attitudes. The practices are interspersed to theoretical Exposition modules."
+  abstract: "1.Concept of business and process reference model; 2. Product development as a process: main phases of the product development process; 3. Definition and basic concepts of project management; 4. Strategic product planning; 5. Project planning; 6. information design; 7. conceptual design; 8. detailed design; 9. launch and post-development. 10. Entrepreneurship and product development process"
+  program: "1. overview of the process of product development. concept of business process. reference model and product development as a process. main phases of the product development process. definition and basic concepts of project management. 2. presentation of a reference model for product development. description of the reference model. importance and use of the reference model. main features of the reference model for product development. 3. presentation of the stages of the product development process. in this section are presented the main concepts and methodologies of each phase of the product development. 3.1. strategic planning of products. information about the importance and how to prepare the product strategy, carry out the project portfolio management and draw up the draft of the project. 3.2. project planning. information about project planning techniques and analysis of economic feasibility. 3.3. informational project. general concepts of market research, types of data sources for market research, differences between the data sources, forms of use of research and study on the type of survey-based research. 3.4. conceptual design. the various creative methods to design, such as functions, morphological matrix diagram and array of pugh, and demonstrates with examples how to use them to generate and choose a robust product design. 3.5. detailed design and preparation of production. the objective and summary of activities carried out in two phases. in the post-development discusses in particular the aspects relating to the environment, such as disposal and reuse of parts of the product. 4. entrepreneurship and product development process: innovation environment and product development process: technology-based enterprises, startups and business accelerators"
   ndoc: "1"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "a) Fornecer ao aluno uma visão integrada do processo de desenvolvimento de produto, desde as etapas iniciais de geração da ideia, avaliação econômica e desenvolvimento do conceito do produto até a preparação da fábrica, produção e lançamento do produto.b) Apresentar como os principais conhecimentos da formação de engenheiro de produção podem ser aplicados no processo de desenvolvimento de produto.c) Propiciar uma experiência prática de projeto."
-  resumo: "Conceito de processo de negócio e modelo de referência; Desenvolvimento de produto como um processo: Fases principais do processo de desenvolvimento de produto; Definição e conceitos básicos de gerenciamento de projetos; Planejamento estratégico do produto; Planejamento do projeto: projeto informacional, projeto conceitual, projeto detalhado, lançamento e pós-desenvolvimento."
-  programa: "1.Visão geral do processo de desenvolvimento de produto. Conceito de processo de negócio. Modelo de referência e desenvolvimento de produto como um processo. Fases principais do processo de desenvolvimento de produto.Definição e conceitos básicos de gerenciamento de projetos.2.Apresentação de um modelo de referência para desenvolvimento de produto. Descrição do modelo de referência. Importância e uso do modelo de referência. Principais características do modelo de referência para desenvolvimento de produto. 3.Apresentação das fases do processo de desenvolvimento de produto. Nesta parte são apresentados os conceitos e metodologias principais de cada fase do desenvolvimento de produto. Paralelamente os alunos, em grupo, realizam as atividades de desenvolvimento de um produto exemplo conforme tema sugerido pelo professor.3.1.Planejamento estratégico de produtos. Conteúdo sobre a importância e como preparar a estratégia de produto, realizar o gerenciamento da carteira de projetos e elaborar a Minuta do Projeto. 3.2.Planejamento do projeto. Conteúdo sobre técnicas de planejamento do projeto e análise de viabilidade econômica. 3.3.Projeto informacional. Conceitos gerais de pesquisa de mercado, tipos de fontes de dados para pesquisa de mercado, diferenças entre as fontes de dados, formas de utilização de pesquisas e aprofundamento no tipo de pesquisa baseado em enquête. Apresenta-se também em detalhes a técnica do desdobramento da função qualidade (QFD).3.4.Projeto conceitual. Apresentam-se os diversos métodos criativos para concepção, tais como Diagrama de funções, Matriz Morfológica e Matriz de Pugh, e demonstra-se com exemplos como utilizá-los de forma a gerar e escolher uma concepção de produto robusta. Em seguida, os conceitos de Design for X, em especial o Projeto para Montagem, Projeto para Manufatura e Projeto para o Meio-Ambiente (eco-design).3.5.Projeto detalhado e preparação da produção. Apresenta-se o objetivo e resumo das atividades realizadas nas duas fases. Aprofunda-se em aspectos relacionados com a atuação profissional do engenheiro de produção, são eles: classificação de itens, parâmetros críticos, decisão fazer ou comprar e FMEA. No pós-desenvolvimento discute-se especialmente os aspectos relacionados com o meio ambiente, como descarte e reuso de peças do produto.4.Aulas Práticas. Oferecer experiência prática em métodos e etapas do PDP, com o intuito de complementar o aprendizado teórico à partir do desenvolvimento de habilidades e atitudes. As práticas são intercaladas aos módulos de exposição teóricos."
-  metodo: "Aulas expositivas e práticas."
-  criterio: "Exercícios de aprendizado e exercícios de avaliação farão parte da composição de notas individuais (NI), com aplicação de trabalhos práticos em grupo (NG). Sendo: Nota Final = (NI+NG)/2"
-  exame: "A recuperação deverá consistir de uma prova englobando a matéria toda do semestre. - A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
+  ativacao: "01/01/2021"
+  objetivos: "a) Fornecer ao aluno uma visão integrada do processo de desenvolvimento de produto, desde as etapas iniciais de geração da ideia, avaliação econômica e desenvolvimento do conceito do produto até a preparação da fábrica, produção e lançamento do produto. b) Apresentar como os principais conhecimentos da formação de engenheiro de produção podem ser aplicados no processo de desenvolvimento de produto. c) Propiciar uma experiência prática de projeto."
+  resumo: "1. Conceito de processo de negócio e modelo de referência; 2. Desenvolvimento de produto como um processo: Fases principais do processo de desenvolvimento de produto; 3. Definição e conceitos básicos de gerenciamento de projetos; 4. Planejamento estratégico do produto; 5. Planejamento do Projeto; 6. Projeto Informacional; 7. Projeto Conceitual; 8. Projeto Detalhado; 9. Lançamento e Pós-Desenvolvimento. 10. Empreendedorismo e processo de desenvolvimento de produto."
+  programa: "1. Visão geral do processo de desenvolvimento de produto. Conceito de processo de negócio. Modelo de referência e desenvolvimento de produto como um processo. Fases principais do processo de desenvolvimento de produto. Definição e conceitos básicos de gerenciamento de projetos. 2. Apresentação de um modelo de referência para desenvolvimento de produto. Descrição do modelo de referência. Importância e uso do modelo de referência. Principais características do modelo de referência para desenvolvimento de produto. 3. Apresentação das fases do processo de desenvolvimento de produto. Nesta parte são apresentados os conceitos e metodologias principais de cada fase do desenvolvimento de produto. 3.1. Planejamento estratégico de produtos. Conteúdo sobre a importância e como preparar a estratégia de produto, realizar o gerenciamento da carteira de projetos e elaborar a Minuta do Projeto. 3.2. Planejamento do projeto. Conteúdo sobre técnicas de planejamento do projeto e análise de viabilidade econômica. 3.3. Projeto informacional. Conceitos gerais de pesquisa de mercado, tipos de fontes de dados para pesquisa de mercado, diferenças entre as fontes de dados, formas de utilização de pesquisas e aprofundamento no tipo de pesquisa baseado em enquete. 3.4. Projeto conceitual. Apresentam-se os diversos métodos criativos para concepção, tais como Diagrama de funções, Matriz Morfológica e Matriz de Pugh, e demonstra-se com exemplos como utilizá-los de forma a gerar e escolher uma concepção de produto robusta.3.5. Projeto detalhado e preparação da produção. Apresenta-se o objetivo e resumo das atividades realizadas nas duas fases. No pós-desenvolvimento discute-se especialmente os aspectos relacionados com o meio ambiente, como descarte e reuso de peças do produto. 4. Empreendedorismo e processo de desenvolvimento de produto. O ambiente de inovação e o processo de desenvolvimento de produtos: empresas nascentes de base tecnológica, startups e aceleradoras."
+  metodo: "Provas e trabalho"
+  criterio: "M = (0,6P + 0,4T)P = Prova escritaT = Trabalho sobre desenvolvimento de produtosM = Média de aproveitamento do aluno"
+  exame: "MF = (0,5 M + 0,5 R)M = Média de aproveitamento do aluno, antes da recuperaçãoR = Nota de uma prova de recuperaçãoMF = nota final de aproveitamento, após a recuperaçãoAprovação com média final de aproveitamento maior ou igual a 5,0.A recuperação deverá consistir de uma prova escrita englobando a matéria toda do semestre.Terá direito à prova de recuperação aqueles alunos reprovados com nota acima de 3,0 e frequência mínima de 70%."
   bibliografia: "ROZENFELD, H.; FORCELLINI, F.A.; AMARAL, D.C.; TOLEDO, J. A.; SILVA, S.L.; ALLIPRANDINI, D.H.; SCALICE, R.K. Gestão de desenvolvimento de produtos: uma referência para a melhoria do processo. São Paulo: Saraiva, 2006. 542p. CHENG, L.C. QFD: desdobramento da função qualidade na gestão de desenvolvimento de produtos. São Paulo: Edgard Blücher, 2007. DENIS, R. C. Uma introdução à história do design. São Paulo: Edgard Blücher., 2000. MALHOTRA, N.K. Pesquisa de marketing: uma orientação aplicada. Porto Alegre: Bookman, 2006. PAHL,G.; BEITZ,W.; FELDHUSEN,J.;GROTE,K. Projeto na engenharia. São Paulo: Edgard Blucher, 2005."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  docentes: ['5701460 - Antonio Iacono']
 - LOQ4222:
   sigla: "LOQ4222"
   nome: " Engenharia Econômica e Finanças"
@@ -2307,36 +2132,23 @@ VOLLMANN, T. E.; BERRY, W. L.; WHYBARK, D. C., Manufacturing Planning and Contro
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
   nome_en: "Economic Engineering and Finances"
-  objectives: ""
-  abstract: ""
-  program: ""
+  objectives: "To present notions of Financial Mathematics, Financial Management and Economic Engineering to students, enabling them to build and analyze cash flows from projects and enterprises, discuss the main aspects of financial management in industrial, commercial and service companies and analyze and propose strategies for financial management related to market and production strategies."
+  abstract: "1. Economic Engineering. 2 – Finance"
+  program: "1. Economic Engineering: Time variable: simple interest, compound interest; Amortization methods; Equivalence of methods; Decision Methods; Renovation and replacement of equipment; Depreciation; Project Analysis, Project Risks; Estimated cost of equity (CAPM) and WACC.2. Finance: The production cycle and the capital cycle; Index Analysis; Financing Sources, Leverage; Working capital; Capital cost; Shares, Dividend Policy; Long Term Financing, Corporate Finance/Project Finance; EVA and MVA."
   ndoc: "1"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "Compreender os princípios básicos da gestão financeira das empresas industriais, comerciais e de serviços e capacitar alunos a analisar e propor estratégias de gestão financeira relacionadas as estratégias de mercado e de produção."
-  resumo: "1. Engenharia Econômica. 2  Finanças"
-  programa: "1. Engenharia Econômica: Contabilidade e finanças; Variável tempo: juros simples, juros compostos; Métodos de amortização; Equivalência de métodos; Métodos de Decisão; Renovação e substituição de equipamentos; Depreciação; Análise de Projetos.
-2. Finanças: O ciclo da produção e o ciclo do capital; Análise de Índices; Alavancagem; Capital de Giro; Custo de Capital; Ações, Política de Dividendos; Financiamento de Longo Prazo."
-  metodo: "Aulas Expositivas; trabalhos em grupo; exercícios individuais e palestras."
-  criterio: "Provas e Trabalhos"
-  exame: "NF = (MF + PR)/2, onde MF é a média final da primeira avaliação e PR é uma prova de recuperação."
-  bibliografia: "EHRLICH, Pierre Jacques. Engenharia Econômica. São Paulo: Editora Atlas, 2005.
-
-GITMAN, Lawrence J. Princípios de Administração Financeira. São Paulo : Harper&Row do Brasil, 1978.
-
-HIRSCHFELD, Henrique.  Engenharia econômica e análise de custos. 7. ed. São Paulo: Atlas, 2007.
-
-MOTTA, Regis da Rocha; CALÔBA, Guilherme Marques. Análise de Investimentos. São Paulo: Atlas 2002.
-
-SANVICENTE, A. Z. Administração Financeira. São Paulo: Editora Atlas, 2007.
-
-VAN HORNE, J. C. Política e Administração Financeira. Rio de Janeiro: Livros Técnicos e Científicos, 1974.
-
-WESTON, J. F.; BRIGHAM, E. F. Administração Financeira de Empresas. São Paulo: Editora Interamericana, 2000."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  ativacao: "01/01/2021"
+  objetivos: "Apresentar noções de Matemática Financeira, Gestão Financeiras e Engenharia Econômica aos alunos, capacitando-os para construir e analisar fluxos de caixa de projetos e empreendimentos, discutir os principais aspectos da gestão financeira das empresas industriais, comerciais e de serviços e analisar e propor estratégias de gestão financeira relacionadas às estratégias de mercado e de produção."
+  resumo: "1. Engenharia Econômica. 2 – Finanças"
+  programa: "1. Engenharia Econômica: Variável tempo: juros simples, juros compostos; Métodos de amortização; Equivalência de métodos; Métodos de Decisão; Renovação e substituição de equipamentos; Depreciação; Análise de Projetos, Riscos em projetos; Estimativa do custo de capital próprio (CAPM) e WACC.2. Finanças: O ciclo da produção e o ciclo do capital; Análise de Índices; Fontes de Financiamento, Alavancagem; Capital de Giro; Custo de Capital; Ações, Política de Dividendos; Financiamento de Longo Prazo, Corporate Finance/Project Finance; EVA e MVA."
+  metodo: "Aulas expositivas e dialogadas; dinâmicas, projetos e trabalhos em grupo; exercícios individuais; e, seminários, debates e palestras."
+  criterio: "Média Aritmética dos Projetos, Trabalhos, Exercícios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude, que incluem a presença e participação dos alunos nas aulas) desenvolvidas"
+  exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
+  bibliografia: "GITMAN, L. J. - ZUTTER, C. J. Princípios de Administração Financeira. 14 ed. São Paulo: Perason, 2017.GROPPELLI, A. A.; NIKBAKHT, E. Administração Financeira. 3 ed. São Paulo: Saraiva, 2010.MARCOUSÉ, I.; SURRIDGE, M.; GILLESPIE, A. Finanças. São Paulo: Saraiva, 2013.ASSAF NETO, A. E LIMA, F. G. 3 ed. CURSO DE ADMINISTRAÇÃO FINANCEIRA. São Paulo: Atlas, 2014MARIANO, F.; MENESES, A. Curso De Administração Financeira. São Paulo: Método, 2012.MORANTE, A. S. Análise das Demonstrações Financeiras. 2 ed. São Paulo: Atlas, 2009.NEWNAN, D. G.; LAVELLE, J. P. Fundamentos de Engenharia Econômica. São Paulo: LTC,2000.KOPITTKE, B. H.; CASAROTTO FILHO, N. ANÁLISE DE INVESTIMENTOS: Matemática Financeira, Engenharia Econômica, Estratégia Empresarial. 11 ed. São Paulo: Atlas, 2010.HOJI, M.; LUZ, A. E. Gestão Financeira Econômica: Didática, Objetiva e Prática. São Paulo: Atlas, 2019.GOMES, J. M. Elaboração e Análise De Viabilidade Econômica De Projetos. São Paulo: Atlas, 2013.OLIVO, R. L. F. Análise de Investimentos. Campinas: Alínea, 2011.ALMEIDA, J. T. S. Matemática Financeira. Rio de Janeiro: LTC, 2016.EHRLICH, Pierre Jacques. Engenharia Econômica. São Paulo: Editora Atlas, 2005.HIRSCHFELD, Henrique. Engenharia econômica e análise de custos. 7. ed. São Paulo: Atlas, 2007.MOTTA, Regis da Rocha; CALÔBA, Guilherme Marques. Análise de Investimentos. São Paulo: Atlas 2002.SANVICENTE, A. Z. Administração Financeira. São Paulo: Editora Atlas, 2007.VAN HORNE, J. C. Política e Administração Financeira. Rio de Janeiro: Livros Técnicos e Científicos, 1974.WESTON, J. F.; BRIGHAM, E. F. Administração Financeira de Empresas. São Paulo: Editora Interamericana, 2000."
+  docentes: ['11079086 - Herlandí de Souza Andrade']
 - LOB1031:
   sigla: "LOB1031"
   nome: " Psicologia Organizacional e do Trabalho"
@@ -2692,6 +2504,10 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       sigla: "LOQ4205"
       nome: " Sistemas Produtivos II "
       tipo: "Requisito fraco"
+    - LOQ4240:
+      sigla: "LOQ4240"
+      nome: " Administração e Organização II "
+      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre: "11"
   unidade: "Escola de Engenharia de Lorena"
@@ -2705,7 +2521,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2012"
+  ativacao: "01/01/2021"
   objetivos: "Oferecer ao aluno uma visão geral dos conceitos fundamentais e das fases do processo de desenvolvimento e Implementação de Sistemas de Informação no sentido de capacitá-lo analisa e projetar tais sistemas."
   resumo: "Sistemas de Informação. Projeto de Sistemas de Informação. Tecnologia de Informação. Processo de Desenvolvimento de Sistema de Informação."
   programa: "1. Sistemas de Informação
@@ -2731,15 +2547,15 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
 4.4. Implementação do Sistema de Informação;
 4.5. Avaliação da Eficácia do Sistema de Informação;"
   metodo: "Aulas expositivas teóricas, aulas práticas, aulas de exercícios."
-  criterio: "Média aritmética de duas provas teóricas."
-  exame: "Média aritmética da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recuperação."
+  criterio: "Média Aritmética das atividades avaliativas realizadas."
+  exame: "Média aritmética da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recuperação"
   bibliografia: "HAL R. VARIAN, H. R.; FARRELL, J., SHAPIRO, C. The economics of information technology: an introduction. Cambridge University Press, 2004
 LAURINDO, F. J. B.; ROTONDARO, R. G. orgs. Gestão integrada de processos e da tecnologia da informação. São Paulo:Atlas, 2006.
 LAURINDO, F.J.B. Tecnologia da Informação: Eficácia nas Organizações. São Paulo, Editora Futura, 2002.
 STAIR, R.M., Princípios de Sistema de Informação: Uma Abordagem Gerencial, Rio de Janeiro, LTC, 1998.
 TURBAN, E. et al. Information Technology for Management: Transforming Organizations in the Digital Economy. 7th edition, Wiley, 2009.
 TURBAN, E., RAIANER JR, K., POTTER, R. E., Administração de Tecnologia da Informação: Teoria e Prática, São Paulo, Editora Campus, 2003."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  docentes: ['11079086 - Herlandí de Souza Andrade']
 - LOQ4228:
   sigla: "LOQ4228"
   nome: " Trabalho de Graduação em Engenharia de Produção I"
@@ -2770,17 +2586,15 @@ TURBAN, E., RAIANER JR, K., POTTER, R. E., Administração de Tecnologia da Info
   CT: "2"
   CH: "90 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
+  ativacao: "01/01/2021"
   objetivos: "Conduzir os alunos no desenvolvimento de um projeto de conclusão de curso sobre tema específico relacionado a engenharia de produção."
   resumo: "1) Metodologia Cientifica. 2) Projeto de Monografia. 3) Métodos de Pesquisa. 4) Normas de um Projeto de Pesquisa."
   programa: "1  Metodologia Cientifica: Concepção e definição. 2  Monografia Cientifica: O que é um projeto de pesquisa. As etapas de um projeto de pesquisa. 3  Métodos de Pesquisa utilizados na Engenharia de Produção  4- Pontos essenciais de um projeto de TCC. 5  Pontos essenciais de uma monografia de TCC. 6  Normas para elaboração de Referências Bibliográficas."
-  metodo: "Desenvolvimento e apresentação do Projeto de Trabalho de Conclusão de Curso (TCC) a ser desenvolvido na disciplina de Trabalho de Conclusão de Curso II, conforme norma do Departamento de Engenharia Química."
-  criterio: "Uma única prova de qualificação perante uma banca com 2 examinadores. A nota da disciplina será decidida pelos docentes da banca."
-  exame: "Reapresentação do trabalho modificado para nova avaliação."
-  bibliografia: "BOOTH, W.; COLOMB, G.; WILLIAMS, J. A arte da Pesquisa. 3 ed. Martins Fontes. São Paulo. 2005.
-GIL, A.C. Como elaborar projetos de pesquisa. 5 ed. Atlas, São Paulo, 2010.
-MEDEIROS, J. B. Redação Cientifica: A Prática de Fichamentos, Resumos e Resenhas. 11 ed. São Paulo: Atlas, 2009"
-  docentes: ['5840535 - Messias Borges Silva']
+  metodo: "Desenvolvimento e apresentação do Projeto monografia a ser desenvolvida na disciplina de Trabalho de Graduação em Engenharia de Produção II, conforme norma do Curso de Engenharia de Produção"
+  criterio: "Avaliação Ad hoc por 2 examinadores. A nota da disciplina será a média das duas notas"
+  exame: "Reapresentação do trabalho modificado para nova avaliação"
+  bibliografia: "Cauchick-Miguel, P. A.,   Metodologia de pesquisa em engenharia de produção e gestão de operações / Afonso Fleury ... [et al.] ; coordenação . - 3. ed. - Rio de Janeiro : Elsevier, 2018. Cauchick-Miguel, P. A.,   Metodologia de pesquisa em engenharia , 1. ed. - Rio de Janeiro : GEN LTC, 2019. BOOTH, W.; COLOMB, G.; WILLIAMS, J. A arte da Pesquisa. 3 ed. Martins Fontes. São Paulo. 2005.GIL, A.C. Como elaborar projetos de pesquisa. 5 ed. Atlas, São Paulo, 2010.MEDEIROS, J. B. Redação Cientifica: A Prática de Fichamentos, Resumos e Resenhas. 11 ed. São Paulo: Atlas, 2009"
+  docentes: ['198273 - Domingos Savio Giordani']
 - LOQ4245:
   sigla: "LOQ4245"
   nome: " Ergonomia"
@@ -3034,6 +2848,41 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
   exame: "1 (uma) prova de recuperação."
   bibliografia: "01 Stephen A. Campbell, The Science and Engineering of Microelectronic Fabrication, 2nd edition, Oxford University Press, 2001;02 S.M. Sze - VLSI Technology, McGraw-Hill, 1988;03 V. Baranauskas, org., Processos em Microeletrônica, SBV e SBMicro, 1990;04 R. A. Levy, Microelectronic Materials and Processes, Kluwer Academic Publ., 1989;[05] M. Madou, Fundamentals of Microfabrication, CRC press, 1997."
   docentes: ['5840535 - Messias Borges Silva']
+- LOQ4269:
+  sigla: "LOQ4269"
+  nome: " Planejamento e Gestão Estratégica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4269&codcur=88351&codhab=4"
+  requisitos:
+    - LOQ4239:
+      sigla: "LOQ4239"
+      nome: " Administração e Organização I "
+      tipo: "Requisito fraco"
+    - LOQ4240:
+      sigla: "LOQ4240"
+      nome: " Administração e Organização II "
+      tipo: "Requisito fraco"
+  tipo: "Optativas"
+  semestre: "8"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Strategic Planning and Management"
+  objectives: "Introduce students to the fundamentals of planning and strategic management in organizations, training them as to the existing methodologies, their stages and implications for organizational results."
+  abstract: "Management and strategic process; Strategic, tactical and operational planning; Organizational guidelines: mission, vision and objectives; Strategic formulation; Strategy implementation; Strategic control; Planning of organizational units; Strategic management applied."
+  program: "1. Motivations and Challenges for the strategy; 2. Basic concepts of strategy; 3. Strategic Management; 4. Strategic Transformation; 5. Analysis of the External Environment; 6. Analysis of Turbulence and Vulnerability; 7. Analysis of the Internal Environment; 8. Representation of the Portfolio; 9. Portfolio Balancing Strategy; 10. Formulation of Strategies; 11. Strategic Training; 12. The Strategic Plan; 13. Strategic Planning Methodology; 14. Strategic Planning Workshop; 15. Implementation of Strategic Management."
+  ndoc: "1"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2021"
+  objetivos: "Apresentar aos alunos os fundamentos do planejamento e da gestão estratégica nas organizações, capacitando-os quanto as metodologias existentes, suas etapas e implicações para os resultados organizacionais."
+  resumo: "Administração e processo estratégico; Planejamento estratégico, tático e operacional; Diretrizes organizacionais: missão, visão e objetivos; Formulação estratégica; Implantação de estratégia; Controle estratégico; Planejamento de unidades organizacionais; Administração estratégica aplicada."
+  programa: "1. Motivações e Desafios para a estratégia; 2. Conceitos Básicos de Estratégia; 3. Gestão Estratégica; 4. Transformação Estratégica; 5. Análise do Ambiente Externo; 6. Análise da Turbulência e da Vulnerabilidade; 7. Análise do Ambiente Interno; 8. Representação do Portifólio; 9. Estratégia de Balanceamento do Portifólio; 10. Formulação das Estratégias; 11. Capacitação Estratégica; 12. O Plano Estratégico; 13. Metodologia de Planejamento Estratégico; 14. Workshop de Planejamento Estratégico; 15. Implantação da Gestão Estratégica."
+  metodo: "Aulas expositivas e dialogadas; dinâmicas, projetos e trabalhos em grupo; exercícios individuais; e, seminários, debates e palestras."
+  criterio: "Média Aritmética dos Projetos, Trabalhos, Exercícios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude, que incluem a presença e participação dos alunos nas aulas) desenvolvidas"
+  exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
+  bibliografia: "OLIVEIRA, D. P. R. Planejamento Estratégico: Conceitos, Metodologia e Práticas. 34 ed. São Paulo: Atlas, 2018.CHIAVENATO, I; SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3 ed. Rio de Janeiro: Campus, 2015.COSTA, E. A. Gestão Estratégica: da empresa que temos para a empresa que queremos. 2 ed. Santo André: Saraiva, 2012.LOBATO, D. M. Estratégia de Empresas. Rio de Janeiro: FGV, 2009.HITT, M A. et al. Administração Estratégica. São Paulo: Pioneira Thomson Learning, 2007.GHEMAWAT, P. A Estratégia e o cenário de Negócios. Porto Alegre: Bookman, 2007.MINTZBERG, H. et al. O Processo da Estratégia. São Paulo: Bookman, 2006.HAMEL, G., PRAHALAD, C.K. Competindo pelo futuro. Rio de Janeiro: Campus, 2005.PORTER, M. Estratégia Competitiva. Rio de janeiro: Campus, 2005.KAPLAN, R. S. Mapas Estratégicos: Balanced Scorecard. Rio de Janeiro: Elsevier, 2004."
+  docentes: ['11079086 - Herlandí de Souza Andrade']
 - 8800006:
   sigla: "8800006"
   nome: " Projeto de Engenharia I"
@@ -3204,15 +3053,15 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   CT: "0"
   CH: "30 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
+  ativacao: "01/01/2021"
   objetivos: "Apresentar aos alunos o panorama geral da administração estratégica de marketing, capacitando-os a atuar no processo gerencial de marketing sob as perspectivas estratégica e operacional."
   resumo: "Marketing estratégico e planejamento estratégico orientado para o mercado."
   programa: "MARKETING ESTRATÉGICO1. Evolução do Conceito de Marketing e Sistema de Marketing2. Marketing, Conceito de Valor, Orientação para Mercado3. Análise de Mercado e Comportamento do Consumidor4. Sistema de Informações de Marketing e Inteligência de Mercado5. Modalidades de Marketing6. Fundamentos de Estratégia Empresarial e Marketing Estratégico7. Administração Estratégica e Marketing Estratégico8. Instrumentos Analíticos para Avaliar Oportunidades de Mercado9. Segmentação de Mercado e Posicionamento10. O Plano Estratégico de Marketing11. Comunicação: assessorias de imprensa, SAC'S, Ombudsman"
-  metodo: "Aulas expositivas; trabalhos em grupo; exercícios individuais e palestras."
-  criterio: "Provas e Trabalhos."
-  exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação."
-  bibliografia: "SAPIRO, Arão., CHIAVENATO, I. Planejamento Estratégico. Campus, 2ª. edição, 2010KOTLER, P. Administração de Marketing, edição do milênio, revisão técnica de Prof. Arão Sapiro. Prentice-Hall, 2000.HOOLEY, Graham J.; PIERCY, Nigel F.; SAUNDERS, John A. Estratégia de Marketing e Posicionamento Competitivo tradução e revisão técnica: Prof. Arão Sapiro. Pearson Education do Brasil, 2001.SAPIRO, ARAO; GANGANA, MAURÍCIO; LIMA, MIGUEL; VILHENA, JOÃO BAPTISTA. Gestão de Marketing . FGV Editora, 2004.BOONE, L. e KURTZ, D.L. Marketing contemporâneo. 8ª ed. São Paulo, Livros Técnicos e Científicos, 1998.KOTLER, P; JATURISPITAK, S. e MAESINCIE, S. O marketing das nações. São Paulo, Futura, 1997. MARTINS, J.R. e BLECHER, N. O império das marcas. 2ª ed. São Paulo, Negócio Editora, 1997THUROW, L.C. O futuro do capitalismo. 2ª ed. São Paulo, Rocco, 1997.VAZ, G. N. Marketing institucional. São Paulo, Pioneira, 1995.Bibliografia ComplementarArtigos das Revistas: Marketing, Meio e Mensagem, Exame, Dinheiro, Revista da Escola de Administração da FEA-USP, Revista ESPM."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  metodo: "Aulas expositivas e dialogadas; dinâmicas, projetos e trabalhos em grupo; exercícios individuais; e, seminários, debates e palestras."
+  criterio: "Média Aritmética dos Projetos, Trabalhos, Exercícios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude, que incluem a presença e participação dos alunos nas aulas) desenvolvidas."
+  exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
+  bibliografia: "KOTLER, P.; KELLER, K. L. Administração De Marketing. 15 ed. São Paulo: Pearson, 2019.KOTLER, P.; KARTAJAYA, H.; SETIAWAN, I. Marketing 4.0: do Tradicional ao Digital. São Paulo: Sextante, 2017.KOTLER, P. - ARMSTRONG, G. Princípios De Marketing. 15 ed. São Paulo: Pearson, 2014.KOTLER, P.; KELLER, K. L.  Marketing Essencial. 5 ed. São Paulo: Pearson, 2013.SANDHUSEN, R. L. Marketing Básico - Série Essencial. 3 ed. São Paulo: Saraiva, 2010.SAPIRO, Arão., CHIAVENATO, I. Planejamento Estratégico. Campus, 2ª. edição, 2010 KOTLER, P. Administração de Marketing, edição do milênio, revisão técnica de Prof. Arão Sapiro. Prentice-Hall, 2000. HOOLEY, Graham J.; PIERCY, Nigel F.; SAUNDERS, John A. Estratégia de Marketing e Posicionamento Competitivo tradução e revisão técnica: Prof. Arão Sapiro. Pearson Education do Brasil, 2001. SAPIRO, ARAO; GANGANA, MAURÍCIO; LIMA, MIGUEL; VILHENA, JOÃO BAPTISTA. Gestão de Marketing . FGV Editora, 2004. BOONE, L. e KURTZ, D.L. Marketing contemporâneo. 8ª ed. São Paulo, Livros Técnicos e Científicos, 1998. KOTLER, P; JATURISPITAK, S. e MAESINCIE, S. O marketing das nações. São Paulo, Futura, 1997. MARTINS, J.R. e BLECHER, N. O império das marcas. 2ª ed. São Paulo, Negócio Editora, 1997 THUROW, L.C. O futuro do capitalismo. 2ª ed. São Paulo, Rocco, 1997. VAZ, G. N. Marketing institucional. São Paulo, Pioneira, 1995. Bibliografia Complementar Artigos das Revistas: Marketing, Meio e Mensagem, Exame, Dinheiro, Revista da Escola de Administração da FEA-USP, Revista ESPM."
+  docentes: ['11079086 - Herlandí de Souza Andrade']
 - LOQ4249:
   sigla: "LOQ4249"
   nome: " Oficina de Inovação"

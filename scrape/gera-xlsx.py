@@ -38,7 +38,7 @@ for curso in cursos:
         print(f'{discpln["sigla"]} - {discpln["nome"]}')
 
         try:
-            os.mkdir(f'../{curso}')
+            os.mkdir(f'../assets/cursos/{curso}')
         except FileExistsError:
             pass
         docname = f'../assets/cursos/{curso}/{discpln["sigla"]}.xlsx'
