@@ -12,7 +12,7 @@ for curso in cursos:
     df = pandas.read_json(f'{curso}.json', orient='index')
     
     try:
-        os.mkdir(f'../{curso}')
+        os.mkdir(f'../assets/cursos/{curso}')
     except FileExistsError:
         pass
     docname = f'../assets/cursos/{curso}/docentes-{curso}.xlsx'

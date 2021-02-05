@@ -44,7 +44,7 @@ disc: true
   <li><b>Critério:</b> {{page.criterio | newline_to_br}}</li>
   <li><b>Norma de recuperação:</b> {{page.exame | newline_to_br}}</li>
 </ul>
-          
+
 <h3>Bibliografia</h3>
          
 <p>{{page.bibliografia | newline_to_br}}</p>
@@ -60,8 +60,12 @@ disc: true
 </ul>
 
 {% endif %}
-        
-<a type="button" class="btn btn-primary" href='{{page.link}}' target='_blank'>Ver no Jupiter</a>
-<a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/cursos{{page.dir}}{{page.sigla | upcase}}.pdf' target='_blank'>Salvar em pdf</a>
-<a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/cursos{{page.dir}}{{page.sigla | upcase}}.docx' target='_blank'>Salvar em docx</a>
-<a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/cursos{{page.dir}}{{page.sigla | upcase}}.xlsx' target='_blank'>Salvar em xlsx</a>
+       
+<div class="btn-group" role="group" aria-label="Jupiter">
+  <a type="button" class="btn btn-primary" href='{{page.link}}' target='_blank'>Ver no Jupiter</a>
+</div>
+<div class="btn-group" role="group" aria-label="Links da disciplina">
+  <a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/cursos{{page.dir}}{{page.sigla | upcase}}.pdf' target='_blank'>Salvar em pdf</a>
+  <a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/cursos{{page.dir}}{{page.sigla | upcase}}.docx' target='_blank'>Salvar em docx</a>
+  <a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/cursos{{page.dir}}{{page.sigla | upcase}}.xlsx' target='_blank'>Salvar em xlsx</a>
+</div>
