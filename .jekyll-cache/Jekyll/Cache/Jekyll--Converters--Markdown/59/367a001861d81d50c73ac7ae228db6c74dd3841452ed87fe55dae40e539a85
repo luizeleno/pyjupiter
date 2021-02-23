@@ -1,0 +1,43 @@
+I"�<p class="lead"><strong>PyJupiter:</strong> simplificando o Júpiter da USP usando raspagem de páginas (<em>webscraping</em>)</p>
+
+<div class="text-center">
+<div class="col-md-2 float-md-right mx-2 my-2">
+<a id="no-ext-link" href="https://github.com/luizeleno/pyjupiter" target="_blank">
+<img class="figure-img img-fluid rounded w-100 mx-auto" src="/pyjupiter/assets/images/logos/github.png" />
+Código no Github
+</a>
+</div>
+</div>
+
+<p>Há muito tempo o <a href="https://uspdigital.usp.br/jupiterweb/" target="_blank">Sistema Júpiter</a> da <a href="https://www5.usp.br/" target="_blank">Universidade de São Paulo</a> (USP) merece melhorias; no entanto, não as recebe, e não sabemos bem o porquê. A atualização do antigo sistema <code class="language-plaintext highlighter-rouge">uspdigital</code> para o novo <a href="https://portalservicos.usp.br/" target="_blank">Portal de Serviços</a> foi um banho de água fria para aqueles com alguma esperança de mudanças reais, pois recebemos apenas uma nova <a href="https://pt.wikipedia.org/wiki/Carenagem" target="_blank">carenagem</a> num carro cujo motor ainda é o da internet 1.0.</p>
+
+<p>O projeto <a href="https://github.com/luizeleno/pyjupiter" target="_blank">PyJupiter</a> surgiu para tentar contornar a situação. Aproveitando a eficiência, motivação e proatividade do alunos do curso de <a href="http://www.demar.eel.usp.br/grad/" target="_blank">Engenharia Física</a> do <a href="http://www.demar.eel.usp.br/" target="_blank">Departamento de Engenharia de Materiais</a> da <a href="https://site.eel.usp.br/" target="_blank">Escola de Engenharia de Lorena</a> da <a href="https://www5.usp.br/" target="_blank">Universidade de São Paulo</a> (EEL-USP), usamos <strong>modernas técnicas de <em>webscraping</em> em python</strong> para extrair os dados do Sistema Júpiter.</p>
+
+<div class="alert alert-success">
+  <h2 id="bluebook-como-usar-acesse-os-cursos-da-eel-usando-o-menu-no-topo-da-pgina">:blue_book: <strong>Como usar:</strong> acesse os cursos da EEL usando o menu no topo da página</h2>
+
+  <ul>
+    <li>Acesse as disciplinas de cada curso no menu <em><strong>Cursos</strong></em>
+      <ul>
+        <li>Escolha a disciplina. Uma janela se abrirá com o conteúdo encontrado no Júpiter</li>
+        <li>Ao final da página algumas opções estão disponíveis:
+          <ul>
+            <li>Acessar a a página da disciplina no Júpiter</li>
+            <li>Salvar como <code class="language-plaintext highlighter-rouge">pdf</code></li>
+            <li>Salvar como <code class="language-plaintext highlighter-rouge">docx</code></li>
+            <li>Salvar um arquivo <code class="language-plaintext highlighter-rouge">xlsx</code> (planilha eletrônica).</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Use o campo de busca para pesquisar por disciplinas específicas, independentemente do curso. <em>Obs.:</em> o mecanismo de busca diferencia entre caracteres com e sem acentos!</li>
+  </ul>
+
+  <p>:bulb: O arquivo <code class="language-plaintext highlighter-rouge">xlsx</code> é especial: ele foi criado pensando na reformulação de ementas. O arquivo tem basicamente duas colunas. Na primeira estão os dados atuais. Na segunda, os dados estão repetidos em vermelho. Os dados desta coluna podem ser editados para reformular a ementa e então enviados ao coordenador do curso.</p>
+</div>
+
+<p>Por enquanto, extraímos apenas dados das disciplinas da EEL, ainda sem informações de turmas, horários, número de vagas e professores ministrantes. Mas já conseguimos gerar as ementas de todas as nossas disciplinas em arquivos <code class="language-plaintext highlighter-rouge">pdf</code>, <code class="language-plaintext highlighter-rouge">docx</code> e <code class="language-plaintext highlighter-rouge">xlsx</code>, o que pode auxiliar também na reformulação dessas ementas visando as novas DCNs.</p>
+
+<p>Para o futuro, o plano é estender a raspagem para mais detalhes dos cursos e disciplinas, além de, ainda mais adiante, montar uma plataforma para a criação de grades horárias pela Comissão de Graduação da EEL. É um plano de longo prazo, com trabalho “da meia-noite às seis” a ser feito pela <a href="/pyjupiter/equipe/">equipe</a> de voluntários e alunos de conclusão de curso que se interessarem pelo projeto.</p>
+
+:ET
