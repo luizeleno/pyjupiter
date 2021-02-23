@@ -1,4 +1,4 @@
-I"�<h2 class="alert alert-dark" id="disciplinas-obrigatórias">Disciplinas obrigatórias</h2>
+I"��<h2 class="alert alert-dark" id="disciplinas-obrigatórias">Disciplinas obrigatórias</h2>
 
 <h3 class="alert alert-secondary" id="1º-semestre">1º semestre</h3>
 
@@ -79,8 +79,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1003&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1003.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1003.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1003.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1003.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1003.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -164,8 +164,8 @@ LOB1009
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1009&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1009.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1009.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1009.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1009.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1009.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -249,8 +249,8 @@ LOB1036
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1036&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1036.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1036.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1036.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1036.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1036.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -334,8 +334,8 @@ LOB1045
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1045&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1045.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1045.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1045.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1045.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1045.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -423,8 +423,8 @@ LOM3016
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3016&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOM3016.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOM3016.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOM3016.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOM3016.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOM3016.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -508,8 +508,8 @@ LOQ4010
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4010&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4010.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4010.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4010.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4010.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4010.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -593,8 +593,8 @@ LOQ4031
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4031&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4031.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4031.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4031.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4031.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4031.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -690,8 +690,8 @@ LOB1004
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1004&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1004.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1004.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1004.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1004.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1004.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -775,8 +775,8 @@ LOB1018
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1018&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1018.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1018.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1018.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1018.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1018.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -868,8 +868,8 @@ LOB1037
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1037&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1037.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1037.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1037.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1037.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1037.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -953,8 +953,8 @@ LOB1038
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1038&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1038.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1038.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1038.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1038.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1038.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1048,8 +1048,8 @@ LOQ4073
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4073&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4073.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4073.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4073.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4073.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4073.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1143,8 +1143,8 @@ LOQ4095
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4095&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4095.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4095.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4095.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4095.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4095.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1240,8 +1240,8 @@ LOB1019
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1019&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1019.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1019.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1019.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1019.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1019.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1335,8 +1335,8 @@ LOB1024
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1024&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1024.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1024.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1024.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1024.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1024.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1428,8 +1428,8 @@ LOB1052
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1052&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1052.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1052.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1052.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1052.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1052.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1523,8 +1523,8 @@ LOB1056
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1056&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1056.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1056.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1056.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1056.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1056.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1608,8 +1608,8 @@ LOQ4053
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4053&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4053.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4053.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4053.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4053.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4053.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1705,8 +1705,8 @@ LOB1006
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1006&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1006.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1006.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1006.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1006.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1006.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1804,8 +1804,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1012&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1012.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1012.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1012.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1012.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1012.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1897,8 +1897,8 @@ LOB1039
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1039&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1039.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1039.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1039.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1039.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1039.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -1992,8 +1992,8 @@ LOB1053
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1053&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1053.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1053.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1053.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1053.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1053.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2085,8 +2085,8 @@ LOQ4055
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4055&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4055.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4055.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4055.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4055.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4055.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2184,8 +2184,8 @@ LOQ4083
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4083&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4083.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4083.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4083.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4083.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4083.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2275,8 +2275,8 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1008&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1008.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1008.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1008.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1008.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1008.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2368,8 +2368,8 @@ LOB1011
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1011&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1011.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1011.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1011.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1011.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1011.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2461,8 +2461,8 @@ LOB1040
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1040&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1040.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1040.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1040.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1040.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1040.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2560,8 +2560,8 @@ LOM3081
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3081&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOM3081.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOM3081.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOM3081.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOM3081.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOM3081.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2660,8 +2660,8 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4037&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4037.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4037.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4037.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4037.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4037.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2761,8 +2761,8 @@ SKOOG, Douglas A. et al. Fundamentos da química analítica. São Paulo: Editora
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4056&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4056.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4056.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4056.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4056.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4056.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2863,8 +2863,8 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4087&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4087.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4087.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4087.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4087.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4087.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -2958,8 +2958,8 @@ LOQ4022
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4022&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4022.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4022.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4022.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4022.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4022.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3053,8 +3053,8 @@ LOQ4033
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4033&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4033.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4033.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4033.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4033.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4033.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3146,8 +3146,8 @@ LOQ4038
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4038&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4038.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4038.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4038.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4038.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4038.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3243,8 +3243,8 @@ LOQ4084
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4084&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4084.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4084.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4084.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4084.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4084.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3336,8 +3336,8 @@ LOQ4085
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4085&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4085.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4085.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4085.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4085.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4085.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3435,8 +3435,8 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4088&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4088.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4088.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4088.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4088.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4088.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3531,8 +3531,8 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4001&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4001.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4001.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4001.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4001.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4001.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3624,8 +3624,8 @@ LOQ4003
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4003&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4003.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4003.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4003.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4003.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4003.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3717,8 +3717,8 @@ LOQ4054
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4054&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4054.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4054.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4054.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4054.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4054.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3812,8 +3812,8 @@ LOQ4086
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4086&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4086.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4086.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4086.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4086.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4086.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -3907,8 +3907,8 @@ LOT2004
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2004&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOT2004.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOT2004.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOT2004.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOT2004.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOT2004.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4007,8 +4007,8 @@ FROMENT, G.F.; BISCHOFF, K.B. Chemical Reactor Analysis And Design. 2nd ed.  New
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4002&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4002.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4002.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4002.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4002.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4002.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4100,8 +4100,8 @@ LOQ4057
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4057&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4057.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4057.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4057.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4057.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4057.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4193,8 +4193,8 @@ LOQ4060
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4060&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4060.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4060.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4060.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4060.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4060.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4288,8 +4288,8 @@ LOQ4064
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4064&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4064.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4064.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4064.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4064.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4064.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4381,8 +4381,8 @@ LOQ4209
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4209&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4209.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4209.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4209.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4209.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4209.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4466,8 +4466,8 @@ LOQ4234
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4234&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4234.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4234.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4234.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4234.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4234.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4564,8 +4564,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1046&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1046.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1046.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1046.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1046.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1046.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4653,8 +4653,8 @@ LOB1055
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1055&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1055.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1055.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1055.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOB1055.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOB1055.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4746,8 +4746,8 @@ LOQ4009
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4009&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4009.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4009.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4009.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4009.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4009.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4841,8 +4841,8 @@ LOQ4023
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4023&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4023.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4023.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4023.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4023.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4023.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -4936,8 +4936,8 @@ LOQ4061
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4061&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4061.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4061.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4061.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4061.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4061.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5031,8 +5031,8 @@ LOQ4082
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4082&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4082.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4082.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4082.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4082.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4082.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5126,8 +5126,8 @@ LOT2041
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2041&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOT2041.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOT2041.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOT2041.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOT2041.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOT2041.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5225,8 +5225,8 @@ LOQ4004
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4004&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4004.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4004.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4004.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4004.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4004.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5318,8 +5318,8 @@ LOQ4050
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4050&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4050.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4050.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4050.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4050.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4050.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5411,8 +5411,8 @@ LOQ4059
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4059&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4059.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4059.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4059.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4059.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4059.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5510,8 +5510,8 @@ LOQ4062
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4062&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4062.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4062.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4062.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4062.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4062.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5603,8 +5603,8 @@ LOQ4065
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4065&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4065.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4065.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4065.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4065.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4065.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5696,8 +5696,8 @@ LOT2042
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2042&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOT2042.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOT2042.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOT2042.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOT2042.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOT2042.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5801,8 +5801,8 @@ LOQ4091
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4091&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4091.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4091.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4091.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4091.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4091.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5898,8 +5898,8 @@ Nota Final Mínima para Aprovação = 5,0</li>
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4092&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4092.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4092.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4092.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4092.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4092.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -5993,8 +5993,8 @@ LOQ4096
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4096&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4096.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4096.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4096.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4096.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4096.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
@@ -6090,8 +6090,8 @@ LOQ4058
           <a type="button" class="btn btn-primary" href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4058&amp;codcur=88052&amp;codhab=4" target="_blank">Ver no Jupiter</a>
         </div>
         <div class="btn-group mr-2" role="group" aria-label="Jupiter">
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4058.pdf" target="_blank">Salvar em pdf</a>
-          <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4058.docx" target="_blank">Salvar em docx</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4058.pdf" target="_blank">Salvar em pdf</a>
+          <a type="button" class="btn btn-primary mr-1" href="/pyjupiter/assets/cursos/EQN/LOQ4058.docx" target="_blank">Salvar em docx</a>
           <a type="button" class="btn btn-primary" href="/pyjupiter/assets/cursos/EQN/LOQ4058.xlsx" target="_blank">Salvar em xlsx</a>
         </div>
           <div class="btn-group ml-2" role="group" aria-label="Fechar">
