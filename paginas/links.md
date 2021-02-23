@@ -19,3 +19,4 @@ Páginas de interesse ao Projeto PyJupiter
 - Projeto PyJupiter no Github: <https://github.com/luizeleno/pyjupiter>{: target='_blank'}
 - A biblioteca `BeautifulSoup`: <https://www.crummy.com/software/BeautifulSoup/>{: target='_blank'}
 - Ótimo tutorial sobre _web scraping:_ <https://realpython.com/beautiful-soup-web-scraper-python/>{: target='_blank'}
+- Mecanismo de busca usado no Projeto Jupyter: <https://cri.dev/posts/2017-02-05-Use-Simple-Jekyll-Search-on-your-blog-in-these-easy-steps/>{: target='_blank'}

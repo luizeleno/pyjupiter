@@ -33,6 +33,7 @@ GUIDORIZZI, Hamilton. Um curso de cálculo. Rio de Janeiro: Livros Técnicos e C
 
 FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentice Hall, 2009."
   docentes: ['5840692 - Diovana Aparecida dos Santos Napoleão']
+  nomeascii: " Calculo I"
 - LOB1036:
   sigla: "LOB1036"
   nome: " Geometria Analítica"
@@ -60,6 +61,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1.CAMARGO, Ivan ; BOULOS, Paulo. Geometria Analítica: um tratamento vetorial. São Paulo: Prentice Hall, 2005.2.LIMA, Elon Lages de. Geometria analítica e algebra Linear. Rio de Janeiro: SBM SociedadeBrasileira de Matemática,2001. Coleção Matemática Universitária.3.CAROLI, Alésio de; CALLIOLI, A.; FEITOSA, Miguel O. Matrizes vetores geometria analítica. São Paulo: Nobel, 1998.4.SANTOS, Nathan Moreira dos. Vetores e matrizes: uma introdução à álgebra linear. São Paulo: Thomson, 2007."
   docentes: ['8884940 - Paula Cristiane Pinto Mesquita Pardal']
+  nomeascii: " Geometria Analitica"
 - LOB1045:
   sigla: "LOB1045"
   nome: " Leitura e Produção de Textos Acadêmicos"
@@ -105,6 +107,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
 9. MARCUSCHI, Luiz Antônio.  Da fala para a escrita: atividades de retextualização.  São Paulo: Cortez, 2000.
 10. SERAFINI, Maria José.    Como escrever textos. 5.ed. São Paulo: Globo, 1992."
   docentes: ['5840514 - Graziela Zamponi']
+  nomeascii: " Leitura e Producao de Textos Academicos"
 - LOQ4031:
   sigla: "LOQ4031"
   nome: " Química Geral I"
@@ -136,6 +139,7 @@ BROWN, T.L. ET al. Química a ciência central. 9.ed.  São Paulo: Pearson Prent
 CHANG, Raymond. Química geral: conceitos essenciais. 4.ed. s.l.:Ed. AMGH Editora Ltda., 2010.
 RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   docentes: ['198273 - Domingos Savio Giordani']
+  nomeascii: " Quimica Geral I"
 - LOQ4095:
   sigla: "LOQ4095"
   nome: " Química Geral Experimental"
@@ -163,6 +167,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "A recuperação será feita por meio de uma prova (PR) para alunos que tenham NF maior ou igual a 3,0 e menor do que 5,0 e pelo menos 70% de frequência. A nota de recuperação (NR) será a média simples entre a nota final (NF) e a prova de recuperação (PR). Será considerado aprovado o aluno com NR maior ou igual a 5,0"
   bibliografia: "ASSUMPÇÃO, R. M. V. ; MORITA, T. Manual de soluções reagentes e solventes: padronização, preparação, purificação. São Paulo: Editora Edgard Blucher, 1972.BACCAN, N.; ANDRADE, J. C. O. ; GODINHO, E. S.; BARONE, J. S. Química analítica quantitativa elementar. 2.ed. São Paulo: Edgard Blucher, 1995.BRADY, J; HUMISTON, G. E. Química geral. Rio de Janeiro: Ed. Livros Técnicos Científicos, 1986.BROWN, T. E et al. Química a Ciência Central. 9 ed. São Paulo. Pearson Prentice Hall, 2005-2007.CONSTANTINO, M.G; SILVA, G. V. J. da; DONATE P. M. Fundamentos de química experimental, São Paulo : EDUSP, 2004.MAHAN, B. M.; MYERS, R. J. Química um curso universitário. São Paulo: Ed. Edgard Blucher Ltda, 1993.SILVA, R. R.; BOCCHI, N. ; ROCHA FILHO, R. C. Introdução a química experimental. São Paulo: McGraw-Hill, 1990."
   docentes: ['5817330 - Larissa de Freitas', '6310296 - Patrícia Caroline Molgero Da Rós']
+  nomeascii: " Quimica Geral Experimental"
 - LOQ4201:
   sigla: "LOQ4201"
   nome: " Introdução à Engenharia de Produção"
@@ -198,6 +203,7 @@ SLACK, N. et. al. Administração da Produção. São Paulo, Atlas, 1999.
 
 BATALHA, M.O. et al , Introdução à Engenharia de Produção, Rio de Janeiro, Elsevier, 2008."
   docentes: ['11079086 - Herlandí de Souza Andrade']
+  nomeascii: " Introducao a Engenharia de Producao"
 - LOQ4236:
   sigla: "LOQ4236"
   nome: " Projeto Integrado de Engenharia de Produção I"
@@ -241,6 +247,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
   bibliografia: "Artigos sobre metodologias ativas de aprendizagem e  Project Based Learning.
 Livros e Artigos científicos relacionados com o tema do projeto."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Projeto Integrado de Engenharia de Producao I"
 - LOB1004:
   sigla: "LOB1004"
   nome: " Cálculo II"
@@ -276,6 +283,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "GUIDORIZZI, Hamilton L. UM CURSO DE CÁLCULO,2011, 5. ed., v.2LEITHOLD, Louis. CÁLCULO COM GEOMETRIA ANALÍTICA, São Paulo: HARBRA LTDA, 1990. v.2ANTON, Howard; BIVENS, Irl, DAVIS, Stephen. CÁLCULO, 8. ed. São Paulo:Pearson, 2011, v.2SIMMONS, George F. CÁLCULO COM GEOMETRIA ANALÍTICA, São Paulo: Pearson, 2014. v.2STEWART, James. CÁLCULO. revisão técnica Ricardo Miranda Martins. 7. ed. São Paulo: Cengage Learning, 2013. v.2THOMAS, George B. WEIR, Maurice D.; HASS, Joel; GIORDANO, CÁLCULO. revisão técnica Cláudio Hirofume Asano .12.ed. São Paulo: Pearson Education do Brasil, 2013. v.2"
   docentes: ['8822123 - Roberta Veloso Garcia']
+  nomeascii: " Calculo II"
 - LOB1009:
   sigla: "LOB1009"
   nome: " Leitura e Interpretação de Desenho Técnico"
@@ -303,6 +311,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "- A recuperação deverá consistir de uma prova englobando a matéria toda do semestre.- A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
   bibliografia: "1 - ABNT - COLETÂNEA DE NORMAS DE DESENHO TÉCNICONormas Técnicas publicadas pela ABNT2 - DESENHO BÁSICO NA ENGENHARIARibeiro, Antonio Clélio - Apostila publicada pela FAENQUIL3 - FUNDAMENTOS DE DIBUJO EM INGENIERIALuzader, Warren J. - Ed. Comp. Editorial Continental - México4 - MANUAL DE DESENHO TÉCNICOManfé, G./ Scarato, G./ Pozza, R. - Ed. Renovada Livros Culturais Ltda.5 - EXPRESSÃO GRÁFICA - DESENHO TÉCNICOHoelsher, R. P./ Springer, C.H./ Dobrovolny, J.S. - Ed. LTC Editora S.A.6 - DESENHO TÉCNICOFrench, Thomas E. - Editora Globo7 - DESENHO TÉCNICOBachmann, A./ Forberg, R - Editora Globo8 - DESENHISTA DE MÁQUINASEscola PRO-TEC"
   docentes: ['5840820 - Gustavo Aristides Santana Martinez']
+  nomeascii: " Leitura e Interpretacao de Desenho Tecnico"
 - LOB1018:
   sigla: "LOB1018"
   nome: " Física I"
@@ -330,6 +339,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada"
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 1, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.1, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.1, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 1, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 1, Thomson Pioneira (2008)."
   docentes: ['8711686 - Flavia Reis Cardoso Rojas']
+  nomeascii: " Fisica I"
 - LOB1038:
   sigla: "LOB1038"
   nome: " Física Experimental I"
@@ -357,6 +367,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "O (NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "Apostilas do Laboratório de Ensino de Física do IFSC/USP.CRUZ, C. H. B.; FRAGNITO, H. L.; COSTA, I. F.; MELLO, B. A. Guia do Curso deLaboratório: Física Experimental I, IFGW/UNICAMP (2005).NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 1, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.1, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.1, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 1, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 1, Thomson Pioneira (2008)."
   docentes: ['9149242 - Fernando Catalani']
+  nomeascii: " Fisica Experimental I"
 - LOQ4073:
   sigla: "LOQ4073"
   nome: " Química Geral II"
@@ -392,6 +403,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "As aulas na primeira semana do período de recuperação serão dedicadas à solução das dúvidas e resolução de exercícios. Na semana seguinte será realizada uma avaliação (P3) englobando toda a ementa. A média final será obtida conforme equação abaixo: MF= (NF+P3)/2."
   bibliografia: "1) ATIKNS, P.; JONES, L. Princípios de Química, 5ªEdição, Ed. Bookman, 2012.2)BRADY, J.; HUMISTON, G.E. Química Geral Volume II, 2ª Edição, Ed. LTC, 2005.3) BRADY, J.E.; RUSSELL, J.W.; HOLUM, J.R. Química a matéria e suas transformações Volume II 3ª Edição, Ed. LTC, 2010.4) BRADY, J.E.; SENESE, F., Química – A matéria e suas transformações Volume II, Ed. LTC, 5ªEdição, 2010.5) BROWNN, S.L.; HOLME, T.A. Química geral aplicada à engenharia. São Paulo: Ed. Cengage Learning, 2010.6) BROWN, T. L.; LEMAY, H.E.L.; Jr BURSTEN, B.E.; BURDGE, J.R. Química a ciência central. 9ª Edição, Ed. Pearson Prentice Hall, 2005.7) CHANG, R.; GOLDSBY, K.A., Química, 11ª Edição, Ed. AMGH Editora Ltda, 20138) KOTZ, J.C.; TREICHEL, P.M.; WEAVER, G.C., Química Geral e Reações Químicas, Volume II, 6ª Edição, Ed. Cengage Learning, 2009.9) KOTZ, J.C.; TREICHEL, P.M.; TOWNSEND, J. R.; TREICHEL, D.A., Química Geral e Reações Químicas, Volume II, 9ª Edição, Ed. Cengage Learning, 2016."
   docentes: ['5817330 - Larissa de Freitas', '1506103 - Pedro Carlos de Oliveira']
+  nomeascii: " Quimica Geral II"
 - LOQ4203:
   sigla: "LOQ4203"
   nome: " Sistemas Produtivos I"
@@ -425,6 +437,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
 
 Textos complementares serão usados durante o curso."
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Sistemas Produtivos I"
 - LOQ4239:
   sigla: "LOQ4239"
   nome: " Administração e Organização I"
@@ -466,6 +479,7 @@ KAPLAN, R; NORTON, D. Mapas Estratégicos. Rio de Janeiro. Campus, 2004
 
 TZU, S. A Arte da Guerra (Edição Completa). São Paulo. WMF Martins Fontes, 2009."
   docentes: ['11079086 - Herlandí de Souza Andrade', '5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Administracao e Organizacao I"
 - LOB1012:
   sigla: "LOB1012"
   nome: " Estatística"
@@ -509,6 +523,7 @@ RYAN, Thomas. Estatística moderna para engenharia. São Paulo: Ed. Campus, 2009
 
 RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade para engenheiros. São Paulo: Ed. LTC, 2009."
   docentes: ['4894221 - Mariana Pereira de Melo']
+  nomeascii: " Estatistica"
 - LOB1019:
   sigla: "LOB1019"
   nome: " Física II"
@@ -544,6 +559,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 2, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.2, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.2, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 2, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 2, Thomson Pioneira (2008)."
   docentes: ['8711623 - Denize Kalempa']
+  nomeascii: " Fisica II"
 - LOB1041:
   sigla: "LOB1041"
   nome: " Física Experimental II"
@@ -579,6 +595,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. Apostilas do Laboratório de Ensino de Física do IFSC/USP.2. VUOLO, J.H. Fundamentos da Teoria de Erros, Edgard Blucher (1996).3. NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 2, Edgard Blucher (2008).4. RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol. 2, LTC (2008).5. TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol. 2, LTC (2008).6. SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física II, Vol. 2,     Pearson Addison Wesley (2009).7. JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 2, Thomson Pioneira (2008)"
   docentes: ['5817535 - Lucas Barboza Sarno da Silva']
+  nomeascii: " Fisica Experimental II"
 - LOB1052:
   sigla: "LOB1052"
   nome: " Cálculo III"
@@ -610,6 +627,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. H. L. Guidorizzi, UM CURSO DE CÁLCULO, volume III. Livros Técnicos e Científicos, Rio de Janeiro.2. W. Kaplan, CÁLCULO AVANÇADO, volume I, Edgard Blücher, 1972.3. Stewart, CÁLCULO, volume II, Editora Pioneira Thomson Leaming.4.BUSS, Mirian ; FLEMMING, Diva Marília. Calculo B. 2. ed. São Paulo:Pearson, 2007."
   docentes: ['6270264 - Juan Fernando Zapata Zapata']
+  nomeascii: " Calculo III"
 - LOQ4205:
   sigla: "LOQ4205"
   nome: " Sistemas Produtivos II"
@@ -641,6 +659,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação."
   bibliografia: "SLACK, N. et al. Administração da produção. São Paulo: Atlas, 2002. VENANZI, D; SILVA, O.R., Gerenciamento da Produçao e Operaçoes, LTC, 2014Textos complementares serão usados durante o curso."
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Sistemas Produtivos II"
 - LOQ4221:
   sigla: "LOQ4221"
   nome: " Gestão de Projetos"
@@ -672,6 +691,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "Prova única"
   bibliografia: "1. PMBOK. Um Guia Do Conhecimento em Gerenciamento de projetos. 5 ed. Project Management Institute. 20122. CLAUSING, D. Total quality development a step by step guide to world class concurrent engineering. New York: ASME Press, 1994. 3. MEREDITH, J R; MANTEL, S J; WILEY, J. Project Management: a managerial approach. 1995.4. MAXIMIANO, A . C. Administração de projetos, Atlas: São Paulo, 1997.5. SHTUB, A BARD J. F. e GLOBERSON S. Project management, Prentice hall, 1994."
   docentes: ['5840917 - Fabrício Maciel Gomes']
+  nomeascii: " Gestao de Projetos"
 - LOQ4240:
   sigla: "LOQ4240"
   nome: " Administração e Organização II"
@@ -699,6 +719,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação"
   bibliografia: "Chiavenato, I. Gestão de Pessoas. 4 ed. São Paulo: Manole, 2014.Chiavenato, I. Recursos Humanos: o capital humano das organizações. 10 ed. Rio de Janeiro, Campus, 2015.ROBBINS, S. P.; DECENZO, D. A.; WOLTER, R. Fundamentos de Gestão de Pessoas. São Paulo, saraiva, 2013.KOTLER, P. - ARMSTRONG, G. Princípios De Marketing. 15 ed. São Paulo: Pearson, 2014.KOTLER, P.; KELLER, K. L. Administração De Marketing. 15 ed. São Paulo: Pearson, 2019.CHIAVENATO, I. Introdução À Teoria Geral da Administração. 9 ed. São Paulo: Manole, 2014. MAXIMIANO, A. C. A. Teoria Geral da Administração: da Revolução Urbana À Revolução Digital. 8 ed. São Paulo: Atlas, 2017.GUERRINI, F. M.; ESCRIÇÃO FILHO, E.; ROSIM, D. Administração Para Engenheiros. Rio de Janeiro: Campus, 2016.CHIAVENATO, I. Administração Para Não Administradores: a Gestão de Negócios Ao Alcance de Todos. 2 ed. São Paulo: Manole, 2011.SILVA, M. M. L. Administração para Estudantes e Profissionais de Áreas Técnicas. São Paulo: Brasport, 2018.GITMAN, L. J. - ZUTTER, C. J. Princípios de Administração Financeira. 14 ed. São Paulo: Perason, 2017.GROPPELLI, A. A.; NIKBAKHT, E. Administração Financeira. 3 ed. São Paulo: Saraiva, 2010.MARCOUSÉ, I.; SURRIDGE, M.; GILLESPIE, A. Finanças. São Paulo: Saraiva, 2013.BOLMAN, L.G.; DEAL, T.E. Reframing organizations. San Francisco, John Wiley, 2013KOTLER, P.. O Marketing sem segredos. 1 ed. Porto Alegre. Bookman, 2005MINTZBERG, H. Criando organizações eficazes. 2 ed. São Paulo, Atlas, 2006.MORGAN, G. Imagens da organização. São Paulo, Atlas, 1996."
   docentes: ['11079086 - Herlandí de Souza Andrade']
+  nomeascii: " Administracao e Organizacao II"
 - LOB1037:
   sigla: "LOB1037"
   nome: " Àlgebra Linear"
@@ -730,6 +751,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "01.STRANG, Gilbert. Álgebra linear e suas aplicações, São Paulo: Cengage Learning, 2010.02.LIPSCHUTZ, Seymour . Algebra linear. 3. ed. São Paulo: Ed. McGrawHill. 1990.03.HOWARD, Anton ; RORRES,Chris. Álgebra linear com aplicações. 8. ed., Ed. Bookman, 2001.04.MICHOLSON, W. Keith. Álgebra linear. 2. ed. São Paulo: Ed. Mc GrawHill,  2006.05.BOLDRINI, José Luiz ; COSTA Sueli I. Rodrigues; FIGUEIREDO Vera Lúcia; WETZLER Henry G. Álgebra linear., 3. ed. São Paulo: Editora Harbra Ltda, 1986.06.POOLE, David. Álgebra linear. São Paulo: Pioneira Thomson Learning, 2004."
   docentes: ['8884940 - Paula Cristiane Pinto Mesquita Pardal']
+  nomeascii: " Algebra Linear"
 - LOB1039:
   sigla: "LOB1039"
   nome: " Física Experimental III"
@@ -761,6 +783,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. Apostilas do Laboratório de Ensino de Física do IFSC/USP.2. VUOLO, J.H. Fundamentos da Teoria de Erros, Edgard Blucher (1996).3. NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 3, Edgard Blucher (2008).4. RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol. 3, LTC (2008).5. TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol. 3, LTC (2008).6. SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física III, Vol. 3,     Pearson Addison Wesley (2009).7. JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 3, Thomson Pioneira (2008)."
   docentes: ['3268262 - Carlos Renato Menegatti']
+  nomeascii: " Fisica Experimental III"
 - LOB1049:
   sigla: "LOB1049"
   nome: " Estatística Multivariada"
@@ -792,6 +815,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "G.C. Runger, D. Montgomery. Estatística aplicada e probabilidade para engenheiros. São Paulo: Ed. LTC, 2009. D. C. Montgomery, E. A. Peck, G. G. Vining, Introduction to Linear Regression Analysis, 4th ed., Hoboken: John Wiley, 2006.W. J. Conover, Practical Nonparametric Statistics, 3rd ed., New York: John Wiley d Sons, 1999.R. A. Johnson, D. W. Wichern, Applied Multivariate Statistical Analysis, 6th ed., New Jersey: Prentice Hall, 2007."
   docentes: ['4894221 - Mariana Pereira de Melo']
+  nomeascii: " Estatistica Multivariada"
 - LOB1053:
   sigla: "LOB1053"
   nome: " Física III"
@@ -827,6 +851,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 3, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.3, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.3, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 3, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 3, Thomson Pioneira (2008)."
   docentes: ['2342277 - Bertha María Cuadros Melgar']
+  nomeascii: " Fisica III"
 - LOB1056:
   sigla: "LOB1056"
   nome: " Introdução aos Métodos Numéricos e Computacionais"
@@ -862,6 +887,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "CHAPRA, Steven C., Métodos numéricos aplicados com MATLAB para engenheiros e cientistas. Porto Alegre: AMGH, 2013.CHAPRA, Steven C.; CANALE, Raymond P., Métodos numéricos para engenharia. São Paulo: McGraw-Hill, 2008.SPERANDIO, Decio; MENDES, João Teixeira, SILVA, Luiz Henry Monken. Cálculo numérico. São Paulo: Prentice Hall Brasil, 2003.RUGGIERO, M.A.G.; DA ROCHA LOPES, V.L. Cálculo Numérico: Aspectos Teóricos e Computacionais. Makron Books, 2a Edição, 1997.FRANCO, Neide Maria Bertoldi. Cálculo numérico. Prentice Hall Brasil, 2006.BURIAN, Reinaldo; LIMA, Antonio Carlos. Cálculo numérico. São Paulo: LTC, 2007.ARENALES, Selma Helena De Vasconcelos; DAREZZO, Artur. Cálculo Numérico. São Paulo: Thomson Pioneira, 2007."
   docentes: ['8870322 - Fabiano Fernandes Bargos']
+  nomeascii: " Introducao aos Metodos Numericos e Computacionais"
 - LOQ4237:
   sigla: "LOQ4237"
   nome: " Projeto Integrado de Engenharia de Produção II"
@@ -909,6 +935,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
   bibliografia: "Artigos sobre metodologias ativas de aprendizagem e  Project Based Learning.
 Livros e Artigos científicos relacionados com o tema do projeto."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Projeto Integrado de Engenharia de Producao II"
 - LOB1006:
   sigla: "LOB1006"
   nome: " Cálculo IV"
@@ -944,6 +971,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1.H. L. Guidorizzi, UM CURSO DE CÁLCULO, volume IV. Livros Técnicos e Científicos, 1987.2.BRANNAN, James R. BOYCE, W.E. Equações diferenciais: uma Introdução a métodos modernos e suas aplicações. Rio de Janeiro: LTC ED., 2008.3.ZILL, D.G. ; CULLEN, M.R. Equações Diferenciais São Paulo: Pearson Makron Books2006., v.1 e 2.4.W. Kaplan, CÁLCULO AVANÇADO, volume II, Edgard Blücher, São Paulo, 1972.5.BOYCE,W.E. ; DIPRIMA,R.C. Equações diferenciais e problemas de valores de contorno. 8.ed. Rio de Janeiro: LTC Editora, 2008."
   docentes: ['6270264 - Juan Fernando Zapata Zapata']
+  nomeascii: " Calculo IV"
 - LOB1024:
   sigla: "LOB1024"
   nome: " Mecânica"
@@ -979,6 +1007,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. BEER, Ferdinand Pierre, ; JOHNSTON, E. Russel.; Eisenberg, Elliot R., Mecânica vetorial para engenheiros: Estática.  Mc Graw Hill (2011).2. HIBBELER, R.C. Mecânica para engenharia, Vol. 1: estática, Pearson Prentice Hall (2005).3. MERIAM J. L. ; KRAIGE, L. G., Mecânica, estática, Livros Técnicos e Científicos Editora (2004)."
   docentes: ['5840650 - Janaína Ferreira Batista Leal']
+  nomeascii: " Mecanica"
 - LOM3016:
   sigla: "LOM3016"
   nome: " Introdução à  Ciência dos Materiais"
@@ -1017,6 +1046,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
 7) Padilha, A. F. Materiais de engenharia: microestrutura e propriedades. São Paulo: Hemus Editora, 1997.
 8) Ashby, M. F.; Jones, D. R. H. Engenharia de materiais, 2 vol. Rio de Janeiro: Elsevier Editora, 2007."
   docentes: ['6495737 - Durval Rodrigues Junior', '5983729 - Fernando Vernilli Junior', '7459752 - Maria Ismenia Sodero Toledo Faria']
+  nomeascii: " Introducao a  Ciencia dos Materiais"
 - LOQ4006:
   sigla: "LOQ4006"
   nome: " Fenômeno de Transporte Experimental"
@@ -1052,6 +1082,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "NF = (MF + PR)/2onde: PR =  prova de recuperaçãoAprovação: NF > 5,0Reprovação: NF < 5,0"
   bibliografia: "REFERÊNCIAS BIBLIOGRÁFICAS(1) Experimental Methods for Engineers ; Holman,J.P.  Ed. McGraw Hill(2) Experiments in Transport Phenomena ; Crosby, E.J. , Ed. John Wiley & Sons, Inc.(3) Laboratory Exercices in Chemical Engineering; Molyneux,F."
   docentes: ['5840581 - Antonio Carlos da Silva']
+  nomeascii: " Fenomeno de Transporte Experimental"
 - LOQ4077:
   sigla: "LOQ4077"
   nome: " Fundamentos de Fenômenos de Transporte"
@@ -1087,6 +1118,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "A recuperação consistirá de uma prova envolvendo o assunto do semestre todo, à qual será atribuída nota NR. A média da segunda avaliação será calculada segunda a fórmula: M2 = (M1 + NR)/2. Alunos com nota M2 igual ou superior a 5,0 estarão aprovados, inferior a 5,0 estarão reprovados."
   bibliografia: "1.LEVI, Celso P., Fundamentos de Fenômenos de Transporte. 2 ed. Ed. Gen/LTC. Rio de Janeiro/RJ. 2013.2.FOX, Robert.W., McDonald, Alan.T.; PRITCHARD, Philip J., Introdução à Mecânica dos Fluidos, 7 ed. Ed. Gen/LTC. Rio de Janeiro/RJ. 2012.3.KREITH, Frank; BOHN, Mark S., Fundamentos de Transferência de Calor, Ed. Cengage Learning, São Paulo/SP. 2011. 4.INCROPERA/ DEWITT/ BERGMAN/ LAVINE. Fundamentos de Transferência de Calor e Massa. 7 ed. Ed. Gen/LTC. Rio de Janeiro/RJ. 20145.CREMASCO, Marco. A., Fundamentos de Transferência de Massa, 3ed. Ed.  Blücher, São Paulo/SP. 2016"
   docentes: ['4808662 - Lucrécio Fábio dos Santos']
+  nomeascii: " Fundamentos de Fenomenos de Transporte"
 - LOQ4206:
   sigla: "LOQ4206"
   nome: " Pesquisa Operacional I"
@@ -1122,6 +1154,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
 4. PIZZOLATO, N. D. e GANDOLPHO, A. A. Técnicas de Otimização, LTC Editora, 2009.
 5. TAHA, H. A ., Pesquisa Operacional, 8ª ed., Pearson/Prentice Hall, 2008."
   docentes: ['5840917 - Fabrício Maciel Gomes']
+  nomeascii: " Pesquisa Operacional I"
 - LOB1011:
   sigla: "LOB1011"
   nome: " Eletricidade Aplicada"
@@ -1153,6 +1186,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. SADIKU, Mathew N. O.; ALEXANDER, Charles. Fundamentos de circuitos      elétricos, Mcgraw-hill Interamericana (2009)2. MARKUS, Otávio. Circuitos elétricos: corrente contínua e corrente       alternada – Teoria e Exercícios, Editora Érica (2008).3. SAY, M. G. Eletricidade geral eletrotécnica, Editora Hemus (2009).4. EDMINISTER, Joseph A.; NAHVI, Mahmood. Circuitos Elétricos, Bookman (2008) - Col. Schawn.5. DORF, Richard C.; SVOBODA, James. A Introdução aos circuitos elétricos, LTC (2009)."
   docentes: ['3268262 - Carlos Renato Menegatti']
+  nomeascii: " Eletricidade Aplicada"
 - LOB1040:
   sigla: "LOB1040"
   nome: " Laboratório de Eletricidade"
@@ -1184,6 +1218,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "CAPUANO, G. Francisco; MARINO, M.A. Maria. Laboratório de eletricidade Eletrônica, Editora Érica (1998).MARKUS, Otávio. Circuitos elétricos: corrente contínua e corrente alternada-Teoria e Exercícios, Editora Érica, (2008).SADIKU, Mathew N. O.; ALEXANDER, Charles. Fundamentos de circuitos elétricos, Mcgraw-hill Interamericana (2009)."
   docentes: ['230696 - Carlos José Todero Peixoto']
+  nomeascii: " Laboratorio de Eletricidade"
 - LOM3081:
   sigla: "LOM3081"
   nome: " Introdução à Mecânica dos Sólidos"
@@ -1225,6 +1260,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
 7. POPOV, E. P. Introdução à Mecânica dos Sólidos, São Paulo: Edgard Blücher, 1978, 552p.
 8. A. HIGDON, E.H. OHLSEN, W.B. STILES, J.A. WEESE, W.F. RILEY. Mecânica dos Materiais.  Rio de Janeiro: Guanabara Dois. 3a Ed., 1981, 549p."
   docentes: ['471420 - Carlos Antonio Reis Pereira Baptista', '3480026 - João Paulo Pascon', '5840793 - Sérgio Schneider', '7797767 - Viktor Pastoukhov']
+  nomeascii: " Introducao a Mecanica dos Solidos"
 - LOQ4204:
   sigla: "LOQ4204"
   nome: " Economia Geral"
@@ -1252,6 +1288,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "VASCONCELLOS, M. A. S.; GARCIA, M. E. Fundamentos de Economia. 6 ed. São Paulo: Saraiva, 2018.GREMAUD, A. P. Introdução à Economia. São Paulo: Atlas, 2017.ROSSETTI, J. P. Introdução à Economia - Livro Texto. São Paulo: Atlas, 2016.VASCONCELLOS, M. A. S. ECONOMIA: Micro e Macro. São Paulo: Atlas, 2015.ALBERGONI, L. INTRODUÇÃO À ECONOMIA: Aplicações no Cotidiano. São Paulo: Atlas, 2015.GREMAUD, A. P.; VASCONCELLOS, M. A. S.; TONETO JÚNIOR, R. Economia Brasileira Contemporânea. 8 ed. São Paulo: Atlas, 2017.MÉNARD, C.; SAES, M. S. M.; SILVA, V. L. S.; RAYNAUD, E. Economia das Organizações: Formas Plurais e Desafios. São Paulo: Atlas, 2014.BACHA et Al. Estado da Economia Mundial - Desafios e Respostas - Seminário em Homenagem a Pedro Malan. São Paulo: LTC, 2015.BACHA , Edmar. Introdução à Macroeconomia: Uma perspectiva brasileira. Rio de Janeiro: Campus,1987.BEGG, D.; DORNBUSCH, R.; FISCHER, S. Introdução A Economia. Rio de Janeiro: Campus, 2003. FURTADO, C. Formação econômica do Brasil. São Paulo: Companhia Editora Nacional, 2003.GRAMAUD, A. P. et alli. Manual de economia. São Paulo. Saraiva. 2004.GRAMAUD, A. P. et alli. Economia Brasileira Contemporânea. 6.ed. São Paulo. Atlas, 2006.HUNT, E. K.; SHERMAN, H. J. História do Pensamento Econômico. Petrópolis : Vozes, 1997.MANKIW, N.G. Introdução à economia. São Paulo: Thomson Learning, 2006.SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
   docentes: []
+  nomeascii: " Economia Geral"
 - LOQ4210:
   sigla: "LOQ4210"
   nome: " Pesquisa Operacional II"
@@ -1287,6 +1324,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
 4. PIZZOLATO, N. D. e GANDOLPHO, A. A. Técnicas de Otimização, LTC Editora, 2009.
 5. TAHA, H. A ., Pesquisa Operacional, 8ª ed., Pearson/Prentice Hall, 2008."
   docentes: ['5840917 - Fabrício Maciel Gomes']
+  nomeascii: " Pesquisa Operacional II"
 - LOQ4223:
   sigla: "LOQ4223"
   nome: " Modelagem e Simulação de Sistemas"
@@ -1318,6 +1356,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. BANKS, J., CARSON, J.S., “Discrete-Event System Simulation.”, Printice Hall, 2000.2. CHWIF, L., MEDINA, A.C. e col. “Introdução ao Simul8: um guia prático”, Livro Eletrônico, 1ª ed., 2015.3. Fishman, G.S. “Discrete-Event Simulation: Modeling, Programming, and Analysis”, Springer-Verlag, 2001."
   docentes: ['5840917 - Fabrício Maciel Gomes']
+  nomeascii: " Modelagem e Simulacao de Sistemas"
 - LOQ4234:
   sigla: "LOQ4234"
   nome: " Empreendedorismo"
@@ -1345,6 +1384,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "NF = (MF + PR)/ 2 , onde NF é a média final da segunda avaliação, MF é a média final da primeira avaliação e PR é a nota da recuperação"
   bibliografia: "BLANK, Steve Gary. Do Sonho a realização em 4 passos: Estratégias para a criação de empresas de sucesso. Editora Evora. 3ª edição, 2008BLANK, Steve; DORF, Bob. STARTUP: Manual do Empreendedorismo. O guia passo a passo para construir uma grande empresa. Alta Books Editora.  1ª edição, 2014.CECCONELO, Antonio; AJZENTAL, Alberto. A construção do plano de negócios. Ed. Saraiva, 1ª edição, 2008.CHIAVENATO, Idalberto. Empreendedorismo – dando asas ao espírito empreendedor. Ed. Saraiva, 3ª edição, 2008.DOLABELA, Fernando. O Segredo de Luísa. Rio de Janeiro: Sextante, 2008. DORNELAS, Jose. Empreendedorismo: transformando ideias em negócios. Editora Campus. 1ª edição, 2001DORNELAS, Jose. Empreendedorismo na prática. LTC. 3ª edição, 2015DORNELAS, Jose Carlos Assis. Empreendedorismo na prática – mitos e verdades do empreendedor de sucesso. Elsevier/Campus: Rio de Janeiro, 2007. FILION, L. J.; Visão e Relações: Elementos para um Metamodelo da Atividade Empreendedora. International Small Business Journal, 1991. Tradução de Costa, S.R. FILION, L. J.; - O planejamento do seu Sistema de Aprendizagem Empresarial: Identifique uma Visão e Avalie o seu Sistema de Relações. Revista de Administração de Empresas, FGV, São Paulo, jul/set. 1991, pag. 31(3): 63:71. HASHIMOTO, Marcos. Espírito empreendedor nas organizações – aumentando a competitividade através do intraempreendedorismo. São Paulo: Saraiva, 2006. HISRICH, Robert; PETERS, Michael.  Empreendedorismo. 5.ed. - Porto Alegre: Bookman, 2004. OSTERWALDER, Alexander. Inovação Em Modelos de Negócios – Business Model Generation. Editora Alta Books, 2011PINCHOT, Gifford; PELLMAN, Ron. Intraempreendedorismo na prática: um guia de inovação. Campus: 2004RIES, Eric. A startup enxuta. Leya Editora. 1ª edição, 2011SANTOS. S.A. e CUNHA, N.C.V (orgs.). Empresas de Base Tecnológica: Conceitos, instrumentos e recursos. Unicorpore, 2005THIEL, Peter. De Zero a UM: O que aprender sobre empreendedorismo com Vale do Silício. Objetiva. 1ª edição, 2014TIMMONS; Jeffry; DORNELAS, José. SPINELLI, Stephen. A criação de novos negócios – empreendedorismo para o século 21. Editora Campus. 2010."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Empreendedorismo"
 - LOB1046:
   sigla: "LOB1046"
   nome: " Engenharia do Meio Ambiente"
@@ -1378,6 +1418,7 @@ BRAGA, B.et al. Introdução à Engenharia Ambiental. São Paulo: Prentice Hall,
 
 VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos. 2. ed. Belo Horizonte: UFMG, 1996."
   docentes: ['5840671 - Francisco José Moreira Chaves']
+  nomeascii: " Engenharia do Meio Ambiente"
 - LOM3079:
   sigla: "LOM3079"
   nome: " Processos da Indústria Mecânica"
@@ -1424,6 +1465,7 @@ CETLIN, P.R.; HELMAN, H. Fundamentos da conformação mecânicas dos metais. Ed.
 BRESCIANI FILHO, E.; ZAVAGLIA, C.A.C.; NERY, F.A.C.; BOTTON, S.T. Conformação plástica dos metais. Ed. Unicamp, v.1 e v.2, 1986.
 DINIZ, A.E.; MARCONDES, F.C.; COPPINI, N.L. Tecnologia da usinagem dos materiais. Ed. Artlebet Ltda., 244p., 2000."
   docentes: ['5840793 - Sérgio Schneider']
+  nomeascii: " Processos da Industria Mecanica"
 - LOM3080:
   sigla: "LOM3080"
   nome: " Processos da Indústria Metalúrgica e Siderúrgica"
@@ -1483,6 +1525,7 @@ DINIZ, A.E.; MARCONDES, F.C.; COPPINI, N.L. Tecnologia da usinagem dos materiais
 8. Amauri Garcia. Solidificação: Fundamentos e Aplicações, Editora da UNICAMP, Campinas, SP, 2008
 9. Mauricio Prates de Campos Filho e Graeme John Davies Solidificação e Fundição de Metais e suas Ligas, Livros Técnicos e Científicos, Rio de Janeiro."
   docentes: ['3577649 - Carlos Angelo Nunes']
+  nomeascii: " Processos da Industria Metalurgica e Siderurgica"
 - LOQ4076:
   sigla: "LOQ4076"
   nome: " Termodinâmica Aplicada"
@@ -1579,6 +1622,7 @@ DINIZ, A.E.; MARCONDES, F.C.; COPPINI, N.L. Tecnologia da usinagem dos materiais
 
 6)Sandler, S. I., Chemical and Engineering Thermodynamics, 3rd ed., John Wiley & Sons, 1999"
   docentes: ['8554681 - Pedro Felipe Arce Castillo']
+  nomeascii: " Termodinamica Aplicada"
 - LOQ4207:
   sigla: "LOQ4207"
   nome: " Processos da Indústria Química"
@@ -1626,6 +1670,7 @@ Química & Derivados, São Paulo, SP: QD, v. 1, n. 1, nov. 1965-; Disponível em
 
 Petróleo & Energia, São Paulo, SP: PE, v. 1, n. 1, jan. 2010; Disponível em: http://www.petroleoenergia.com.br/petroleo/category/revista-petroleo-e-energia/."
   docentes: ['1285870 - Marcos Villela Barcza']
+  nomeascii: " Processos da Industria Quimica"
 - LOQ4208:
   sigla: "LOQ4208"
   nome: " Processos da Indústria de Serviços"
@@ -1657,6 +1702,7 @@ Petróleo & Energia, São Paulo, SP: PE, v. 1, n. 1, jan. 2010; Disponível em: 
   exame: "NF = (MF + PR)/2, onde NF é a média final da segunda avaliação, MF é a média final da primeira avaliação e PR é a nota da recuperação."
   bibliografia: "CARVALHO, M. M. (organizadora) e outros. Gestão de Serviços: Casos Brasileiros. Atlas. 2013CORREA, H. C. e CAON, M. Gestão de Serviços: Lucratividade por meio de operação e de satisfação dos clientes. Atlas, 2014 FITZSIMMONS, J.; FITZSIMMONS, M.J. Administração de serviços: operações, estratégia e tecnologia de informação. Porto Alegre: Bookman, 2000.GIANESI, I e CORREA, H. Administração Estratégia de Serviços, ATLAS, 1995 – SPJOHNSTON, R. e CLARK, G. Administração e Operações de Serviços. Atlas, 2001LOVELOCK, C.H.; WRIGHT, L. Serviços: marketing e gestão. São Paulo: Saraiva, 2001.MELLO, C. H. P.; NETO, P. L. O. C.; TURRIONI, J.B. SILVA, C. E. S. Gestão do Processo de Desenvolvimento de Serviços. Atlas. 2010NORMANN, R. Administração de Serviços. São Paulo. Atlas. 1992.Bibliografia complementar será indicada ao longo do curso."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Processos da Industria de Servicos"
 - LOQ4209:
   sigla: "LOQ4209"
   nome: " Engenharia da Qualidade I"
@@ -1700,6 +1746,7 @@ OAKLAND, J.S. (Tradução PEREIRA, A.G.). 1994. Gerenciamento da Qualidade Total
 TURBAN, E. & RAINER, R. K. & PORTTER, R. E. Introdução a Sistemas de Informação uma Abordagem Gerencial. São Paulo: Editora Campus. 2007, 457p.
 VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Engenharia da Qualidade I"
 - LOQ4238:
   sigla: "LOQ4238"
   nome: " Projeto Integrado em Engenharia de Produção III"
@@ -1739,6 +1786,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
   bibliografia: "Artigos sobre metodologias ativas de aprendizagem e  Project Based Learning.
 Livros e Artigos científicos relacionados com o tema do projeto."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Projeto Integrado em Engenharia de Producao III"
 - LOQ4241:
   sigla: "LOQ4241"
   nome: " Sistemas de Apoio à Decisão"
@@ -1777,6 +1825,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
 3.LAWRENCE, J. A. JR.; PASTERNACK, B. A. (2002), Applied Management Science: modeling, spreadsheet analysis and communication for decision making, 2nd edition, New York (USA): Wiley
 4.SHIMIZU, T. (2001), Decisão nas Organizações: introdução aos problemas de decisão encontrados nas organizações e nos sistemas de apoio à decisão, São Paulo: Atlas"
   docentes: ['5840917 - Fabrício Maciel Gomes']
+  nomeascii: " Sistemas de Apoio a Decisao"
 - LOB1051:
   sigla: "LOB1051"
   nome: " Gestão Ambiental"
@@ -1824,6 +1873,7 @@ SEIFFERT, M. E. B. Gestão Ambiental: instrumentos, esferas de ação e educaç�
 
 TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Editora Atlas,.  2005"
   docentes: ['5817650 - Érica Leonor Romão']
+  nomeascii: " Gestao Ambiental"
 - LOQ4212:
   sigla: "LOQ4212"
   nome: " Engenharia da Qualidade II"
@@ -1858,6 +1908,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
 3. GRANT, E., LEAVENWORTH, R., Statistical Quality Control, 7ªed., McGraw-Hill, 1996.
 4. WERKENA, M.C.C., Ferramentas Estatísticas Básicas para o Gerenciamento de Processos, Editora FCO, 1996."
   docentes: ['5840917 - Fabrício Maciel Gomes']
+  nomeascii: " Engenharia da Qualidade II"
 - LOQ4213:
   sigla: "LOQ4213"
   nome: " Contabilidade e Custos"
@@ -1889,6 +1940,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "IUDICIBUS, S.; MARION, J. C. Curso de Contabilidade para não Contadores. 8 ed. São Paulo: Atlas, 2018.MARTINS, E. Contabilidade de Custos. 11 ed. São Paulo: Atlas, 2018.SANTOS, J. J. Manual de Contabilidade e Análise de Custos. 7 ed. São Paulo: Atlas, 2017.SILVA, R. N. S.; LINS, L. S. Gestão de Custos - Contabilidade, Controle e Análise. 4 ed. São Paulo: Atlas, 2017.DUTRA, R. G. Custos: Uma Abordagem Prática. 8 ed. São Paulo: Atlas, 2017.MEGLIORINI, E.; BUENO, A. S. Contabilidade para cursos de Engenharia. São Paulo: Atlas, 2014.MORANTE, A. S. Análise das Demonstrações Financeiras. 2 ed. São Paulo: Atlas, 2009.Bruni, Adriano L., Fama, Rubens. Gestão de custos e formação de preços. 5. Ed., São Paulo: Atlas, 2008.Hansen, Don R., Mowen, Maryanne M., Gestão de custos – contabilidade e controle. São Paulo: Pioneira Thomson, 2001Horngren, Charles T., Datar, Srikant M., Foster, George. Contabilidade de custos (vol. 1 e 2). 11. Ed. São Paulo: Pearson, 2004.Maher, Michael. Contabilidade de custos – criando valor para a administração. 5. ed., São Paulo: Atlas, 2001.Martins, Eliseu. Contabilidade de Custos (livro de exercícios). 9. Ed., São Paulo: Atlas, 2006.Martins, Eliseu. Contabilidade de Custos (livro texto). 9. Ed., São Paulo: Atlas, 2003."
   docentes: ['11079086 - Herlandí de Souza Andrade']
+  nomeascii: " Contabilidade e Custos"
 - LOQ4227:
   sigla: "LOQ4227"
   nome: " Organização do Trabalho na Produção"
@@ -1920,6 +1972,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
   exame: "uma prova escrita"
   bibliografia: "FLEURY, Afonso C.C.; VARGAS, N. Organização do trabalho. São Paulo: Atlas, 1983.HELOANI, Roberto. Organização do Trabalho e Administração: Uma Visão Multidisciplinar. São Paulo: Cortez, 1994.MARX, Roberto. Trabalho em grupo e autonomia como instrumentos da competição. São Paulo: Atlas, 1998.SALERNO, Mario S. Projeto organizacional de produção integrada e flexível. São Paulo: EPUSP/PRO, 1998.SOUZA LIMA, J. C. Relações entre empresas da cadeia e questões contemporâneas de organização do trabalho. Itu: Ottoni, 2006.TAYLOR, Frederick W. Princípios de administração científica. São Paulo: Atlas, 1976.VARGAS, Nilton. Organização do trabalho e capital. Rio de Janeiro: COPPE/UFRJ/PEP, 1979.WOOMACK, James P.; JONES, Daniel T.; ROOS, Daniel. A máquina que mudou o mundo. Rio de Janeiro: Campus, 1992."
   docentes: ['8188658 - Maria Auxiliadora Motta Barreto']
+  nomeascii: " Organizacao do Trabalho na Producao"
 - LOQ4242:
   sigla: "LOQ4242"
   nome: " Automação e Controle de Processos Produtivos"
@@ -1955,6 +2008,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
   exame: "A recuperação deverá consistir de uma prova englobando a matéria toda do semestre. - A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
   bibliografia: "Tutoriais de Arduino disponibilizados pelo fabricante (arduino.cc)NISE, N. S., “Engenharia de Sistemas de Controle”, 3ª ed., LTC, 2002.OGATA, K., “Engenharia de Controle Moderno”, 4ª ed., Prentice-Hall do Brasil, 2003.Tutoriais disponibilizados pelo professorBOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos Eletrônicos e Teoria de Circuitos. 8ª ed. São Paulo: Pearson. 696 p.THOMAZINI, Daniel; ALBUQUERQUE, Pedro U. B.. Sensores Industriais – Fundamentos e Aplicações. 8ª ed. São Paulo: Érica, 2011. 224 p.CAPELLI, A. Automação Industrial: controle de movimento e processos contínuos. São Paulo: Érica, 2006. SILVEIRA, P. R. da; SANTOS, W. E. Automação e controle discreto. 3. ed. São Paulo: Érica, 1998. MORAES, C. C.; CATRUCCI, P. Engenharia de automação industrial. 2. ed. Rio de Janeiro: LTC, 2007. GIORGINI, M. Automação aplicada: descrição e implementação de sistemas sequencias com PLC's. 5. ed. São Paulo: Érica, 2003."
   docentes: ['8767640 - Eduardo Ferro dos Santos']
+  nomeascii: " Automacao e Controle de Processos Produtivos"
 - LOQ4243:
   sigla: "LOQ4243"
   nome: " Engenharia de Sistemas Eletrônicos"
@@ -1990,6 +2044,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
   exame: "A recuperação será composta por uma única prova (RC) englobando toda a matéria ministrada ao longo do semestre. A média final, para os alunos em recuperação, será calculada com base na relação: MF=(M+RC)/2"
   bibliografia: "Tutoriais de Arduino disponibilizados pelo fabricante (arduino.cc) BOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos Eletrônicos e Teoria de Circuitos. 8ª ed. São Paulo: Pearson. 696 p. THOMAZINI, Daniel; ALBUQUERQUE, Pedro U.B. Sensores Industriais – Fundamentos e Aplicações. 8ª ed. São Paulo: Érica, 2011. 224 p.Bibliografia complementar será indicada ao longo do curso."
   docentes: ['8767640 - Eduardo Ferro dos Santos']
+  nomeascii: " Engenharia de Sistemas Eletronicos"
 - LOQ4216:
   sigla: "LOQ4216"
   nome: " Projeto da Fábrica"
@@ -2021,6 +2076,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
   exame: "MF = (0,5 M + 0,5 R)M = Média de aproveitamento do aluno, antes da recuperaçãoR = Nota de uma prova de recuperaçãoMF = nota final de aproveitamento, após a recuperaçãoAprovação com média final de aproveitamento maior ou igual a 5,0.A recuperação deverá consistir de uma prova escrita englobando a matéria toda do semestre.Terá direito à prova de recuperação aqueles alunos reprovados com nota acima de 3,0 e frequência mínima de 70%."
   bibliografia: "BANZATO, Eduardo et al. Atualidades na armazenagem. São Paulo: IMAM, 2003.BARNES, R.M. Estudo de Movimentos de Tempos: projeto e medida do trabalho. São Paulo, Edgar Blücher, 1977.GURGEL, F.A.C. Administração de recursos materiais e patrimoniais. 2a. Edição. São Paulo. Editora Cengage. 2013. FRANCISCHINI, P.G.; VALLE, C.E. Implantação de Indústrias. Rio de Janeiro, LTC Editora, 1975.LEE, Q et al. Projeto de Instalações e Locais de Trabalho. São Paulo: IMAM, 1998.MOURA, Reinaldo Aparecido. Sistemas e técnicas de movimentação e armazenagem de materiais. IMAM, 2012.NEWMANN, C.; SCALICE, R.K. Projeto de Fábrica e Layout. Rio de Janeiro, Elsevier, 2015.Müther, R. Planejamento do Layout: Sistema SLP. São Paulo, Edgard Blücher, 1978. SLACK, Nigel et al. Administração da produção. São Paulo: Atlas, 8ª ed. 2018.TOMPKINS, James A. et al. Planejamento de instalações. Editora LTC:, 2013."
   docentes: ['5701460 - Antonio Iacono']
+  nomeascii: " Projeto da Fabrica"
 - LOQ4217:
   sigla: "LOQ4217"
   nome: " Logística e Cadeia de Suprimento"
@@ -2052,6 +2108,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
   exame: "Prova de Recuperação (PR). A Nota final (NF) será a média aritmética entre MF e PR"
   bibliografia: "CORRÊA, HENRIQUE LUIZ. Gestão de rede de suprimento: integrando cadeias de suprimento no mundo globalizado. Editora Atlas, 2009CORREA, HENRIQUE LUIZ. Administração de cadeias de suprimento e logística: o essencial. Editora Atlas 2014PIRES, SÉRGIO. Gestão da cadeia de suprimentos (Supply Chain Management): conceitos, estratégias, práticas e casos. Editora Atlas segunda edição. 2009IYER, ANANTH; SESHHADRI, SHIDHAR; VASHER, ROY. A gestão da cadeia de suprimentos da Toyota. Bookman. 2009MYERSON, PAUL. Lean Supply Chain and logistics management. McGrawHill. 2012"
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Logistica e Cadeia de Suprimento"
 - LOQ4218:
   sigla: "LOQ4218"
   nome: " Engenharia da Qualidade III"
@@ -2087,6 +2144,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
 4. R.S. Dhillon, C. Singh, ENGINEERING RELIABILITY. NEW TECHNIQUES AND APPLICATIONS, Wiley Interscience, 1981. 
 5. HARRY, M. , LINSENMANND.R., The Six Sigma Fieldbook, Doubleday, New York, 2006"
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Engenharia da Qualidade III"
 - LOQ4219:
   sigla: "LOQ4219"
   nome: " Projeto do Produto e Processo"
@@ -2118,6 +2176,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
   exame: "MF = (0,5 M + 0,5 R)M = Média de aproveitamento do aluno, antes da recuperaçãoR = Nota de uma prova de recuperaçãoMF = nota final de aproveitamento, após a recuperaçãoAprovação com média final de aproveitamento maior ou igual a 5,0.A recuperação deverá consistir de uma prova escrita englobando a matéria toda do semestre.Terá direito à prova de recuperação aqueles alunos reprovados com nota acima de 3,0 e frequência mínima de 70%."
   bibliografia: "ROZENFELD, H.; FORCELLINI, F.A.; AMARAL, D.C.; TOLEDO, J. A.; SILVA, S.L.; ALLIPRANDINI, D.H.; SCALICE, R.K. Gestão de desenvolvimento de produtos: uma referência para a melhoria do processo. São Paulo: Saraiva, 2006. 542p. CHENG, L.C. QFD: desdobramento da função qualidade na gestão de desenvolvimento de produtos. São Paulo: Edgard Blücher, 2007. DENIS, R. C. Uma introdução à história do design. São Paulo: Edgard Blücher., 2000. MALHOTRA, N.K. Pesquisa de marketing: uma orientação aplicada. Porto Alegre: Bookman, 2006. PAHL,G.; BEITZ,W.; FELDHUSEN,J.;GROTE,K. Projeto na engenharia. São Paulo: Edgard Blucher, 2005."
   docentes: ['5701460 - Antonio Iacono']
+  nomeascii: " Projeto do Produto e Processo"
 - LOQ4222:
   sigla: "LOQ4222"
   nome: " Engenharia Econômica e Finanças"
@@ -2149,6 +2208,7 @@ TACHIZAWA, T. Gestão Ambiental e Responsabilidade Social Corporativa. 3a. Ed Ed
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "GITMAN, L. J. - ZUTTER, C. J. Princípios de Administração Financeira. 14 ed. São Paulo: Perason, 2017.GROPPELLI, A. A.; NIKBAKHT, E. Administração Financeira. 3 ed. São Paulo: Saraiva, 2010.MARCOUSÉ, I.; SURRIDGE, M.; GILLESPIE, A. Finanças. São Paulo: Saraiva, 2013.ASSAF NETO, A. E LIMA, F. G. 3 ed. CURSO DE ADMINISTRAÇÃO FINANCEIRA. São Paulo: Atlas, 2014MARIANO, F.; MENESES, A. Curso De Administração Financeira. São Paulo: Método, 2012.MORANTE, A. S. Análise das Demonstrações Financeiras. 2 ed. São Paulo: Atlas, 2009.NEWNAN, D. G.; LAVELLE, J. P. Fundamentos de Engenharia Econômica. São Paulo: LTC,2000.KOPITTKE, B. H.; CASAROTTO FILHO, N. ANÁLISE DE INVESTIMENTOS: Matemática Financeira, Engenharia Econômica, Estratégia Empresarial. 11 ed. São Paulo: Atlas, 2010.HOJI, M.; LUZ, A. E. Gestão Financeira Econômica: Didática, Objetiva e Prática. São Paulo: Atlas, 2019.GOMES, J. M. Elaboração e Análise De Viabilidade Econômica De Projetos. São Paulo: Atlas, 2013.OLIVO, R. L. F. Análise de Investimentos. Campinas: Alínea, 2011.ALMEIDA, J. T. S. Matemática Financeira. Rio de Janeiro: LTC, 2016.EHRLICH, Pierre Jacques. Engenharia Econômica. São Paulo: Editora Atlas, 2005.HIRSCHFELD, Henrique. Engenharia econômica e análise de custos. 7. ed. São Paulo: Atlas, 2007.MOTTA, Regis da Rocha; CALÔBA, Guilherme Marques. Análise de Investimentos. São Paulo: Atlas 2002.SANVICENTE, A. Z. Administração Financeira. São Paulo: Editora Atlas, 2007.VAN HORNE, J. C. Política e Administração Financeira. Rio de Janeiro: Livros Técnicos e Científicos, 1974.WESTON, J. F.; BRIGHAM, E. F. Administração Financeira de Empresas. São Paulo: Editora Interamericana, 2000."
   docentes: ['11079086 - Herlandí de Souza Andrade']
+  nomeascii: " Engenharia Economica e Financas"
 - LOB1031:
   sigla: "LOB1031"
   nome: " Psicologia Organizacional e do Trabalho"
@@ -2204,6 +2264,7 @@ SPECTOR, P. Psicologia nas Organizações. São Paulo: McGraw-Hill, 2002.
 ROBBINS, S. P. Fundamentos do Comportamento Organizacional. 8ª. Ed., São Paulo: Pearson Prentice Hall, 2009.
 TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasiliense, 2001."
   docentes: ['8188658 - Maria Auxiliadora Motta Barreto']
+  nomeascii: " Psicologia Organizacional e do Trabalho"
 - LOQ4215:
   sigla: "LOQ4215"
   nome: " Planejamento e Controle da Produção"
@@ -2238,6 +2299,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
 3. SLACK, N.; CHAMBERS, S.; JOHNSTON, R., Administração da Produção., 3ª ed. Editora Atlas, 2009.
 4. VOLLMANN, T. E.; BERRY, W. L.; WHYBARK, D. C., Manufacturing Planning and Control Systems., 4ª ed., McGraw-Hill, 1997."
   docentes: ['5840917 - Fabrício Maciel Gomes']
+  nomeascii: " Planejamento e Controle da Producao"
 - LOQ4220:
   sigla: "LOQ4220"
   nome: " Logística Reversa"
@@ -2272,6 +2334,7 @@ LEITE, P. R. Logística Reversa - Meio Ambiente e Competitividade, Editora Prent
 FLEISCHMANN, M.; Quantitative Models for Reverse Logistics. Springer-Verlag Heideberg. Germany, 2001.
 HILLIER, F. S.; LIEBERMAN, G. J. Introdução à Pesquisa Operacional, Editora Campus/EDUSP. São Paulo, 1988."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Logistica Reversa"
 - LOQ4224:
   sigla: "LOQ4224"
   nome: " Planejamento de Experimentos"
@@ -2303,6 +2366,7 @@ HILLIER, F. S.; LIEBERMAN, G. J. Introdução à Pesquisa Operacional, Editora C
   exame: "Uma provas escrita com conteúdo de todo o semestre. NF = (MF + PR)/2, onde PR é uma prova de recuperação"
   bibliografia: "1. MONTGOMERY, D.C., Design and Analysis of Experiments, Wiley, 19912. BOX, G.E.; HUNTER, W.G.; HUNTER, J.S., Statistic for Experimenters, John Wiley & Sons, New York, 1978. 3. TAGUCHI, G.; WU, YU-IN., Introduction to off-Line Quality Control. Central Japan Quality Control Association. Meieki Nakamura-Ku Magaya, Japan, 1979. 4. BRUNS, R.E., Como Fazer Experimentos, Editora UNICAMP, 2010. 5. COX, D.R., Planning of Experiments, Wiley 1976. 6. COX, G.M.; COCHRAN, W.G., Experimental Desing. Wiley 1976. 7. SILVA M.B. et al, Design of Experiments-Applications, Editora Intech, 2013"
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Planejamento de Experimentos"
 - LOQ4226:
   sigla: "LOQ4226"
   nome: " Gestão Estratégica da Produção"
@@ -2349,6 +2413,7 @@ Porter, Michael E.: What is Strategy? Harvard Business Review, p61-78, n.6, 1996
 
 Slack, Nigel: Vantagem Competitiva em Manufatura : atingindo competitividade nas operações industriais, Editora Atlas, São Paulo, 1993."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Gestao Estrategica da Producao"
 - LOQ4244:
   sigla: "LOQ4244"
   nome: " Lean Six Sigma"
@@ -2380,6 +2445,7 @@ Slack, Nigel: Vantagem Competitiva em Manufatura : atingindo competitividade nas
   exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação"
   bibliografia: "WOMACK, J.P.; JONES, D.T. Lean Thinking,  Free Press, 2010WOMACK, J.P.; JONES, D.T., Lean Solutions, 2009DENIS, P, Produçao Lean Simplificada,  Bookman, 2008 HARRY, M. , LINSENMANND.R., The Six Sigma Fieldbook, Doubleday, New York, 2006KUME, H. (Tradução Miyake, D.I.). 1993. Métodos Estatísticos para Melhoria da Qualidade. São Paulo. Editora Gente, 245 p.HARRY, M. , LINSENMANND.R., The Six Sigma Fieldbook, Doubleday, New York, 2006ISHIKAWA, K. Guide to quality control. Tokyo: Kraus Asian Productivity Organization, 1982.JURAN, J.M.; GRYNA, F.M. Juran controle da qualidade: métodos especiais de apoio à qualidade. São Paulo: Makron Books, 1993LIKER, K. & MEIER D. O Modelo Toyota, Manual de Aplicação. Porto Alegre: Bookman, 2007MARANHÃO, M. ISO Série 9000-Guia de Implementação, Qualitymark, Rio de Janeiro, 2001MONTGOMERY, D.C. 1991. Introduction to Statistical Quality Control. New York. John Wiley & Sons Inc."
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Lean Six Sigma"
 - LOB1008:
   sigla: "LOB1008"
   nome: " Ciência, Tecnologia e Sociedade"
@@ -2440,6 +2506,7 @@ _____________  Eu,Tu,Nós  Ética e Cidadania para jovens. Cachoeira Paulista, S
 Artigos de revistas especializadas e de jornais; 
 Estudos, artigos, notícias e pesquisas via internet."
   docentes: ['948230 - Francisco Sodero Toledo']
+  nomeascii: " Ciencia, Tecnologia e Sociedade"
 - LOB1055:
   sigla: "LOB1055"
   nome: " Fundamentos de Engenharia de Segurança no Trabalho"
@@ -2495,6 +2562,7 @@ Sax, N. I. ; Lewis, R. J. ; Dangerous properties of industrial materials. Van No
 Mattos, A. de O. (orgs.)- Higiene e segurança do trabalho. Elsevier Ed.  R.J.:2011. 408p. 
 Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 3040P."
   docentes: ['8767640 - Eduardo Ferro dos Santos']
+  nomeascii: " Fundamentos de Engenharia de Seguranca no Trabalho"
 - LOQ4225:
   sigla: "LOQ4225"
   nome: " Gestão da Tecnologia da Informação"
@@ -2556,6 +2624,7 @@ STAIR, R.M., Princípios de Sistema de Informação: Uma Abordagem Gerencial, Ri
 TURBAN, E. et al. Information Technology for Management: Transforming Organizations in the Digital Economy. 7th edition, Wiley, 2009.
 TURBAN, E., RAIANER JR, K., POTTER, R. E., Administração de Tecnologia da Informação: Teoria e Prática, São Paulo, Editora Campus, 2003."
   docentes: ['11079086 - Herlandí de Souza Andrade']
+  nomeascii: " Gestao da Tecnologia da Informacao"
 - LOQ4228:
   sigla: "LOQ4228"
   nome: " Trabalho de Graduação em Engenharia de Produção I"
@@ -2595,6 +2664,7 @@ TURBAN, E., RAIANER JR, K., POTTER, R. E., Administração de Tecnologia da Info
   exame: "Reapresentação do trabalho modificado para nova avaliação"
   bibliografia: "Cauchick-Miguel, P. A.,   Metodologia de pesquisa em engenharia de produção e gestão de operações / Afonso Fleury ... [et al.] ; coordenação . - 3. ed. - Rio de Janeiro : Elsevier, 2018. Cauchick-Miguel, P. A.,   Metodologia de pesquisa em engenharia , 1. ed. - Rio de Janeiro : GEN LTC, 2019. BOOTH, W.; COLOMB, G.; WILLIAMS, J. A arte da Pesquisa. 3 ed. Martins Fontes. São Paulo. 2005.GIL, A.C. Como elaborar projetos de pesquisa. 5 ed. Atlas, São Paulo, 2010.MEDEIROS, J. B. Redação Cientifica: A Prática de Fichamentos, Resumos e Resenhas. 11 ed. São Paulo: Atlas, 2009"
   docentes: ['198273 - Domingos Savio Giordani']
+  nomeascii: " Trabalho de Graduacao em Engenharia de Producao I"
 - LOQ4245:
   sigla: "LOQ4245"
   nome: " Ergonomia"
@@ -2626,6 +2696,7 @@ TURBAN, E., RAIANER JR, K., POTTER, R. E., Administração de Tecnologia da Info
   exame: "A recuperação deverá consistir de uma prova englobando a matéria toda do semestre. - A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
   bibliografia: "IIDA, I. Ergonomia: Projeto e Produção. São Paulo: Edgard Blücher, 2001.GUÉRIN et al. Compreender o trabalho para transformá-lo. São Paulo: Edgard Blücher, 2001.VIDAL, M. C. Ergonomia na empresa, útil, prática e aplicada, 2º ed.. Rio de Janeiro: Editora CVC, 2002.COUTO, H. A. Como implantar a ergonomia na empresa. Belo Horizonte: Ergo Editora, 2002."
   docentes: ['8767640 - Eduardo Ferro dos Santos']
+  nomeascii: " Ergonomia"
 - LOB1010:
   sigla: "LOB1010"
   nome: " Direito  Aplicado à Engenharia"
@@ -2675,6 +2746,7 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
 10. ROMEIRO, José Antonio Nunes. Sociedade por Cotas de Responsabilidades Limitada. Curitiba: Juruá, 1984 
 11. RUSSOMANO, Mozart Victor. Comentários à Consolidação das Leis do Trabalho. Rio De Janeiro: Forense, 1994."
   docentes: ['5840618 - José Antonio Nunes Romeiro']
+  nomeascii: " Direito  Aplicado a Engenharia"
 - LOQ4229:
   sigla: "LOQ4229"
   nome: " Trabalho de Graduação em Engenharia de Produção II"
@@ -2706,6 +2778,7 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
   exame: "Reapresentação do trabalho modificado para nova avaliação."
   bibliografia: "Recomendada pelo orientador"
   docentes: ['5840560 - Marco Antonio Carvalho Pereira', '1285870 - Marcos Villela Barcza']
+  nomeascii: " Trabalho de Graduacao em Engenharia de Producao II"
 - LOQ4230:
   sigla: "LOQ4230"
   nome: " Estágio em Engenharia de Produção"
@@ -2817,6 +2890,7 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
   exame: "Não será oferecida recuperação."
   bibliografia: "A ser definida com o orientador em função das atividades desenvolvidas no estágio."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Estagio em Engenharia de Producao"
 - LOQ4232:
   sigla: "LOQ4232"
   nome: " Processos da Indústria Eletro Eletrônica"
@@ -2848,6 +2922,7 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
   exame: "1 (uma) prova de recuperação."
   bibliografia: "01 Stephen A. Campbell, The Science and Engineering of Microelectronic Fabrication, 2nd edition, Oxford University Press, 2001;02 S.M. Sze - VLSI Technology, McGraw-Hill, 1988;03 V. Baranauskas, org., Processos em Microeletrônica, SBV e SBMicro, 1990;04 R. A. Levy, Microelectronic Materials and Processes, Kluwer Academic Publ., 1989;[05] M. Madou, Fundamentals of Microfabrication, CRC press, 1997."
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Processos da Industria Eletro Eletronica"
 - LOQ4269:
   sigla: "LOQ4269"
   nome: " Planejamento e Gestão Estratégica"
@@ -2883,6 +2958,7 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "OLIVEIRA, D. P. R. Planejamento Estratégico: Conceitos, Metodologia e Práticas. 34 ed. São Paulo: Atlas, 2018.CHIAVENATO, I; SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3 ed. Rio de Janeiro: Campus, 2015.COSTA, E. A. Gestão Estratégica: da empresa que temos para a empresa que queremos. 2 ed. Santo André: Saraiva, 2012.LOBATO, D. M. Estratégia de Empresas. Rio de Janeiro: FGV, 2009.HITT, M A. et al. Administração Estratégica. São Paulo: Pioneira Thomson Learning, 2007.GHEMAWAT, P. A Estratégia e o cenário de Negócios. Porto Alegre: Bookman, 2007.MINTZBERG, H. et al. O Processo da Estratégia. São Paulo: Bookman, 2006.HAMEL, G., PRAHALAD, C.K. Competindo pelo futuro. Rio de Janeiro: Campus, 2005.PORTER, M. Estratégia Competitiva. Rio de janeiro: Campus, 2005.KAPLAN, R. S. Mapas Estratégicos: Balanced Scorecard. Rio de Janeiro: Elsevier, 2004."
   docentes: ['11079086 - Herlandí de Souza Andrade']
+  nomeascii: " Planejamento e Gestao Estrategica"
 - 8800006:
   sigla: "8800006"
   nome: " Projeto de Engenharia I"
@@ -2926,6 +3002,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
   bibliografia: "Artigos sobre metodologias ativas de aprendizagem e  Project Based Learning.
 Livros e Artigos científicos relacionados com o tema do projeto."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Projeto de Engenharia I"
 - 8800007:
   sigla: "8800007"
   nome: " Projeto de Engenharia II"
@@ -2969,6 +3046,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
   bibliografia: "Artigos sobre metodologias ativas de aprendizagem e  Project Based Learning.
 Livros e Artigos científicos relacionados com o tema do projeto."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Projeto de Engenharia II"
 - LOQ4246:
   sigla: "LOQ4246"
   nome: " Engenharia da Sustentabilidade"
@@ -3000,6 +3078,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "NF = (MF + PR)/ 2 , onde NF é a média final da segunda avaliação, MF é a média final da primeira avaliação e PR é a nota da recuperação"
   bibliografia: "ALLEN, D.T., SHONNARD, D.R. , Sustainable Engineering :concepts, design and case studies, Prentice Hall, 2015BLOKDIJK, G. , ISO14000 - Simple Steps to Win, Insights and Opportunities for Maxing out Success, Complete Publishing, 2015LAVE, L.B., HENDRICKSON, C.T. , Environmental Life Cycle Assessment of Goods and Services, Ed John Hopkins, 2006"
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Engenharia da Sustentabilidade"
 - LOQ4247:
   sigla: "LOQ4247"
   nome: " Desenho Assistido por Computador"
@@ -3031,6 +3110,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "A recuperação deverá consistir de uma prova englobando a matéria toda do semestre. - A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
   bibliografia: "Bibliografia principal:- Manual do software a ser adotado. Tutorias do software a ser adotado.Bibliografia complementar:- Normas Brasileiras Aplicadas ao Desenho Técnico.- RIBEIRO, A. C.; PERES, M. P.; IZIDORO, N. Curso de Desenho Técnico e AutoCAD, Pearson, 2013.- SILVA, A., RIBEIRO, C.T., DIAS, J. e SOUSA, L. Desenho Técnico Moderno, LTC, 2006.- LEAKE, J. e BORGERSON, J. Manual de Desenho Técnico para Engenharia - Desenho, Modelagem e Visualização. LTC, 2010."
   docentes: ['8767640 - Eduardo Ferro dos Santos']
+  nomeascii: " Desenho Assistido por Computador"
 - LOQ4248:
   sigla: "LOQ4248"
   nome: " Marketing Estratégico"
@@ -3062,6 +3142,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "KOTLER, P.; KELLER, K. L. Administração De Marketing. 15 ed. São Paulo: Pearson, 2019.KOTLER, P.; KARTAJAYA, H.; SETIAWAN, I. Marketing 4.0: do Tradicional ao Digital. São Paulo: Sextante, 2017.KOTLER, P. - ARMSTRONG, G. Princípios De Marketing. 15 ed. São Paulo: Pearson, 2014.KOTLER, P.; KELLER, K. L.  Marketing Essencial. 5 ed. São Paulo: Pearson, 2013.SANDHUSEN, R. L. Marketing Básico - Série Essencial. 3 ed. São Paulo: Saraiva, 2010.SAPIRO, Arão., CHIAVENATO, I. Planejamento Estratégico. Campus, 2ª. edição, 2010 KOTLER, P. Administração de Marketing, edição do milênio, revisão técnica de Prof. Arão Sapiro. Prentice-Hall, 2000. HOOLEY, Graham J.; PIERCY, Nigel F.; SAUNDERS, John A. Estratégia de Marketing e Posicionamento Competitivo tradução e revisão técnica: Prof. Arão Sapiro. Pearson Education do Brasil, 2001. SAPIRO, ARAO; GANGANA, MAURÍCIO; LIMA, MIGUEL; VILHENA, JOÃO BAPTISTA. Gestão de Marketing . FGV Editora, 2004. BOONE, L. e KURTZ, D.L. Marketing contemporâneo. 8ª ed. São Paulo, Livros Técnicos e Científicos, 1998. KOTLER, P; JATURISPITAK, S. e MAESINCIE, S. O marketing das nações. São Paulo, Futura, 1997. MARTINS, J.R. e BLECHER, N. O império das marcas. 2ª ed. São Paulo, Negócio Editora, 1997 THUROW, L.C. O futuro do capitalismo. 2ª ed. São Paulo, Rocco, 1997. VAZ, G. N. Marketing institucional. São Paulo, Pioneira, 1995. Bibliografia Complementar Artigos das Revistas: Marketing, Meio e Mensagem, Exame, Dinheiro, Revista da Escola de Administração da FEA-USP, Revista ESPM."
   docentes: ['11079086 - Herlandí de Souza Andrade']
+  nomeascii: " Marketing Estrategico"
 - LOQ4249:
   sigla: "LOQ4249"
   nome: " Oficina de Inovação"
@@ -3089,3 +3170,4 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   exame: "Não há recuperação."
   bibliografia: "BROWN, T. Design thinking. Rio de Janeiro: Campus, 2010.INPI. Instituto nacional de propriedade industrial. Disponível em: http://www.inpi.gov.br/. Consultado em: junho de 2015.KUMAR, V. 101 Design Methods: A Structured Approach for Driving Innovation in Your Organization. New Jersey: John Willey and Sons, 2013.MALHOTRA, N.K. Pesquisa de marketing: uma orientação aplicada. Porto Alegre: Bookman, 2006.ROMEIRO FILHO et al. Projeto do produto. Rio de Janeiro: Campus, 2010.ROZENFELD, Henrique. Gestão de desenvolvimento de produtos: uma referência para a melhoria do processo. Saraiva, 2006."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Oficina de Inovacao"

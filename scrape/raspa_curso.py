@@ -2,6 +2,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 import raspa_disciplina as rd
+import unidecode
 
 
 def scrape_curso(URL):
@@ -41,6 +42,7 @@ def scrape_curso(URL):
                 curso[sigla] = {}
                 curso[sigla]['sigla'] = sigla
                 curso[sigla]['nome'] = nome
+                # curso[sigla]['nomeascii'] = unidecode.unidecode(nome)
                 curso[sigla]['link'] = link
                 curso[sigla]['requisitos'] = {}
                 curso[sigla]['tipo'] = tipo

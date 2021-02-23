@@ -33,6 +33,7 @@ GUIDORIZZI, Hamilton. Um curso de cálculo. Rio de Janeiro: Livros Técnicos e C
 
 FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentice Hall, 2009."
   docentes: ['5840692 - Diovana Aparecida dos Santos Napoleão']
+  nomeascii: " Calculo I"
 - LOB1009:
   sigla: "LOB1009"
   nome: " Leitura e Interpretação de Desenho Técnico"
@@ -60,6 +61,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   exame: "- A recuperação deverá consistir de uma prova englobando a matéria toda do semestre.- A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
   bibliografia: "1 - ABNT - COLETÂNEA DE NORMAS DE DESENHO TÉCNICONormas Técnicas publicadas pela ABNT2 - DESENHO BÁSICO NA ENGENHARIARibeiro, Antonio Clélio - Apostila publicada pela FAENQUIL3 - FUNDAMENTOS DE DIBUJO EM INGENIERIALuzader, Warren J. - Ed. Comp. Editorial Continental - México4 - MANUAL DE DESENHO TÉCNICOManfé, G./ Scarato, G./ Pozza, R. - Ed. Renovada Livros Culturais Ltda.5 - EXPRESSÃO GRÁFICA - DESENHO TÉCNICOHoelsher, R. P./ Springer, C.H./ Dobrovolny, J.S. - Ed. LTC Editora S.A.6 - DESENHO TÉCNICOFrench, Thomas E. - Editora Globo7 - DESENHO TÉCNICOBachmann, A./ Forberg, R - Editora Globo8 - DESENHISTA DE MÁQUINASEscola PRO-TEC"
   docentes: ['5840820 - Gustavo Aristides Santana Martinez']
+  nomeascii: " Leitura e Interpretacao de Desenho Tecnico"
 - LOB1018:
   sigla: "LOB1018"
   nome: " Física I"
@@ -87,6 +89,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada"
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 1, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.1, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.1, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 1, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 1, Thomson Pioneira (2008)."
   docentes: ['8711686 - Flavia Reis Cardoso Rojas']
+  nomeascii: " Fisica I"
 - LOB1036:
   sigla: "LOB1036"
   nome: " Geometria Analítica"
@@ -114,6 +117,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1.CAMARGO, Ivan ; BOULOS, Paulo. Geometria Analítica: um tratamento vetorial. São Paulo: Prentice Hall, 2005.2.LIMA, Elon Lages de. Geometria analítica e algebra Linear. Rio de Janeiro: SBM SociedadeBrasileira de Matemática,2001. Coleção Matemática Universitária.3.CAROLI, Alésio de; CALLIOLI, A.; FEITOSA, Miguel O. Matrizes vetores geometria analítica. São Paulo: Nobel, 1998.4.SANTOS, Nathan Moreira dos. Vetores e matrizes: uma introdução à álgebra linear. São Paulo: Thomson, 2007."
   docentes: ['8884940 - Paula Cristiane Pinto Mesquita Pardal']
+  nomeascii: " Geometria Analitica"
 - LOB1038:
   sigla: "LOB1038"
   nome: " Física Experimental I"
@@ -141,6 +145,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   exame: "O (NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "Apostilas do Laboratório de Ensino de Física do IFSC/USP.CRUZ, C. H. B.; FRAGNITO, H. L.; COSTA, I. F.; MELLO, B. A. Guia do Curso deLaboratório: Física Experimental I, IFGW/UNICAMP (2005).NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 1, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.1, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.1, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 1, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 1, Thomson Pioneira (2008)."
   docentes: ['9149242 - Fernando Catalani']
+  nomeascii: " Fisica Experimental I"
 - LOB1045:
   sigla: "LOB1045"
   nome: " Leitura e Produção de Textos Acadêmicos"
@@ -186,6 +191,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
 9. MARCUSCHI, Luiz Antônio.  Da fala para a escrita: atividades de retextualização.  São Paulo: Cortez, 2000.
 10. SERAFINI, Maria José.    Como escrever textos. 5.ed. São Paulo: Globo, 1992."
   docentes: ['5840514 - Graziela Zamponi']
+  nomeascii: " Leitura e Producao de Textos Academicos"
 - LOQ4010:
   sigla: "LOQ4010"
   nome: " Introdução à  Engenharia  Química"
@@ -213,6 +219,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
   exame: "(Prova escrita + Média Final)/2         Nota Final mínima para aprovação= 5,0"
   bibliografia: "1) INDÚSTRIA QUÍMICA – RISCOS E OPORTUNIDADES, Pedro Wongtschowski, Ed. Edgar Blucher, 2002.2) INDÚSTRIAS DE PROCESSOS QUÍMICOS SHREVE, R. Norris Jr. ; Joseph A. Brink Ed. LTC, 1980.3) PRINCÍPIOS ELEMENTARES DE PROCESSOS QUÍMICOS, Felder, R.M.; Roussau, R.W. , 2005.4) ENGENHARIA QUÍMICA - PRINCÍPIOS E CÁLCULOS, Himmelblau, D.M. - Riggs, J.B.  Ed. LTC,  20065) INTRODUÇÃO A ENGENHARIA QUÍMICA BRASIL, Nilo Índio Ed. Interciência , 2013.6) ENGENHARIA QUÍMICA, Cremasco, Marco Aurélio, Ed. Edgard Blucher, 2005."
   docentes: ['787307 - Luis Fernando Figueiredo Faria']
+  nomeascii: " Introducao a  Engenharia  Quimica"
 - LOQ4031:
   sigla: "LOQ4031"
   nome: " Química Geral I"
@@ -244,6 +251,7 @@ BROWN, T.L. ET al. Química a ciência central. 9.ed.  São Paulo: Pearson Prent
 CHANG, Raymond. Química geral: conceitos essenciais. 4.ed. s.l.:Ed. AMGH Editora Ltda., 2010.
 RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   docentes: ['198273 - Domingos Savio Giordani']
+  nomeascii: " Quimica Geral I"
 - LOB1004:
   sigla: "LOB1004"
   nome: " Cálculo II"
@@ -279,6 +287,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "GUIDORIZZI, Hamilton L. UM CURSO DE CÁLCULO,2011, 5. ed., v.2LEITHOLD, Louis. CÁLCULO COM GEOMETRIA ANALÍTICA, São Paulo: HARBRA LTDA, 1990. v.2ANTON, Howard; BIVENS, Irl, DAVIS, Stephen. CÁLCULO, 8. ed. São Paulo:Pearson, 2011, v.2SIMMONS, George F. CÁLCULO COM GEOMETRIA ANALÍTICA, São Paulo: Pearson, 2014. v.2STEWART, James. CÁLCULO. revisão técnica Ricardo Miranda Martins. 7. ed. São Paulo: Cengage Learning, 2013. v.2THOMAS, George B. WEIR, Maurice D.; HASS, Joel; GIORDANO, CÁLCULO. revisão técnica Cláudio Hirofume Asano .12.ed. São Paulo: Pearson Education do Brasil, 2013. v.2"
   docentes: ['8822123 - Roberta Veloso Garcia']
+  nomeascii: " Calculo II"
 - LOB1008:
   sigla: "LOB1008"
   nome: " Ciência, Tecnologia e Sociedade"
@@ -339,6 +348,7 @@ _____________  Eu,Tu,Nós  Ética e Cidadania para jovens. Cachoeira Paulista, S
 Artigos de revistas especializadas e de jornais; 
 Estudos, artigos, notícias e pesquisas via internet."
   docentes: ['948230 - Francisco Sodero Toledo']
+  nomeascii: " Ciencia, Tecnologia e Sociedade"
 - LOB1019:
   sigla: "LOB1019"
   nome: " Física II"
@@ -374,6 +384,7 @@ Estudos, artigos, notícias e pesquisas via internet."
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 2, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.2, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.2, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 2, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 2, Thomson Pioneira (2008)."
   docentes: ['8711623 - Denize Kalempa']
+  nomeascii: " Fisica II"
 - LOB1037:
   sigla: "LOB1037"
   nome: " Àlgebra Linear"
@@ -405,6 +416,7 @@ Estudos, artigos, notícias e pesquisas via internet."
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "01.STRANG, Gilbert. Álgebra linear e suas aplicações, São Paulo: Cengage Learning, 2010.02.LIPSCHUTZ, Seymour . Algebra linear. 3. ed. São Paulo: Ed. McGrawHill. 1990.03.HOWARD, Anton ; RORRES,Chris. Álgebra linear com aplicações. 8. ed., Ed. Bookman, 2001.04.MICHOLSON, W. Keith. Álgebra linear. 2. ed. São Paulo: Ed. Mc GrawHill,  2006.05.BOLDRINI, José Luiz ; COSTA Sueli I. Rodrigues; FIGUEIREDO Vera Lúcia; WETZLER Henry G. Álgebra linear., 3. ed. São Paulo: Editora Harbra Ltda, 1986.06.POOLE, David. Álgebra linear. São Paulo: Pioneira Thomson Learning, 2004."
   docentes: ['8884940 - Paula Cristiane Pinto Mesquita Pardal']
+  nomeascii: " Algebra Linear"
 - LOM3016:
   sigla: "LOM3016"
   nome: " Introdução à  Ciência dos Materiais"
@@ -443,6 +455,7 @@ Estudos, artigos, notícias e pesquisas via internet."
 7) Padilha, A. F. Materiais de engenharia: microestrutura e propriedades. São Paulo: Hemus Editora, 1997.
 8) Ashby, M. F.; Jones, D. R. H. Engenharia de materiais, 2 vol. Rio de Janeiro: Elsevier Editora, 2007."
   docentes: ['6495737 - Durval Rodrigues Junior', '5983729 - Fernando Vernilli Junior', '7459752 - Maria Ismenia Sodero Toledo Faria']
+  nomeascii: " Introducao a  Ciencia dos Materiais"
 - LOQ4053:
   sigla: "LOQ4053"
   nome: " Balanços de Massa e Energia"
@@ -477,6 +490,7 @@ MOUYEN, O.A.; WATSON, K. M. AND RAGATZ, R.A.  Princípios dos processos químico
 CREMASCO, M. A. Fundamentos de transferência de massa. 1.ed. Campinas: Editora da UNICAMP, 1998.
 BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Editora Interciência , 2004."
   docentes: ['5817045 - Elisângela de Jesus Cândido Moraes']
+  nomeascii: " Balancos de Massa e Energia"
 - LOQ4073:
   sigla: "LOQ4073"
   nome: " Química Geral II"
@@ -508,6 +522,7 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
   exame: "As aulas na primeira semana do período de recuperação serão dedicadas à solução das dúvidas e resolução de exercícios. Na semana seguinte será realizada uma avaliação (P3) englobando toda a ementa. A média final será obtida conforme equação abaixo: MF= (NF+P3)/2."
   bibliografia: "1) ATIKNS, P.; JONES, L. Princípios de Química, 5ªEdição, Ed. Bookman, 2012.2)BRADY, J.; HUMISTON, G.E. Química Geral Volume II, 2ª Edição, Ed. LTC, 2005.3) BRADY, J.E.; RUSSELL, J.W.; HOLUM, J.R. Química a matéria e suas transformações Volume II 3ª Edição, Ed. LTC, 2010.4) BRADY, J.E.; SENESE, F., Química – A matéria e suas transformações Volume II, Ed. LTC, 5ªEdição, 2010.5) BROWNN, S.L.; HOLME, T.A. Química geral aplicada à engenharia. São Paulo: Ed. Cengage Learning, 2010.6) BROWN, T. L.; LEMAY, H.E.L.; Jr BURSTEN, B.E.; BURDGE, J.R. Química a ciência central. 9ª Edição, Ed. Pearson Prentice Hall, 2005.7) CHANG, R.; GOLDSBY, K.A., Química, 11ª Edição, Ed. AMGH Editora Ltda, 20138) KOTZ, J.C.; TREICHEL, P.M.; WEAVER, G.C., Química Geral e Reações Químicas, Volume II, 6ª Edição, Ed. Cengage Learning, 2009.9) KOTZ, J.C.; TREICHEL, P.M.; TOWNSEND, J. R.; TREICHEL, D.A., Química Geral e Reações Químicas, Volume II, 9ª Edição, Ed. Cengage Learning, 2016."
   docentes: ['5817330 - Larissa de Freitas', '1506103 - Pedro Carlos de Oliveira']
+  nomeascii: " Quimica Geral II"
 - LOQ4095:
   sigla: "LOQ4095"
   nome: " Química Geral Experimental"
@@ -539,6 +554,7 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
   exame: "A recuperação será feita por meio de uma prova (PR) para alunos que tenham NF maior ou igual a 3,0 e menor do que 5,0 e pelo menos 70% de frequência. A nota de recuperação (NR) será a média simples entre a nota final (NF) e a prova de recuperação (PR). Será considerado aprovado o aluno com NR maior ou igual a 5,0"
   bibliografia: "ASSUMPÇÃO, R. M. V. ; MORITA, T. Manual de soluções reagentes e solventes: padronização, preparação, purificação. São Paulo: Editora Edgard Blucher, 1972.BACCAN, N.; ANDRADE, J. C. O. ; GODINHO, E. S.; BARONE, J. S. Química analítica quantitativa elementar. 2.ed. São Paulo: Edgard Blucher, 1995.BRADY, J; HUMISTON, G. E. Química geral. Rio de Janeiro: Ed. Livros Técnicos Científicos, 1986.BROWN, T. E et al. Química a Ciência Central. 9 ed. São Paulo. Pearson Prentice Hall, 2005-2007.CONSTANTINO, M.G; SILVA, G. V. J. da; DONATE P. M. Fundamentos de química experimental, São Paulo : EDUSP, 2004.MAHAN, B. M.; MYERS, R. J. Química um curso universitário. São Paulo: Ed. Edgard Blucher Ltda, 1993.SILVA, R. R.; BOCCHI, N. ; ROCHA FILHO, R. C. Introdução a química experimental. São Paulo: McGraw-Hill, 1990."
   docentes: ['5817330 - Larissa de Freitas', '6310296 - Patrícia Caroline Molgero Da Rós']
+  nomeascii: " Quimica Geral Experimental"
 - LOB1012:
   sigla: "LOB1012"
   nome: " Estatística"
@@ -582,6 +598,7 @@ RYAN, Thomas. Estatística moderna para engenharia. São Paulo: Ed. Campus, 2009
 
 RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade para engenheiros. São Paulo: Ed. LTC, 2009."
   docentes: ['4894221 - Mariana Pereira de Melo']
+  nomeascii: " Estatistica"
 - LOB1024:
   sigla: "LOB1024"
   nome: " Mecânica"
@@ -617,6 +634,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. BEER, Ferdinand Pierre, ; JOHNSTON, E. Russel.; Eisenberg, Elliot R., Mecânica vetorial para engenheiros: Estática.  Mc Graw Hill (2011).2. HIBBELER, R.C. Mecânica para engenharia, Vol. 1: estática, Pearson Prentice Hall (2005).3. MERIAM J. L. ; KRAIGE, L. G., Mecânica, estática, Livros Técnicos e Científicos Editora (2004)."
   docentes: ['5840650 - Janaína Ferreira Batista Leal']
+  nomeascii: " Mecanica"
 - LOB1039:
   sigla: "LOB1039"
   nome: " Física Experimental III"
@@ -648,6 +666,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. Apostilas do Laboratório de Ensino de Física do IFSC/USP.2. VUOLO, J.H. Fundamentos da Teoria de Erros, Edgard Blucher (1996).3. NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 3, Edgard Blucher (2008).4. RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol. 3, LTC (2008).5. TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol. 3, LTC (2008).6. SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física III, Vol. 3,     Pearson Addison Wesley (2009).7. JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 3, Thomson Pioneira (2008)."
   docentes: ['3268262 - Carlos Renato Menegatti']
+  nomeascii: " Fisica Experimental III"
 - LOB1052:
   sigla: "LOB1052"
   nome: " Cálculo III"
@@ -679,6 +698,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. H. L. Guidorizzi, UM CURSO DE CÁLCULO, volume III. Livros Técnicos e Científicos, Rio de Janeiro.2. W. Kaplan, CÁLCULO AVANÇADO, volume I, Edgard Blücher, 1972.3. Stewart, CÁLCULO, volume II, Editora Pioneira Thomson Leaming.4.BUSS, Mirian ; FLEMMING, Diva Marília. Calculo B. 2. ed. São Paulo:Pearson, 2007."
   docentes: ['6270264 - Juan Fernando Zapata Zapata']
+  nomeascii: " Calculo III"
 - LOB1053:
   sigla: "LOB1053"
   nome: " Física III"
@@ -714,6 +734,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 3, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.3, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.3, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 3, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 3, Thomson Pioneira (2008)."
   docentes: ['2342277 - Bertha María Cuadros Melgar']
+  nomeascii: " Fisica III"
 - LOB1056:
   sigla: "LOB1056"
   nome: " Introdução aos Métodos Numéricos e Computacionais"
@@ -749,6 +770,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "CHAPRA, Steven C., Métodos numéricos aplicados com MATLAB para engenheiros e cientistas. Porto Alegre: AMGH, 2013.CHAPRA, Steven C.; CANALE, Raymond P., Métodos numéricos para engenharia. São Paulo: McGraw-Hill, 2008.SPERANDIO, Decio; MENDES, João Teixeira, SILVA, Luiz Henry Monken. Cálculo numérico. São Paulo: Prentice Hall Brasil, 2003.RUGGIERO, M.A.G.; DA ROCHA LOPES, V.L. Cálculo Numérico: Aspectos Teóricos e Computacionais. Makron Books, 2a Edição, 1997.FRANCO, Neide Maria Bertoldi. Cálculo numérico. Prentice Hall Brasil, 2006.BURIAN, Reinaldo; LIMA, Antonio Carlos. Cálculo numérico. São Paulo: LTC, 2007.ARENALES, Selma Helena De Vasconcelos; DAREZZO, Artur. Cálculo Numérico. São Paulo: Thomson Pioneira, 2007."
   docentes: ['8870322 - Fabiano Fernandes Bargos']
+  nomeascii: " Introducao aos Metodos Numericos e Computacionais"
 - LOQ4055:
   sigla: "LOQ4055"
   nome: " Quimica Inorgânica"
@@ -795,6 +817,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 2) -Lee, J. D., tradução Química Inorgânica não tão concisa da 5ª edição inglesa. Editora Edgard Blucher Ltda. SP-2001.
 3), Shriver, D. e Atkins, P. Química Inorgânica tradução da 4ª edição. Editora Bookman,Porto Alegre-RS, 2008."
   docentes: ['5840705 - Maria Lúcia Caetano Pinto da Silva']
+  nomeascii: " Quimica Inorganica"
 - LOQ4083:
   sigla: "LOQ4083"
   nome: " Fenômenos de Transporte I"
@@ -851,6 +874,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
 
 5) COULSON, J. M.; RICHARDSON, J.F. Chemical engineering . Oxford: Butterworth Heinemann. Volume 1: Fluid Flow, Heat Transfer and Mass Transfer"
   docentes: ['5816812 - João Paulo Alves Silva']
+  nomeascii: " Fenomenos de Transporte I"
 - LOB1006:
   sigla: "LOB1006"
   nome: " Cálculo IV"
@@ -886,6 +910,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1.H. L. Guidorizzi, UM CURSO DE CÁLCULO, volume IV. Livros Técnicos e Científicos, 1987.2.BRANNAN, James R. BOYCE, W.E. Equações diferenciais: uma Introdução a métodos modernos e suas aplicações. Rio de Janeiro: LTC ED., 2008.3.ZILL, D.G. ; CULLEN, M.R. Equações Diferenciais São Paulo: Pearson Makron Books2006., v.1 e 2.4.W. Kaplan, CÁLCULO AVANÇADO, volume II, Edgard Blücher, São Paulo, 1972.5.BOYCE,W.E. ; DIPRIMA,R.C. Equações diferenciais e problemas de valores de contorno. 8.ed. Rio de Janeiro: LTC Editora, 2008."
   docentes: ['6270264 - Juan Fernando Zapata Zapata']
+  nomeascii: " Calculo IV"
 - LOB1011:
   sigla: "LOB1011"
   nome: " Eletricidade Aplicada"
@@ -917,6 +942,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. SADIKU, Mathew N. O.; ALEXANDER, Charles. Fundamentos de circuitos      elétricos, Mcgraw-hill Interamericana (2009)2. MARKUS, Otávio. Circuitos elétricos: corrente contínua e corrente       alternada – Teoria e Exercícios, Editora Érica (2008).3. SAY, M. G. Eletricidade geral eletrotécnica, Editora Hemus (2009).4. EDMINISTER, Joseph A.; NAHVI, Mahmood. Circuitos Elétricos, Bookman (2008) - Col. Schawn.5. DORF, Richard C.; SVOBODA, James. A Introdução aos circuitos elétricos, LTC (2009)."
   docentes: ['3268262 - Carlos Renato Menegatti']
+  nomeascii: " Eletricidade Aplicada"
 - LOB1040:
   sigla: "LOB1040"
   nome: " Laboratório de Eletricidade"
@@ -948,6 +974,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "CAPUANO, G. Francisco; MARINO, M.A. Maria. Laboratório de eletricidade Eletrônica, Editora Érica (1998).MARKUS, Otávio. Circuitos elétricos: corrente contínua e corrente alternada-Teoria e Exercícios, Editora Érica, (2008).SADIKU, Mathew N. O.; ALEXANDER, Charles. Fundamentos de circuitos elétricos, Mcgraw-hill Interamericana (2009)."
   docentes: ['230696 - Carlos José Todero Peixoto']
+  nomeascii: " Laboratorio de Eletricidade"
 - LOB1055:
   sigla: "LOB1055"
   nome: " Fundamentos de Engenharia de Segurança no Trabalho"
@@ -999,6 +1026,7 @@ Sax, N. I. ; Lewis, R. J. ; Dangerous properties of industrial materials. Van No
 Mattos, A. de O. (orgs.)- Higiene e segurança do trabalho. Elsevier Ed.  R.J.:2011. 408p. 
 Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 3040P."
   docentes: ['8767640 - Eduardo Ferro dos Santos']
+  nomeascii: " Fundamentos de Engenharia de Seguranca no Trabalho"
 - LOM3081:
   sigla: "LOM3081"
   nome: " Introdução à Mecânica dos Sólidos"
@@ -1040,6 +1068,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
 7. POPOV, E. P. Introdução à Mecânica dos Sólidos, São Paulo: Edgard Blücher, 1978, 552p.
 8. A. HIGDON, E.H. OHLSEN, W.B. STILES, J.A. WEESE, W.F. RILEY. Mecânica dos Materiais.  Rio de Janeiro: Guanabara Dois. 3a Ed., 1981, 549p."
   docentes: ['471420 - Carlos Antonio Reis Pereira Baptista', '3480026 - João Paulo Pascon', '5840793 - Sérgio Schneider', '7797767 - Viktor Pastoukhov']
+  nomeascii: " Introducao a Mecanica dos Solidos"
 - LOQ4033:
   sigla: "LOQ4033"
   nome: " Química Inorgânica Experimental"
@@ -1075,6 +1104,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   exame: "A média final após a recuperação será formada pela NF mais nota de recuperação (NR) dividido por 2."
   bibliografia: "1) Química Geral - Linus Pauling . Ao Livro Técnico S/A - Rio de Janeiro / EDUSP - São Paulo - Vol. I e II, 1982.2) Química - J.V. Quagliano, L.M. Vallarino.  Ed. Guanabara Koogan S.A. - Rio de Janeiro - 3ª ed., 1973."
   docentes: ['5840705 - Maria Lúcia Caetano Pinto da Silva']
+  nomeascii: " Quimica Inorganica Experimental"
 - LOQ4037:
   sigla: "LOQ4037"
   nome: " Química Orgânica I"
@@ -1120,6 +1150,7 @@ SOLOMONS, T.W.G; FRYHLE, Graig. Química Orgânica. Rio de Janeiro: Livros Técn
 
 MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenkian, 2008."
   docentes: ['210064 - Eduardo Rezende Triboni']
+  nomeascii: " Quimica Organica I"
 - LOQ4056:
   sigla: "LOQ4056"
   nome: " Química Analítica para Engenharia"
@@ -1174,6 +1205,7 @@ SKOOG, Douglas A. et al. Fundamentos da química analítica. São Paulo: Editora
 ALEXEYEV, V. Análise Qualitativa. Porto: Editora Lopes da Silva, 1982. 
 HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros Técnicos e Científicos, 2005."
   docentes: ['5840601 - Hélcio José Izário Filho']
+  nomeascii: " Quimica Analitica para Engenharia"
 - LOQ4087:
   sigla: "LOQ4087"
   nome: " Termodinâmica Química Aplicada I"
@@ -1223,6 +1255,7 @@ TERRON, L. R. Termodinâmica Química Aplicada. 1 ed. Editora Manole Ltda, 2009.
 
 VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed. 2004"
   docentes: ['8554681 - Pedro Felipe Arce Castillo']
+  nomeascii: " Termodinamica Quimica Aplicada I"
 - LOQ4009:
   sigla: "LOQ4009"
   nome: " Instrumentação na Industria Química"
@@ -1274,6 +1307,7 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
 4) PERRY, R. H.; CHILTON, C. H. Manual de Engenharia Química. 5ª ed. Rio de Janeiro: Guanabara Dois, 1986. Seção 22.
 5) SIGHIERI, L.; NISHINARI, A. Controle Automático de Processos Industriais:      Instrumentação. 2ª ed. São Paulo: Edgard Blücher, 1973."
   docentes: ['5840643 - Luiz Carlos de Queiroz']
+  nomeascii: " Instrumentacao na Industria Quimica"
 - LOQ4022:
   sigla: "LOQ4022"
   nome: " Processos Químicos Industriais I"
@@ -1313,6 +1347,7 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
 8. INORGANIC CHEMICALS. Catálogo Técnico, ICI, 1978.
  9. DUECKER, W.W.; WEST, J.R. The Manufacture of Sulfuric Acid. New York : Reinhold, 1959."
   docentes: ['4808662 - Lucrécio Fábio dos Santos']
+  nomeascii: " Processos Quimicos Industriais I"
 - LOQ4038:
   sigla: "LOQ4038"
   nome: " Química Orgânica II"
@@ -1344,6 +1379,7 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
   exame: "Aos alunos que tiverem freqüência mínima de 70% e média final menor que 5,0 e igual ou maior que 3,0, será dada  recuperação  com uma avaliação escrita. A média dessa avaliação somada com a média anterior das P1 e P2, se superior a cinco (5,0), levará a aprovação do aluno."
   bibliografia: "1) BARBOSA, L. C. A. Química Orgânica. Viçosa: Editora UFV, 2000. 2) BRESLOW, R. Questões e Exercícios de Química Orgânica. São Paulo: Makrons Books Editora, 1996. 3) CAMPOS, M. M.. Química Orgânica. São Paulo: Editora Prentice Hall, 2006. 4) DURST, H. D. Fundamentos de Química Orgânica. São Paulo: Editora Edgard Blucher, 1997. 5) HENDRIKSON, J. B.; CRAM, D. J. Mecanismos de Reações Orgânicas. São Paulo: Livraria Editora, 1966. 6) MCMURRY, J. Química Orgânica. São Paulo: Editora Pioneira Thomson Leraning, 2005. 7) SOLOMONS, T.W.G; FRYHLE, G.. Química Orgânica. Rio de Janeiro: Livros Técnicos e Científicos Editora, 2001. 8) SOARES, B. G. et al. Química Orgânica Experimental. Barcelona: Editorial Reverte, 1985. 9) Silverstein, R. M.; Bassler, G. C.; Morrill, T. C. Identificação Espectrométrica de Compostos Orgânicos. Guanabara Koogan"
   docentes: ['5840751 - Jayne Carlos de Souza Barboza']
+  nomeascii: " Quimica Organica II"
 - LOQ4084:
   sigla: "LOQ4084"
   nome: " Fenômenos de Transporte II"
@@ -1383,6 +1419,7 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
   exame: "A média final após a recuperação para a disciplina será a média aritmética entre a média do período e a nota da recuperação. Durante o período de recuperação, poderá ser marcada uma aula com a finalidade de sanar dúvidas e/ou revisar conceitos fundamentais. Em data posterior os alunos serão submetidos a uma prova de recuperação."
   bibliografia: "1)INCROPERA, Frank P. Fundamentos de transferência de calor e de massa. 6. ed. Rio de Janeiro: LTC. 2013.2)KREITH, Frank; BOHN, Mark S. Princípios de transferência de calor. São Paulo: Pioneira. 2014.3) ÖZISIC, M. Necati. Transferência de calor. Rio de Janeiro: Guanabara Koogan. 1990.4) HOLMAN, J. P. Transferência de calor. São Paulo: McGraw-Hill, 1983."
   docentes: ['6666306 - Daniela Helena Pelegrine Guimarães']
+  nomeascii: " Fenomenos de Transporte II"
 - LOQ4085:
   sigla: "LOQ4085"
   nome: " Operações Unitárias I"
@@ -1417,6 +1454,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   exame: "A média final após a recuperação para a disciplina será a média aritmética entre a média do período e a nota da recuperação"
   bibliografia: "1)COULSON, J. M.; RICHARDSON; J.F. Chemical Engineering. v.2: Particle Technology e Separation Processes. 5ed. Amsterdan: Butterworth Heinemann, 1229p. 2005;2)COULSON & Richardson's Chemical Engineering: chemical engineering design by R.K. Sinnott. 6ed. Amsterdam: Elsevier Butterworth Heinemann, 895p. 2004;3)COUPER, J. R.; PENNEY, W. R.; FAIR, J. R.; W.; Stanley. M. Chemical Process Equipment: Selection and Design. 2ed. Amsterdam: Elsevier, 814p. 2005;4)MORAES JUNIOR, D. Transporte de líquidos e gases. v.1. São Carlos: Ufscar, 1988;5)FOUST, A. S.; WENZEL, L. A.; CLUMP, C. W.; MAUS, L.; ANDERSEN, L. B. 2ed. Princípios das operações unitárias. Rio de Janeiro: Guanabara Dois/LTC, 670p. 2008;6)GEANKOPLIS, C. J. Transport Processes and Separation Process Principles. 4ed. New York: Prentice Hall, 1026p. 2010;7)MCCABE, W. L.; SMITH, J. C.; HARRIOT, P. Unit operations of chemical engineering. 7ed. Boston: McGraw-Hill, 1140 p. 2005;8)PERRY's chemical engineers handbook. Editor in Chief Don W. Green; Late Editor Robert H. Perry New York: McGraw-Hill, 2008."
   docentes: ['8151869 - Livia Chaguri e Carvalho']
+  nomeascii: " Operacoes Unitarias I"
 - LOQ4088:
   sigla: "LOQ4088"
   nome: " Termodinâmica Química Aplicada II"
@@ -1484,6 +1522,7 @@ TERRON, L. R. Termodinâmica Química Aplicada. 1 ed. Editora Manole Ltda, 2009.
 
 VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed. 2004"
   docentes: ['8554681 - Pedro Felipe Arce Castillo']
+  nomeascii: " Termodinamica Quimica Aplicada II"
 - LOQ4234:
   sigla: "LOQ4234"
   nome: " Empreendedorismo"
@@ -1511,6 +1550,7 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
   exame: "NF = (MF + PR)/ 2 , onde NF é a média final da segunda avaliação, MF é a média final da primeira avaliação e PR é a nota da recuperação"
   bibliografia: "BLANK, Steve Gary. Do Sonho a realização em 4 passos: Estratégias para a criação de empresas de sucesso. Editora Evora. 3ª edição, 2008BLANK, Steve; DORF, Bob. STARTUP: Manual do Empreendedorismo. O guia passo a passo para construir uma grande empresa. Alta Books Editora.  1ª edição, 2014.CECCONELO, Antonio; AJZENTAL, Alberto. A construção do plano de negócios. Ed. Saraiva, 1ª edição, 2008.CHIAVENATO, Idalberto. Empreendedorismo – dando asas ao espírito empreendedor. Ed. Saraiva, 3ª edição, 2008.DOLABELA, Fernando. O Segredo de Luísa. Rio de Janeiro: Sextante, 2008. DORNELAS, Jose. Empreendedorismo: transformando ideias em negócios. Editora Campus. 1ª edição, 2001DORNELAS, Jose. Empreendedorismo na prática. LTC. 3ª edição, 2015DORNELAS, Jose Carlos Assis. Empreendedorismo na prática – mitos e verdades do empreendedor de sucesso. Elsevier/Campus: Rio de Janeiro, 2007. FILION, L. J.; Visão e Relações: Elementos para um Metamodelo da Atividade Empreendedora. International Small Business Journal, 1991. Tradução de Costa, S.R. FILION, L. J.; - O planejamento do seu Sistema de Aprendizagem Empresarial: Identifique uma Visão e Avalie o seu Sistema de Relações. Revista de Administração de Empresas, FGV, São Paulo, jul/set. 1991, pag. 31(3): 63:71. HASHIMOTO, Marcos. Espírito empreendedor nas organizações – aumentando a competitividade através do intraempreendedorismo. São Paulo: Saraiva, 2006. HISRICH, Robert; PETERS, Michael.  Empreendedorismo. 5.ed. - Porto Alegre: Bookman, 2004. OSTERWALDER, Alexander. Inovação Em Modelos de Negócios – Business Model Generation. Editora Alta Books, 2011PINCHOT, Gifford; PELLMAN, Ron. Intraempreendedorismo na prática: um guia de inovação. Campus: 2004RIES, Eric. A startup enxuta. Leya Editora. 1ª edição, 2011SANTOS. S.A. e CUNHA, N.C.V (orgs.). Empresas de Base Tecnológica: Conceitos, instrumentos e recursos. Unicorpore, 2005THIEL, Peter. De Zero a UM: O que aprender sobre empreendedorismo com Vale do Silício. Objetiva. 1ª edição, 2014TIMMONS; Jeffry; DORNELAS, José. SPINELLI, Stephen. A criação de novos negócios – empreendedorismo para o século 21. Editora Campus. 2010."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Empreendedorismo"
 - LOM3022:
   sigla: "LOM3022"
   nome: " Materiais para a  Indústria Química"
@@ -1542,6 +1582,7 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
   exame: "Para o aluno que obtiver Nota Final maior ou igual a 3,0 e menor do que 5,0, será aplicada uma avaliação de recuperação (NR), com pontuação de 0 a 10, que levará ao cálculo da média final(MF) através da seguinte expressão: MF=(NF+NR)/2.onde: NF=Nota Final e NR=Nota da Prova de Recuperação."
   bibliografia: "1)Telles, P. C. S. - Materiais para Equipamentos de Processo - Ed. Interciência, 4º Ed., 1989.2)Bresciani, F., E. - Seleção de Materiais Metálicos - Ed. da UNICAMP, 2º Ed.3)Freire, J. M. -Materiais de Construção Mecânica - Ed. Livros Técnicos e Científicos, Editora 1993.4)A. Remy/ M. Gay/ R. Gonthier - Materiais - Hemus Editora Limitada - 2ª Edição.5)Chiaverini, V.Tecnologia Mecânica - Materiais de Construção Mecânica - Vol. II - Ed. McGraw Hill do Brasil Ltda.6)Gentil, V. - Corrosão. - Ed. Guanabara Dois, 1982."
   docentes: ['5840963 - Daniela Camargo Vernilli', '5840820 - Gustavo Aristides Santana Martinez']
+  nomeascii: " Materiais para a  Industria Quimica"
 - LOQ4001:
   sigla: "LOQ4001"
   nome: " Análise Instrumental"
@@ -1590,6 +1631,7 @@ Bibliografia complementar
 3) SILVERSTEIN, R.M.; WEBSTER, F.X.; KIEMLE, D.J. Identificação espectrométrica de compostos orgânicos. 7. ed. Rio de Janeiro: Livros Técnicos e Científicos, 2007.
 4) WILLARD, H.H.; MERRITE, L.; DEAB, J. Instrumentação analítica. Lisboa: Fundação Calouste Gulbekian,  1989."
   docentes: ['2341641 - Maria da Rosa Capri']
+  nomeascii: " Analise Instrumental"
 - LOQ4003:
   sigla: "LOQ4003"
   nome: " Cinética Química Aplicada"
@@ -1635,6 +1677,7 @@ SMITH, J.M. Chemical engineering kinetics. 3rd. ed New York: McGraw-Hill,1981.
 DENBIGH, K. ; TURNER, R. Introduction to chemical Reaction Design. Cambridge: Cambridge University Press, 1970.
 FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd. Ed. New York: John Wiley & Sons, 1990."
   docentes: ['6310316 - Liana Alvares Rodrigues']
+  nomeascii: " Cinetica Quimica Aplicada"
 - LOQ4054:
   sigla: "LOQ4054"
   nome: " Fenômenos de Transporte III"
@@ -1666,6 +1709,7 @@ FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd. Ed. Ne
   exame: "A recuperação será feita por meio de uma Prova Escrita (PE) e a Média de Recuperação (MR) será calculada pela fórmula: MR = (NF + PE)/2."
   bibliografia: "1) CREMASCO, M. A. Fundamentos de Transferência de Massa. Campinas: Editora Unicamp; 2008-2009.2) INCROPERA, F. P.; WITT, D. P. Fundamentos de Transferência de Calor e Massa. Rio de Janeiro: LTC, 2008.3) Bird, R. B.; STEWART, W. E.; LIGHTFOOT, E. N. Fenômenos de Transporte. 2ª ed. Rio de Janeiro: LTC, 2004.4) BENNETT, C. O.; MYERS, J. E. Fenômeno de Transporte: Quantidade de Movimento, Calor e Massa. São Paulo: McGrawc- Hill, 1978.5) COULSON, J. M.; RICHARDSON, J. F.; BACKHURST, J. R.; HARKER, J. H. Fluid Flow, Heat Transfer and Mass Transfer. In: COULSON & Richardson Series - Chemical Engineering. 5th ed. Pergamon Press, Oxford, 1996. v.16) FOUST, A. S.; Wenzel, L. A.; CLUMP, C. W.; MAUS, L.; ANDERSON, L. B. Princípios das Operações Unitárias. 2ª ed. Rio de Janeiro: Guanabara Dois, 1982.7) PERRY's Chemical Engineers Handbook. Editor in Chief Don W. Green; Late Editor Robert H. Perry. New York: McGraw-Hill, 2008.8) WELTY, J. R.; PIGFORD, R. L.; WILKE, C. R. Fundamentals of Momentum, Heat, and Mass Transfer. 5th ed. USA: John Wiley & Sons, Inc, 2008.9) POLING, B. E.; PRAUSNITZ, J. M.; O'CONNELL, J. The Properties of Gases and Liquids. 5th ed. New York: McGraw-Hill, 2000.10) CALDAS, J. N.; DE LACERDA, A. I.; VELOSO, E.; PASCHOAL, L. C. M. Internos de Torres: Pratos & Recheios. 2ª ed. Rio de Janeiro: Editora Interciência, 2007."
   docentes: ['5840841 - Gilberto Garcia Cortez']
+  nomeascii: " Fenomenos de Transporte III"
 - LOQ4060:
   sigla: "LOQ4060"
   nome: " Laboratório de Engenharia Química I"
@@ -1697,6 +1741,7 @@ FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd. Ed. Ne
   exame: "A média final após a recuperação para a disciplina será a média aritmética entre a média do período e a nota da recuperação. Durante o período de recuperação, poderá ser marcada uma aula com a finalidade de sanar dúvidas e/ou revisar conceitos fundamentais. Em data posterior os alunos serão submetidos a uma prova de recuperação."
   bibliografia: "1)FOX, R.W.; PRITCHARD, P.J.; McDONALD, A.T. Introdução à Mecânica dos Fluidos. Ed. Gen LTC, 7 ed, Rio de Janeiro/RJ, 2010.2)ÇENGEL, Y.A.; COMBALA, J.M. Mecânica dos Fluidos: fundamentos e aplicações. McGraw-Hill Education (AMGH Editora Ltda),  Porto Alegre/ RS, 2007.3)COUPER, JR.; PENNEY, W.R.; FAIR, J.R.; WALAS, S.M. Chemical Process Equipment: Selection and Design. Amsterdam: Elsevier, 2005.4)TROPEA, C.; YARIN, A.L.; FOSS, J.F. Handbook of Experimental Fluid Mechanics. Ed Springer. Springer-Verlag Berlin Heidelberg. 2007"
   docentes: ['4808662 - Lucrécio Fábio dos Santos']
+  nomeascii: " Laboratorio de Engenharia Quimica I"
 - LOQ4082:
   sigla: "LOQ4082"
   nome: " Corrosão"
@@ -1739,6 +1784,7 @@ L.V. RAMANATHAN, Corrosão e seu controle, Ed. Hermes
 L.L. SHREIR, Corrosion, Newnes Butterworths, 2 vol., 1976
 N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Edward Arnold, 1983"
   docentes: ['5817344 - Livia Melo Carneiro']
+  nomeascii: " Corrosao"
 - LOQ4086:
   sigla: "LOQ4086"
   nome: " Operações Unitárias II"
@@ -1798,6 +1844,7 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
 8)MCCABE, W. L.; SMITH, J. C.; HARRIOT, P. Unit operations of chemical engineering. 7ed. Boston: McGraw-Hill, 1140 p. 2005;
 9)PERRY's chemical engineers handbook. Editor in Chief Don W. Green; Late Editor Robert H. Perry New York: McGraw-Hill, 2008."
   docentes: ['8151869 - Livia Chaguri e Carvalho', '5817372 - Simone de Fátima Medeiros Sampaio']
+  nomeascii: " Operacoes Unitarias II"
 - LOT2004:
   sigla: "LOT2004"
   nome: " Bioquímica"
@@ -1829,6 +1876,7 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
   exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação.Prova de Recuperação (PR) para alunos com Média Final (MF) maior ou igual a 3,0 e menor doque 5,0. Será considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maiordo que 5,0."
   bibliografia: "1. Campbell, M.K.; Farrell, S.O. Bioquímica. Quinta edição. Editora Thomson Learning, São Paulo, 2008.2.Nelson, D.L.; Cox, M.M. Princípios de Bioquímica de Lehninger. Quinta Edition, Editora Artmed, Porto Alegre, 2011 3.Voet, D.; Voet, J.; Pratt, C.W. Bioquímica. Quarta Edição. Editora ARTMED, Porto Alegre, 2013 4.Berg, J.M., Tymoczko, J.L., Stryer, L. Bioquímica. Sétima edição. Editora Guanabara Koogan, Rio de Janeiro, 2014"
   docentes: ['8711290 - Elisson Antônio da Costa Romanel', '5111420 - Talita Martins Lacerda']
+  nomeascii: " Bioquimica"
 - LOB1046:
   sigla: "LOB1046"
   nome: " Engenharia do Meio Ambiente"
@@ -1866,6 +1914,7 @@ BRAGA, B.et al. Introdução à Engenharia Ambiental. São Paulo: Prentice Hall,
 
 VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos. 2. ed. Belo Horizonte: UFMG, 1996."
   docentes: ['5840671 - Francisco José Moreira Chaves']
+  nomeascii: " Engenharia do Meio Ambiente"
 - LOQ4002:
   sigla: "LOQ4002"
   nome: " Reatores Quimicos"
@@ -1940,6 +1989,7 @@ DENBIGH, K.; TURNER, R. Introduction to Chemical Reaction Design. Cambridge: Cam
 
 FROMENT, G.F.; BISCHOFF, K.B. Chemical Reactor Analysis And Design. 2nd ed.  New York: John Wiley & Sons, 1990."
   docentes: ['5963230 - Leandro Gonçalves de Aguiar']
+  nomeascii: " Reatores Quimicos"
 - LOQ4004:
   sigla: "LOQ4004"
   nome: " Controle de Processos Químicos"
@@ -1993,6 +2043,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
 6) COUGHANOWR, D. R.; KOPPEL, L. B. Análise e Controle de Processos. Rio de Janeiro:  Guanabara Dois, 1978.
 7) PERRY, R. H.; CHILTON, C. H. Manual de Engenharia Química. 5ª ed. Rio de Janeiro: Guanabara Dois, 1980. Seção 22."
   docentes: ['8643537 - Fabio Rodolfo Miguel Batista']
+  nomeascii: " Controle de Processos Quimicos"
 - LOQ4057:
   sigla: "LOQ4057"
   nome: " Operações Unitárias III"
@@ -2032,6 +2083,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
 8)SEADER, J. D; HENLEY, E. J. Separation Process Principles. 2ed. Hoboken, N.J: Wiley, 756p. 2006.
 9)TREYBAL, R. E. Mass-Transfer Operations. 3ed. Auckland: McGraw-Hill, 784p. 1980."
   docentes: ['5817372 - Simone de Fátima Medeiros Sampaio']
+  nomeascii: " Operacoes Unitarias III"
 - LOQ4061:
   sigla: "LOQ4061"
   nome: " Laboratório de Engenharia Química II"
@@ -2067,6 +2119,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
   exame: "A média final após a recuperação para a disciplina será a média aritmética entre a média do período e a nota da recuperação. Durante o período de recuperação, poderá ser marcada uma aula com a finalidade de sanar dúvidas e/ou revisar conceitos fundamentais. Em data posterior os alunos serão submetidos a uma prova de recuperação."
   bibliografia: "1) INCROPERA, Frank P. Fundamentos de Transferência de Calor e de Massa. Rio de Janeiro: Livros Técnicos Científicos, 2008. 2) CREMASCO, Marco Aurélio. Fundamentos de Transferência de Massa. Campinas: UNICAMP, 1998"
   docentes: ['6666306 - Daniela Helena Pelegrine Guimarães']
+  nomeascii: " Laboratorio de Engenharia Quimica II"
 - LOQ4064:
   sigla: "LOQ4064"
   nome: " Engenharia de Processos Quimicos I"
@@ -2113,6 +2166,7 @@ COULSON, J. M.; RICHARDSON, J.F. Chemical Engineering Design: Chemical Engineeri
 HIMMELBLAU, David M. Engenharia química princípios e cálculos. LTC Editora, 2006.
 FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC Editora, 2005."
   docentes: ['5816812 - João Paulo Alves Silva']
+  nomeascii: " Engenharia de Processos Quimicos I"
 - LOQ4209:
   sigla: "LOQ4209"
   nome: " Engenharia da Qualidade I"
@@ -2156,6 +2210,7 @@ OAKLAND, J.S. (Tradução PEREIRA, A.G.). 1994. Gerenciamento da Qualidade Total
 TURBAN, E. & RAINER, R. K. & PORTTER, R. E. Introdução a Sistemas de Informação uma Abordagem Gerencial. São Paulo: Editora Campus. 2007, 457p.
 VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Engenharia da Qualidade I"
 - LOQ4233:
   sigla: "LOQ4233"
   nome: " Gestão de Negócios"
@@ -2194,6 +2249,7 @@ Gestão Empresarial - Estratégias Organizacionais
 Autor: Bertero, C. O. 
 Editora: ATLAS"
   docentes: ['849935 - Humberto Felipe da Silva']
+  nomeascii: " Gestao de Negocios"
 - LOQ4023:
   sigla: "LOQ4023"
   nome: " Processos Químicos Industriais II"
@@ -2229,6 +2285,7 @@ Editora: ATLAS"
   exame: "Prova escrita (0,0 - 10,0) para alunos que tenham média final maior ou igual a 3,0 e inferior a 5,0. A nota final será a média aritmética entre a média final e a prova escrita."
   bibliografia: "1. SHREVE, R.N. & BRINK, J.A. Indústrias de Processos Químicos, Editora Guanabara Dois, 1980.2. CONSIDINE, D. M. (editor-in-chief). Chemical and Process Technology Encyclopedia McGraw-Hill, 1974.3. D ALMEIDA, M. L. O. Celulose e Papel., Vol 1 e 2 (Tecnologia de fabricação da pasta celulósica e Tecnologia de fabricação de papel), Editado pelo ITP/SP, 1989.4. BAYRNA, C. Tecnologia do Açúcar (II). Coleção Canavieira Nº 15.5.FERNANDES, H. Açúcar e Álcool, Coleção Canavieira  Nº 4.6. Manual Econômico da Indústria Química, Editado pelo CEPED/ SPCT/ Governo do Estado da Bahia, 1985.7.URGEL DE ALMEIDA LIMA, U. A.; AQUARONE, E.; BORZANI, W. Biotecnologia: Tecnologia das Fermentações, Editora Edgard Blucher Ltda, 1975."
   docentes: ['5840855 - Heizir Ferreira de Castro']
+  nomeascii: " Processos Quimicos Industriais II"
 - LOQ4059:
   sigla: "LOQ4059"
   nome: " Polímeros"
@@ -2267,6 +2324,7 @@ ODIAN G. Principles of Polymerization, John Wiley & Sons, 3rd Ed., New York, 199
 RODRIGUEZ, FERDINAND. Princípios de Sistemas de Polímeros, Editorial El Manual Moderno S.A., 1st Ed., México, D.F., 1984
 VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with chemical structure. Elsevier, 1st Ed., Amsterdam, 1972."
   docentes: ['5840772 - Amilton Martins dos Santos']
+  nomeascii: " Polimeros"
 - LOQ4062:
   sigla: "LOQ4062"
   nome: " Laboratório de Engenharia Química III"
@@ -2306,6 +2364,7 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
   exame: "A média final após a recuperação para a disciplina será a média aritmética entre a média do período e a nota da recuperação. Durante o período de recuperação, poderá ser marcada uma aula com a finalidade de sanar dúvidas e/ou revisar conceitos fundamentais. Em data posterior os alunos serão submetidos a uma prova de recuperação."
   bibliografia: "1)COULSON, J. M.; RICHARDSON; J.F. Chemical Engineering. v. 2: Particle Technology e Separation Processes. 5ed. Amsterdan: Butterworth Heinemann, 1229p. 2005;2) COULSON & Richardson's Chemical Engineering: chemical engineering design by R.K. Sinnott. 6ed. Amsterdam: Elsevier Butterworth Heinemann, 895p. 2004;3)COUPER, J. R.; PENNEY, W. R.; FAIR, J. R.; W.; Stanley. M. Chemical Process Equipment: Selection and Design. 2ed. Amsterdam: Elsevier, 814p. 2005;4) FOUST, A. S.; WENZEL, L. A.; CLUMP, C. W.; MAUS, L.; ANDERSEN, L. B. 2ed. Princípios das operações unitárias. Rio de Janeiro: Guanabara Dois/LTC, 670p. 2008;5) GEANKOPLIS, C. J. Transport Processes and Separation Process Principles. 4ed. New York: Prentice Hall, 1026p. 2010;6) MCCABE, W. L.; SMITH, J. C.; HARRIOT, P. Unit operations of chemical engineering. 7ed. Boston: McGraw-Hill, 1140 p. 2005;7) PERRY's chemical engineers handbook. Editor in Chief Don W. Green; Late Editor Robert H. Perry New York: McGraw-Hill, 2008.8) SEADER, J. D; HENLEY, E. J. Separation Process Principles. 2ed. Hoboken, N.J: Wiley, 756p. 2006.9) TREYBAL, R. E. Mass-Transfer Operations. 3ed. Auckland: McGraw-Hill, 784p. 1980."
   docentes: ['8151869 - Livia Chaguri e Carvalho', '5817372 - Simone de Fátima Medeiros Sampaio']
+  nomeascii: " Laboratorio de Engenharia Quimica III"
 - LOQ4063:
   sigla: "LOQ4063"
   nome: " Laboratório de Engenharia Química IV"
@@ -2354,6 +2413,7 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
 5) LEVENSPIEL, O. Chemical Reaction Engineering. 3rd.ed. New York: John Wiley & Sons, 1998.
 6) PERRY, Robert H.; GREEN, Don W. Perry's Chemical Engineers' Handbook. 8th.ed. New York: McGraw-Hill, 2008."
   docentes: ['5816812 - João Paulo Alves Silva']
+  nomeascii: " Laboratorio de Engenharia Quimica IV"
 - LOQ4065:
   sigla: "LOQ4065"
   nome: " Engenharia de Processos Químicos II"
@@ -2401,6 +2461,7 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
 HOUGEN, O.A.; WATSON, K. M.; RAGATZ, R.A. Princípios dos processos químicos. Lopes da Silva Editora, 2005. v. 1 
 CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering with POLYMATHTM, Excel and MATLAB®. Prentice-Hall, 2008."
   docentes: ['5816812 - João Paulo Alves Silva']
+  nomeascii: " Engenharia de Processos Quimicos II"
 - LOQ4078:
   sigla: "LOQ4078"
   nome: " Modelagem e Simulação de Processos"
@@ -2436,6 +2497,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   exame: "A recuperação será feita por meio de uma prova (PR) para alunos que tenham MF maior ou igual a 3,0 e menor do que 5,0 e pelo menos 70% de frequência. A nota de recuperação (NR) será a média simples entre a média final (MF) e a prova de recuperação (PR). Será considerado aprovado o aluno com NR maior ou igual a 5,0."
   bibliografia: "1) HIMMELBLAU, D.M.; BISCHOFF, K.B. Process analysis and simulation-deterministic systems. New York: John Wiley, 1968.2) FINLAYSON, B. A.. Non-linear analysis in chemical engineering. New York: McGraw-Hill, 19803) CONSTANTINIDES, A.; MOSTOUFI, N. Numerical methods for chemical engineers with MATLAB applications. Prentice-Hall, 1999.4) CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering with POLYMATHTM, Excel and MATLAB®– 2nd ed. Upper Saddle River, NJ: Prentice-Hall, 2008.5) DYMENT, J.; MANTRALA, V. Jump Start: Getting Started with Aspen Plus® V8 - A Brief Tutorial (and supplement to training and online documentation), ASPENTECH, 2015.6) FARES, A.D. Process Simulation Using Aspen HYSYS V8, Ahmed Deyab Fares, 2016."
   docentes: ['5817066 - Félix Monteiro Pereira']
+  nomeascii: " Modelagem e Simulacao de Processos"
 - LOT2041:
   sigla: "LOT2041"
   nome: " Engenharia Bioquímica"
@@ -2467,6 +2529,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   exame: "Aos alunos que não obtiverem média igual ou maior que 5,0 será oferecido um programa de recuperação, que será avaliado por uma prova final (PF). Neste caso, a média final do aluno será: Média Final = (Média do período letivo normal + nota prova final) / 2. Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
   bibliografia: "1.Schmidell, W.; Lima, U. A.; Aquarone, E.; Borzani, W. Biotecnologia Industrial – Engenharia Bioquímica, vol. 2, São Paulo: Edgard Blücher, 2001. 2. Borzani, W.; Schmidell, W.; Lima, U. A.; Aquarone, E. Biotecnologia Industrial. Fundamentos Vol. 1. São Paulo: Ed. Edgard Blücher, 2001. 3. Pauline M. Doran ed. Bioprocess Engineering Principles (Second Edition), Elsevier Ltd. 2013."
   docentes: ['1112574 - Inês Conceição Roberto', '1097178 - João Batista de Almeida e Silva']
+  nomeascii: " Engenharia Bioquimica"
 - LOB1010:
   sigla: "LOB1010"
   nome: " Direito  Aplicado à Engenharia"
@@ -2512,6 +2575,7 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
 10. ROMEIRO, José Antonio Nunes. Sociedade por Cotas de Responsabilidades Limitada. Curitiba: Juruá, 1984 
 11. RUSSOMANO, Mozart Victor. Comentários à Consolidação das Leis do Trabalho. Rio De Janeiro: Forense, 1994."
   docentes: ['5840618 - José Antonio Nunes Romeiro']
+  nomeascii: " Direito  Aplicado a Engenharia"
 - LOB1031:
   sigla: "LOB1031"
   nome: " Psicologia Organizacional e do Trabalho"
@@ -2563,6 +2627,7 @@ SPECTOR, P. Psicologia nas Organizações. São Paulo: McGraw-Hill, 2002.
 ROBBINS, S. P. Fundamentos do Comportamento Organizacional. 8ª. Ed., São Paulo: Pearson Prentice Hall, 2009.
 TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasiliense, 2001."
   docentes: ['8188658 - Maria Auxiliadora Motta Barreto']
+  nomeascii: " Psicologia Organizacional e do Trabalho"
 - LOQ4024:
   sigla: "LOQ4024"
   nome: " Processos Químicos Industriais III"
@@ -2622,6 +2687,7 @@ Plástico Industrial, São Paulo, SP: Aranda Editora Técnica Cultural, v. 1, n.
 
 Polímeros  Ciência e Tecnologia, São Carlos: ABPol., v.1, n.1, 1991-"
   docentes: ['1285870 - Marcos Villela Barcza']
+  nomeascii: " Processos Quimicos Industriais III"
 - LOQ4047:
   sigla: "LOQ4047"
   nome: " Trabalho de Conclusão de Curso I"
@@ -2649,6 +2715,7 @@ Polímeros  Ciência e Tecnologia, São Carlos: ABPol., v.1, n.1, 1991-"
   exame: "O aluno deverá reapresentar o seu projeto até a data estabelecida pelo professor. O projeto será reavaliado e obtendo nota igual ou superior a 5, está aprovado."
   bibliografia: "NASCIMENTO, L. P. Elaboração de Projetos de Pesquisa, Cengage Learning, 2012.SANTOS, C. R. Trabalho de Conclusão de Curso – Guia de elaboração passo a passo, Cengage Learning, 2010.BOOTH, W.; COLOMB, G.; WILLIAMS, J. A arte da Pesquisa. 3 ed. Martins Fontes. São Paulo. 2005. GIL, A.C. Como elaborar projetos de pesquisa. 5ed. Atlas, São Paulo, 2010."
   docentes: ['198273 - Domingos Savio Giordani']
+  nomeascii: " Trabalho de Conclusao de Curso I"
 - LOQ4049:
   sigla: "LOQ4049"
   nome: " Projeto na Industria Química"
@@ -2697,6 +2764,7 @@ Polímeros  Ciência e Tecnologia, São Carlos: ABPol., v.1, n.1, 1991-"
 5) Introdução ao Projeto de Engenharia. Asimov, Morris. Editora Mestre Jou-São Paulo, 1968.
 6) IBGR  Instituto Brasileiro de Gerenciamento de Riscos, 2000."
   docentes: ['5840671 - Francisco José Moreira Chaves']
+  nomeascii: " Projeto na Industria Quimica"
 - LOQ4050:
   sigla: "LOQ4050"
   nome: " Engenharia Econômica"
@@ -2730,6 +2798,7 @@ Polímeros  Ciência e Tecnologia, São Carlos: ABPol., v.1, n.1, 1991-"
   exame: "Prova de exame."
   bibliografia: "Engenharia econômica e análise de custos. Henrique Hirschfeld. 7 ed. editora atlas. 2007"
   docentes: ['5840671 - Francisco José Moreira Chaves']
+  nomeascii: " Engenharia Economica"
 - LOQ4250:
   sigla: "LOQ4250"
   nome: " Fundamentos de Administração da Produção"
@@ -2761,6 +2830,7 @@ Polímeros  Ciência e Tecnologia, São Carlos: ABPol., v.1, n.1, 1991-"
   exame: "Prova única com nota maior ou igual a 5,0 (cinco)."
   bibliografia: "SLACK, N. et al. Administração da Produção. 3 ed. São Paulo: Atlas, 2009.CHASE, R. B. E JACOBS, F.R. Administração da Produção e de Operações. 1 ed. Porto Alegre. Bookman. 2009.CORREA, H.L.; CORREA, C.A. Administração da Produção e Operações. 2 ed. São Paulo. Atlas. 2006"
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Fundamentos de Administracao da Producao"
 - LOT2042:
   sigla: "LOT2042"
   nome: " Processos Bioquímicos"
@@ -2792,6 +2862,7 @@ Polímeros  Ciência e Tecnologia, São Carlos: ABPol., v.1, n.1, 1991-"
   exame: "A recuperação será feita por meio de uma prova (PR) para alunos que tenham MF maior ou igual a 3,0 e menor do que 5,0 e pelo menos 70% de frequência. A nota de recuperação (NR) será a média simples entre a média final (MF) e a prova de recuperação (PR). Será considerado aprovado o aluno com NR maior ou igual a 5,0."
   bibliografia: "1.Schmidell, W.; Lima, U. A.; Aquarone, E.; Borzani, W. Biotecnologia Industrial  Engenharia Bioquímica, vol. 2, São Paulo: Edgard Blücher, 2001. 2. Borzani, W.; Schmidell, W.; Lima, U. A.; Aquarone, E. Biotecnologia Industrial. Fundamentos Vol. 1. São Paulo: Ed. Edgard Blücher,  2001. 3. Manual of industrial microbiology and biotechnology - Demain, A. L.; Solomon, N.A. Eds.Washington, American Society for Microbiology, 1986. 4. Fermentation and Enzyme Technology - Wang, D.C. et al. New York, Wiley-Interscience, 1979. 5. Princípios de Tecnologia de Alimentos - Gava, A.J. São Paulo, Nobel, 1983. 6. LIMA , U. A et al. Biotecnología Industrial, Biotecnologia na produção de alimentos - Série Biotecnología, vol4. Ed. Edgard Blucher,Ltda , 2001. 7. Tecnologia de Alimentos - José Evangelista -Livraria"
   docentes: ['1814052 - Silvio Silverio da Silva']
+  nomeascii: " Processos Bioquimicos"
 - LOQ4048:
   sigla: "LOQ4048"
   nome: " Trabalho de  Conclusão do Curso II"
@@ -2823,6 +2894,7 @@ Polímeros  Ciência e Tecnologia, São Carlos: ABPol., v.1, n.1, 1991-"
   exame: "Reapresentação da monografia, preferencialmente para a mesma banca, com as modificações sugeridas para uma nova avaliação."
   bibliografia: "Recomendada pelo orientador"
   docentes: ['1285870 - Marcos Villela Barcza']
+  nomeascii: " Trabalho de  Conclusao do Curso II"
 - LOQ4051:
   sigla: "LOQ4051"
   nome: " Estágio Supervisionado"
@@ -2942,6 +3014,7 @@ Polímeros  Ciência e Tecnologia, São Carlos: ABPol., v.1, n.1, 1991-"
   exame: "Não será oferecida recuperação."
   bibliografia: "A ser definida com o orientador em função das atividades desenvolvidas no estágio."
   docentes: ['198273 - Domingos Savio Giordani']
+  nomeascii: " Estagio Supervisionado"
 - LOQ4091:
   sigla: "LOQ4091"
   nome: " Projeto Integrador em Engenharia Química I"
@@ -2999,6 +3072,7 @@ SHREVE, R. Norris; BRINK JR, Joseph A. Indústria de processos químicos. Rio de
 BRASIL, Nilo Indio do. Introdução a engenharia química. Rio de Janeiro: Interciencia/Petrobras, 2004.
 CREMASCO, Marco Aurélio. Engenharia química. Ed. Edgard Blucher, 2005."
   docentes: ['198273 - Domingos Savio Giordani', '5817045 - Elisângela de Jesus Cândido Moraes', '5817344 - Livia Melo Carneiro', '787307 - Luis Fernando Figueiredo Faria']
+  nomeascii: " Projeto Integrador em Engenharia Quimica I"
 - LOQ4092:
   sigla: "LOQ4092"
   nome: " Ecoeficiência na Indústria"
@@ -3042,6 +3116,7 @@ Nota Final Mínima para Aprovação = 5,0"
 6)Sites: Association of chartered certified accountants (ACCA). Environmental, social and sustainability reporting on the world wide web: a guide to best practice. 2001 London: ACCA. Disponível em URL:http://www.accaglobal.com. Cowell, S. J. LCANET Theme Report: Positioning and Applications of LCA. Leiden (Holanda):Leiden University. 1997. Disponível em http://www.leidenuniv.nl/ Department for environment, food and rural affairs (DEFRA). Environmental reporting  general guidelines. London: DEFRA Publications. 2001. Disponível em http://www.defra.gov.uk. European commission. Integrated Pollution Prevention and Control (IPPC) Reference Document on Best Available Techniques. Sevilha (Espanha): European Commission, Joint Research Centre, Institute for Prospective Technological Studies Competitiveness and Sustainability Unit. 2001. Disponível em http://eippcb.jrc.es/reference. European environmental agency (EEA). Making Sustainability Accountable: Ecoefficiency, Resource Productivity and Innovation. In: Workshop on the fifth anniversary of the European environmental agency. 1998. Copenhague. Proceedings. Copenhague: EEA. 1998. Cleaner production. Cleaner production implementation. Copenhague: EEA: 2001. Disponível em URL:http://service.eea.int/envirowindows. Institute for global communications (IGC). Are business and industry taking sustainability seriously? San Francisco: IGC. 2001. Disponível em URL:http://www.igc.org/. International network for environmental management (INEM). The INEM sustainability reporting guide. Hamburg (Germany): INEM, 2001 Disponível em URL: http://www.inem.org/
 7)Piotto, Z. C. Eco-eficiência na Indústria de Celulose e Papel - Estudo de Caso. 2003. 379 p. Tese (Doutorado) - Escola Politécnica, Universidade de São Paulo, São Paulo, 2003."
   docentes: ['2346890 - Eliane Corrêa Pedrozo']
+  nomeascii: " Ecoeficiencia na Industria"
 - LOQ4058:
   sigla: "LOQ4058"
   nome: " Fenômenos de Superfície e Eletroquímica"
@@ -3078,6 +3153,7 @@ Média final mínima de aprovação = 5,0"
   exame: "(Prova escrita + Média Final)/2         Nota Final mínima para aprovação= 5,0"
   bibliografia: "1)MYERS, D. Surfaces, interfaces, and colloids: Principles and Applications, Second edition, Wiley-VCH, New York, 19982) BIRDI, K. S.; Surface and Colloid Chemistry, 1a ed., CRC Press LLC, New York, 1997.3) OSHIMA, H., Theory of colloid and interfacial electric phenomena. Interface Science and Technology Series, v. 12, Academic Press, Oxford, 2006.4) JACOB N. ISRAELCHVILI; Intermolecular and Surface Forces, 3r d Edition, New York, Academic, 2010.5) ADAMIAN, R. E ALMENDRA E.; Físico-Química – Uma Aplicação aos Materiais, 2002. 6) ADAMSON, A. Physical Chemistry of Surfaces (5th ed.). New York: John Wiley, 1990.7) SHAW, D. J. Introdução à Química dos Coloides e de Superfícies. São Paulo: Edgard Blücher, 1975. 185 pp.8)  REGALBUTO, J. Handbook of catalyst preparation. Taylor & Francis,2007"
   docentes: ['1488970 - Marivone Nunho Sousa']
+  nomeascii: " Fenomenos de Superficie e Eletroquimica"
 - LOQ4096:
   sigla: "LOQ4096"
   nome: " Moléculas Funcionais e Dispositivos Tecnologicos"
@@ -3113,6 +3189,7 @@ Média final mínima de aprovação = 5,0"
   exame: "Aos alunos que tiverem freqüência mínima de 70% e média final menor que 5,0 e igual ou maior que 3,0, será dada recuperação com uma avaliação escrita. A média dessa avaliação somada com a média anterior das P1 e P2, se superior a cinco (5,0), levará a aprovação do aluno."
   bibliografia: "Lehn, J. (1993). Supramolecular chemistry. Science. 260 (5115): 1762–3.  Lehn, J.-M. (1995) Supramolecular Chemistry. Wiley-VCH. ISBN 978-3-527-29311-7Nicholas J. Turro, V. Ramamurthy, J.C. Scaiano. Modern Molecular Photochemistry of Organic Molecules.SBN 978-1-891389-25-2, 1110 pages, Copyright 2010, Casebound.Silverstein, Robert M.; Webster Francis X.; Kiemle David J. Identificação Espectrométrica de Compostos Orgânicos, 7ª edição LTC"
   docentes: ['210064 - Eduardo Rezende Triboni']
+  nomeascii: " Moleculas Funcionais e Dispositivos Tecnologicos"
 - 8800008:
   sigla: "8800008"
   nome: " Projetos Especiais em Engenharia I"
@@ -3151,6 +3228,7 @@ Baron e Shane: Empreendedorismo: uma visão do processo (EVP), Ed. Thomson, 2006
 Textos fornecidos pelo professor da disciplina
 Artigos extraídos de revistas especializadas na área de gestão e produção."
   docentes: ['198273 - Domingos Savio Giordani']
+  nomeascii: " Projetos Especiais em Engenharia I"
 - 8800014:
   sigla: "8800014"
   nome: " Projetos Especiais em Gestão da Inovação"
@@ -3178,6 +3256,7 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
   exame: "Reapresentação do último seminário, cuja nota constituirá a nota final da disciplina."
   bibliografia: "Gestão de Negócios: Visões e dimensões empresariais da Organização. Autores: Cruz Jr, J.B., Rocha, J.A.O. e Tachizawa, T.Editora: ATLASGestão Empresarial - de Taylor aos nossos diasAutores: Pereira, M. I.  Autor: Ferreira, A. A. e Reis, A.C. F Editora: THOMSON PIONEIRAGestão da inovação: a economia da tecnologia no BrasilAutor: Tigre, P. B.Editora: ElsevierTextos disponibilizados pelo professor da disciplinaArtigos extraídos de revistas especializadas na área de gestão e inovação."
   docentes: ['849935 - Humberto Felipe da Silva']
+  nomeascii: " Projetos Especiais em Gestao da Inovacao"
 - 8800013:
   sigla: "8800013"
   nome: " Projetos Especiais em Engenharia II"
@@ -3205,6 +3284,7 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
   exame: "Reapresentação do último seminário, cuja nota constituirá a nota final da disciplina."
   bibliografia: "Gestão de Negócios: Visões e dimensões empresariais da o Organização. Autores: Cruz Jr, J.B., Rocha, J.A.O. e Tachizawa, T.Editora: ATLASGestão Empresarial - de Taylor aos nossos diasAutores: Pereira, M. I. , Autor: Ferreira, A. A. e Reis, A.C. F Editora: THOMSON PIONEIRABaron e Shane: Empreendedorismo: uma visão do processo (EVP), Ed. Thomson, 2006Textos fornecidos pelo professor da disciplinaArtigos extraídos de revistas especializadas na área de gestão e produção."
   docentes: ['198273 - Domingos Savio Giordani']
+  nomeascii: " Projetos Especiais em Engenharia II"
 - LOQ4093:
   sigla: "LOQ4093"
   nome: " Petróleo e Gás Natural"
@@ -3260,6 +3340,7 @@ d)Fundamentos do Refino do Petróleo  Tecnologia e Economia, Szklo, A. S., Uller
 e)Oil and Gas Journal;
 f)Revista Petro & Química."
   docentes: ['1285870 - Marcos Villela Barcza']
+  nomeascii: " Petroleo e Gas Natural"
 - LOB1013:
   sigla: "LOB1013"
   nome: " Filosofia da Ciência"
@@ -3309,6 +3390,7 @@ Unidade Segunda: Reflexões sobre a ciência
 7 - SANTOS, Boaventura de.  Um Discurso sobre as Ciências.  Porto, Portugal: Aforntamentos, 1997.
 8 - STEGMULLER,  W. A Filosofia Contemporânea. Vol. I e II, 1977."
   docentes: ['948230 - Francisco Sodero Toledo']
+  nomeascii: " Filosofia da Ciencia"
 - LOB1047:
   sigla: "LOB1047"
   nome: " Tópicos Especiais de Produção de Textos Acadêmicos"
@@ -3351,6 +3433,7 @@ ______.  Planejar gêneros acadêmicos.  São Paulo: Parábola Editorial, 2009.
 SERAFINI, Maria José. Como escrever textos. 5.ed. São Paulo: Globo, 1992.
 SEVERINO, Antonio Joaquim. Metodologia do trabalho científico. 23.ed. São Paulo: Cortez, 2009."
   docentes: ['5840514 - Graziela Zamponi']
+  nomeascii: " Topicos Especiais de Producao de Textos Academicos"
 - LOQ4005:
   sigla: "LOQ4005"
   nome: " Controle Estatístico de Processos"
@@ -3382,6 +3465,7 @@ SEVERINO, Antonio Joaquim. Metodologia do trabalho científico. 23.ed. São Paul
   exame: "uma prova escrita com conteúdo de todo o semestre"
   bibliografia: "1 - Ferramentas Estatísticas Básicas p/ o Gerenciamento de Processos. Maria Cristina C. Werkena. Edit. FCO, 19962) Controle Estatístico da Qualidade, 4ª edição. Douglas C. Mont gomery, 2006. Edit. LTC3- Statisticial Quality Control, 5ª edição. Fugeno L. Grant and Richard S. Leavenworth MC Graw Hill, 1987"
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Controle Estatistico de Processos"
 - LOQ4008:
   sigla: "LOQ4008"
   nome: " Gestão Tecnológica"
@@ -3413,6 +3497,7 @@ SEVERINO, Antonio Joaquim. Metodologia do trabalho científico. 23.ed. São Paul
   exame: "Na recuperação haverá uma aula de revisão e na semana seguinte uma avaliação escrita. A média final será a média simples entre MP e nota da recuperação."
   bibliografia: "1) ROSENBERG, N.; BIRDZELL JR, L.E. A história da riqueza do Ocidente - A transformação econômica no mundo industrial.  Rio de Janeiro, Edit. Record, p.339, 1986.2) BASTOS, E,M.C. Ciência, Tecnologia e Indústria no Brasil dos anos 80 - O colapso das políticas estruturantes. Campinas, UNICAMP, 1994. p. 244  (tese de doutorado).3) SCARBROUGH, H.; CORBETT, I.M. Technology and Organization Power, Maning and design. Routhedge, New York, 1992.4) DUSSAUGE, P. Strategic Technology Managment. John Willey & Sons. New York, 1992.5) HAGUENAVER, L.; FERRAZ, J.C.; KUPFER, D.S. Competição e internalizacionação da indústria brasileira. O Brasil e a Economia Global. Rio de Janeiro, Campus, 1996. p 195-2176) ARRUDA, M.F.M. A Indústria e o Desenvolvimento Tecnológico Nacional. In: Conselho Nacional de Desenvolvimento Científico e Tecnológico-CNPq, Ciência e Tecnologia - Alicerces do Desenvolvimento. 1994, p. 25-447) BIELSCHOWSHI, R.; STUMPO, G. A internacionalização da indústria brasileira: Números lexão depois de alguns anos de abertura. In: BAUMANN, R. Corg. O Brasil e a Economia Global. Rio de Janeiro, CAMPUS, 1996. p. 167-193.8) COSTA, C.A.N. Política Industrial no Brasil - 1974-1989. Campinas, UNICAMP, 1994. p. 224 (tese de doutorado)9) LEITE, R.C.C. Tecnologia e Desenvolvimento Nacional. São Paulo, Duas Cidades, 1976. p. 97"
   docentes: ['849935 - Humberto Felipe da Silva']
+  nomeascii: " Gestao Tecnologica"
 - LOQ4019:
   sigla: "LOQ4019"
   nome: " Planejamento de Experimentos"
@@ -3444,6 +3529,7 @@ SEVERINO, Antonio Joaquim. Metodologia do trabalho científico. 23.ed. São Paul
   exame: "uma provas escrita com conteúdo de todo o semestre"
   bibliografia: "1) Planejamento e otimização de Experimentos. Roy E. Bruns, Edit. UNICAMP, 19963) Design and Analysis of Experiments, Douglas C. Montgomery, 6th edition, wiley, 20054) Designing for Quality  Robert H. Lochner  Ed. Quality Press, 19945) Statistics for Experimenter. Box & Hunter"
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Planejamento de Experimentos"
 - LOQ4043:
   sigla: "LOQ4043"
   nome: " Tubulações Industriais"
@@ -3483,6 +3569,7 @@ SEVERINO, Antonio Joaquim. Metodologia do trabalho científico. 23.ed. São Paul
   exame: "Frequência mínima de 70% e nota igual ou superior a 3,00 e inferior a 5,00 possibilita prova de recuperação."
   bibliografia: "1)TUBULAÇÕES INDUSTRIAIS - Volume I e IISilva Telles, Pedro c. - Ed. Livros Técnicos e Científicos Editora S/A2)TABELAS E GRÁFICOS PARA PROJETOS DE TUBULAÇÕES INDUSTRIAISSilva Telles, P.C./Paula Barros, Darcy G. - Ed. Interciência Ltda3)TUBULAÇÕESSilva, Remi Benedito - Editora Grêmio Politécnico da USP4)MATERIAIS PARA EQUIPAMENTOS DE PROCESSOSilva Telles, Pedro C. - Ed. Interciência Ltda5)CATÁLOGOS DIVERSOS"
   docentes: ['6634418 - Antonio Clelio Ribeiro', '1285870 - Marcos Villela Barcza']
+  nomeascii: " Tubulacoes Industriais"
 - LOQ4052:
   sigla: "LOQ4052"
   nome: " Tópicos Especiais de Gestão e Produção"
@@ -3515,6 +3602,7 @@ SEVERINO, Antonio Joaquim. Metodologia do trabalho científico. 23.ed. São Paul
   bibliografia: "Textos fornecidos pelo professor da disciplina
 Artigos extraídos de revistas especializadas na área de gestão e produção."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Topicos Especiais de Gestao e Producao"
 - LOQ4066:
   sigla: "LOQ4066"
   nome: " Sistemas Particulados"
@@ -3555,6 +3643,7 @@ Média final mínima de aprovação = 5,0"
 5. COULSON, J.M.; RICHARDSON, J.F. Chemical Engineering. 5th. ed. Londres: Pergamon Press,1996. Vol. 2.
 6. ALLEN, T. Particle Size Measurement. 5th. ed. Londres: Chapman & Hall, 1997. Vol 1 e 2."
   docentes: ['787307 - Luis Fernando Figueiredo Faria']
+  nomeascii: " Sistemas Particulados"
 - LOQ4067:
   sigla: "LOQ4067"
   nome: " Tópicos Especiais em Engenharia Química I"
@@ -3587,6 +3676,7 @@ Média final mínima de aprovação = 5,0"
   bibliografia: "Textos fornecidos pelo professor da disciplina
 Artigos extraídos de revistas especializadas de Engenharia Química."
   docentes: ['5816812 - João Paulo Alves Silva']
+  nomeascii: " Topicos Especiais em Engenharia Quimica I"
 - LOQ4068:
   sigla: "LOQ4068"
   nome: " Tópicos Especiais em Engenharia Química II"
@@ -3619,6 +3709,7 @@ Artigos extraídos de revistas especializadas de Engenharia Química."
   bibliografia: "Textos fornecidos pelo professor da disciplina
 Artigos extraídos de revistas especializadas de Engenharia Química."
   docentes: ['5816812 - João Paulo Alves Silva']
+  nomeascii: " Topicos Especiais em Engenharia Quimica II"
 - LOQ4069:
   sigla: "LOQ4069"
   nome: " Tópicos Especiais de Operações Unitárias"
@@ -3663,6 +3754,7 @@ PERRY, Robert H; GREEN, Don W; MALONEY, James O. Perry's Chemical Engineers' Han
 Textos fornecidos pelo professor da disciplina
 Artigos extraídos de revistas especializadas de Engenharia Química."
   docentes: ['8151869 - Livia Chaguri e Carvalho']
+  nomeascii: " Topicos Especiais de Operacoes Unitarias"
 - LOQ4070:
   sigla: "LOQ4070"
   nome: " Tópicos Especiais de Reatores Químicos"
@@ -3716,6 +3808,7 @@ FROMENT, G.F.; Bischoff, K.B. Chemical Reactor Analysis and Design. 2nd. ed. New
 Textos fornecidos pelo professor da disciplina
 Artigos extraídos de revistas especializadas de Engenharia Química."
   docentes: ['5963230 - Leandro Gonçalves de Aguiar']
+  nomeascii: " Topicos Especiais de Reatores Quimicos"
 - LOQ4071:
   sigla: "LOQ4071"
   nome: " Tópicos Especiais de Gestão da Qualidade"
@@ -3748,6 +3841,7 @@ Artigos extraídos de revistas especializadas de Engenharia Química."
   bibliografia: "Textos fornecidos pelo professor da disciplina
 Artigos extraídos de revistas especializadas na área de gestão e produção."
   docentes: ['5840535 - Messias Borges Silva']
+  nomeascii: " Topicos Especiais de Gestao da Qualidade"
 - LOQ4072:
   sigla: "LOQ4072"
   nome: " Processos de Separação por Membranas"
@@ -3784,6 +3878,7 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
 5 - Membrane Handbook. Ed. W.S.W Ho and K.K. Sirkar. New York : Chapman & Hall, 1992.
 6 - RAUTENBACH, R.; ALBRECHT, R. Membrane Processes / Ed. Antony Rowe Ltd. Wiltshire, Great Britain, 1994."
   docentes: ['787307 - Luis Fernando Figueiredo Faria']
+  nomeascii: " Processos de Separacao por Membranas"
 - LOQ4235:
   sigla: "LOQ4235"
   nome: " Tópicos Especiais de Gestão de Negócios"
@@ -3816,6 +3911,7 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
   bibliografia: "Textos fornecidos pelo professor da disciplina
 Artigos extraídos de revistas especializadas na área de gestão e produção."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  nomeascii: " Topicos Especiais de Gestao de Negocios"
 - LOQ4094:
   sigla: "LOQ4094"
   nome: " Petroquímica"
@@ -3854,3 +3950,4 @@ f)Fundamentos do Refino do Petróleo  Tecnologia e Economia, Szklo, A. S., Uller
 g)Oil and Gas Journal;
 h)Revista Petro & Química."
   docentes: ['1285870 - Marcos Villela Barcza']
+  nomeascii: " Petroquimica"

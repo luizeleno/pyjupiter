@@ -33,6 +33,7 @@ GUIDORIZZI, Hamilton. Um curso de cálculo. Rio de Janeiro: Livros Técnicos e C
 
 FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentice Hall, 2009."
   docentes: ['5840692 - Diovana Aparecida dos Santos Napoleão']
+  nomeascii: " Calculo I"
 - LOB1009:
   sigla: "LOB1009"
   nome: " Leitura e Interpretação de Desenho Técnico"
@@ -60,6 +61,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   exame: "- A recuperação deverá consistir de uma prova englobando a matéria toda do semestre.- A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
   bibliografia: "1 - ABNT - COLETÂNEA DE NORMAS DE DESENHO TÉCNICONormas Técnicas publicadas pela ABNT2 - DESENHO BÁSICO NA ENGENHARIARibeiro, Antonio Clélio - Apostila publicada pela FAENQUIL3 - FUNDAMENTOS DE DIBUJO EM INGENIERIALuzader, Warren J. - Ed. Comp. Editorial Continental - México4 - MANUAL DE DESENHO TÉCNICOManfé, G./ Scarato, G./ Pozza, R. - Ed. Renovada Livros Culturais Ltda.5 - EXPRESSÃO GRÁFICA - DESENHO TÉCNICOHoelsher, R. P./ Springer, C.H./ Dobrovolny, J.S. - Ed. LTC Editora S.A.6 - DESENHO TÉCNICOFrench, Thomas E. - Editora Globo7 - DESENHO TÉCNICOBachmann, A./ Forberg, R - Editora Globo8 - DESENHISTA DE MÁQUINASEscola PRO-TEC"
   docentes: ['5840820 - Gustavo Aristides Santana Martinez']
+  nomeascii: " Leitura e Interpretacao de Desenho Tecnico"
 - LOB1018:
   sigla: "LOB1018"
   nome: " Física I"
@@ -87,6 +89,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada"
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 1, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.1, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.1, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 1, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 1, Thomson Pioneira (2008)."
   docentes: ['8711686 - Flavia Reis Cardoso Rojas']
+  nomeascii: " Fisica I"
 - LOB1036:
   sigla: "LOB1036"
   nome: " Geometria Analítica"
@@ -114,6 +117,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1.CAMARGO, Ivan ; BOULOS, Paulo. Geometria Analítica: um tratamento vetorial. São Paulo: Prentice Hall, 2005.2.LIMA, Elon Lages de. Geometria analítica e algebra Linear. Rio de Janeiro: SBM SociedadeBrasileira de Matemática,2001. Coleção Matemática Universitária.3.CAROLI, Alésio de; CALLIOLI, A.; FEITOSA, Miguel O. Matrizes vetores geometria analítica. São Paulo: Nobel, 1998.4.SANTOS, Nathan Moreira dos. Vetores e matrizes: uma introdução à álgebra linear. São Paulo: Thomson, 2007."
   docentes: ['8884940 - Paula Cristiane Pinto Mesquita Pardal']
+  nomeascii: " Geometria Analitica"
 - LOB1038:
   sigla: "LOB1038"
   nome: " Física Experimental I"
@@ -141,6 +145,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   exame: "O (NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "Apostilas do Laboratório de Ensino de Física do IFSC/USP.CRUZ, C. H. B.; FRAGNITO, H. L.; COSTA, I. F.; MELLO, B. A. Guia do Curso deLaboratório: Física Experimental I, IFGW/UNICAMP (2005).NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 1, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.1, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.1, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 1, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 1, Thomson Pioneira (2008)."
   docentes: ['9149242 - Fernando Catalani']
+  nomeascii: " Fisica Experimental I"
 - LOB1045:
   sigla: "LOB1045"
   nome: " Leitura e Produção de Textos Acadêmicos"
@@ -186,6 +191,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
 9. MARCUSCHI, Luiz Antônio.  Da fala para a escrita: atividades de retextualização.  São Paulo: Cortez, 2000.
 10. SERAFINI, Maria José.    Como escrever textos. 5.ed. São Paulo: Globo, 1992."
   docentes: ['5840514 - Graziela Zamponi']
+  nomeascii: " Leitura e Producao de Textos Academicos"
 - LOB1201:
   sigla: "LOB1201"
   nome: " Introdução à Engenharia Ambiental"
@@ -213,6 +219,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova escrita de recuperação a ser aplicada"
   bibliografia: "1)        BRAGA, B.; HESPANHOL, I.; CONEJO, J. G. L.; MIERZWA, J. C.; BARROS, M. T. L.; SPENCER, M.; PORTO, M.; NUCCI, N.; JULIANO, N.; EIGER, S. Introdução à Engenharia Ambiental: O Desafio do Desenvolvimento Sustentável. Pearson (2ª Edição), 336 p., 2005.2)        VESILIND, P.A.; MORGAN, S. M.; HEINE, L. G. Introdução à Engenharia Ambiental. Cengage (3ª edição), 472 p., 2018.3)        CALIJURI, M. C.; CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologias e Gestão. Elsevier (1ª Edição), 832 p., 2012.4)        CAPAZ, R. S.; HORTA NOGUEIRA, L. A. Ciências Ambientais para Engenharia. Elsevier (1ª Edição), 252 p., 2014.5)        DAVIS, M. L.; MASTEN, S. J. Princípios de Engenharia Ambiental. Mc Graw Hill Educations (3ª Edição), 872 p., 2016;"
   docentes: ['9146830 - Danúbia Caporusso Bargos', '5464150 - Mariana Consiglio Kasemodel']
+  nomeascii: " Introducao a Engenharia Ambiental"
 - LOB1205:
   sigla: "LOB1205"
   nome: " Ecologia Básica"
@@ -240,6 +247,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
   exame: "Exame Final (EF) para alunos com Nota Final (NF) maior ou igual a 3,0 e menor do que 5,0 e frequência superior a 70%. Será considerado aprovado o aluno que tenha obtido Média Final (MF) igual ou maior do que 5,0, sendo MF = (NF+EF)/2."
   bibliografia: "Básica:MILLER, G.T.; SPOOLMAN, S.E. 2012. Ecologia e sustentabilidade. Cengage Learning. 412p.Complementar:BEGON, M., J.L. HARPER & C.R. TOWNSEND. 2005. Ecology. From Individuals to Communities. Blackwell Science.RICKLEFS, R.E. 2003. A economia da natureza. Guanabara Koogan.RICKLEFS, R.E. & G.L. MILLER. 2000. Ecology. W.H. Freeman and Co.TOWNSEND, C.R., M. BEGON. & J.L. HARPER 2006. Fundamentos em ecologia. Artmed."
   docentes: ['5840942 - Marco Aurélio Kondracki de Alcântara']
+  nomeascii: " Ecologia Basica"
 - LOQ4031:
   sigla: "LOQ4031"
   nome: " Química Geral I"
@@ -271,6 +279,7 @@ BROWN, T.L. ET al. Química a ciência central. 9.ed.  São Paulo: Pearson Prent
 CHANG, Raymond. Química geral: conceitos essenciais. 4.ed. s.l.:Ed. AMGH Editora Ltda., 2010.
 RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   docentes: ['198273 - Domingos Savio Giordani']
+  nomeascii: " Quimica Geral I"
 - LOT2045:
   sigla: "LOT2045"
   nome: " Biologia"
@@ -298,6 +307,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "Nota final (NF)NF = (MF + PR)/2, onde PR é uma prova de recuperação. Prova de recuperação (PR) para alunos com Média Final maior ou igual a 3,0 e menor do que 5,0. Será considerado aprovado o aluno que tenha obtido Nota Final igual ou maior do que 5,0."
   bibliografia: "-Alberts, B. et al. Biologia Molecular da Célula, 5ed. Artmed Editora Ltda, 2010.-Cooper, G.M.; Robert, E.H. A célula: uma abordagem molecular. Artmed Editora Ltda, 3ª Edição, 2007.-Wasserman, S.A.; Monorsky, P.V.; Jackson, R.; Reece, J.; Cain, M.; Urry, L. Biologia de Campbell. Artmed Editora, 8ª Edição, 2010.-Raven, P.H.; Evert, S.E. Biologia vegetal. Editora Guanabara Koogan, 2007.-Madigan, M.T.; Martinko, J.M.; Bender, K.S.; Buckley, D.H.; Stahl, D.A. Microbiologia de Brock. Editora Artmed, 14 Edição, 2016. -De Roberts, E.M.F.; Hibs, J. Bases da biologia celular e molecular. Editora Guanabara Koogan, 2006.-Taiz, L.; Zeiger, E. Plant Physiology. Mass. Sinauer Associates, 2006."
   docentes: ['1304060 - Maria das Graças de Almeida Felipe']
+  nomeascii: " Biologia"
 - LOB1004:
   sigla: "LOB1004"
   nome: " Cálculo II"
@@ -333,6 +343,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "GUIDORIZZI, Hamilton L. UM CURSO DE CÁLCULO,2011, 5. ed., v.2LEITHOLD, Louis. CÁLCULO COM GEOMETRIA ANALÍTICA, São Paulo: HARBRA LTDA, 1990. v.2ANTON, Howard; BIVENS, Irl, DAVIS, Stephen. CÁLCULO, 8. ed. São Paulo:Pearson, 2011, v.2SIMMONS, George F. CÁLCULO COM GEOMETRIA ANALÍTICA, São Paulo: Pearson, 2014. v.2STEWART, James. CÁLCULO. revisão técnica Ricardo Miranda Martins. 7. ed. São Paulo: Cengage Learning, 2013. v.2THOMAS, George B. WEIR, Maurice D.; HASS, Joel; GIORDANO, CÁLCULO. revisão técnica Cláudio Hirofume Asano .12.ed. São Paulo: Pearson Education do Brasil, 2013. v.2"
   docentes: ['8822123 - Roberta Veloso Garcia']
+  nomeascii: " Calculo II"
 - LOB1019:
   sigla: "LOB1019"
   nome: " Física II"
@@ -368,6 +379,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 2, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.2, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.2, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 2, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 2, Thomson Pioneira (2008)."
   docentes: ['8711623 - Denize Kalempa']
+  nomeascii: " Fisica II"
 - LOB1037:
   sigla: "LOB1037"
   nome: " Àlgebra Linear"
@@ -399,6 +411,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "01.STRANG, Gilbert. Álgebra linear e suas aplicações, São Paulo: Cengage Learning, 2010.02.LIPSCHUTZ, Seymour . Algebra linear. 3. ed. São Paulo: Ed. McGrawHill. 1990.03.HOWARD, Anton ; RORRES,Chris. Álgebra linear com aplicações. 8. ed., Ed. Bookman, 2001.04.MICHOLSON, W. Keith. Álgebra linear. 2. ed. São Paulo: Ed. Mc GrawHill,  2006.05.BOLDRINI, José Luiz ; COSTA Sueli I. Rodrigues; FIGUEIREDO Vera Lúcia; WETZLER Henry G. Álgebra linear., 3. ed. São Paulo: Editora Harbra Ltda, 1986.06.POOLE, David. Álgebra linear. São Paulo: Pioneira Thomson Learning, 2004."
   docentes: ['8884940 - Paula Cristiane Pinto Mesquita Pardal']
+  nomeascii: " Algebra Linear"
 - LOB1041:
   sigla: "LOB1041"
   nome: " Física Experimental II"
@@ -434,6 +447,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. Apostilas do Laboratório de Ensino de Física do IFSC/USP.2. VUOLO, J.H. Fundamentos da Teoria de Erros, Edgard Blucher (1996).3. NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 2, Edgard Blucher (2008).4. RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol. 2, LTC (2008).5. TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol. 2, LTC (2008).6. SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física II, Vol. 2,     Pearson Addison Wesley (2009).7. JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 2, Thomson Pioneira (2008)"
   docentes: ['5817535 - Lucas Barboza Sarno da Silva']
+  nomeascii: " Fisica Experimental II"
 - LOB1206:
   sigla: "LOB1206"
   nome: " Solos I"
@@ -461,6 +475,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "Exame Final (EF) para alunos com Nota Final (NF) maior ou igual a 3,0 e menor do que 6,5 e frequência superior a 70%. Será considerado aprovado o aluno que tenha obtido Média Final (MF) igual ou maior do que 5,0, sendo MF = (NF+EF)/2."
   bibliografia: "Bibliografia básica:1. MEURER, E.J. Fundamentos de Química do Solo, 3.ed. Porto Alegre: Editora Evangraf, 2010. 264p.2. ERNANI, P.R. Química do Solo e Disponibilidade de Nutrientes. Lages: Udesc, 1. ed. , 2008. v.1. 230 p.Bibliografia complementar:1. CAMARGO, O.A. de; MONIZ, A.C.; JORGE, J.A.; VALADARES, J.M.A.S. Métodos de analise química, mineralógica e física de solos do Instituto Agronômico de Campinas. Campinas, Instituto Agronômico, 2009. 77 p. (Boletim técnico, 106, Edição revista e atualizada).2. EMBRAPA. Centro Nacional de Pesquisa de Solos (Rio de Janeiro, RJ). Sistema Brasileiro de Classificação de Solos. Brasília: Embrapa Produção da Informação; Rio de Janeiro: Embrapa Solos, 2006. 306p.3. MELO, V.F.; ALLEONI, L.R.F. (Eds.). Química e mineralogia do solo. v.1: Conceitos básicos. Viçosa: SBCS, 2009. 595p. 5. MELO, V.F.; ALLEONI, L.R.F. (Eds.). Química e mineralogia do solo. v.2: Aplicações. Viçosa: SBCS, 2009. 685p.4. NOVAIS, R.F.; ALVAREZ V., V.H.; BARROS, N.F.; FONTES, R.L.F.; CANTARUTTI,R.B.; NEVES, J.C.L. Fertilidade do Solo. Visconde do Rio Branco: Gráfica Suprema, 2007. 1017p.5. QUAGGIO, J. A. Acidez e calagem em solos tropicais. Instituto Agronômico. 111p. (2000).6. RAIJ, B. van; ANDRADE, J.C. de; CANTARELLA, H.; QUAGGIO, J.A. Análise química para avaliação da fertilidade de solos tropicais. Raij, B. van, Andrade, J.C. de, Cantarella, H. e Quaggio, J.A. (ed.). Campinas, Instituto Agronômico, 2001. 285p.7. SANTOS, G.A; SILVA, L.S.; CANELLAS, L.P.; CAMARGO, F.A.O. (Eds). Fundamentos da matéria orgânica do solo: ecossistemas tropicais e subtropicais. Porto Alegre: Genesis. 2a Edição. 2008. 636p."
   docentes: ['5840942 - Marco Aurélio Kondracki de Alcântara']
+  nomeascii: " Solos I"
 - LOB1254:
   sigla: "LOB1254"
   nome: " Geologia para Engenharia Ambiental"
@@ -488,6 +503,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "A nota final (MF) do aluno que realizou provas de recuperação dependerá da média do semestre (MS) e da média das provas de recuperação (MR), como segue:MF=5 se 5 ≤MR ≤ (10 - MS); MF = (MS + MR) / 2 se MR > (10 – MS)MF = MS se MR < 5."
   bibliografia: "•BITAR, O. Curso de geologia aplicada ao meio ambiente. ABGE, 1995. •DOS SANTOS, A. Geologia de Engenharia: Conceitos, Método e Prática. ABGE, 2009.•OLIVEIRA, A. M. dos S. Geologia de Engenharia. ABGE, 1998. •OLIVEIRA, A. M. dos S.; MONTICELI, J. J. Geologia de Engenharia e Ambiental. ABGE, 2018.•PRESS, F.; SIEVER, R.; GROTZINGER, J.; JORDAN, T. H. Para entender a Terra, 2008. •TEIXEIRA, W.; FAIRCHILD, T. R.; DE TOLETO, M. C. M.; TAIOLI, F. Decifrando a Terra. Companhia Editora Nacional, 2003."
   docentes: ['5464150 - Mariana Consiglio Kasemodel']
+  nomeascii: " Geologia para Engenharia Ambiental"
 - LOQ4073:
   sigla: "LOQ4073"
   nome: " Química Geral II"
@@ -519,6 +535,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "As aulas na primeira semana do período de recuperação serão dedicadas à solução das dúvidas e resolução de exercícios. Na semana seguinte será realizada uma avaliação (P3) englobando toda a ementa. A média final será obtida conforme equação abaixo: MF= (NF+P3)/2."
   bibliografia: "1) ATIKNS, P.; JONES, L. Princípios de Química, 5ªEdição, Ed. Bookman, 2012.2)BRADY, J.; HUMISTON, G.E. Química Geral Volume II, 2ª Edição, Ed. LTC, 2005.3) BRADY, J.E.; RUSSELL, J.W.; HOLUM, J.R. Química a matéria e suas transformações Volume II 3ª Edição, Ed. LTC, 2010.4) BRADY, J.E.; SENESE, F., Química – A matéria e suas transformações Volume II, Ed. LTC, 5ªEdição, 2010.5) BROWNN, S.L.; HOLME, T.A. Química geral aplicada à engenharia. São Paulo: Ed. Cengage Learning, 2010.6) BROWN, T. L.; LEMAY, H.E.L.; Jr BURSTEN, B.E.; BURDGE, J.R. Química a ciência central. 9ª Edição, Ed. Pearson Prentice Hall, 2005.7) CHANG, R.; GOLDSBY, K.A., Química, 11ª Edição, Ed. AMGH Editora Ltda, 20138) KOTZ, J.C.; TREICHEL, P.M.; WEAVER, G.C., Química Geral e Reações Químicas, Volume II, 6ª Edição, Ed. Cengage Learning, 2009.9) KOTZ, J.C.; TREICHEL, P.M.; TOWNSEND, J. R.; TREICHEL, D.A., Química Geral e Reações Químicas, Volume II, 9ª Edição, Ed. Cengage Learning, 2016."
   docentes: ['5817330 - Larissa de Freitas', '1506103 - Pedro Carlos de Oliveira']
+  nomeascii: " Quimica Geral II"
 - LOQ4095:
   sigla: "LOQ4095"
   nome: " Química Geral Experimental"
@@ -550,6 +567,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "A recuperação será feita por meio de uma prova (PR) para alunos que tenham NF maior ou igual a 3,0 e menor do que 5,0 e pelo menos 70% de frequência. A nota de recuperação (NR) será a média simples entre a nota final (NF) e a prova de recuperação (PR). Será considerado aprovado o aluno com NR maior ou igual a 5,0"
   bibliografia: "ASSUMPÇÃO, R. M. V. ; MORITA, T. Manual de soluções reagentes e solventes: padronização, preparação, purificação. São Paulo: Editora Edgard Blucher, 1972.BACCAN, N.; ANDRADE, J. C. O. ; GODINHO, E. S.; BARONE, J. S. Química analítica quantitativa elementar. 2.ed. São Paulo: Edgard Blucher, 1995.BRADY, J; HUMISTON, G. E. Química geral. Rio de Janeiro: Ed. Livros Técnicos Científicos, 1986.BROWN, T. E et al. Química a Ciência Central. 9 ed. São Paulo. Pearson Prentice Hall, 2005-2007.CONSTANTINO, M.G; SILVA, G. V. J. da; DONATE P. M. Fundamentos de química experimental, São Paulo : EDUSP, 2004.MAHAN, B. M.; MYERS, R. J. Química um curso universitário. São Paulo: Ed. Edgard Blucher Ltda, 1993.SILVA, R. R.; BOCCHI, N. ; ROCHA FILHO, R. C. Introdução a química experimental. São Paulo: McGraw-Hill, 1990."
   docentes: ['5817330 - Larissa de Freitas', '6310296 - Patrícia Caroline Molgero Da Rós']
+  nomeascii: " Quimica Geral Experimental"
 - LOB1024:
   sigla: "LOB1024"
   nome: " Mecânica"
@@ -585,6 +603,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. BEER, Ferdinand Pierre, ; JOHNSTON, E. Russel.; Eisenberg, Elliot R., Mecânica vetorial para engenheiros: Estática.  Mc Graw Hill (2011).2. HIBBELER, R.C. Mecânica para engenharia, Vol. 1: estática, Pearson Prentice Hall (2005).3. MERIAM J. L. ; KRAIGE, L. G., Mecânica, estática, Livros Técnicos e Científicos Editora (2004)."
   docentes: ['5840650 - Janaína Ferreira Batista Leal']
+  nomeascii: " Mecanica"
 - LOB1039:
   sigla: "LOB1039"
   nome: " Física Experimental III"
@@ -616,6 +635,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. Apostilas do Laboratório de Ensino de Física do IFSC/USP.2. VUOLO, J.H. Fundamentos da Teoria de Erros, Edgard Blucher (1996).3. NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 3, Edgard Blucher (2008).4. RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol. 3, LTC (2008).5. TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol. 3, LTC (2008).6. SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física III, Vol. 3,     Pearson Addison Wesley (2009).7. JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 3, Thomson Pioneira (2008)."
   docentes: ['3268262 - Carlos Renato Menegatti']
+  nomeascii: " Fisica Experimental III"
 - LOB1052:
   sigla: "LOB1052"
   nome: " Cálculo III"
@@ -647,6 +667,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. H. L. Guidorizzi, UM CURSO DE CÁLCULO, volume III. Livros Técnicos e Científicos, Rio de Janeiro.2. W. Kaplan, CÁLCULO AVANÇADO, volume I, Edgard Blücher, 1972.3. Stewart, CÁLCULO, volume II, Editora Pioneira Thomson Leaming.4.BUSS, Mirian ; FLEMMING, Diva Marília. Calculo B. 2. ed. São Paulo:Pearson, 2007."
   docentes: ['6270264 - Juan Fernando Zapata Zapata']
+  nomeascii: " Calculo III"
 - LOB1053:
   sigla: "LOB1053"
   nome: " Física III"
@@ -682,6 +703,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 3, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol.3, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol.3, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 3, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 3, Thomson Pioneira (2008)."
   docentes: ['2342277 - Bertha María Cuadros Melgar']
+  nomeascii: " Fisica III"
 - LOB1056:
   sigla: "LOB1056"
   nome: " Introdução aos Métodos Numéricos e Computacionais"
@@ -717,6 +739,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "CHAPRA, Steven C., Métodos numéricos aplicados com MATLAB para engenheiros e cientistas. Porto Alegre: AMGH, 2013.CHAPRA, Steven C.; CANALE, Raymond P., Métodos numéricos para engenharia. São Paulo: McGraw-Hill, 2008.SPERANDIO, Decio; MENDES, João Teixeira, SILVA, Luiz Henry Monken. Cálculo numérico. São Paulo: Prentice Hall Brasil, 2003.RUGGIERO, M.A.G.; DA ROCHA LOPES, V.L. Cálculo Numérico: Aspectos Teóricos e Computacionais. Makron Books, 2a Edição, 1997.FRANCO, Neide Maria Bertoldi. Cálculo numérico. Prentice Hall Brasil, 2006.BURIAN, Reinaldo; LIMA, Antonio Carlos. Cálculo numérico. São Paulo: LTC, 2007.ARENALES, Selma Helena De Vasconcelos; DAREZZO, Artur. Cálculo Numérico. São Paulo: Thomson Pioneira, 2007."
   docentes: ['8870322 - Fabiano Fernandes Bargos']
+  nomeascii: " Introducao aos Metodos Numericos e Computacionais"
 - LOB1210:
   sigla: "LOB1210"
   nome: " Solos II"
@@ -748,6 +771,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
   exame: "Exame Final (EF) para alunos com Nota Final (NF) maior ou igual a 3,0 e menor do que 6,5 e frequência superior a 70%. Será considerado aprovado o aluno que tenha obtido Média Final (MF) igual ou maior do que 5,0, sendo MF = (NF+EF)/2."
   bibliografia: "Bibliografia básica:1. LEPSCH, I.F. 19 Lições de pedologia. São Paulo, Oficina do Texto. 456p. 2011. ISBN 978-85-7975-029-8.Bibliografia complementar:1. CAMARGO, O.A. de; MONIZ, A.C.; JORGE, J.A.; VALADARES, J.M.A.S. Métodos de analise química, mineralógica e física de solos do Instituto Agronômico de Campinas. Campinas, Instituto Agronômico, 2009. 77 p. (Boletim técnico, 106, Edição revista e atualizada).2. DIAS Jr., M.S. Compactação do solo. In: Tópicos em ciência do solo, v.1. NOVAIS, R.F.; ALVAREZ, V.H.; SCHAEFER, G.R. (Eds.). Viçosa: SBCS, 2000. p.55-94.3. EMBRAPA – EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA. Manual de análises químicas de solos, plantas e fertilizantes. SILVA, F. C. da (org.). EMBRAPA Comunicação para Transferência de Tecnologia. Brasília: EMBRAPA, Solos, 1999b. 370p.4. OLIVEIRA, J.B. Pedologia aplicada. 3a Edição. Piracicaba: Ed. FEALQ, 2008. 592p.5. REICHARDT, K.; TIMM, L.C. Solo, planta e atmosfera: conceitos, processos e aplicações. Barueri: SP: ed. Manole, 2004. 478p.6. SCHNEIDER, P.; GIASSON, E.; KLAMT, E. Classificação da aptidão agrícola das terras: um sistema alternativo. Porto Alegre: UFRGS, 2007. 72p."
   docentes: ['5840942 - Marco Aurélio Kondracki de Alcântara']
+  nomeascii: " Solos II"
 - LOM3016:
   sigla: "LOM3016"
   nome: " Introdução à  Ciência dos Materiais"
@@ -786,6 +810,7 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
 7) Padilha, A. F. Materiais de engenharia: microestrutura e propriedades. São Paulo: Hemus Editora, 1997.
 8) Ashby, M. F.; Jones, D. R. H. Engenharia de materiais, 2 vol. Rio de Janeiro: Elsevier Editora, 2007."
   docentes: ['6495737 - Durval Rodrigues Junior', '5983729 - Fernando Vernilli Junior', '7459752 - Maria Ismenia Sodero Toledo Faria']
+  nomeascii: " Introducao a  Ciencia dos Materiais"
 - LOQ4053:
   sigla: "LOQ4053"
   nome: " Balanços de Massa e Energia"
@@ -820,6 +845,7 @@ MOUYEN, O.A.; WATSON, K. M. AND RAGATZ, R.A.  Princípios dos processos químico
 CREMASCO, M. A. Fundamentos de transferência de massa. 1.ed. Campinas: Editora da UNICAMP, 1998.
 BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Editora Interciência , 2004."
   docentes: ['5817045 - Elisângela de Jesus Cândido Moraes']
+  nomeascii: " Balancos de Massa e Energia"
 - LOT2046:
   sigla: "LOT2046"
   nome: " Microbiologia e Bioquimica Aplicadas"
@@ -851,6 +877,7 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
   exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação. Prova de recuperação (PR) para alunos com Média Final maior ou igual a 3,0 e menor do que 5,0. Será considerado aprovado o aluno que tenha obtido Nota Final igual ou maior do que 5,0."
   bibliografia: "Madigan, M.T.; Martinko, J.M.; Bender, K.S.; Buckley, D.H.; Stahl, D.A. Microbiologia de Brock. Editora Artmed, 14a Edição, 2016. - Nelson, D.; Cox, M. Princípios de Bioquímica de Lehninger. Artmed Editora. 6a  Edição, 2014.- Pratt, C.; Cornely, K. Bioquímica essencial. Guanabara Koogan. 1a  Edição, 2006. - Wasserman, S.A.; Minorsky, P.V.; Jackson, R.; Reece, J.; Cain, M.; Urry, L. Biologia de Campbell. Artmed Editora. 8 a  Edição. 2010.- Cooper, G.M. A Célula – Uma Abordagem molecular. Artmed Editora Ltda. 3a  Edição. 2007.- Raven, P.H.; Evert, S.E. Biologia vegetal. Editora Guanabara Koogan, 2007.- Maier, R. Environmental Microbiology. Academic Press. 2000. - Jordening, H.; Winter, J. Environmental Biotechnology. Concepts and Applications. Wiley-VCH. 2005. - Brock, T. D. ; Madigan, M.T.; Martinko, J.M.; Dunlap, P.; Clark, D. Biology of Microorganisms. Pearson Education.12a  Edição. 2009.- Tortora, G.; Burdell, B.; Case, C. Microbiology. An Introduction. Pearson Benjamin Cummings. 10a  Edição. 2010."
   docentes: ['1304060 - Maria das Graças de Almeida Felipe']
+  nomeascii: " Microbiologia e Bioquimica Aplicadas"
 - LOB1006:
   sigla: "LOB1006"
   nome: " Cálculo IV"
@@ -886,6 +913,7 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1.H. L. Guidorizzi, UM CURSO DE CÁLCULO, volume IV. Livros Técnicos e Científicos, 1987.2.BRANNAN, James R. BOYCE, W.E. Equações diferenciais: uma Introdução a métodos modernos e suas aplicações. Rio de Janeiro: LTC ED., 2008.3.ZILL, D.G. ; CULLEN, M.R. Equações Diferenciais São Paulo: Pearson Makron Books2006., v.1 e 2.4.W. Kaplan, CÁLCULO AVANÇADO, volume II, Edgard Blücher, São Paulo, 1972.5.BOYCE,W.E. ; DIPRIMA,R.C. Equações diferenciais e problemas de valores de contorno. 8.ed. Rio de Janeiro: LTC Editora, 2008."
   docentes: ['6270264 - Juan Fernando Zapata Zapata']
+  nomeascii: " Calculo IV"
 - LOB1012:
   sigla: "LOB1012"
   nome: " Estatística"
@@ -929,6 +957,7 @@ RYAN, Thomas. Estatística moderna para engenharia. São Paulo: Ed. Campus, 2009
 
 RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade para engenheiros. São Paulo: Ed. LTC, 2009."
   docentes: ['4894221 - Mariana Pereira de Melo']
+  nomeascii: " Estatistica"
 - LOB1021:
   sigla: "LOB1021"
   nome: " Física IV"
@@ -964,6 +993,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "NUSSENZVEIG, H.M. Curso de Física Básica. Vol. 4, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol. 4, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol. 4, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física IV, Vol. 4, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 4, Thomson Pioneira (2008)."
   docentes: ['230696 - Carlos José Todero Peixoto']
+  nomeascii: " Fisica IV"
 - LOB1042:
   sigla: "LOB1042"
   nome: " Física Experimental IV"
@@ -995,6 +1025,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "(NF+RC)/2 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "Apostilas do Laboratório de Ensino de Física do IFSC/USP.RESNICK, R.; HALLIDAY, D. Fundamentos de Física. Vol. 4, LTC (2008).TIPLER, P.; MOSCA, G. Física para Cientistas e Engenheiros. Vol. 4, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. Física I, Vol. 4, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princípios de Física. Vol. 4, Thomson Pioneira (2008)."
   docentes: ['230696 - Carlos José Todero Peixoto']
+  nomeascii: " Fisica Experimental IV"
 - LOB1255:
   sigla: "LOB1255"
   nome: " Hidrologia Aplicada"
@@ -1022,6 +1053,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "1 (uma) prova de recuperação (R), sendo considerado aprovado se 0,5(NF + R) ≥ 5,0."
   bibliografia: "Barth, F.T. et al. - Modelos para Gerenciamento de Recursos Hídricos. São Paulo: Nobel: ABRH (Coleção ABRH de Recursos Hídricos, Vol. 1)., 1987.Pinto, N.L.S. et al. - Hidrologia Básica. São Paulo: Edgard Blucher, 1976.Tucci, C.E.M. - Hidrologia: Ciência e Aplicação, Porto Alegre, Editora da Universidade - ABRH - EPUSP, 1993, (coleção ABRH de Recursos Hídricos, Vol. 4).Villela, S.M. e Mattos. - Hidrologia Aplicada, São Paulo: Mc Graw-hill do Brasil, 1975.Wilson - Engineering Hydrology, London: Mcmillan, 1969.Roberto, A. N., Porto. R.L.L. e Zahed, K.F. - Sistema de Suporte a Decisões para Análise de Cheias em Bacias Complexas. Anais do XII Simpósio Brasileiro de Recursos Hídricos, 1997.Tucci, C.E.M., Porto, R.L.L. e Barros, M.T. - Drenagem Urbana, Porto Alegre, Editora da Universidade - ABRH - UFRGS, 1995, (coleção ABRH de Recursos Hídricos, Vol. 5)Wanielista, M.,Kersten, R. e Eaglin,R. -Hydrology - Water Quantity and Quality Control, John Wiley & Sons, Inc., 567 pág., 1997.Porto, R.L.L. - Técnicas Quantitativas para o Gerenciamento de Recursos Hídricos, Porto Alegre, Editora da Universidade - ABRH - UFRGS, 1997, (coleção ABRH de Recursos Hídricos, Vol. 6)Ward, A.D. Trimble, S.W. – Environmental Hydrology, 2004, Lewis Publishers, 462 ppBrutsaert, W. – Hydrology: An Introduction, Cambridge University Press, 618 p, ISBN 0521824796, 2005.Gordon, N.D McMahon, T.A. Finlayson, B.L. Gippel, C.J. Nathan, R.J. – Stream Hydrology: An Introduction to Ecologists, Second Edition, John Wiley & Sons Ltd., UK, 526 pp.Brooks,K.N. Ffolliott,P.F. Gregersen,H.M. DeBano,L.F. – Hydrology and the Management of Watersheds, Iowa State University Press, 574 pp, 2003Ghosh,S.N. Desai,V.R. – Environmental Hydrology And Hydraulics: Eco-technological Practices for Sustainable Development, Science Publishers, 416 p, ISBN 978-1-57808-403-6, 2006Shaw, E.M. – Hydrology in Practice, Van Nostrand Rainhold, 2007Baird, A.J. Wilby, R.L. – Eco-Hydrology: Plants and water in terrestrial and aquatic environments, Routledge, 2007CHRISTOFOLETTI, A. Geomorfologia Fluvial. São Paulo: Edgar Blucher Ltda, 1981. 313 p. CHIOSSI, N. Geologia de Engenharia. São Paulo: Oficina de Textos, 2013.WICANDER, R.; MONROE, J.S. Geologia. São Paulo: Cengage Learning, 2017.SILVA, L.P. Hidrologia: Engenharia e meio ambiente. Rio de Janeiro: Elsevier, 2015.POLETO, C. Bacias hidrográficas e recursos hídricos. Rio de Janeiro: Interciência, 2014."
   docentes: ['9146830 - Danúbia Caporusso Bargos', '7455355 - Robson da Silva Rocha']
+  nomeascii: " Hidrologia Aplicada"
 - LOM3081:
   sigla: "LOM3081"
   nome: " Introdução à Mecânica dos Sólidos"
@@ -1063,6 +1095,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 7. POPOV, E. P. Introdução à Mecânica dos Sólidos, São Paulo: Edgard Blücher, 1978, 552p.
 8. A. HIGDON, E.H. OHLSEN, W.B. STILES, J.A. WEESE, W.F. RILEY. Mecânica dos Materiais.  Rio de Janeiro: Guanabara Dois. 3a Ed., 1981, 549p."
   docentes: ['471420 - Carlos Antonio Reis Pereira Baptista', '3480026 - João Paulo Pascon', '5840793 - Sérgio Schneider', '7797767 - Viktor Pastoukhov']
+  nomeascii: " Introducao a Mecanica dos Solidos"
 - LOQ4076:
   sigla: "LOQ4076"
   nome: " Termodinâmica Aplicada"
@@ -1159,6 +1192,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 
 6)Sandler, S. I., Chemical and Engineering Thermodynamics, 3rd ed., John Wiley & Sons, 1999"
   docentes: ['8554681 - Pedro Felipe Arce Castillo']
+  nomeascii: " Termodinamica Aplicada"
 - LOQ4081:
   sigla: "LOQ4081"
   nome: " Química Orgânica"
@@ -1190,6 +1224,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   exame: "Prova escrita envolvendo todo o conteúdo da disciplina. MF = (NF+R) / 2 & => 5,0 Aprovado"
   bibliografia: "Bruice, Paula Yurkanis – Química Orgânica – PEARSON Prentice Hall – São Paulo, 2006. Solomons, T.W.G.- Química Orgânica. Volumes 1 e 2, Rio de Janeiro, Livros Técnicos e Científicos, 2012.Rene P. Schwarzenbach, Philip M. Gschwend, Dieter M. Imboden - Environmental Organic Chemistry – Wiley Interscience, 2016."
   docentes: ['2346890 - Eliane Corrêa Pedrozo']
+  nomeascii: " Quimica Organica"
 - LOQ4083:
   sigla: "LOQ4083"
   nome: " Fenômenos de Transporte I"
@@ -1242,6 +1277,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
 
 5) COULSON, J. M.; RICHARDSON, J.F. Chemical engineering . Oxford: Butterworth Heinemann. Volume 1: Fluid Flow, Heat Transfer and Mass Transfer"
   docentes: ['5816812 - João Paulo Alves Silva']
+  nomeascii: " Fenomenos de Transporte I"
 - LOB1011:
   sigla: "LOB1011"
   nome: " Eletricidade Aplicada"
@@ -1273,6 +1309,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "1. SADIKU, Mathew N. O.; ALEXANDER, Charles. Fundamentos de circuitos      elétricos, Mcgraw-hill Interamericana (2009)2. MARKUS, Otávio. Circuitos elétricos: corrente contínua e corrente       alternada – Teoria e Exercícios, Editora Érica (2008).3. SAY, M. G. Eletricidade geral eletrotécnica, Editora Hemus (2009).4. EDMINISTER, Joseph A.; NAHVI, Mahmood. Circuitos Elétricos, Bookman (2008) - Col. Schawn.5. DORF, Richard C.; SVOBODA, James. A Introdução aos circuitos elétricos, LTC (2009)."
   docentes: ['3268262 - Carlos Renato Menegatti']
+  nomeascii: " Eletricidade Aplicada"
 - LOB1031:
   sigla: "LOB1031"
   nome: " Psicologia Organizacional e do Trabalho"
@@ -1324,6 +1361,7 @@ SPECTOR, P. Psicologia nas Organizações. São Paulo: McGraw-Hill, 2002.
 ROBBINS, S. P. Fundamentos do Comportamento Organizacional. 8ª. Ed., São Paulo: Pearson Prentice Hall, 2009.
 TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasiliense, 2001."
   docentes: ['8188658 - Maria Auxiliadora Motta Barreto']
+  nomeascii: " Psicologia Organizacional e do Trabalho"
 - LOB1040:
   sigla: "LOB1040"
   nome: " Laboratório de Eletricidade"
@@ -1355,6 +1393,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
   exame: "(NF+RC)/2 ≥ 5,0, onde RC é uma prova de recuperação a ser aplicada."
   bibliografia: "CAPUANO, G. Francisco; MARINO, M.A. Maria. Laboratório de eletricidade Eletrônica, Editora Érica (1998).MARKUS, Otávio. Circuitos elétricos: corrente contínua e corrente alternada-Teoria e Exercícios, Editora Érica, (2008).SADIKU, Mathew N. O.; ALEXANDER, Charles. Fundamentos de circuitos elétricos, Mcgraw-hill Interamericana (2009)."
   docentes: ['230696 - Carlos José Todero Peixoto']
+  nomeascii: " Laboratorio de Eletricidade"
 - LOB1207:
   sigla: "LOB1207"
   nome: " Poluição Ambiental I"
@@ -1394,6 +1433,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
   exame: "Entrará em período de recuperação o aluno que obtiver notas entre 3,0 e 4,9 (intervalo fechado). Para os alunos em recuperação, a Nota Finalrec será calculada pela média simples entre a avaliação de recuperação (todo o conteúdo do semestre) e sua nota final, conforme fórmula abaixo:〖Nota Final〗_rec=(Nota Final+P_recuperação)/2"
   bibliografia: "Bonita, R. Beaglehole, R. Kjellström T. Basic Epidemiology. 2nd ed. WorldHealth Organization. 2009. 226p.Medronho, R.A.; Bloch, K.V.; Luiz, R.R.;Werneck, G. L. Epidemiologia. 2a ed. Atheneu. 2008. 790p.Klaassen, C.  Casarett & Doull's Toxicology - The Basic Science Of  Poisons. 8th ed. McGraw Hill Education. 2013. 1473p.Oga, Seize; Camargo, Márcia M. A.; Batistuzzo, José A. O. Fundamentos de Toxicologia. 4.ed. Atheneu. 2014. 696p."
   docentes: ['8855158 - Morun Bernardino Neto']
+  nomeascii: " Poluicao Ambiental I"
 - LOB1208:
   sigla: "LOB1208"
   nome: " Química Analítica Ambiental I"
@@ -1425,6 +1465,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
   exame: "Entrará em período de recuperação o aluno que obtiver notas entre 3,0 e 4,9 (intervalo fechado). Para os alunos em recuperação, a Nota Finalrec será calculada pela média simples entre a avaliação de recuperação (todo o conteúdo do semestre) e sua nota final, conforme fórmula abaixo:〖Nota Final〗_rec=(Nota Final+P_recuperação)/2"
   bibliografia: "Baird, C., Michael C.C.  Environmental chemistry. Editora: New York: Freeman, 5a edição, 2012Baird, C.,Michael C.C.  Química ambiental. Editora: Porto Alegre: Bookman,  4a edição, 2011Harris, D. C. Análise Química Quantitativa. Editora: LTC, 8a edição, 2012Krug, F.J., Rocha F.R.P. Métodos de preparo de amostras para análise elementar. Editora EditSBQ, 1a edição, 2016Luna, A. Química analítica ambiental. Editora: EdUERJ, 1a edição, 2003Rocha, J.C., Rosa, A.H., Cardoso, A.A. Introdução à química ambiental. Editora: Porto Alegre: Bookman, 2a edição, 2009.Skoog, D. A, West, D. M., Holler, F. J., Crouch, S. R. Fundamentos de Química Analítica. Editora: Thomson, tradução da 8ª edição, 2006"
   docentes: ['8855158 - Morun Bernardino Neto']
+  nomeascii: " Quimica Analitica Ambiental I"
 - LOB1221:
   sigla: "LOB1221"
   nome: " Legislação Ambiental"
@@ -1464,6 +1505,7 @@ GOMES, C. L. S. P. Crimes Contra o Meio Ambiente: responsabilidade e sanção pe
 MACHADO, P. A. L. Direito Ambiental Brasileiro. 8ª Edição, Revista, atualizada e ampliada, São Paulo, Malheiros Editores, 2001.
 MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com a EC n.º 24/99 - São Paulo, Atlas, 2000."
   docentes: ['5840671 - Francisco José Moreira Chaves']
+  nomeascii: " Legislacao Ambiental"
 - LOB1256:
   sigla: "LOB1256"
   nome: " Cartografia e Topografia Aplicadas à Estudos Ambientais"
@@ -1491,6 +1533,7 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
   exame: "A nota final (MF) do aluno que realizou provas de recuperação dependerá da média do semestre (MS) e da média das provas de recuperação (MR), como segue:MF=5 se 5 ≤MR ≤ (10 - MS); MF = (MS + MR) / 2 se MR > (10 – MS)MF = MS se MR < 5."
   bibliografia: "BORGES, A.C. Topografia Aplicada a Engenharia Civil. Vol. I e II. Ed. Edgard Blücher. São Paulo, 1977.BREACH,M.; SCHOFIELD, W. Enginnering Surveying. London: Elsevier, 2007.CALIJURI, M. C.; CUNHA, D. G. F. Engenharia ambiental: Conceitos, tecnologia e gestão. Elsevier, 2012. DUARTE, P.A. Fundamentos de Cartografia. UFSC. Florianópolis, 2006.ESPARTEL,L. Curso de Topografia. Porto Alegre: Globo, 1980FITZ, P. R. Cartografia Básica. São Paulo. Oficina de Textos, 2008. GARCIA, G. J. Sensoriamento Remoto: princípios e interpretação de imagens. São Paulo, Nobel, 1982.JOLY, F. La Cartografia. Barcelona, Ariel, 1982.LIBAUT, A. Geocartografia. Ed. Nacional, Universidade de São Paulo, 1975. LOCH, R. E. N. Cartografia: representação, comunicação e visualização de dados espaciais. Florianópolis: Editora da UFSC, 2006.MARTINELLI, M. Mapas da Geografia e Cartografia Temática. Contexto, 2003.MENEZES, P.M.L; FERNANDES, M.C. Roteiro de cartografia. Oficina de Textos, 2013. MIRANDA,J. Fundamentos de Sistemas de Informações Geográficas. Brasília: Embrapa, 2005.MONICO, J. Posicionamento pelo Navstar-GPS. São Paulo: UNESP, 2000.MOREIRA, M.A. Fundamentos do Sensoreamento Remoto. Editora do INPE, 2001.OLIVEIRA, C. Dicionário cartográfico. Rio de Janeiro, IBGE, 1983.ROBINSON, A. H.; MORRISON, J. L.; MUEHRCKE, P.C.A.; KIMERLING, J; GUPTIL, S. C. Elements of cartography, 6. ed. New York: Wiley, 1995.SILVA, A. Sistemas de informações geo-referenciadas. Campinas: UNICAMP, 2003.VENTURI, L.A.B (Org.) Praticando Geografia: técnicas de campo e laboratório. São Paulo: Oficina dos Textos, 2005. ZUQUETTE, L.V., GANDOLFI, N. Cartografia Geotécnica. Oficina de Textos. São Paulo, 2004.ZUQUETTE, L. V. Geotecnia ambiental. Elsevier, 2015."
   docentes: ['9146830 - Danúbia Caporusso Bargos', '5464150 - Mariana Consiglio Kasemodel']
+  nomeascii: " Cartografia e Topografia Aplicadas a Estudos Ambientais"
 - LOQ4079:
   sigla: "LOQ4079"
   nome: " Cinética Aplicada e Reatores"
@@ -1536,6 +1579,7 @@ SMITH, J.M. Chemical engineering kinetics. 3rd. ed New York: McGraw-Hill,1981.
 DENBIGH, K. ; TURNER, R. Introduction to chemical Reaction Design. Cambridge: Cambridge University Press, 1970.
 FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd Ed. New York: John Wiley & Sons, 1990."
   docentes: ['6310316 - Liana Alvares Rodrigues']
+  nomeascii: " Cinetica Aplicada e Reatores"
 - LOQ4084:
   sigla: "LOQ4084"
   nome: " Fenômenos de Transporte II"
@@ -1575,6 +1619,7 @@ FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd Ed. New
   exame: "A média final após a recuperação para a disciplina será a média aritmética entre a média do período e a nota da recuperação. Durante o período de recuperação, poderá ser marcada uma aula com a finalidade de sanar dúvidas e/ou revisar conceitos fundamentais. Em data posterior os alunos serão submetidos a uma prova de recuperação."
   bibliografia: "1)INCROPERA, Frank P. Fundamentos de transferência de calor e de massa. 6. ed. Rio de Janeiro: LTC. 2013.2)KREITH, Frank; BOHN, Mark S. Princípios de transferência de calor. São Paulo: Pioneira. 2014.3) ÖZISIC, M. Necati. Transferência de calor. Rio de Janeiro: Guanabara Koogan. 1990.4) HOLMAN, J. P. Transferência de calor. São Paulo: McGraw-Hill, 1983."
   docentes: ['6666306 - Daniela Helena Pelegrine Guimarães']
+  nomeascii: " Fenomenos de Transporte II"
 - LOQ4231:
   sigla: "LOQ4231"
   nome: " Introdução à Econômia"
@@ -1613,6 +1658,7 @@ ROSSETTI, José Pascoal .Introdução à Economia.  9.ed. São Paulo: Atlas, 198
 
 SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
   docentes: ['5840671 - Francisco José Moreira Chaves']
+  nomeascii: " Introducao a Economia"
 - LOQ4233:
   sigla: "LOQ4233"
   nome: " Gestão de Negócios"
@@ -1651,6 +1697,7 @@ Gestão Empresarial - Estratégias Organizacionais
 Autor: Bertero, C. O. 
 Editora: ATLAS"
   docentes: ['849935 - Humberto Felipe da Silva']
+  nomeascii: " Gestao de Negocios"
 - LOB1202:
   sigla: "LOB1202"
   nome: " Introdução ao Gerenciamento de Projetos Ambientais"
@@ -1699,6 +1746,7 @@ TORRES, C., Lélis, J.C., Garantia de sucesso em gestão de projetos, Ed. Braspo
 ROCHA, J.S.M., Manual de projetos ambientais, Imprensa Universitária, 1997
 Project Management Institute. PMBok, 2013"
   docentes: ['7926291 - Célia Regina Tomachuk dos Santos Catuogno']
+  nomeascii: " Introducao ao Gerenciamento de Projetos Ambientais"
 - LOB1211:
   sigla: "LOB1211"
   nome: " Poluição Ambiental II"
@@ -1738,6 +1786,7 @@ Project Management Institute. PMBok, 2013"
   exame: "1 (uma) prova escrita."
   bibliografia: "Bibliografia básica:GUNTER, F.; Introdução aos problemas da poluição ambiental. 1 ed. São Paulo: Editora EPU, 2008.LENZI, E. F.; FAVERO, L.O.B. Introdução à química da atmosfera  Ciência, vida e sobrevivência. 1ª. ed. Rio de Janeiro: Editora LCT, 465p. 2009.SPIRO, T. G.; STIGLIANI, E. W. M. Química ambiental. 2 ed. Sao Paulo: Pearson / Prentice Hall. 2008. 352p.VESILIND, P. A.; MORGAN, S. M., revisão técnica Carlos Alberto de Moya Figueira Netto; Lineu Belico dos Reis. Introdução à Engenharia Ambiental. Tradução da 2ª edição norte-americana. Editora Cengage Learning, São Paulo, 2015.Bibliografia complementar:JACOBSON, Mark Z. Atmospheric pollution: history, science, and regulation. Cambridge, Inglaterra: Cambridge University Press, c2002. xi, 399 p. Includes bibliographical references (p 355-370). ISBN 9780521010443.SEINFELD, J.H.;MANAHAN, S.E. Environmental chemistry. 9 th edition. Boca Raton, FL: CRC Press. 753p. 2010.PANDIS, S.N. Atmospheric Chemistry and Physics: From air pollution to climate change. John Wiley& Sons, 1998.SCHNELLE JR, Karl B; BROWN, Charles A. Air pollution control technology handbook. New York: CRC Press, 2001. 386 p. (Mechanical engineering handbook series). ISBN 9780849395888.VALLERO, Daniel A. Fundamentals of air pollution. 4 ed. Amsterdam: Elsevier, 2008. 942 p"
   docentes: ['5840650 - Janaína Ferreira Batista Leal']
+  nomeascii: " Poluicao Ambiental II"
 - LOB1212:
   sigla: "LOB1212"
   nome: " Química Analítica Ambiental II"
@@ -1786,6 +1835,7 @@ Christian, G.D., ANALYTICAL CHEMISTRY, 4ª ed., John Wiley & Sons, Nova York, 19
 Dyer, J.R., APLICAÇÃO DA ESPECTROSCOPIA DE ABSORÇÃO AOS COMPOSTOS ORGÂNICOS, 1ª reimpressão, Edgard Blucher, São Paulo, 1977.
 Willard, H.H., Merrite, L. e Deab, J., INSTRUMENTAÇÃO ANALÍTICA, Fundação Calouste Gulbekian, Lisboa, 1989."
   docentes: ['8855158 - Morun Bernardino Neto']
+  nomeascii: " Quimica Analitica Ambiental II"
 - LOB1213:
   sigla: "LOB1213"
   nome: " Climatologia Aplicada"
@@ -1813,6 +1863,7 @@ Willard, H.H., Merrite, L. e Deab, J., INSTRUMENTAÇÃO ANALÍTICA, Fundação C
   exame: "Provas e/ou exercícios dirigidos."
   bibliografia: "Bibliografia básica:AYOADE, J.O. Introdução à Climatologia para os trópicos. Rio de Janeiro. Bertrand Brasil, 1983.CUADRAT, J. M. & PITA, M. F. Climatologia. Madrid, Ediciones Cátedra, 1997. DEMILLO, Rob - Como funciona o clima. S. Paulo. Quark Books, 1998.LOMBARDO, M. A. Ilha de calor nas metrópoles: o exemplo de São Paulo. São Paulo: Hucitec, 1985. MENDONÇA, F. Climatologia. Noções Básicas e Climas do Brasil. Oficina de Textos. São Paulo, 2007.MONTEIRO, C. A. F. A frente polar atlântica e as chuvas na fachada sul-oriental do Brasil: contribuição metodológica à análise rítmica dos tipos de tempo no Brasil. São Paulo, Instituto de Geografia-IGEOUP USP, Série Teses e Monografias no. 01, 1969.MONTEIRO, C. A. F. Análise rítmica em Climatologia: problemas de atualidade climática e achegas para um programa de trabalho. São Paulo, Instituto de Geografia-IGEOG USP, Série Climatologia no. 01, 1971.MONTEIRO, C. A. Teoria e clima urbano. São Paulo: Edusp, 1976.MONTEIRO, C. A. F. A dinâmica climática e as chuvas de inverno na fachada Sul Oriental do Brasil: estudo geográfico sob forma de atlas. São Paulo, Instituto de Geografia-IGEOG USP, 1973.TORRES, F.T.P; MACHADO, P.J.O. Introdução à Climatologia. São Paulo. Cengage Learning, 2011.VAREJÃO-SILVA, M.A. - Meteorologia e Climatologia. Brasília, INMET, Gráfica e Editora Stilo, 2000.Bibliografia complementar:PEIXOTO, J. P. Radiação Solar e Ambiente. Lisboa: Secretaria de Estado do Ambiente,. Coleçcão “O Ambiente e o Homem”, 1981.PEIXOTO, J. P. A Água no Ambiente. Lisboa: Secretaria de Estado do Ambiente. Coleçcão “O Ambiente e o Homem”, 1989.ASSIS, Francisco N. et al. Aplicações de Estatística à Climatologia. Pelotas, RS: Ed. Universitária, UFPEL, 1996.OMETTO, J. C. Bioclimatologia vegetal. São Paulo: CERES, 1989.MILLER, Austin. Climatologia. Barcelona: Editorial Omega, 1955"
   docentes: ['9146830 - Danúbia Caporusso Bargos']
+  nomeascii: " Climatologia Aplicada"
 - LOB1214:
   sigla: "LOB1214"
   nome: " Sistemas de Informações Geográficas"
@@ -1844,6 +1895,7 @@ Willard, H.H., Merrite, L. e Deab, J., INSTRUMENTAÇÃO ANALÍTICA, Fundação C
   exame: "Provas e/ou exercícios dirigidos."
   bibliografia: "BURROUGH, P. A. Principles of Geographical Information Systems - Spatial Information Systems and Geoestatistics, Oxford: Clarendon Press, 1998.BURROUGH, P. A.; MCDONNELL, R. A. Principles of Geographical Information Systems. Oxford University Press, 1998.CÂMARA, G. & MEDEIROS, J. S. GIS para Meio Ambiente. INPE. São José dos Campos, SP, 1998.CROSTA, A. P. Processamento Digital de Imagens de Sensoriamento Remoto. Campinas – SP, 1992.FLORENZANO, T. G. Imagens de Satélite para Estudos Ambientais. Oficina de textos. São Paulo, 2002.IBGE. Noções Básicas de Cartografia. Rio de Janeiro. Coleção Manuais Técnicos em Geociências, 1999.LONGLEY, P. A.; GOODCHILD, M. F.; MAGUIRE, D. J.; RHIND, D. W. Geographic Information Systems and Science. John Wiley & Sons, 2001.MIRANDA, J. I.; Fundamentos de Sistemas de Informações Geográficas. Brasília, Embrapa, 2005.MOREIRA, M. A. Fundamentos do Sensoriamento Remoto e Metodologias de Aplicação. São José dos Campos – SP – INPE, 2001.SILVA, A.B. Sistemas de Informações Geo-referenciadas. Editora da Unicamp. Campinas. 1999.SILVA, A. B; Sistemas de informações Geo-referenciadas: conceitos e fundamentos. Campinas: Editora da Unicamp, 2003.SILVA, J.X. Geoprocessamento para Análise Ambiental. Rio de Janeiro. 2001.Bibliografia complementar:CARVALHO, M. S.; PINA, M. F.; SANTOS, S. M.  Conceitos Básicos de Sistemas de Informação Geográfica e Cartografia Aplicados à Saúde. Rede Interagencial de Informações para a Saúde. Brasília. Ministério da Saúde, 2000.DENT, B. D.  Cartography Thematic Map Design. 5th Edition. WCB/McGraw-Hill, 1999.MATOS, J. Fundamentos da Informação Geográfica. Lisboa, Lidel, 2008.MORAES NOVO, E. M. L. Sensoriamento Remoto – Princípios e Aplicações. 2ªEdição. São Paulo, 1992."
   docentes: ['9146830 - Danúbia Caporusso Bargos']
+  nomeascii: " Sistemas de Informacoes Geograficas"
 - LOB1215:
   sigla: "LOB1215"
   nome: " Recursos Energéticos"
@@ -1896,6 +1948,7 @@ www.inee.org.br
 www.cepel.br
 www.aneel.gov.br"
   docentes: ['8426375 - Wendell de Queiróz Lamas']
+  nomeascii: " Recursos Energeticos"
 - LOB1235:
   sigla: "LOB1235"
   nome: " Impactos e Adeqüação Ambiental"
@@ -1938,6 +1991,7 @@ IBAMA. Manual de impacto ambiental: agentes sociais, procedimentos e ferramentas
 ACSELRAD, H. (Org.), Conflitos ambientais no brasil, Fundação Henrich Boll, 2004
 MIHELCIC, J.R., ZIMMERMAN, J.B., Engenharia ambiental: fundamentos, sustentabilidade e projeto, Editora LTC, 2012"
   docentes: ['5464150 - Mariana Consiglio Kasemodel']
+  nomeascii: " Impactos e Adequacao Ambiental"
 - LOB1258:
   sigla: "LOB1258"
   nome: " Hidráulica Aplicada"
@@ -1973,6 +2027,7 @@ MIHELCIC, J.R., ZIMMERMAN, J.B., Engenharia ambiental: fundamentos, sustentabili
   exame: "1 (uma) prova de recuperação (R), sendo considerado aprovado se 0,5(NF + R) >= 5,0."
   bibliografia: "Hauer, B.F. Lamberti, G.A. – Methods in Stream Ecology, 896 p, Academic Press, ISBN 0123329078, 2006Alfredini, Paolo; Obras e Gestão de Portos e Costas - A Técnica Aliada ao Enfoque Logístico e Ambiental.Editora Edgard Blucher, São Paulo, 2005.ALFREDINI, P. - “Obras e Gestão de Portos e Costas - A Técnica Aliada ao Enfoque Logístico e Ambiental”. Editora Edgard Blucher, São Paulo, 2005.LENCASTRE, A. – “Hidráulica Geral”. Edição do Autor, Lisboa, 1996.OPEN UNIVERSITY COURSE TEAM – “Waves, tides and shallow water processes”. 1998ASSOCIAÇÃO BRASILEIRA DE ENGENHARIA SANITÁRIA E AMBIENTAL, Rio de Janeiro, 1999. (Coordenação: Luiz Di Bernardo). ASSOCIAÇÃO BRASILEIRA DE ENGENHARIA SANITÁRIA E AMBIENTAL, Rio de Janeiro, 200 (Coordenação: Marco A.P. Reali)."
   docentes: ['4780627 - Ana Lucia Gabas Ferreira', '7455355 - Robson da Silva Rocha']
+  nomeascii: " Hidraulica Aplicada"
 - LOB1055:
   sigla: "LOB1055"
   nome: " Fundamentos de Engenharia de Segurança no Trabalho"
@@ -2024,6 +2079,7 @@ Sax, N. I. ; Lewis, R. J. ; Dangerous properties of industrial materials. Van No
 Mattos, A. de O. (orgs.)- Higiene e segurança do trabalho. Elsevier Ed.  R.J.:2011. 408p. 
 Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 3040P."
   docentes: ['8767640 - Eduardo Ferro dos Santos']
+  nomeascii: " Fundamentos de Engenharia de Seguranca no Trabalho"
 - LOB1217:
   sigla: "LOB1217"
   nome: " Operações Unitárias e Processos"
@@ -2055,6 +2111,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   exame: "Prova única com todo o conteúdo da disciplina, sendo que a nota [(nota final do semestre + nota de recuperação)/2] deverá ser igual ou superior a 5,0 (cinco)."
   bibliografia: "Bibliografia básica:DI BERNARDO, L., Métodos e Técnicas de Tratamento de Água, ABES, Rio de Janeiro, Brasil, 1992.FOUST, A.S., WENZEL, L. A., CLUMP, C.W., MAUS, L., ANDERSEN, L.B. Princípio das operações unitárias. Rio de Janeiro: Editora Guanabara Dois, 1982.GEANKOPLIS, C.J. Procesos de transporte y operaciones unitarias. Compañía Editorial Continental, S.A. de C.V. México, D.F., 1998.PERRY, R.H. and CHILTON, C.H. Manual de Engenharia Química. 5a ed., Guanabara Dois, Rio de Janeiro, 1986.REYNOLDS, T.D.; RICHARDS, P. Unit Operations and Processes in environmental Engineering. PWS Publishing, 1995.MACINTYRE, A.J. Bombas e Instalações de Bombeamento. LTC, Rio de Janeiro, 1997"
   docentes: ['4780627 - Ana Lucia Gabas Ferreira']
+  nomeascii: " Operacoes Unitarias e Processos"
 - LOB1223:
   sigla: "LOB1223"
   nome: " Trabalho de Graduação I"
@@ -2094,6 +2151,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   exame: "Não há"
   bibliografia: "A ser definida no plano de trabalho."
   docentes: ['4780627 - Ana Lucia Gabas Ferreira']
+  nomeascii: " Trabalho de Graduacao I"
 - LOB1230:
   sigla: "LOB1230"
   nome: " Ecossistemas Aquáticos e Terrestres"
@@ -2125,6 +2183,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   exame: "Provas e/ou exercícios dirigidos."
   bibliografia: "Bibliografia básica:CALIJURI, M.C.; CUNHA, D.G.F. Engenharia Ambiental. Conceitos, Tecnologia e Gestão. Rio de Janeiro, Elsevier, 2013.CORSON, W.H. (1993) - Manual global de ecologia: o que você pode fazer a respeito da crise do meio ambiente. Augustus. São Paulo. 413p.KREBS, C.J. (1972) - Ecology: The experimental analysis of distribution and abundance. Harper & Row, New York. 694p.MARGALEF, R. (1977) - Ecologia. 2a. Ed.. Ediciones Omega S.A. Barcelona. 951p.MILLER, G.T.; SPOOLMAN, S.E. Ciência Ambiental. São Paulo, Cengage Learning, 2015.ODUM, E.P. (1983) - Ecologia. Editora Guanabara S.A. Rio de Janeiro. 434p.PETERS,R.H. (1991) - A critique for ecology. Cambridge University Press. 366p."
   docentes: ['5464150 - Mariana Consiglio Kasemodel']
+  nomeascii: " Ecossistemas Aquaticos e Terrestres"
 - LOB1232:
   sigla: "LOB1232"
   nome: " Licenciamento Ambiental"
@@ -2156,6 +2215,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   exame: "A nota final será composta pela média obtida da nota do período somada à nota de recuperação"
   bibliografia: "Bibliografia básica:SÁNCHEZ, L.E., Avaliação de impacto ambiental: conceitos e métodos, Ed. Oficina de textos, 3° reimpressão, 2011.OLIVEIRA, A.I.A., O licenciamento ambiental, Iglu Editora, 1999.BECHARA, E. Licenciamento e Compensação Ambiental – Ed. Atlas, 2009.CURI, D. (Org.), Gestão ambiental, Ed. Pearson, 2011.LIMA, A., Zoneamento Ecológico-Econômico – a luz dos direitos socioambientais, Juruá Editora, 2006.MOURA, L.A.A., Qualidade e Gestão ambiental – sustentabilidade e ISO 14.001, 6° ed., Ed. Del Rey, 2011. SEIFFERT, M.E.B., Gestão ambiental: instrumentos, esferas de ação e educação ambiental, Editora Atlas, 2007.Bibliografia complementar:BRAGA B. (Org.), Introdução à engenharia ambiental: o desafio do desenvolvimento sustentável, 2° ed., Ed. Pearson Prentice Hall, 2005CALIJURI, M.C., CUNHA, D.G.F. (Org.), Engenharia ambiental: conceitos, tecnologia e gestão, Ed. Campus, 2013KRAWULSKI, C.C., FEIJÓ, C.C.C., Introdução à gestão ambiental, Ed. Pearson, 2009CETESB  Manuais de licenciamento ambiental"
   docentes: ['5817650 - Érica Leonor Romão']
+  nomeascii: " Licenciamento Ambiental"
 - LOB1233:
   sigla: "LOB1233"
   nome: " Caracterização de Bacias Hidrográficas"
@@ -2187,6 +2247,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   exame: "Provas e/ou exercícios dirigidos."
   bibliografia: "Bibliografia básica:BARTH, F.T. et al. “Modelos para Gerenciamento de Recursos Hídricos”, Nobel/ABRH, 1987.BROOKS, K.N., FFOLLIOTT, P.F., GREGERSEN, H.M., DEBANO, L.F. “Hydrology and the Management of Watersheds”, Iowa State University Press, 2003.CALIJURI, M.C.; CUNHA, D.G.F. Engenharia Ambiental. Conceitos, Tecnologia e Gestão. Rio de Janeiro, Elsevier, 2013.COLLISCHONN, W. E DORNELLES, F. “Hidrologia para Engenharia e Ciências Ambientais”, 1. ed. Porto Alegre: ABRH, 2013. LINSLEY, R.K. E FRANZINI, J.B. “Engenharia de Recursos Hídricos”,.EDUSP, 1978.MENDIONDO, E.M. Novas técnicas de percepção ambiental na bacia hidrográfica para o ensino das engenharias, In: KURI, N. P.; SILVA, A. N. R. (org.). O ensino no campus USP de São Carlos: inovações e inovadores. São Carlos: CETEPE, 2006.POLETO, C. Bacias hidrográficas e recursos hídricos. Rio de Janeiro: Interciência, 2014.PORTO, R.L.L. “Hidrologia Ambiental”, EDUSP/ABRH, 1991.PORTO, R.L. et al. “Técnicas Quantitativas para o Gerenciamento de Recursos Hídricos”, UFRGS/ABRH, 1998.RIGHETTO, A.R. “Hidrologia e Recursos Hídricos”, São Carlos, EESC-USP/ABRH, 1998.Tucci, C.E.M. “Hidrologia: Ciência e Aplicação”, UFRGS/ABRH/EPUSP, 1993.SILVA, L.P. Hidrologia. Engenharia e Meio Ambiente. Rio de Janeiro, Elsevier, 2015.Bibliografia complementar:BAIRD, A.J., WILBY, R.L. “Eco-Hydrology: Plants and water in terrestrial and aquatic environmentS”, ROUTLEDGE, 2007.Brutsaert, W. “Hydrology: An Introduction”, Cambridge University Press, 618 p, ISBN 0521824796, 2005.PINTO, N.L.S. et al. “Hidrologia Básica”, Edgard Blucher, 1976.TUCCI, C.E.M., PORTO, R.L.L. E BARROS, M.T. “Drenagem Urbana”, Porto Alegre, UFRGS/ABRH, 1995."
   docentes: ['9146830 - Danúbia Caporusso Bargos']
+  nomeascii: " Caracterizacao de Bacias Hidrograficas"
 - LOB1240:
   sigla: "LOB1240"
   nome: " Condicionantes Geológico-geotécnicos em Estudos Ambientais"
@@ -2222,6 +2283,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   exame: "A nota final (MF) do aluno que realizou prova de recuperação dependerá da média do semestre (MS) e da média da prova de recuperação (MR), como segue:MF=5 se 5 ≤MR ≤ (10 - MS); MF = (MS + MR) / 2 se MR > (10 – MS)MF = MS se MR < 5."
   bibliografia: "•BARROW, C. J. Land degradation, 1991. •BITAR, O. Curso de geologia aplicada ao meio ambiente. ABGE, 1995. •BOSCOV, M. E. Geotecnia ambiental. Oficina de Textos, 2008. •CALIJURI, M. C.; CUNHA, D. G. F. Engenharia ambiental: Conceitos, tecnologia e gestão. Elsevier, 2012.•GUERRA, A. J. T.; CUNHA, S. B. Geomorfologia e meio ambiente, 1996.•OLIVEIRA, A. M. S.; BRITO, S. N. A. Geologia de engenharia. ABGE, 1998. •PRESS, F.; SIEVER, R.; GROTZINGER, J.; JORDAN, T. H. Para entender a Terra, 2008. •SHARMA, H. D.; REDDY, K. R. Geoenvironmental engineering, 2004. •ZUQUETTE, L. V. Geotecnia ambiental. Elsevier, 2015.•YONG, R. N. Geoenvironmental engineering. contaminated soils, Pollutant fate and migration. 2001."
   docentes: ['5464150 - Mariana Consiglio Kasemodel']
+  nomeascii: " Condicionantes Geologico-geotecnicos em Estudos Ambientais"
 - LOB1257:
   sigla: "LOB1257"
   nome: " Sistema de Abastecimento e Tratamento de Água"
@@ -2261,6 +2323,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   exame: "1 (uma) prova de recuperação (R), sendo considerado aprovado se 0,5(NF + R) >= 5,0."
   bibliografia: "PROGRAMA DE PESQUISA EM SANEAMENTO BÁSICO. Tratamento de Água deAbastecimento por Filtração em Múltiplas Etapas. ASSOCIAÇÃO BRASILEIRA DEENGENHARIA SANITÁRIA E AMBIENTAL, Rio de Janeiro, 1999. (Coordenação: Luiz DiBernardo). PROGRAMA DE PESQUISA EM SANEAMENTO BÁSICO. Noções Gerais de Tratamento eDisposição Final de Lodos e Estações de Tratamento de Água. ASSOCIAÇÃOBRASILEIRA DE ENGENHARIA SANITÁRIA E AMBIENTAL, Rio de Janeiro, 200(Coordenação: Marco A.P. Reali)."
   docentes: ['7455355 - Robson da Silva Rocha']
+  nomeascii: " Sistema de Abastecimento e Tratamento de Agua"
 - LOB1008:
   sigla: "LOB1008"
   nome: " Ciência, Tecnologia e Sociedade"
@@ -2321,6 +2384,7 @@ _____________  Eu,Tu,Nós  Ética e Cidadania para jovens. Cachoeira Paulista, S
 Artigos de revistas especializadas e de jornais; 
 Estudos, artigos, notícias e pesquisas via internet."
   docentes: ['948230 - Francisco Sodero Toledo']
+  nomeascii: " Ciencia, Tecnologia e Sociedade"
 - LOB1209:
   sigla: "LOB1209"
   nome: " Gestão de Resíduos Sólidos"
@@ -2356,6 +2420,7 @@ Estudos, artigos, notícias e pesquisas via internet."
   exame: "A Nota Final será composta pela Média obtida da Nota do Período somada à Nota de Recuperação e dividido por dois"
   bibliografia: "Bibliografia básica:BARROS, R.M., Tratado sobre resíduos sólidos: gestão, uso e sustentabilidade, Editora Interciência, 2013.DA SILVA-FILHO, C.R.V., SOLER, F.D., Gestão de resíduos sólidos: o que diz a lei, 2° ed., Editora Trevisan, 2013.RIBEIRO, D.V., MORELLI, M.R., Resíduos sólidos: problemas ou oportunidades?, Editora Interciência, 2009.Bibliografia complementar:BRAGA B. (Org.), Introdução à engenharia ambiental: o desafio do desenvolvimento sustentável, 2° ed., Ed. Pearson Prentice Hall, 2005.CALIJURI, M.C., CUNHA, D.G.F. (Org.), Engenharia ambiental: conceitos, tecnologia e gestão, Ed. Campus, 2013.CARVALHO, T.C.M.B., XAVIER, L.H. (Org.), Gestão de resíduos eletroeletrônicos: uma abordagem prática para a sustentabilidade, Edidora Elsivier Ltda, 2014.JACOBI, P. (Org.), Gestão compartilhada dos resíduos sólidos no Brasil: inovação com inclusão social, Annablume, 2006PEREIRA-NETO, J.T., Gerenciamento do lixo urbano: aspectos técnicos e operacionais, Editora UFV, 2013.SÁNCHEZ, L.E., Avaliação de impacto ambiental: conceitos e métodos, Ed. Oficina de textos, 3° reimpressão, 2011ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT) – NORMAS ABNT RESÍDUOS SÓLIDOS: COLETÂNEA DE NORMAS: NBR 10.004, NBR 10.005, NBR 10.006, NBR 10.007ASSOCIAÇÃO BRSILEIRA DE NORMAS TÉCNICAS (ABNT) – NORMAS TÉCNICAS APRESENTAÇÃO DE PROJETOS DE ATERROS CONTROLADOS DE RESÍDUOS SÓLIDOS URBANOS: NBR 8849"
   docentes: ['7926291 - Célia Regina Tomachuk dos Santos Catuogno']
+  nomeascii: " Gestao de Residuos Solidos"
 - LOB1225:
   sigla: "LOB1225"
   nome: " Tratamento de Águas Residuárias"
@@ -2389,6 +2454,7 @@ Santos, M. (1989). Manual de Geografia Urbana. HUCITEC. 2a. edição.
 Tucci, C.E.M., Porto, R.L. e Barros, M.T. (1995). Drenagem Urbana. Editora da Universidade e ABRH.
 Sitte, C. (1992). A construção das cidades segundo seus princípios artísticos. Editora Ática."
   docentes: ['7455355 - Robson da Silva Rocha']
+  nomeascii: " Tratamento de Aguas Residuarias"
 - LOB1226:
   sigla: "LOB1226"
   nome: " Recuperação de Áreas Degradadas"
@@ -2424,6 +2490,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "Provas e/ou exercícios dirigidos."
   bibliografia: "Bibliografia básica:Barrow, C.J. Land Degradation Cambridge University Press, 1991.Berger, A.R. The geoindicator concept and its application: An introduction. In: Berger, A.R. & Iams, W.J. (EDTS) Assessing Rapid Environmental Geoindicators: Changers in Earth Systems. pp.: 1-14 Balkema, Rotterdam, 1996.Blaikie, P. & Brookfield, H. Land degradation and society. London Methuen, 1987Brunsden, D. and Moore, R. Engineering geomorphology on the coast: lessons from West Dorset. Geomorphology 31: 391-409, 1999.CALIJURI, M.C.; CUNHA, D.G.F. Engenharia Ambiental. Conceitos, Tecnologia e Gestão. Rio de Janeiro, Elsevier, 2013.Dahlberg, A.C. Interpretations of environmetal change and diversity: A critical approach to indications of degradation - The case of Kalakamate, Northeast Botswana. Land degradation & Development, 11: 549-562, 2000.DIAS, L.E; GRIFFTITH,J.J. Conceituação e Caracterização de Áreas Degradadas. In: DIAS, L.E; MELLO, J.W.V (orgs). Recuperação de Áreas Degradadas. Universidade Federal de Viçosa. Sociedade Brasileira de Recuperação de Áreas Degradadas, 1998.Duque, M.J.F., Pedroza, J., Ciez, A., Sanz, M.A. & Carrasco, R.M.. A geomorphical design for the rehabilitation of an abandoned sand quarry in central Spain. Landscape and urban planning, 42: 1-14, 1998.GUERRA, A. J. T.; ARAUJO, G., ALMEIDA, J. R. Gestão Ambiental De Áreas Degradadas. Rio de Janeiro : Bertrand Brasil, 2007.Marchetti, M. & Panizza, M. Geomorphology and Environmental Impact Assesssment: A case study in Moema (Dolomites - Italy). In: Marchetti, M & Pinas, V. (EDS). Geomorphology and Environemental Impact Assessements pp: 71-82, Balkema, 2001.MARTINS, S.V. Recuperação de Áreas Degradadas. Universidade Federal de Viçosa. Viçosa, 2013.Neimanis, U. & kerr, A. Developing national environmental indicators. In: Berger, A.R. & Iams, W.J. (EDTS) Assessing rapid environmental geoindicators: changes in earth systems. 1996.SANCHEZ, L.E. Desengenharia: o passive ambiental na desativaçao de empreendimentos industriais. São Paulo, EDUSP, 2001.SANCHEZ, L.E. Avaliação de Impacto Ambiental. São Paulo, Oficina de Textos, 2006.Bibliografia complementar:Berger, A.R. Assessing Rapid Environmetal Change Using Geoindicators. Environmetal Geology, 32, n. 1, 36-44, 1997.Fao. A provisional methodology for soil degradation assessment. FAO. Rome, 1979,Lindskog, P. and Tengberg, A. Land degradation, Natural resources and local knowledge in the Sahel zone of Burkina Faso. Geojournal, 33, 365-375, 1994.Morton, R. A. Geoindicators of coastal wet land and shorelines. In: berger, A.R. & Iams, W.J. (EDTS) Assessing Rapid Environmental Geoindicators: Changes inEarth Systems. pp: 207-232, 1996.Murthy, R.C. Rao, Y. R. and Inamdar, A.B. Integrated coastal management of Mumbai Metropolitan Region. Ocean & Coastal Management 44: 355-369, 2001."
   docentes: ['5840942 - Marco Aurélio Kondracki de Alcântara']
+  nomeascii: " Recuperacao de Areas Degradadas"
 - LOB1228:
   sigla: "LOB1228"
   nome: " Gestão Ambiental na Empresa"
@@ -2451,6 +2518,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "A nota final será composta pela média obtida da nota do período somada à nota de recuperação"
   bibliografia: "Bibliografia básica:1.SOUZA, M. P.; Instrumentos de gestão ambiental: fundamentos e prática. Ed. Riani Costa, 2000;2.BARBIERI, J. ; Gestão ambiental empresarial: Conceitos, modelos e instrumentos. Ed. Saraiva, 2016.3.RENOMESI, V.; ISO 14001 guia prático de certificação e manutenção do sistema de gestão ambiental. Ed. Tocalino, 2000;4.MOURA, L. A. A; Qualidade e Gestão Ambiental – Sustentabilidade e ISO 14001, 6° edição, Ed. Del Rey, 2011;5.CALIJURI, M. C.; CUNHA, D. G. F. (Org), Engenharia ambiental: conceitos, tecnologia e gestão. Ed. Capus, 2013;Bibliografia complementar:1.DONAIRE, D.; Gestão ambiental na empresa, 2° edição, Ed. Atlas, 2012;2.DIAS, R.; Gestão ambiental responsabilidade social e sustentabilidade, 2° edição, Ed. Atlas, 2011;"
   docentes: ['5817650 - Érica Leonor Romão']
+  nomeascii: " Gestao Ambiental na Empresa"
 - LOB1229:
   sigla: "LOB1229"
   nome: " Trabalho de Graduação II"
@@ -2482,6 +2550,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "Não há."
   bibliografia: "Definida na monografia do TG."
   docentes: ['4780627 - Ana Lucia Gabas Ferreira']
+  nomeascii: " Trabalho de Graduacao II"
 - LOB1218:
   sigla: "LOB1218"
   nome: " Recursos Hídricos"
@@ -2509,6 +2578,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "1 (uma) prova de recuperação (R), sendo considerado aprovado se 0,5(NF + R) >= 5,0."
   bibliografia: "REBOUÇAS, A. C. et alli, Águas Doces do Brasil  Capital Ecológico, Usos e Conservação, 2a. ed. Escrituras Editora, São Paulo, 2002.GARCEZ, L. N. e ALVAREZ, G. A.  Hidrologia, Editora Edgard Blücher, ISBN 8521201699, 304 pgs, 2004.TUCCI, C.E.M. (organizador) - Hidrologia, Ciência e Aplicação, Coleção ABRH de Recursos Hídricos, vol. 4, EDUSP/ABRH, 1993: 943 p.VILLELA, S.M. & MATTOS, A. - Hidrologia Aplicada, McGraw-Hill do Brasil, 1975: 245 p.LINSLEY, R.K.; FRANZINI, J.B. - Engenharia de Recursos Hídricos, McGraw-Hill do Brasil, EDUSP, 1978: 793 p.DAKER, A. Hidráulica aplicada à agricultura. Livraria Freitas Bastos S.A., 1983, v.1.MOTA, S. (1995). Preservação e Conservação de Recursos Hídricos. ABES. sq. edição.FEITOSA, F. A. C. e MANOEL FILHO, J. - Hidrogeologia - Conceitos e Aplicações, CPRM, Fortaleza, 391 p., 2000.SCHREIBER, G,.P. - Usinas Hidrelétricas - Editora Edgard Blucher, São Paulo."
   docentes: ['7455355 - Robson da Silva Rocha']
+  nomeascii: " Recursos Hidricos"
 - LOB1231:
   sigla: "LOB1231"
   nome: " Modelagem Matemática Aplicada"
@@ -2544,6 +2614,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "Prova única com nota igual ou superior a 5,0."
   bibliografia: "Pinto, José Carlos e Lage, Paulo Laranjeira C. Métodos Numéricos em Problemas de Engenharia Química. Rio de Janeiro, E-papers Serviços Editorias, 2001.Weber Jr., W. J. e DiGianno, F.A Process Dynamics in Environmental Systems.New York, J. Wiley & Sons. 1996.Garcia, Claudio. Modelagem e Simulação de Processos Industriais e de Sistemas Eletromecânicos. São Paulo, Edusp. 1997.Dochain, Denis e Vanrolleghem, Peter. A. Dynamical Modelling and Estimation in Wastewater Treatment Processes. London, IWA Publishing, 2001"
   docentes: ['229266 - Adriano Francisco Siqueira']
+  nomeascii: " Modelagem Matematica Aplicada"
 - LOB1224:
   sigla: "LOB1224"
   nome: " Planejamento Ambiental e Urbanismo"
@@ -2575,6 +2646,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "Provas e/ou exercícios dirigidos."
   bibliografia: "Bibliografia básica:AGRA FILHO, S,S. Planejamento e Gestão Ambiental no Brasil. Os Instrumentos da Política Nacional do Meio Ambiente, Rio de Janeiro, Elsevier, 2014FRANCO, M.A.R., Planejamento ambiental para a cidade sustentável, Ed. Annablume, 2000DEAK, C., SHIFFER, S.T.R., O processo de urbanização no Brasil, EDUSP, 1999IBGE, Instituto Brasileiro de Geografia e Estatística. Indicadores de Desenvolvimento Sustentável. Rio de Janeiro, IBGE, 2012.MOTA, S., Urbanização e meio ambiente, ABES Associação Brasileira de Engenharia Sanitária, 1999MENEZES, C.L., Desenvolvimento urbano e meio ambiente, Papirus, 1996PHILLIPI, Jr.A; MALHEIROS, T.F. Indicadores de Sustentabilidade e Gestão Ambiental. Editora Manole, 2012.SANTOS, M. A Urbanização Brasileira. 3 ed. São Paulo: HUCITEC, 1993. 155pSANTOS, R.F., Planejamento ambiental: teoria e prática, Editora Oficina de textos, 2004SECCHI, L. Análise de Políticas Públicas. Diagnóstico de Problemas, Recomendações de Soluções., São Paulo, Cengage Learning, 2016SOUZA, M.L. Mudar a Cidade: Uma introdução crítica ao planejamento e à gestão urbanos. Rio de Janeiro, Bertrand Brasil, 2003.VILLAÇA, F. Uma contribuição para a história do planejamento urbano no Brasil. In: DEAK, C; SCHIFFER, S.R (org) O processo de urbanização no Brasil. São Paulo, EDUSP, 1999.Bibliografia complementar:ALLEN, A., YOU, N., Sustainable urbanization – bridging the green and brown agendas, DPU, University College London, 2002ACSELRAD, H., Conflitos ambientais no Brasil, Fundação Henrich Boll, 2004BARDET, G., O urbanismo, Papirus, 1990BUARQUE, S.C., LIMA, R.R.A.; Manual de estratégia de desenvolvimento para aglomerações urbanas, Brasília, IPEA, 2005MENEGAT, R; ALMEIDA, G. Desenvolvimento Sustentável e Gestão Ambiental nas Cidades. Porto Alegre, Editora UFRGS, 2004."
   docentes: ['9146830 - Danúbia Caporusso Bargos']
+  nomeascii: " Planejamento Ambiental e Urbanismo"
 - LOB1236:
   sigla: "LOB1236"
   nome: " Ações Mitigadoras de Impactos Ambientais"
@@ -2614,6 +2686,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "Prova única com nota igual ou superior a 5,0."
   bibliografia: "Bibliografia básica:Calijuri, M. C., Cunha, D. G. F. (Org.), Engenharia ambiental: conceitos, tecnologia e gestão, Ed. Campus, 2013Sànchez, L. E., Avaliação de impacto ambiental: conceitos e métodos, Ed. Oficina de textos, 3° reimpressão, 2011Cavalcanti, J. E. W. A., Manual de tratamento de efluentes industriais, Engenho Editora Técnica, 2012Krawulski, C. C., Feijó, C. C. C., Introdução à gestão ambiental, Ed. Pearson, 2009.Maia. Manual de avaliação de impactos ambientais. Curitiba. IAP. GTZ. 1992.Castellano, E. G. & Chaudhry, F. H. Desenvolvimento sustentado: Problemas e estratégias. EESC. 2000.Mota, S. Preservação e conservação de recursos hídricos. ABES. 1995.Sewell, G. H. Administração e controle da qualidade ambiental. EPU. 1998.Bibliografia complementar:Braga B. (Org.), Introdução à engenharia ambiental: o desafio do desenvolvimento sustentável, 2° ed., Ed. Pearson Prentice Hall, 2005PROSAB – Programa de Pesquisa em Saneamento Básico, Tratamento e utilização de esgoto sanitário, ABES, 2006 Carson, R., Primavera silenciosa, Editora Gaia, 2010"
   docentes: ['5464150 - Mariana Consiglio Kasemodel']
+  nomeascii: " Acoes Mitigadoras de Impactos Ambientais"
 - LOB1237:
   sigla: "LOB1237"
   nome: " Estágio Supervisionado em Engenharia Ambiental"
@@ -2745,6 +2818,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "Devido às características da disciplina, não será oferecida recuperação."
   bibliografia: "Não há."
   docentes: ['4780627 - Ana Lucia Gabas Ferreira']
+  nomeascii: " Estagio Supervisionado em Engenharia Ambiental"
 - 8800009:
   sigla: "8800009"
   nome: " Canto Coral I"
@@ -2772,6 +2846,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "não tem"
   bibliografia: "BEHLAU, Mara; REHDER, Maria Inês. Higiene vocal para o Canto Coral. Rio de Janeiro: Revinter, 1997.COELHO, Helena Wöhl. Técnica vocal para coros. 7ª Edição. São Leopoldo: Sinodal, 1994.CORBIN, Lynn Ann. Vocal pedagogy in the choral rehearsal: The selected concepts on choral tone quality, understanding of the singing process, and attitudes toward choir participation. 1982. 119 f. Tese (Doutorado em Filosofia) - Graduate School of The Ohio State University, Ohio State University, 1982.COSTA, Paulo Rubens Moraes. Diagnose em Canto Coral: parâmetros para análise e ferramentas para a avaliação. 2005. Dissertação (Mestrado em Musicologia) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2005.DRAHAN, Snizhana. Ouvir a voz: a percepção da produção vocal pelo regente coral - método eformação. 2007. 146 f. Dissertação (Mestrado em Musicologia) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2007.FERNANDES, Angelo José. O regente moderno e a construção da sonoridade coral: uma metodologia de preparo vocal para coros. 2009. 475 f. Tese (Doutorado em Música) - Instituto de Artes, Universidade Federal de Campinas, Campinas, 2009.HERR, Martha. Considerações para a classificação da voz do coralista. In: FERREIRA, LésliePiccolotto et al. Voz profissional: o profissional da voz. Carapicuíba: Pró-fono DepartamentoEditorial, 1995. p. 51-56.MILLER, Richard. The structure of singing. Boston, Massachusetts: Schirmer, 1986.RAMOS, Marco Antonio da Silva. Canto Coral: do repertório temático à construção do programa. 1988. 492f. Dissertação (Mestrado em Artes) - Departamento de Biblioteconomia e Documentação, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 1988.______. Memorial. 2011. Memorial (Professor titular) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2011.______. O ensino da regência coral. 2003. 107f. Tese (Livre Docência) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2003.VIDEIRA JR., Mário Rodrigues. Educação musical através do coro: A experiência no Projeto Comunicantus da ECA - USP. 2001. 65 f. Trabalho de Conclusão de Curso (Licenciatura em Música) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2001"
   docentes: ['8452037 - Elisabeth Pinheiro da Silva Kondracki de Alcantara']
+  nomeascii: " Canto Coral I"
 - 8800010:
   sigla: "8800010"
   nome: " Canto Coral II"
@@ -2803,6 +2878,7 @@ Sitte, C. (1992). A construção das cidades segundo seus princípios artístico
   exame: "Não tem"
   bibliografia: "BEHLAU, Mara; REHDER, Maria Inês. Higiene vocal para o Canto Coral. Rio de Janeiro: Revinter, 1997.COELHO, Helena Wöhl. Técnica vocal para coros. 7ª Edição. São Leopoldo: Sinodal, 1994.CORBIN, Lynn Ann. Vocal pedagogy in the choral rehearsal: The selected concepts on choral tone quality, understanding of the singing process, and attitudes toward choir participation. 1982. 119 f. Tese (Doutorado em Filosofia) - Graduate School of The Ohio State University, Ohio State University, 1982.COSTA, Paulo Rubens Moraes. Diagnose em Canto Coral: parâmetros para análise e ferramentas para a avaliação. 2005. Dissertação (Mestrado em Musicologia) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2005.DRAHAN, Snizhana. Ouvir a voz: a percepção da produção vocal pelo regente coral - método eformação. 2007. 146 f. Dissertação (Mestrado em Musicologia) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2007.FERNANDES, Angelo José. O regente moderno e a construção da sonoridade coral: uma metodologia de preparo vocal para coros. 2009. 475 f. Tese (Doutorado em Música) - Instituto de Artes, Universidade Federal de Campinas, Campinas, 2009.HERR, Martha. Considerações para a classificação da voz do coralista. In: FERREIRA, LésliePiccolotto et al. Voz profissional: o profissional da voz. Carapicuíba: Pró-fono DepartamentoEditorial, 1995. p. 51-56.MILLER, Richard. The structure of singing. Boston, Massachusetts: Schirmer, 1986.RAMOS, Marco Antonio da Silva. Canto Coral: do repertório temático à construção do programa. 1988. 492f. Dissertação (Mestrado em Artes) - Departamento de Biblioteconomia e Documentação, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 1988.______. Memorial. 2011. Memorial (Professor titular) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2011.______. O ensino da regência coral. 2003. 107f. Tese (Livre Docência) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2003.VIDEIRA JR., Mário Rodrigues. Educação musical através do coro: A experiência no Projeto Comunicantus da ECA - USP. 2001. 65 f. Trabalho de Conclusão de Curso (Licenciatura em Música) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2001."
   docentes: ['8452037 - Elisabeth Pinheiro da Silva Kondracki de Alcantara']
+  nomeascii: " Canto Coral II"
 - LOB1252:
   sigla: "LOB1252"
   nome: " Tecnologia de Mitigação de CO2"
@@ -2836,6 +2912,7 @@ Nota do semestre (M) = 0,6P+0,4S. Sendo uma prova na final do semestre (P) e o s
 Burattini, M. P. T. C., Energia uma abordagem multidisciplinar. Edta LTF, 2009.
 5 - Meyer, L., Pachauri, R. K. Climate Change 2014  Synthesis Report. Intergovernmental Panel on Climate Change. Geneva, Switzerland, 151 pp., 2014."
   docentes: ['5840692 - Diovana Aparecida dos Santos Napoleão']
+  nomeascii: " Tecnologia de Mitigacao de CO2"
 - 8800011:
   sigla: "8800011"
   nome: " Canto Coral III"
@@ -2867,6 +2944,7 @@ Burattini, M. P. T. C., Energia uma abordagem multidisciplinar. Edta LTF, 2009.
   exame: "não tem"
   bibliografia: "BEHLAU, Mara; REHDER, Maria Inês. Higiene vocal para o Canto Coral. Rio de Janeiro: Revinter, 1997.COELHO, Helena Wöhl. Técnica vocal para coros. 7ª Edição. São Leopoldo: Sinodal, 1994.CORBIN, Lynn Ann. Vocal pedagogy in the choral rehearsal: The selected concepts on choral tone quality, understanding of the singing process, and attitudes toward choir participation. 1982. 119 f. Tese (Doutorado em Filosofia) - Graduate School of The Ohio State University, Ohio State University, 1982.COSTA, Paulo Rubens Moraes. Diagnose em Canto Coral: parâmetros para análise e ferramentas para a avaliação. 2005. Dissertação (Mestrado em Musicologia) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2005.DRAHAN, Snizhana. Ouvir a voz: a percepção da produção vocal pelo regente coral - método eformação. 2007. 146 f. Dissertação (Mestrado em Musicologia) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2007.FERNANDES, Angelo José. O regente moderno e a construção da sonoridade coral: uma metodologia de preparo vocal para coros. 2009. 475 f. Tese (Doutorado em Música) - Instituto de Artes, Universidade Federal de Campinas, Campinas, 2009.HERR, Martha. Considerações para a classificação da voz do coralista. In: FERREIRA, LésliePiccolotto et al. Voz profissional: o profissional da voz. Carapicuíba: Pró-fono DepartamentoEditorial, 1995. p. 51-56.MILLER, Richard. The structure of singing. Boston, Massachusetts: Schirmer, 1986.RAMOS, Marco Antonio da Silva. Canto Coral: do repertório temático à construção do programa. 1988. 492f. Dissertação (Mestrado em Artes) - Departamento de Biblioteconomia e Documentação, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 1988.______. Memorial. 2011. Memorial (Professor titular) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2011.______. O ensino da regência coral. 2003. 107f. Tese (Livre Docência) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2003.VIDEIRA JR., Mário Rodrigues. Educação musical através do coro: A experiência no Projeto Comunicantus da ECA - USP. 2001. 65 f. Trabalho de Conclusão de Curso (Licenciatura em Música) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2001."
   docentes: ['8452037 - Elisabeth Pinheiro da Silva Kondracki de Alcantara']
+  nomeascii: " Canto Coral III"
 - 8800012:
   sigla: "8800012"
   nome: " Canto Coral IV"
@@ -2898,6 +2976,7 @@ Burattini, M. P. T. C., Energia uma abordagem multidisciplinar. Edta LTF, 2009.
   exame: "Não tem"
   bibliografia: "BEHLAU, Mara; REHDER, Maria Inês. Higiene vocal para o Canto Coral. Rio de Janeiro: Revinter, 1997.COELHO, Helena Wöhl. Técnica vocal para coros. 7ª Edição. São Leopoldo: Sinodal, 1994.CORBIN, Lynn Ann. Vocal pedagogy in the choral rehearsal: The selected concepts on choral tone quality, understanding of the singing process, and attitudes toward choir participation. 1982. 119 f. Tese (Doutorado em Filosofia) - Graduate School of The Ohio State University, Ohio State University, 1982.COSTA, Paulo Rubens Moraes. Diagnose em Canto Coral: parâmetros para análise e ferramentas para a avaliação. 2005. Dissertação (Mestrado em Musicologia) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2005.DRAHAN, Snizhana. Ouvir a voz: a percepção da produção vocal pelo regente coral - método eformação. 2007. 146 f. Dissertação (Mestrado em Musicologia) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2007.FERNANDES, Angelo José. O regente moderno e a construção da sonoridade coral: uma metodologia de preparo vocal para coros. 2009. 475 f. Tese (Doutorado em Música) - Instituto de Artes, Universidade Federal de Campinas, Campinas, 2009.HERR, Martha. Considerações para a classificação da voz do coralista. In: FERREIRA, LésliePiccolotto et al. Voz profissional: o profissional da voz. Carapicuíba: Pró-fono DepartamentoEditorial, 1995. p. 51-56.MILLER, Richard. The structure of singing. Boston, Massachusetts: Schirmer, 1986.RAMOS, Marco Antonio da Silva. Canto Coral: do repertório temático à construção do programa. 1988. 492f. Dissertação (Mestrado em Artes) - Departamento de Biblioteconomia e Documentação, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 1988.______. Memorial. 2011. Memorial (Professor titular) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2011.______. O ensino da regência coral. 2003. 107f. Tese (Livre Docência) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2003.VIDEIRA JR., Mário Rodrigues. Educação musical através do coro: A experiência no Projeto Comunicantus da ECA - USP. 2001. 65 f. Trabalho de Conclusão de Curso (Licenciatura em Música) - Departamento de Música, Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, 2001."
   docentes: ['8452037 - Elisabeth Pinheiro da Silva Kondracki de Alcantara']
+  nomeascii: " Canto Coral IV"
 - LOB1251:
   sigla: "LOB1251"
   nome: " Introdução a Inovação Sistemática com TRIZ"
@@ -2963,6 +3042,7 @@ Mann, Darrell, The Space Between Generic and Specific Problem Solutions, The TRI
 Mann, Darrell, Hands-On Systematic Innovation, CREAX Press, 2002, ISBN 90-77071-02-4. Mistry, J., White, F., and Berardi, A., Skills at Masters' Level in Geography Higher Education: Teaching, Learning and Applying, Planet 16, The Higher Education Academy: GEES, July 2006. NIZO, R. Foco e criatividade: fazer mais com menos. São Paulo: Summus. 2009. 120 p. RICKARDS, T. Creativity and problem solving at work. Gower: Aldershot, 1997. Robinson, M., Problem Solving in Groups, 2nd Ed, Gower, United Kingdom, 1993. Senge, P., The Fifth Discipline: the Art and Practice of the Learning Organisation, Century Business, 1990.
 Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in Automobile Muffler Design, The TRIZ Journal, March 2004."
   docentes: ['5840820 - Gustavo Aristides Santana Martinez']
+  nomeascii: " Introducao a Inovacao Sistematica com TRIZ"
 - LOB1259:
   sigla: "LOB1259"
   nome: " Introdução a Ecotoxicologia Aquática"
@@ -2990,6 +3070,7 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   exame: "Nota final: NF ≥ 5,0"
   bibliografia: "Zagatto, P. A.; Bertoletti, E. Ecotoxicologia aquática– princípios e aplicações. RiMa, 2008.Azevedo, F.A.; Chasin, A.M. As bases toxicológicas da ecotoxicologia. RiMa, 2003.MOZETO, A. A.; UMBUZEIRO, G. A.; JARDIM, W. F. Métodos de coleta, análises físico-químicas e ensaios biológicos e ecotoxicológicos de sedimentos de água doce. São Carlos – SP. Cubo Multimídia & Propaganda, 2006."
   docentes: ['1720367 - Teresa Cristina Brazil de Paiva']
+  nomeascii: " Introducao a Ecotoxicologia Aquatica"
 - LOB1260:
   sigla: "LOB1260"
   nome: " Tópicos Especiais em Engenharia Ambiental I"
@@ -3017,6 +3098,7 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   exame: "A recuperação será composta por uma única prova (RC) englobando toda a matéria ministrada ao longo do semestre. A média final, para os alunos em recuperação, será calculada com base na relação: MF=(M+RC)/2"
   bibliografia: "Livros, artigos ou texto fornecido pelo docente responsável extraídos de livros ou revistas especializadas na área de Meio Ambiente."
   docentes: ['5817650 - Érica Leonor Romão']
+  nomeascii: " Topicos Especiais em Engenharia Ambiental I"
 - LOB1203:
   sigla: "LOB1203"
   nome: " Filosofia da Ciência e da Tecnologia"
@@ -3044,6 +3126,7 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   exame: "RECUPERAÇÃO: 1 (uma) prova."
   bibliografia: "VARGAS, Milton. Metodologia da pesquisa tecnológica,Rio de Janeiro, Globo, 1985. SIMARD, Emile. Naturaleza y alcance del método científico, Madrim, Gredos, 1961. ROUSSEAU, Pierre. História da Ciência, Lisboa, 1963. VARGAS, Milton. Para uma filosofia da tecnologia, Ed.Alfa-Omega, São Paulo, 1994."
   docentes: ['948230 - Francisco Sodero Toledo']
+  nomeascii: " Filosofia da Ciencia e da Tecnologia"
 - LOB1261:
   sigla: "LOB1261"
   nome: " Tópicos Especiais em Engenharia Ambiental II"
@@ -3071,6 +3154,7 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   exame: "A recuperação será composta por uma única prova (RC) englobando toda a matéria ministrada ao longo do semestre. A média final, para os alunos em recuperação, será calculada com base na relação: MF=(M+RC)/2"
   bibliografia: "Livros, artigos ou texto fornecido pelo docente responsável extraídos de livros ou revistas especializadas na área de Meio Ambiente."
   docentes: ['5817650 - Érica Leonor Romão']
+  nomeascii: " Topicos Especiais em Engenharia Ambiental II"
 - LOB1262:
   sigla: "LOB1262"
   nome: " Educação Ambiental"
@@ -3098,6 +3182,7 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   exame: "Provas e/ou exercícios dirigidos"
   bibliografia: "CARVALHO, I. C. M.; Educação Ambiental e formação do sujeito ecológico. São Paulo: Cortez, 2006.CINQUETTI, H. C. S.; LOGAREZZI, A. (Org.). Consumo e Resíduo - Fundamentos para o trabalho educativo. 1 ed. São Carlos: EdUFSCar, 2006, v. 1.DIAS, G. F. Dinâmica e instrumentação para educação ambiental. 1. ed. São Paulo: Gaia, 2010. v. 1. 216p.DIAS, G. F. Educação e Gestão Ambiental. 1. ed. São Paulo: Editora Gaia Ltda, 2006. v. 1. 118p.DIAS, G. F. Educação Ambiental: princípios e práticas. 6a ed. São Paulo: Gaia, 2000.GUIMARÃES, M. (org.) Caminhos da educação ambiental: da forma à ação. Campinas, SP: Papirus, 2006.JACOBI, Pedro Roberto, MONTEIRO,F. M ; FERNANDES, M. L. B. . Educação e Sustentabilidade- caminhos e práticas para uma educação transformadora. São Paulo: Evoluir Cultural, 2009. v. 01. 108p.JACOBI, Pedro Roberto OLIVEIRA, F. C. J. F. (Org.). Educação, Meio Ambiente e Cidadania - reflexões e experiências. São Paulo: SMA/CEAM, 1998. 121p LOUREIRO, C. F. B. Trajetória e fundamentos da educação ambiental. 4. ed. São Paulo: Cortez editora, 2012. 165pPHILIPPI JR., A & PELICIONI, M. C. F. (Eds). 2005. Educação ambiental e sustentabilidade. Barueri SP: Manole. 878p. (Coleção Ambiental, 3)."
   docentes: ['9146830 - Danúbia Caporusso Bargos', '5817650 - Érica Leonor Romão']
+  nomeascii: " Educacao Ambiental"
 - LOB1263:
   sigla: "LOB1263"
   nome: " Introdução a Eco-Inovação Tecnológica"
@@ -3125,6 +3210,7 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   exame: "NF= (N1 + N2)/2Onde: NF = nota final; N = nota"
   bibliografia: "Estará apto a efetuar a prova de reavaliação o aluno que tiver como média final na disciplina uma nota igual ou superior a três (3,0) e inferior a cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de frequência às aulas. O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota igual ou superior a cinco (5,0), o aluno será aprovado."
   docentes: []
+  nomeascii: " Introducao a Eco-Inovacao Tecnologica"
 - LOB1238:
   sigla: "LOB1238"
   nome: " Adeqüação Ambiental em Áreas Urbanas"
@@ -3155,6 +3241,7 @@ Donaire, D.. Gestão ambiental na empresa. Atlas. 2a. edição. 1999.
 Winter, G.. Gestão e ambiente. Modelo prático de integração empresarial. Texto Editora, Lisboa. 1992.
 Tucci, C.E., Porto, R.M., L.L. e Barros, M.T. org.. Drenagem Urbana. Ed. da Universidade e ABRH. 1995."
   docentes: ['5840942 - Marco Aurélio Kondracki de Alcântara']
+  nomeascii: " Adequacao Ambiental em Areas Urbanas"
 - LOB1239:
   sigla: "LOB1239"
   nome: " Concepção e Projeto de Sistemas de Tratamento de Água"
@@ -3188,6 +3275,7 @@ MP: média das provas; ME: média de trabalhos
 DI BERNARDO, L. Algas e suas Influências na Qualidade da Água e nas Tecnologias de Tratamento ASSOCIAÇÃO BRASILEIRA DE ENGENHARIA SANITÁRIA E AMBIENTAL & LUIZ DI BERNARDO, Rio de Janeiro, 1995.
 PROGRAMA DE PESQUISA EM SANEAMENTO BÁSICO Tratamento de Água de Abastecimento por Filtração em Múltiplas Etapas ASSOCIAÇÃO BRASILEIRA DE ENGENHARIA SANITÁRIA E AMBIENTAL, Rio de Janeiro, 1999 (PROGRAMA DE PESQUISA EM SANEAMENTO BÁSICO. Noções Gerais de Tratamento e Disposição Final de Lodos de Estações de Tratamento de Água ASOCIAÇÃO BRASILEIRA DE ENGENHARIA SANITÁRIA E AMBIENTAL, Rio de Janeiro, 2000."
   docentes: ['7455355 - Robson da Silva Rocha']
+  nomeascii: " Concepcao e Projeto de Sistemas de Tratamento de Agua"
 - LOB1241:
   sigla: "LOB1241"
   nome: " Estudo de Casos em Impacto Ambiental"
@@ -3215,6 +3303,7 @@ PROGRAMA DE PESQUISA EM SANEAMENTO BÁSICO Tratamento de Água de Abastecimento 
   exame: "Prova única com nota igual ou superior a 5,0."
   bibliografia: "Estudos de caso: EPIA de origem."
   docentes: ['5840938 - Marcelo Rodrigues de Holanda']
+  nomeascii: " Estudo de Casos em Impacto Ambiental"
 - LOB1243:
   sigla: "LOB1243"
   nome: " Métodos de Investigação Geológico-geotécnica em Estudos Ambientais"
@@ -3247,6 +3336,7 @@ KELLY, W.E. e MARES S. - Applied Geophyses in Hydrogeological and Engineering Pr
 LUIZ, J.G. - 1995 - Geofísica de Prospecção. Editora Universitária UFPA, Belém, 1995. 
 VOGELSAND, D. - 1995 - Environmental Geophysics. Springer - Verlag, Berlin, 171p."
   docentes: ['7926291 - Célia Regina Tomachuk dos Santos Catuogno']
+  nomeascii: " Metodos de Investigacao Geologico-geotecnica em Estudos Ambientais"
 - LOB1245:
   sigla: "LOB1245"
   nome: " Projeto de Sistemas de Tratamento de Águas Residuárias"
@@ -3277,6 +3367,7 @@ KELLNER, E.; PIRES, E.C. (1996). Lagoas de Estabilização; projeto e Operação
 VAN HAANDEL, A.; MARAIS, G. (1999). O Comportamento do Sistema de Lodo Ativado: Teoria e Operações para Projeto e Operação. Universidade Federal da Paraíba - epgraf - Campina Grande, Pb, 477p. 
 Catálogos de fornecedores de materiais e de equipamentos utilizados em sistemas de tratamento de águas residuárias."
   docentes: ['7455355 - Robson da Silva Rocha']
+  nomeascii: " Projeto de Sistemas de Tratamento de Aguas Residuarias"
 - LOB1242:
   sigla: "LOB1242"
   nome: " Geossintéticos em Obras de Proteção e Recuperação Ambiental"
@@ -3309,6 +3400,7 @@ Manual Brasileiro de Geossintéticos, ABINT, 2004;
 INGOLD, T.S. (1994) The Geotêxtiles and Geomembranes. Manual, Elsevier, London, 610p.;
 VAN ZATEN, R.V. (1986) Geotextiles and Geomembranes in Civil Engineering. A.A. Balkema, Rotherdam, netherlands, 654p."
   docentes: ['7926291 - Célia Regina Tomachuk dos Santos Catuogno']
+  nomeascii: " Geossinteticos em Obras de Protecao e Recuperacao Ambiental"
 - LOB1244:
   sigla: "LOB1244"
   nome: " Monitoramento Ambiental"
@@ -3341,6 +3433,7 @@ Sewell, G.H. Administração e controle de qualidade ambiental. EPU. 1998.
 Macknight, A. Handbook of techniques for aquatic sediments sampling. McGraw Hill 1999. 
 Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
   docentes: ['5840938 - Marcelo Rodrigues de Holanda']
+  nomeascii: " Monitoramento Ambiental"
 - LOB1246:
   sigla: "LOB1246"
   nome: " Tratamento Avançado e Reuso de Águas"
@@ -3372,3 +3465,4 @@ CAMPOS, J.R. (1994). Pré-tratamento de Águas para Abastecimento. ASSEMAE - Con
 DANIEL, L.A.; CAMPOS, J.R. (1993). Radiação Ultravioleta é Alternativa Viável para Desinfecção de Efluentes de Sistemas de Tratamento Aeróbio e Anaeróbio no Brasil, BIO, n. 5, set/out, p. 1-17.
 LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 76p. (apostila)."
   docentes: ['7455355 - Robson da Silva Rocha']
+  nomeascii: " Tratamento Avancado e Reuso de Aguas"

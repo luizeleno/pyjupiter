@@ -29,7 +29,7 @@ O projeto [PyJupiter](https://github.com/luizeleno/pyjupiter){: target='_blank'}
     - Salvar como `pdf`
     - Salvar como `docx`
     - Salvar um arquivo `xlsx` (planilha eletrônica).
-- Use o campo de busca para pesquisar por disciplinas específicas, independentemente do curso. *Obs.:* o mecanismo de busca diferencia entre caracteres com e sem acentos!
+- Você pode também usar o campo de busca para pesquisar por disciplinas específicas, independentemente do curso.
   
 :bulb: O arquivo `xlsx` é especial: ele foi criado pensando na reformulação de ementas. O arquivo tem basicamente duas colunas. Na primeira estão os dados atuais. Na segunda, os dados estão repetidos em vermelho. Os dados desta coluna podem ser editados para reformular a ementa e então enviados ao coordenador do curso.
 </div>
