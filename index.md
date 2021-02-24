@@ -3,7 +3,7 @@ layout: page
 title: Projeto PyJupiter
 ---
 
-**PyJupiter:** simplificando o Júpiter da USP usando raspagem de páginas (_webscraping_) 
+**PyJupiter:** simplificando o Júpiter da USP usando raspagem de páginas (_webscraping_)
 {: .lead}
 
 <div class="text-center">

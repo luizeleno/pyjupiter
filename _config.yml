@@ -47,6 +47,9 @@ destination: docs/ #docs/
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - Rakefile
+  - README.md
+  - LICENSE
   #- .sass-cache/
   - .jekyll-cache/
 #   - gemfiles/
@@ -63,37 +66,7 @@ gems:
 
 page_gen:
 
-- data: 'EF'
+- data: 'disciplinas'
   template: 'disciplina-page'
   name: 'sigla'
-  dir: 'EF'
-
-- data: 'EM'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EM'
-
-- data: 'EA'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EA'
-
-- data: 'EB'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EB'
-
-- data: 'EP'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EP'
-
-- data: 'EQD'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EQD'
-
-- data: 'EQN'
-  template: 'disciplina-page'
-  name: 'sigla'
-  dir: 'EQN'
+  dir: 'disciplinas'

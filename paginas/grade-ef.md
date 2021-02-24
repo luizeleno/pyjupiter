@@ -1,16 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Engenharia Física (EF)
 permalink: /grade-ef/
 ---
 
+{% assign lista = '' | split: '' %}
+{% for curso in site.data.cursos.EF %}
+    {% assign disc = site.data.disciplinas | where: 'sigla', curso %}
+    {% assign lista = lista | concat: disc %}
+{% endfor %}
+
+
 ## Disciplinas obrigatórias
 {: .alert .alert-dark}
 
-{% assign disciplinas = site.data.EF | where: 'tipo', 'Obrigatórias' %}
+{% assign disciplinas = lista | where: 'tipo', 'Obrigatórias' %}
 
 {% for n in (1..10) %}
 
@@ -19,7 +23,7 @@ permalink: /grade-ef/
 
 {%assign ns = n | downcase %}
 
-{% assign sem = disciplinas | where: 'semestre', ns %}
+{% assign sem = disciplinas | where: 'semestre.EF', ns %}
 
 {% for disc in sem %}
 - {% include disciplina-modal.html disciplina=disc curso='EF' %}
@@ -30,11 +34,11 @@ permalink: /grade-ef/
 ## Disciplinas eletivas
 {: .alert .alert-dark}
 
-{% assign disciplinas = site.data.EF | where: 'tipo', 'Optativas' %}
+{% assign disciplinas = lista | where: 'tipo', 'Optativas' %}
 
 {% for n in (1..10) %}
 
-{% assign sem = disciplinas | where: 'semestre', n %}
+{% assign sem = disciplinas | where: 'semestre.EF', n %}
 
 {% if sem.size > 0 %}
 
@@ -42,9 +46,7 @@ permalink: /grade-ef/
 {: .alert .alert-secondary}
 
 {% for disc in sem %}
-
 - {% include disciplina-modal.html disciplina=disc curso='EF' %}
-
 {%- endfor -%}
 
 {% endif %}

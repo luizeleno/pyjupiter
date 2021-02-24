@@ -10,7 +10,7 @@ disc: true
   <li>Créditos-trabalho: {{page.CT}}</li>
   <li>Carga horária: {{page.CH}}</li>
   <li>Ativação: {{page.ativacao}}</li>
-  <li>Semestre ideal: {{page.semestre}}</li>
+  <li>Semestre ideal: {% for c in page.semestre %}{{c}}{% unless forloop.last %}, {% endunless %}{% endfor %}</li>
   <li>Departamento: {{page.departamento}}</li>
 </ul>
         
@@ -65,7 +65,7 @@ disc: true
   <a type="button" class="btn btn-primary" href='{{page.link}}' target='_blank'>Ver no Jupiter</a>
 </div>
 <div class="btn-group" role="group" aria-label="Links da disciplina">
-  <a type="button" class="btn btn-primary mr-1" href='{{site.baseurl}}/assets/cursos{{page.dir}}{{page.sigla | upcase}}.pdf' target='_blank'>Salvar em pdf</a>
-  <a type="button" class="btn btn-primary mr-1" href='{{site.baseurl}}/assets/cursos{{page.dir}}{{page.sigla | upcase}}.docx' target='_blank'>Salvar em docx</a>
-  <a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/cursos{{page.dir}}{{page.sigla | upcase}}.xlsx' target='_blank'>Salvar em xlsx</a>
+  <a type="button" class="btn btn-primary mr-1" href='{{site.baseurl}}/assets/disciplinas/{{page.sigla | upcase}}.pdf' target='_blank'>Salvar em pdf</a>
+  <a type="button" class="btn btn-primary mr-1" href='{{site.baseurl}}/assets/disciplinas/{{page.sigla | upcase}}.docx' target='_blank'>Salvar em docx</a>
+  <a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/disciplinas/{{page.sigla | upcase}}.xlsx' target='_blank'>Salvar em xlsx</a>
 </div>

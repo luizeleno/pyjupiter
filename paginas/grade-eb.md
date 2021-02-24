@@ -1,16 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Engenharia Bioquímica (EB)
 permalink: /grade-eb/
 ---
 
+{% assign lista = '' | split: '' %}
+{% for curso in site.data.cursos.EB %}
+    {% assign disc = site.data.disciplinas | where: 'sigla', curso %}
+    {% assign lista = lista | concat: disc %}
+{% endfor %}
+
+
 ## Disciplinas obrigatórias
 {: .alert .alert-dark}
 
-{% assign disciplinas = site.data.EB | where: 'tipo', 'Obrigatórias' %}
+{% assign disciplinas = lista | where: 'tipo', 'Obrigatórias' %}
 
 {% for n in (1..10) %}
 
@@ -19,7 +23,7 @@ permalink: /grade-eb/
 
 {%assign ns = n | downcase %}
 
-{% assign sem = disciplinas | where: 'semestre', ns %}
+{% assign sem = disciplinas | where: 'semestre.EB', ns %}
 
 {% for disc in sem %}
 - {% include disciplina-modal.html disciplina=disc curso='EB' %}
@@ -30,11 +34,11 @@ permalink: /grade-eb/
 ## Disciplinas eletivas
 {: .alert .alert-dark}
 
-{% assign disciplinas = site.data.EB | where: 'tipo', 'Optativas' %}
+{% assign disciplinas = lista | where: 'tipo', 'Optativas' %}
 
 {% for n in (1..10) %}
 
-{% assign sem = disciplinas | where: 'semestre', n %}
+{% assign sem = disciplinas | where: 'semestre.EB', n %}
 
 {% if sem.size > 0 %}
 
@@ -42,9 +46,7 @@ permalink: /grade-eb/
 {: .alert .alert-secondary}
 
 {% for disc in sem %}
-
 - {% include disciplina-modal.html disciplina=disc curso='EB' %}
-
 {%- endfor -%}
 
 {% endif %}
