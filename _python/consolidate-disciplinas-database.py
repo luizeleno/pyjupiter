@@ -32,7 +32,7 @@ for curso in cursos:
     print(curso_disc, file=curso_yaml)
     
     with open(f'disciplinas.yml', 'w') as f:
-            rc.recursive_print_dict(disciplinas, f)
+        rc.recursive_print_dict(disciplinas, f)
 
 curso_yaml.close()
 
