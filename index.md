@@ -25,7 +25,7 @@ O projeto [PyJupiter](https://github.com/luizeleno/pyjupiter){: target='_blank'}
 - Acesse as disciplinas de cada curso no menu _**Cursos**_
   - Escolha a disciplina. Uma janela se abrirá com o conteúdo encontrado no Júpiter
   - Ao final da página algumas opções estão disponíveis:
-    - Acessar a a página da disciplina no Júpiter
+    - Acessar a página da disciplina no Júpiter
     - Salvar como `pdf`
     - Salvar como `docx`
     - Salvar um arquivo `xlsx` (planilha eletrônica).

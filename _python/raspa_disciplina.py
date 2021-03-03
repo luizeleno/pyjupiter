@@ -28,7 +28,7 @@ def scrape_disciplina(URL):
     text = text.replace('<BR>', '\n')
 
     # Patch: correção específica para LOM3015, na norma de recuperação
-    # até encontrar maneira de evitar a conjunção <NF< ser interpretada como tag
+    # preciso encontrar maneira de evitar a conjunção <NF< ser interpretada como tag
     text = text.replace('<NF<', '&leq;NF&lt;')
 
     soup = BeautifulSoup(text, 'html5lib')
@@ -88,10 +88,36 @@ def scrape_disciplina(URL):
 
     return disciplina
 
+def raspa_oferecimento(codigo):
+    '''
+        TO DO!
+    '''
+    baseurl = 'https://uspdigital.usp.br/jupiterweb/obterTurma?sgldis='
+    URL = baseurl + codigo
+    
+    page = requests.get(URL)
+    text = page.text
+    text = remove_control_characters(text)
+    text = text.replace('<br>', '\n')
+    text = text.replace('<BR>', '\n')
+    
+    soup = BeautifulSoup(text, 'html5lib')
+    
+    L = soup.find_all('span', class_='txt_arial_8pt_black')
+    D = soup.find_all('span', class_='txt_arial_8pt_gray')
+    Nturmas = len(L) // 11
+    Dcount = len(D) // Nturmas
+    print(Nturmas, Dcount)
+    for i in range(Nturmas):
+        print(L[11*i+1].text, D[Dcount*i].text)
+        #print()
+        #for j in range(Dcount):
+            
 
 if __name__ == '__main__':
-    disciplina = 'https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3015&codcur=88202&codhab=0'
-    # disciplina = 'https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3071&codcur=88202&codhab=0'
-    dic = {}
-    dic = scrape_disciplina(disciplina)
-    # [ print(f'{k}: {v}\n' + '-' * 30) for k, v in dic.items() ]
+    #disciplina = 'https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3231&codcur=88202&codhab=0'
+    #dic = {}
+    #dic = scrape_disciplina(disciplina)
+    #[ print(f'{k}: {v}\n' + '-' * 30) for k, v in dic.items() ]
+    disc = 'LOB1052'
+    raspa_oferecimento(disc)

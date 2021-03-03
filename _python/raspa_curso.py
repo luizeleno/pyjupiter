@@ -48,7 +48,7 @@ def scrape_curso(URL):
                 curso[sigla]['tipo'] = tipo
                 curso[sigla]['semestre'] = semestre
 
-                # lendo dados da scrape_disciplina
+                # lendo dados da disciplina
                 dados = rd.scrape_disciplina(link)
                 curso[sigla] = {**curso[sigla], **dados}
         except:
