@@ -1,5 +1,6 @@
 import requests
 import unicodedata
+import re
 from bs4 import BeautifulSoup
 
 
@@ -88,10 +89,9 @@ def scrape_disciplina(URL):
 
     return disciplina
 
+
 def raspa_oferecimento(codigo):
-    '''
-        TO DO!
-    '''
+
     baseurl = 'https://uspdigital.usp.br/jupiterweb/obterTurma?sgldis='
     URL = baseurl + codigo
     
@@ -101,23 +101,66 @@ def raspa_oferecimento(codigo):
     text = text.replace('<br>', '\n')
     text = text.replace('<BR>', '\n')
     
+    oferecimento = {}
+    
+    # iniciando raspagem
     soup = BeautifulSoup(text, 'html5lib')
     
-    L = soup.find_all('span', class_='txt_arial_8pt_black')
-    D = soup.find_all('span', class_='txt_arial_8pt_gray')
-    Nturmas = len(L) // 11
-    Dcount = len(D) // Nturmas
-    print(Nturmas, Dcount)
-    for i in range(Nturmas):
-        print(L[11*i+1].text, D[Dcount*i].text)
-        #print()
-        #for j in range(Dcount):
-            
+    div = soup.find_all('div', attrs={'style':'border: 2px solid #658CCF; padding: 5px; border-radius: 5px;'})
+    for d in div:
+
+      turma = {}
+      
+      table = d.find_all('table')
+      
+      # Processando a primeira tabela (dados)
+      keys = table[0].find_all('span', class_="txt_arial_8pt_black")  # rótulos
+      items = table[0].find_all('span', class_="txt_arial_8pt_gray")
+      
+      for k, i in zip(keys, items):
+        k1 = re.sub(r"\s+", ' ', k.string[:-1])
+        turma[k1] = i.string.strip()
+      
+      # Processando a segunda tabela (horários)
+      keys = table[1].find_all('span', class_="txt_arial_8pt_black")  # rótulos
+      items = table[1].find_all('span', class_="txt_arial_8pt_gray")
+      
+      turma['aulas'] = {}
+      for h in range(len(items)//4):
+        horario = f'{items[0+4*h].string} {items[1+4*h].string} {items[2+4*h].string}'
+        prof = items[3+4*h].string
+        turma['aulas'][f'h{h}'] = {}
+        turma['aulas'][f'h{h}']['horario'] = horario
+        turma['aulas'][f'h{h}']['prof'] = prof
+        
+      # Processando a terceira tabela (vagas)
+      keys = table[2].find_all('span', class_="txt_verdana_8pt_white")  # rótulos
+      items_total = table[2].find_all('span', class_="txt_arial_8pt_black")  # total
+      items_curso = table[2].find_all('span', class_="txt_arial_8pt_gray")  # por turma
+      
+      vagas = {}
+      vagas[items_total[0].string] = {}
+      for k, t in zip(keys,items_total[1:]):
+        vagas[items_total[0].string][k.string] = t.string
+
+      for c in range(len(items_curso)//5):
+        curso = items_curso[5*c].string.strip()
+        vagas[curso] = {}
+        for k, t in zip(keys,items_curso[5*c+1:5*c+6]):
+          vagas[curso][k.string] = t.string
+      
+      turma['vagas'] = vagas
+      
+      # adicionando turma ao dict oferecimento
+      oferecimento[turma['Código da Turma']] = turma
+
+    # print(oferecimento)
+    return oferecimento
 
 if __name__ == '__main__':
     #disciplina = 'https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3231&codcur=88202&codhab=0'
     #dic = {}
     #dic = scrape_disciplina(disciplina)
     #[ print(f'{k}: {v}\n' + '-' * 30) for k, v in dic.items() ]
-    disc = 'LOB1052'
+    disc = 'LOM3226'
     raspa_oferecimento(disc)

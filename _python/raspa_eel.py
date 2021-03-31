@@ -20,3 +20,4 @@ for curso, codigo, hab in [EF, EM, EA, EB, EP, EQD, EQN]:
 
     with open(f'{curso}.json', 'w') as f:
         json.dump(dados, f)
+    

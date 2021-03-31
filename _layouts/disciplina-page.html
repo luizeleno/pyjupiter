@@ -1,71 +1,102 @@
----
+--- 
 layout: page
-disc: true
+disc: true 
 ---
 
 <h1>{{page.sigla}} - {{page.nome}}</h1>
 <h2><i>{{page.nome_en}}</i></h2>
 <ul>
-  <li>Créditos-aula: {{page.CA}}</li>
-  <li>Créditos-trabalho: {{page.CT}}</li>
-  <li>Carga horária: {{page.CH}}</li>
-  <li>Ativação: {{page.ativacao}}</li>
-  <li>Semestre ideal: {% for c in page.semestre %}{{c}}{% unless forloop.last %}, {% endunless %}{% endfor %}</li>
-  <li>Departamento: {{page.departamento}}</li>
+    <li>Créditos-aula: {{page.CA}}</li>
+    <li>Créditos-trabalho: {{page.CT}}</li>
+    <li>Carga horária: {{page.CH}}</li>
+    <li>Ativação: {{page.ativacao}}</li>
+    <li>Semestre ideal: {% for c in page.semestre %}{{c}}{% unless forloop.last %}, {% endunless %}{% endfor %}</li>
+    <li>Departamento: {{page.departamento}}</li>
 </ul>
-        
+
 <h3>Objetivos</h3>
-        
+
 <p>{{page.objetivos | newline_to_br}}</p>
 <p><i>{{page.objectives | newline_to_br}}</i></p>
-        
+
 <h3>Docente(s) Responsável(eis)</h3>
-        
+
 <ul>
-  {%for docente in page.docentes %}
-   <li>{{docente}}</li>
-  {%endfor%}
+    {%for docente in page.docentes %}
+    <li>{{docente}}</li>
+    {%endfor%}
 </ul>
-        
+
 <h3>Programa resumido</h3>
-        
+
 <p>{{page.resumo | newline_to_br}}</p>
 <p><i>{{page.abstract | newline_to_br}}</i></p>
-          
+
 <h3>Programa</h3>
-          
+
 <p>{{page.programa | newline_to_br}}</p>
 <p><i>{{page.program | newline_to_br}}</i></p>
-            
+
 <h3>Avaliação</h3>
 
 <ul>
-  <li><b>Método:</b> {{page.metodo | newline_to_br}}</li>
-  <li><b>Critério:</b> {{page.criterio | newline_to_br}}</li>
-  <li><b>Norma de recuperação:</b> {{page.exame | newline_to_br}}</li>
+    <li><b>Método:</b> {{page.metodo | newline_to_br}}</li>
+    <li><b>Critério:</b> {{page.criterio | newline_to_br}}</li>
+    <li><b>Norma de recuperação:</b> {{page.exame | newline_to_br}}</li>
 </ul>
 
 <h3>Bibliografia</h3>
-         
+
 <p>{{page.bibliografia | newline_to_br}}</p>
-          
+
 {% if page.requisitos %}
-          
+
 <h3>Requisitos</h3>
 
 <ul>
-  {%for requisito in page.requisitos %}
-   <li>{{requisito.sigla}}: {{requisito.nome}} ({{requisito.tipo}})</li>
-  {% endfor %}
+    {%for requisito in page.requisitos %}
+    <li>{{requisito.sigla}}: {{requisito.nome}} ({{requisito.tipo}})</li>
+    {% endfor %}
 </ul>
 
 {% endif %}
-       
-<div class="btn-group" role="group" aria-label="Jupiter">
-  <a type="button" class="btn btn-primary" href='{{page.link}}' target='_blank'>Ver no Jupiter</a>
+
+<h3>Oferecimento</h3>
+{% if page.oferecimento %}
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Turma</th>
+            <th scope="col">Horário</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for turma in page.oferecimento %}
+        <tr>
+            <td>
+                <p>Turma: {{turma.Codigo_da_Turma}}</p>
+            </td>
+            <td>
+                <p>
+                    {%for h in turma.aulas %}
+                      {{h.horario}} {{h.prof}}
+                      {%-unless forloop.last-%}<br>{%-endunless-%} 
+                    {% endfor %}
+                </p>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% else %}
+<p>Não há oferecimento neste semestre.</p>
+{% endif %}
+
+<div class="btn-group mb-1" role="group" aria-label="Jupiter">
+    <a type="button" class="btn btn-primary" href='{{page.link}}' target='_blank'>Ver no Jupiter</a>
 </div>
-<div class="btn-group" role="group" aria-label="Links da disciplina">
-  <a type="button" class="btn btn-primary mr-1" href='{{site.baseurl}}/assets/disciplinas/{{page.sigla | upcase}}.pdf' target='_blank'>Salvar em pdf</a>
-  <a type="button" class="btn btn-primary mr-1" href='{{site.baseurl}}/assets/disciplinas/{{page.sigla | upcase}}.docx' target='_blank'>Salvar em docx</a>
-  <a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/disciplinas/{{page.sigla | upcase}}.xlsx' target='_blank'>Salvar em xlsx</a>
+<div class="btn-group mb-1" role="group" aria-label="Links da disciplina">
+    <a type="button" class="btn btn-primary mr-1" href='{{site.baseurl}}/assets/disciplinas/{{page.sigla | upcase}}.pdf' target='_blank'>Salvar em pdf</a>
+    <a type="button" class="btn btn-primary mr-1" href='{{site.baseurl}}/assets/disciplinas/{{page.sigla | upcase}}.docx' target='_blank'>Salvar em docx</a>
+    <a type="button" class="btn btn-primary" href='{{site.baseurl}}/assets/disciplinas/{{page.sigla | upcase}}.xlsx' target='_blank'>Salvar em xlsx</a>
 </div>

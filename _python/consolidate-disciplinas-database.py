@@ -1,5 +1,5 @@
 import json
-import raspa_curso as rc
+import recursive_print_dict as rpd
 
 curso_yaml = open('cursos.yml', 'w')
 
@@ -21,7 +21,12 @@ for curso in cursos:
 
         if key in disciplinas:
             ''' disciplina já adicionada, portanto
-                data[key]['semestre'] já é dicionário '''
+                data[key]['semestre'] já é dicionário
+            '''
+            '''
+               TO DO: os tipos dos requisitos podem ser diferentes
+               em cursos diferentes! Preciso acertar isso
+            '''
             disciplinas[key]['semestre'][curso] = sem 
         else:
             disciplinas[key] = data[key]
@@ -32,11 +37,9 @@ for curso in cursos:
     print(curso_disc, file=curso_yaml)
     
     with open(f'disciplinas.yml', 'w') as f:
-        rc.recursive_print_dict(disciplinas, f)
+        rpd.RecursivePrintDict(disciplinas, f)
 
 curso_yaml.close()
 
 with open('disciplinas.json', 'w') as f:
     json.dump(disciplinas, f)
-
-

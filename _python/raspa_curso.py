@@ -51,6 +51,11 @@ def scrape_curso(URL):
                 # lendo dados da disciplina
                 dados = rd.scrape_disciplina(link)
                 curso[sigla] = {**curso[sigla], **dados}
+                
+                # lendo dados de oferecimento
+                oferecimento = rd.raspa_oferecimento(sigla)
+                curso[sigla]['oferecimento'] = oferecimento
+                
         except:
             pass
 
@@ -60,7 +65,7 @@ def scrape_curso(URL):
                 requisito = req.string.split('-')
                 reqsigla = requisito[0].split()[0]
                 reqnome = requisito[1]
-                print('\t', reqsigla, reqnome)
+                # print('\t', reqsigla, reqnome)
 
                 curso[sigla]['requisitos'][reqsigla] = {}
                 curso[sigla]['requisitos'][reqsigla]['sigla'] = reqsigla
@@ -74,24 +79,8 @@ def scrape_curso(URL):
                 reqtipo = req('div')[0].string.strip()
                 reqtipo = re.sub(r"\s+", ' ', reqtipo)
                 curso[sigla]['requisitos'][reqsigla]['tipo'] = reqtipo
-                print('\t', reqtipo)
+                # print('\t', reqtipo)
         except:
             pass
 
     return curso
-
-
-def recursive_print_dict(dictio, of, indent=0, start='- '):
-    for k, v in dictio.items():
-        if isinstance(v, dict):
-            of.write('  ' * indent + f'{start}{k}:\n')
-            if k == 'requisitos':
-                recursive_print_dict(v, of, indent+1)
-            else:
-                recursive_print_dict(v, of, indent+1, start='')
-        else:
-            val = f'{v}'.replace('"', '')
-            if 'docente' in k:
-                of.write('  ' * indent + f'{start}{k}: {val}\n')
-            else:
-                of.write('  ' * indent + f'{start}{k}: "{val}"\n')
