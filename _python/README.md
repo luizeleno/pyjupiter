@@ -2,7 +2,7 @@
 
 Obs.: é necessário ter conexão com a internet
 
-- rodar `python3 raspa-eel.py` para gerar os arquivos json (um por curso)
+- rodar `python3 raspa_eel.py` para gerar os arquivos json (um por curso)
 - rodar `python3 consolidate-disciplinas-database.py` para gerar os arquivos `disciplinas.json`, `disciplinas.yml` e `cursos.yml`
 
 # Geração dos arquivos docx, pdf e xlsx
