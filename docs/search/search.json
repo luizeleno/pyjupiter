@@ -469,8 +469,8 @@
     {
       "title"     : "LOQ4209",
       "url"       : "/pyjupiter/disciplinas/loq4209.html",
-      "nome"      : " Engenharia da Qualidade I",
-      "nomeascii" : " Engenharia da Qualidade I",
+      "nome"      : " Engenharia da Qualidade",
+      "nomeascii" : " Engenharia da Qualidade",
       "docentes"     : "5840535 - Messias Borges Silva"
     } ,
   
@@ -699,35 +699,51 @@
     } ,
   
     {
+      "title"     : "LOQ4100",
+      "url"       : "/pyjupiter/disciplinas/loq4100.html",
+      "nome"      : " Fundamentos de Química para Engenharia I-B",
+      "nomeascii" : " Fundamentos de Quimica para Engenharia I-B",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1046",
+      "url"       : "/pyjupiter/disciplinas/lob1046.html",
+      "nome"      : " Engenharia do Meio Ambiente",
+      "nomeascii" : " Engenharia do Meio Ambiente",
+      "docentes"     : "5840671 - Francisco José Moreira Chaves"
+    } ,
+  
+    {
+      "title"     : "LOM3099",
+      "url"       : "/pyjupiter/disciplinas/lom3099.html",
+      "nome"      : " Estática",
+      "nomeascii" : " Estatica",
+      "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista5840793 - Sérgio Schneider7797767 - Viktor Pastoukhov"
+    } ,
+  
+    {
+      "title"     : "LOM3104",
+      "url"       : "/pyjupiter/disciplinas/lom3104.html",
+      "nome"      : " Projeto Integrado em Engenharia de Materiais I",
+      "nomeascii" : " Projeto Integrado em Engenharia de Materiais I",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4098",
+      "url"       : "/pyjupiter/disciplinas/loq4098.html",
+      "nome"      : " Fundamentos de Química para Engenharia II-A",
+      "nomeascii" : " Fundamentos de Quimica para Engenharia II-A",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOM3013",
       "url"       : "/pyjupiter/disciplinas/lom3013.html",
       "nome"      : " Ciência dos Materiais",
       "nomeascii" : " Ciencia dos Materiais",
       "docentes"     : "6495737 - Durval Rodrigues Junior5983729 - Fernando Vernilli Junior984972 - Hugo Ricardo Zschommler Sandim7459752 - Maria Ismenia Sodero Toledo Faria"
-    } ,
-  
-    {
-      "title"     : "LOM3038",
-      "url"       : "/pyjupiter/disciplinas/lom3038.html",
-      "nome"      : " Recursos Naturais",
-      "nomeascii" : " Recursos Naturais",
-      "docentes"     : "5840963 - Daniela Camargo Vernilli"
-    } ,
-  
-    {
-      "title"     : "LOQ4073",
-      "url"       : "/pyjupiter/disciplinas/loq4073.html",
-      "nome"      : " Química Geral II",
-      "nomeascii" : " Quimica Geral II",
-      "docentes"     : "5817330 - Larissa de Freitas1506103 - Pedro Carlos de Oliveira"
-    } ,
-  
-    {
-      "title"     : "LOB1056",
-      "url"       : "/pyjupiter/disciplinas/lob1056.html",
-      "nome"      : " Introdução aos Métodos Numéricos e Computacionais",
-      "nomeascii" : " Introducao aos Metodos Numericos e Computacionais",
-      "docentes"     : "8870322 - Fabiano Fernandes Bargos"
     } ,
   
     {
@@ -747,11 +763,19 @@
     } ,
   
     {
-      "title"     : "LOM3099",
-      "url"       : "/pyjupiter/disciplinas/lom3099.html",
-      "nome"      : " Estática",
-      "nomeascii" : " Estatica",
-      "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista5840793 - Sérgio Schneider7797767 - Viktor Pastoukhov"
+      "title"     : "LOM3105",
+      "url"       : "/pyjupiter/disciplinas/lom3105.html",
+      "nome"      : " Computação e análise de dados em Engenharia",
+      "nomeascii" : " Computacao e analise de dados em Engenharia",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4246",
+      "url"       : "/pyjupiter/disciplinas/loq4246.html",
+      "nome"      : " Engenharia da Sustentabilidade",
+      "nomeascii" : " Engenharia da Sustentabilidade",
+      "docentes"     : "5840535 - Messias Borges Silva"
     } ,
   
     {
@@ -763,14 +787,6 @@
     } ,
   
     {
-      "title"     : "LOB1040",
-      "url"       : "/pyjupiter/disciplinas/lob1040.html",
-      "nome"      : " Laboratório de Eletricidade",
-      "nomeascii" : " Laboratorio de Eletricidade",
-      "docentes"     : "230696 - Carlos José Todero Peixoto"
-    } ,
-  
-    {
       "title"     : "LOM3015",
       "url"       : "/pyjupiter/disciplinas/lom3015.html",
       "nome"      : " Termodinâmica de Materiais",
@@ -779,11 +795,43 @@
     } ,
   
     {
+      "title"     : "LOM3046",
+      "url"       : "/pyjupiter/disciplinas/lom3046.html",
+      "nome"      : " Técnicas de Análise Microestrutural",
+      "nomeascii" : " Tecnicas de Analise Microestrutural",
+      "docentes"     : "6495737 - Durval Rodrigues Junior1643715 - Paulo Atsushi Suzuki"
+    } ,
+  
+    {
       "title"     : "LOM3047",
       "url"       : "/pyjupiter/disciplinas/lom3047.html",
       "nome"      : " Técnicas de Análise Química",
       "nomeascii" : " Tecnicas de Analise Quimica",
       "docentes"     : "5840712 - Ângelo Capri Neto"
+    } ,
+  
+    {
+      "title"     : "LOM3106",
+      "url"       : "/pyjupiter/disciplinas/lom3106.html",
+      "nome"      : " Ciência dos Materiais Computacional",
+      "nomeascii" : " Ciencia dos Materiais Computacional",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3107",
+      "url"       : "/pyjupiter/disciplinas/lom3107.html",
+      "nome"      : " Mecânica dos Sólidos Deformáveis",
+      "nomeascii" : " Mecanica dos Solidos Deformaveis",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3108",
+      "url"       : "/pyjupiter/disciplinas/lom3108.html",
+      "nome"      : " Projeto Integrado em Engenharia de Materiais II",
+      "nomeascii" : " Projeto Integrado em Engenharia de Materiais II",
+      "docentes"     : ""
     } ,
   
     {
@@ -803,27 +851,11 @@
     } ,
   
     {
-      "title"     : "LOM3046",
-      "url"       : "/pyjupiter/disciplinas/lom3046.html",
-      "nome"      : " Técnicas de Análise Microestrutural",
-      "nomeascii" : " Tecnicas de Analise Microestrutural",
-      "docentes"     : "6495737 - Durval Rodrigues Junior1643715 - Paulo Atsushi Suzuki"
-    } ,
-  
-    {
       "title"     : "LOM3057",
       "url"       : "/pyjupiter/disciplinas/lom3057.html",
       "nome"      : " Introdução aos Materiais Poliméricos",
       "nomeascii" : " Introducao aos Materiais Polimericos",
       "docentes"     : "5840897 - Clodoaldo Saron"
-    } ,
-  
-    {
-      "title"     : "LOM3071",
-      "url"       : "/pyjupiter/disciplinas/lom3071.html",
-      "nome"      : " Tratamento de Minérios",
-      "nomeascii" : " Tratamento de Minerios",
-      "docentes"     : "3577649 - Carlos Angelo Nunes1922320 - Sebastiao Ribeiro"
     } ,
   
     {
@@ -851,6 +883,14 @@
     } ,
   
     {
+      "title"     : "LOM3113",
+      "url"       : "/pyjupiter/disciplinas/lom3113.html",
+      "nome"      : " Tratamentos de Minérios e Hidrometalurgia",
+      "nomeascii" : " Tratamentos de Minerios e Hidrometalurgia",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOM3011",
       "url"       : "/pyjupiter/disciplinas/lom3011.html",
       "nome"      : " Ensaios Mecânicos",
@@ -875,19 +915,11 @@
     } ,
   
     {
-      "title"     : "LOM3059",
-      "url"       : "/pyjupiter/disciplinas/lom3059.html",
-      "nome"      : " Processamentos de Polímeros",
-      "nomeascii" : " Processamentos de Polimeros",
-      "docentes"     : "5840897 - Clodoaldo Saron"
-    } ,
-  
-    {
-      "title"     : "LOM3072",
-      "url"       : "/pyjupiter/disciplinas/lom3072.html",
-      "nome"      : " Hidrometalurgia",
-      "nomeascii" : " Hidrometalurgia",
-      "docentes"     : "3577649 - Carlos Angelo Nunes1922320 - Sebastiao Ribeiro"
+      "title"     : "LOM3073",
+      "url"       : "/pyjupiter/disciplinas/lom3073.html",
+      "nome"      : " Processamento de Cerâmicas",
+      "nomeascii" : " Processamento de Ceramicas",
+      "docentes"     : "5983729 - Fernando Vernilli Junior1922320 - Sebastiao Ribeiro"
     } ,
   
     {
@@ -907,18 +939,26 @@
     } ,
   
     {
-      "title"     : "LOM3101",
-      "url"       : "/pyjupiter/disciplinas/lom3101.html",
-      "nome"      : " Mecânica dos Materiais",
-      "nomeascii" : " Mecanica dos Materiais",
-      "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista3480026 - João Paulo Pascon7797767 - Viktor Pastoukhov"
+      "title"     : "LOM3094",
+      "url"       : "/pyjupiter/disciplinas/lom3094.html",
+      "nome"      : " Processamento de Materiais Metálicos I",
+      "nomeascii" : " Processamento de Materiais Metalicos I",
+      "docentes"     : "5009972 - Gilberto Carvalho Coelho"
+    } ,
+  
+    {
+      "title"     : "LOM3109",
+      "url"       : "/pyjupiter/disciplinas/lom3109.html",
+      "nome"      : " Fundamentos da Física Moderna",
+      "nomeascii" : " Fundamentos da Fisica Moderna",
+      "docentes"     : ""
     } ,
   
     {
       "title"     : "LOM3004",
       "url"       : "/pyjupiter/disciplinas/lom3004.html",
-      "nome"      : " Processamento de Materiais Metálicos I",
-      "nomeascii" : " Processamento de Materiais Metalicos I",
+      "nome"      : " Processamento de Materiais Metálicos II",
+      "nomeascii" : " Processamento de Materiais Metalicos II",
       "docentes"     : "5840793 - Sérgio Schneider"
     } ,
   
@@ -947,11 +987,11 @@
     } ,
   
     {
-      "title"     : "LOM3073",
-      "url"       : "/pyjupiter/disciplinas/lom3073.html",
-      "nome"      : " Processamento de Cerâmicas I",
-      "nomeascii" : " Processamento de Ceramicas I",
-      "docentes"     : "5983729 - Fernando Vernilli Junior1922320 - Sebastiao Ribeiro"
+      "title"     : "LOM3059",
+      "url"       : "/pyjupiter/disciplinas/lom3059.html",
+      "nome"      : " Processamentos de Polímeros",
+      "nomeascii" : " Processamentos de Polimeros",
+      "docentes"     : "5840897 - Clodoaldo Saron"
     } ,
   
     {
@@ -963,19 +1003,27 @@
     } ,
   
     {
-      "title"     : "LOM3094",
-      "url"       : "/pyjupiter/disciplinas/lom3094.html",
-      "nome"      : " Processamento de Materiais Metálicos II",
-      "nomeascii" : " Processamento de Materiais Metalicos II",
-      "docentes"     : "5009972 - Gilberto Carvalho Coelho"
-    } ,
-  
-    {
       "title"     : "LOM3096",
       "url"       : "/pyjupiter/disciplinas/lom3096.html",
       "nome"      : " Propriedades Elétricas, Magnéticas, Térmicas e Ópticas",
       "nomeascii" : " Propriedades Eletricas, Magneticas, Termicas e Opticas",
       "docentes"     : "5840726 - Cristina Bormio Nunes"
+    } ,
+  
+    {
+      "title"     : "LOM3110",
+      "url"       : "/pyjupiter/disciplinas/lom3110.html",
+      "nome"      : " Projeto Integrado em Engenharia de Materiais III",
+      "nomeascii" : " Projeto Integrado em Engenharia de Materiais III",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3111",
+      "url"       : "/pyjupiter/disciplinas/lom3111.html",
+      "nome"      : " Processamento de Cerâmicas Experimental",
+      "nomeascii" : " Processamento de Ceramicas Experimental",
+      "docentes"     : ""
     } ,
   
     {
@@ -1003,11 +1051,11 @@
     } ,
   
     {
-      "title"     : "LOM3074",
-      "url"       : "/pyjupiter/disciplinas/lom3074.html",
-      "nome"      : " Processamento de Cerâmicas II",
-      "nomeascii" : " Processamento de Ceramicas II",
-      "docentes"     : "5983729 - Fernando Vernilli Junior1922320 - Sebastiao Ribeiro"
+      "title"     : "LOM3066",
+      "url"       : "/pyjupiter/disciplinas/lom3066.html",
+      "nome"      : " Materiais Compósitos",
+      "nomeascii" : " Materiais Compositos",
+      "docentes"     : "519033 - Carlos Yujiro Shigue"
     } ,
   
     {
@@ -1035,11 +1083,11 @@
     } ,
   
     {
-      "title"     : "LOM3062",
-      "url"       : "/pyjupiter/disciplinas/lom3062.html",
-      "nome"      : " Trabalho de Graduação I",
-      "nomeascii" : " Trabalho de Graduacao I",
-      "docentes"     : "5009972 - Gilberto Carvalho Coelho"
+      "title"     : "LOM3112",
+      "url"       : "/pyjupiter/disciplinas/lom3112.html",
+      "nome"      : " Projeto Final de Curso de Engenharia de Materiais",
+      "nomeascii" : " Projeto Final de Curso de Engenharia de Materiais",
+      "docentes"     : ""
     } ,
   
     {
@@ -1048,14 +1096,6 @@
       "nome"      : " Estágio Supervisionado",
       "nomeascii" : " Estagio Supervisionado",
       "docentes"     : "3577649 - Carlos Angelo Nunes519033 - Carlos Yujiro Shigue"
-    } ,
-  
-    {
-      "title"     : "LOM3063",
-      "url"       : "/pyjupiter/disciplinas/lom3063.html",
-      "nome"      : " Trabalho de Graduação II",
-      "nomeascii" : " Trabalho de Graduacao II",
-      "docentes"     : "5009972 - Gilberto Carvalho Coelho"
     } ,
   
     {
@@ -1115,30 +1155,6 @@
     } ,
   
     {
-      "title"     : "LOQ4019",
-      "url"       : "/pyjupiter/disciplinas/loq4019.html",
-      "nome"      : " Planejamento de Experimentos",
-      "nomeascii" : " Planejamento de Experimentos",
-      "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4044",
-      "url"       : "/pyjupiter/disciplinas/loq4044.html",
-      "nome"      : " Introdução à Engenharia da Qualidade",
-      "nomeascii" : " Introducao a Engenharia da Qualidade",
-      "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4046",
-      "url"       : "/pyjupiter/disciplinas/loq4046.html",
-      "nome"      : " Gestão da Produção e Logística",
-      "nomeascii" : " Gestao da Producao e Logistica",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
-    } ,
-  
-    {
       "title"     : "LOQ4235",
       "url"       : "/pyjupiter/disciplinas/loq4235.html",
       "nome"      : " Tópicos Especiais de Gestão de Negócios",
@@ -1152,38 +1168,6 @@
       "nome"      : " Estrutura e Química de Materiais Lignocelulósicos",
       "nomeascii" : " Estrutura e Quimica de Materiais Lignocelulosicos",
       "docentes"     : "3380737 - Flávio Teixeira da Silva"
-    } ,
-  
-    {
-      "title"     : "LOM3019",
-      "url"       : "/pyjupiter/disciplinas/lom3019.html",
-      "nome"      : " Introdução à Supercondutividade",
-      "nomeascii" : " Introducao a Supercondutividade",
-      "docentes"     : "5840726 - Cristina Bormio Nunes6495737 - Durval Rodrigues Junior"
-    } ,
-  
-    {
-      "title"     : "LOM3051",
-      "url"       : "/pyjupiter/disciplinas/lom3051.html",
-      "nome"      : " Tópicos Especiais em Engenharia de Materiais II",
-      "nomeascii" : " Topicos Especiais em Engenharia de Materiais II",
-      "docentes"     : "519033 - Carlos Yujiro Shigue"
-    } ,
-  
-    {
-      "title"     : "LOM3053",
-      "url"       : "/pyjupiter/disciplinas/lom3053.html",
-      "nome"      : " Tecnologias de Vácuo e Baixa Temperatura",
-      "nomeascii" : " Tecnologias de Vacuo e Baixa Temperatura",
-      "docentes"     : "519033 - Carlos Yujiro Shigue6495737 - Durval Rodrigues Junior"
-    } ,
-  
-    {
-      "title"     : "LOM3066",
-      "url"       : "/pyjupiter/disciplinas/lom3066.html",
-      "nome"      : " Materiais Compósitos",
-      "nomeascii" : " Materiais Compositos",
-      "docentes"     : "519033 - Carlos Yujiro Shigue"
     } ,
   
     {
@@ -1227,43 +1211,11 @@
     } ,
   
     {
-      "title"     : "LOQ4005",
-      "url"       : "/pyjupiter/disciplinas/loq4005.html",
-      "nome"      : " Controle Estatístico de Processos",
-      "nomeascii" : " Controle Estatistico de Processos",
-      "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4008",
-      "url"       : "/pyjupiter/disciplinas/loq4008.html",
-      "nome"      : " Gestão Tecnológica",
-      "nomeascii" : " Gestao Tecnologica",
-      "docentes"     : "849935 - Humberto Felipe da Silva"
-    } ,
-  
-    {
       "title"     : "LOQ4212",
       "url"       : "/pyjupiter/disciplinas/loq4212.html",
       "nome"      : " Engenharia da Qualidade II",
       "nomeascii" : " Engenharia da Qualidade II",
       "docentes"     : "5840917 - Fabrício Maciel Gomes"
-    } ,
-  
-    {
-      "title"     : "LOT2030",
-      "url"       : "/pyjupiter/disciplinas/lot2030.html",
-      "nome"      : " Tecnologia de Conversão de Biomassa Vegetal",
-      "nomeascii" : " Tecnologia de Conversao de Biomassa Vegetal",
-      "docentes"     : "2143261 - André Luis Ferraz"
-    } ,
-  
-    {
-      "title"     : "LOB1009",
-      "url"       : "/pyjupiter/disciplinas/lob1009.html",
-      "nome"      : " Leitura e Interpretação de Desenho Técnico",
-      "nomeascii" : " Leitura e Interpretacao de Desenho Tecnico",
-      "docentes"     : "5840820 - Gustavo Aristides Santana Martinez"
     } ,
   
     {
@@ -1283,6 +1235,30 @@
     } ,
   
     {
+      "title"     : "LOB1254",
+      "url"       : "/pyjupiter/disciplinas/lob1254.html",
+      "nome"      : " Geologia",
+      "nomeascii" : " Geologia",
+      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
+    } ,
+  
+    {
+      "title"     : "LOQ4097",
+      "url"       : "/pyjupiter/disciplinas/loq4097.html",
+      "nome"      : " Fundamentos de Química para Engenharia I-A",
+      "nomeascii" : " Fundamentos de Quimica para Engenharia I-A",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4247",
+      "url"       : "/pyjupiter/disciplinas/loq4247.html",
+      "nome"      : " Desenho Assistido por Computador",
+      "nomeascii" : " Desenho Assistido por Computador",
+      "docentes"     : "8767640 - Eduardo Ferro dos Santos"
+    } ,
+  
+    {
       "title"     : "LOT2045",
       "url"       : "/pyjupiter/disciplinas/lot2045.html",
       "nome"      : " Biologia",
@@ -1299,11 +1275,11 @@
     } ,
   
     {
-      "title"     : "LOB1254",
-      "url"       : "/pyjupiter/disciplinas/lob1254.html",
-      "nome"      : " Geologia para Engenharia Ambiental",
-      "nomeascii" : " Geologia para Engenharia Ambiental",
-      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
+      "title"     : "LOT2046",
+      "url"       : "/pyjupiter/disciplinas/lot2046.html",
+      "nome"      : " Microbiologia e Bioquimica Aplicadas",
+      "nomeascii" : " Microbiologia e Bioquimica Aplicadas",
+      "docentes"     : "1304060 - Maria das Graças de Almeida Felipe"
     } ,
   
     {
@@ -1312,6 +1288,14 @@
       "nome"      : " Mecânica",
       "nomeascii" : " Mecanica",
       "docentes"     : "5840650 - Janaína Ferreira Batista Leal"
+    } ,
+  
+    {
+      "title"     : "LOB1056",
+      "url"       : "/pyjupiter/disciplinas/lob1056.html",
+      "nome"      : " Introdução aos Métodos Numéricos e Computacionais",
+      "nomeascii" : " Introducao aos Metodos Numericos e Computacionais",
+      "docentes"     : "8870322 - Fabiano Fernandes Bargos"
     } ,
   
     {
@@ -1331,19 +1315,27 @@
     } ,
   
     {
-      "title"     : "LOT2046",
-      "url"       : "/pyjupiter/disciplinas/lot2046.html",
-      "nome"      : " Microbiologia e Bioquimica Aplicadas",
-      "nomeascii" : " Microbiologia e Bioquimica Aplicadas",
-      "docentes"     : "1304060 - Maria das Graças de Almeida Felipe"
+      "title"     : "LOQ4081",
+      "url"       : "/pyjupiter/disciplinas/loq4081.html",
+      "nome"      : " Química Orgânica",
+      "nomeascii" : " Quimica Organica",
+      "docentes"     : "2346890 - Eliane Corrêa Pedrozo"
     } ,
   
     {
-      "title"     : "LOB1255",
-      "url"       : "/pyjupiter/disciplinas/lob1255.html",
-      "nome"      : " Hidrologia Aplicada",
-      "nomeascii" : " Hidrologia Aplicada",
-      "docentes"     : "9146830 - Danúbia Caporusso Bargos7455355 - Robson da Silva Rocha"
+      "title"     : "LOB1208",
+      "url"       : "/pyjupiter/disciplinas/lob1208.html",
+      "nome"      : " Química Analítica Ambiental I",
+      "nomeascii" : " Quimica Analitica Ambiental I",
+      "docentes"     : "8855158 - Morun Bernardino Neto"
+    } ,
+  
+    {
+      "title"     : "LOB1264",
+      "url"       : "/pyjupiter/disciplinas/lob1264.html",
+      "nome"      : " Toxicologia Ambiental",
+      "nomeascii" : " Toxicologia Ambiental",
+      "docentes"     : ""
     } ,
   
     {
@@ -1355,14 +1347,6 @@
     } ,
   
     {
-      "title"     : "LOQ4081",
-      "url"       : "/pyjupiter/disciplinas/loq4081.html",
-      "nome"      : " Química Orgânica",
-      "nomeascii" : " Quimica Organica",
-      "docentes"     : "2346890 - Eliane Corrêa Pedrozo"
-    } ,
-  
-    {
       "title"     : "LOQ4083",
       "url"       : "/pyjupiter/disciplinas/loq4083.html",
       "nome"      : " Fenômenos de Transporte I",
@@ -1371,18 +1355,18 @@
     } ,
   
     {
-      "title"     : "LOB1207",
-      "url"       : "/pyjupiter/disciplinas/lob1207.html",
-      "nome"      : " Poluição Ambiental I",
-      "nomeascii" : " Poluicao Ambiental I",
-      "docentes"     : "8855158 - Morun Bernardino Neto"
+      "title"     : "LOB1040",
+      "url"       : "/pyjupiter/disciplinas/lob1040.html",
+      "nome"      : " Laboratório de Eletricidade",
+      "nomeascii" : " Laboratorio de Eletricidade",
+      "docentes"     : "230696 - Carlos José Todero Peixoto"
     } ,
   
     {
-      "title"     : "LOB1208",
-      "url"       : "/pyjupiter/disciplinas/lob1208.html",
-      "nome"      : " Química Analítica Ambiental I",
-      "nomeascii" : " Quimica Analitica Ambiental I",
+      "title"     : "LOB1212",
+      "url"       : "/pyjupiter/disciplinas/lob1212.html",
+      "nome"      : " Química Analítica Ambiental II",
+      "nomeascii" : " Quimica Analitica Ambiental II",
       "docentes"     : "8855158 - Morun Bernardino Neto"
     } ,
   
@@ -1435,22 +1419,6 @@
     } ,
   
     {
-      "title"     : "LOB1211",
-      "url"       : "/pyjupiter/disciplinas/lob1211.html",
-      "nome"      : " Poluição Ambiental II",
-      "nomeascii" : " Poluicao Ambiental II",
-      "docentes"     : "5840650 - Janaína Ferreira Batista Leal"
-    } ,
-  
-    {
-      "title"     : "LOB1212",
-      "url"       : "/pyjupiter/disciplinas/lob1212.html",
-      "nome"      : " Química Analítica Ambiental II",
-      "nomeascii" : " Quimica Analitica Ambiental II",
-      "docentes"     : "8855158 - Morun Bernardino Neto"
-    } ,
-  
-    {
       "title"     : "LOB1213",
       "url"       : "/pyjupiter/disciplinas/lob1213.html",
       "nome"      : " Climatologia Aplicada",
@@ -1467,6 +1435,46 @@
     } ,
   
     {
+      "title"     : "LOB1217",
+      "url"       : "/pyjupiter/disciplinas/lob1217.html",
+      "nome"      : " Operações Unitárias e Processos",
+      "nomeascii" : " Operacoes Unitarias e Processos",
+      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
+    } ,
+  
+    {
+      "title"     : "LOB1235",
+      "url"       : "/pyjupiter/disciplinas/lob1235.html",
+      "nome"      : " Avaliação de Impactos Ambientais",
+      "nomeascii" : " Avaliacao de Impactos Ambientais",
+      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
+    } ,
+  
+    {
+      "title"     : "LOB1265",
+      "url"       : "/pyjupiter/disciplinas/lob1265.html",
+      "nome"      : " Epidemiologia Ambiental",
+      "nomeascii" : " Epidemiologia Ambiental",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4001",
+      "url"       : "/pyjupiter/disciplinas/loq4001.html",
+      "nome"      : " Análise Instrumental",
+      "nomeascii" : " Analise Instrumental",
+      "docentes"     : "2341641 - Maria da Rosa Capri"
+    } ,
+  
+    {
+      "title"     : "LOB1211",
+      "url"       : "/pyjupiter/disciplinas/lob1211.html",
+      "nome"      : " Poluição Atmosférica",
+      "nomeascii" : " Poluicao Atmosferica",
+      "docentes"     : "5840650 - Janaína Ferreira Batista Leal"
+    } ,
+  
+    {
       "title"     : "LOB1215",
       "url"       : "/pyjupiter/disciplinas/lob1215.html",
       "nome"      : " Recursos Energéticos",
@@ -1475,10 +1483,26 @@
     } ,
   
     {
-      "title"     : "LOB1235",
-      "url"       : "/pyjupiter/disciplinas/lob1235.html",
-      "nome"      : " Impactos e Adeqüação Ambiental",
-      "nomeascii" : " Impactos e Adequacao Ambiental",
+      "title"     : "LOB1226",
+      "url"       : "/pyjupiter/disciplinas/lob1226.html",
+      "nome"      : " Recuperação de Áreas Degradadas",
+      "nomeascii" : " Recuperacao de Areas Degradadas",
+      "docentes"     : "5840942 - Marco Aurélio Kondracki de Alcântara"
+    } ,
+  
+    {
+      "title"     : "LOB1232",
+      "url"       : "/pyjupiter/disciplinas/lob1232.html",
+      "nome"      : " Licenciamento Ambiental",
+      "nomeascii" : " Licenciamento Ambiental",
+      "docentes"     : "5817650 - Érica Leonor Romão"
+    } ,
+  
+    {
+      "title"     : "LOB1240",
+      "url"       : "/pyjupiter/disciplinas/lob1240.html",
+      "nome"      : " Geotecnia Ambiental",
+      "nomeascii" : " Geotecnia Ambiental",
       "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
     } ,
   
@@ -1491,59 +1515,11 @@
     } ,
   
     {
-      "title"     : "LOB1217",
-      "url"       : "/pyjupiter/disciplinas/lob1217.html",
-      "nome"      : " Operações Unitárias e Processos",
-      "nomeascii" : " Operacoes Unitarias e Processos",
-      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
-    } ,
-  
-    {
-      "title"     : "LOB1223",
-      "url"       : "/pyjupiter/disciplinas/lob1223.html",
-      "nome"      : " Trabalho de Graduação I",
-      "nomeascii" : " Trabalho de Graduacao I",
-      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
-    } ,
-  
-    {
-      "title"     : "LOB1230",
-      "url"       : "/pyjupiter/disciplinas/lob1230.html",
-      "nome"      : " Ecossistemas Aquáticos e Terrestres",
-      "nomeascii" : " Ecossistemas Aquaticos e Terrestres",
-      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
-    } ,
-  
-    {
-      "title"     : "LOB1232",
-      "url"       : "/pyjupiter/disciplinas/lob1232.html",
-      "nome"      : " Licenciamento Ambiental",
-      "nomeascii" : " Licenciamento Ambiental",
-      "docentes"     : "5817650 - Érica Leonor Romão"
-    } ,
-  
-    {
-      "title"     : "LOB1233",
-      "url"       : "/pyjupiter/disciplinas/lob1233.html",
-      "nome"      : " Caracterização de Bacias Hidrográficas",
-      "nomeascii" : " Caracterizacao de Bacias Hidrograficas",
-      "docentes"     : "9146830 - Danúbia Caporusso Bargos"
-    } ,
-  
-    {
-      "title"     : "LOB1240",
-      "url"       : "/pyjupiter/disciplinas/lob1240.html",
-      "nome"      : " Condicionantes Geológico-geotécnicos em Estudos Ambientais",
-      "nomeascii" : " Condicionantes Geologico-geotecnicos em Estudos Ambientais",
-      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
-    } ,
-  
-    {
-      "title"     : "LOB1257",
-      "url"       : "/pyjupiter/disciplinas/lob1257.html",
-      "nome"      : " Sistema de Abastecimento e Tratamento de Água",
-      "nomeascii" : " Sistema de Abastecimento e Tratamento de Agua",
-      "docentes"     : "7455355 - Robson da Silva Rocha"
+      "title"     : "LOB1057",
+      "url"       : "/pyjupiter/disciplinas/lob1057.html",
+      "nome"      : " Engenharia de Fatores Humanos",
+      "nomeascii" : " Engenharia de Fatores Humanos",
+      "docentes"     : "8767640 - Eduardo Ferro dos Santos8188658 - Maria Auxiliadora Motta Barreto"
     } ,
   
     {
@@ -1555,22 +1531,6 @@
     } ,
   
     {
-      "title"     : "LOB1225",
-      "url"       : "/pyjupiter/disciplinas/lob1225.html",
-      "nome"      : " Tratamento de Águas Residuárias",
-      "nomeascii" : " Tratamento de Aguas Residuarias",
-      "docentes"     : "7455355 - Robson da Silva Rocha"
-    } ,
-  
-    {
-      "title"     : "LOB1226",
-      "url"       : "/pyjupiter/disciplinas/lob1226.html",
-      "nome"      : " Recuperação de Áreas Degradadas",
-      "nomeascii" : " Recuperacao de Areas Degradadas",
-      "docentes"     : "5840942 - Marco Aurélio Kondracki de Alcântara"
-    } ,
-  
-    {
       "title"     : "LOB1228",
       "url"       : "/pyjupiter/disciplinas/lob1228.html",
       "nome"      : " Gestão Ambiental na Empresa",
@@ -1579,11 +1539,27 @@
     } ,
   
     {
-      "title"     : "LOB1229",
-      "url"       : "/pyjupiter/disciplinas/lob1229.html",
-      "nome"      : " Trabalho de Graduação II",
-      "nomeascii" : " Trabalho de Graduacao II",
-      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
+      "title"     : "LOB1255",
+      "url"       : "/pyjupiter/disciplinas/lob1255.html",
+      "nome"      : " Hidrologia Aplicada",
+      "nomeascii" : " Hidrologia Aplicada",
+      "docentes"     : "9146830 - Danúbia Caporusso Bargos7455355 - Robson da Silva Rocha"
+    } ,
+  
+    {
+      "title"     : "LOB1257",
+      "url"       : "/pyjupiter/disciplinas/lob1257.html",
+      "nome"      : " Sistema de Abastecimento e Tratamento de Água",
+      "nomeascii" : " Sistema de Abastecimento e Tratamento de Agua",
+      "docentes"     : "7455355 - Robson da Silva Rocha"
+    } ,
+  
+    {
+      "title"     : "LOT2035",
+      "url"       : "/pyjupiter/disciplinas/lot2035.html",
+      "nome"      : " Tratamento Biológico de Efluentes",
+      "nomeascii" : " Tratamento Biologico de Efluentes",
+      "docentes"     : "1720367 - Teresa Cristina Brazil de Paiva"
     } ,
   
     {
@@ -1595,11 +1571,27 @@
     } ,
   
     {
+      "title"     : "LOB1223",
+      "url"       : "/pyjupiter/disciplinas/lob1223.html",
+      "nome"      : " Trabalho de Graduação I",
+      "nomeascii" : " Trabalho de Graduacao I",
+      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
+    } ,
+  
+    {
       "title"     : "LOB1231",
       "url"       : "/pyjupiter/disciplinas/lob1231.html",
       "nome"      : " Modelagem Matemática Aplicada",
       "nomeascii" : " Modelagem Matematica Aplicada",
       "docentes"     : "229266 - Adriano Francisco Siqueira"
+    } ,
+  
+    {
+      "title"     : "LOB1233",
+      "url"       : "/pyjupiter/disciplinas/lob1233.html",
+      "nome"      : " Caracterização de Bacias Hidrográficas",
+      "nomeascii" : " Caracterizacao de Bacias Hidrograficas",
+      "docentes"     : "9146830 - Danúbia Caporusso Bargos"
     } ,
   
     {
@@ -1611,11 +1603,11 @@
     } ,
   
     {
-      "title"     : "LOB1236",
-      "url"       : "/pyjupiter/disciplinas/lob1236.html",
-      "nome"      : " Ações Mitigadoras de Impactos Ambientais",
-      "nomeascii" : " Acoes Mitigadoras de Impactos Ambientais",
-      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
+      "title"     : "LOB1229",
+      "url"       : "/pyjupiter/disciplinas/lob1229.html",
+      "nome"      : " Trabalho de Graduação II",
+      "nomeascii" : " Trabalho de Graduacao II",
+      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
     } ,
   
     {
@@ -1787,6 +1779,14 @@
     } ,
   
     {
+      "title"     : "LOB1009",
+      "url"       : "/pyjupiter/disciplinas/lob1009.html",
+      "nome"      : " Leitura e Interpretação de Desenho Técnico",
+      "nomeascii" : " Leitura e Interpretacao de Desenho Tecnico",
+      "docentes"     : "5840820 - Gustavo Aristides Santana Martinez"
+    } ,
+  
+    {
       "title"     : "LOT2002",
       "url"       : "/pyjupiter/disciplinas/lot2002.html",
       "nome"      : " Biologia Celular",
@@ -1843,6 +1843,14 @@
     } ,
   
     {
+      "title"     : "LOQ4056",
+      "url"       : "/pyjupiter/disciplinas/loq4056.html",
+      "nome"      : " Química Analítica para Engenharia",
+      "nomeascii" : " Quimica Analitica para Engenharia",
+      "docentes"     : "5840601 - Hélcio José Izário Filho"
+    } ,
+  
+    {
       "title"     : "LOQ4087",
       "url"       : "/pyjupiter/disciplinas/loq4087.html",
       "nome"      : " Termodinâmica Química Aplicada I",
@@ -1864,30 +1872,6 @@
       "nome"      : " Bioquímica I",
       "nomeascii" : " Bioquimica I",
       "docentes"     : "427823 - Adriane Maria Ferreira Milagres"
-    } ,
-  
-    {
-      "title"     : "LOT2060",
-      "url"       : "/pyjupiter/disciplinas/lot2060.html",
-      "nome"      : " Tecnologia de Biopolímeros",
-      "nomeascii" : " Tecnologia de Biopolimeros",
-      "docentes"     : "5111420 - Talita Martins Lacerda"
-    } ,
-  
-    {
-      "title"     : "LOQ4056",
-      "url"       : "/pyjupiter/disciplinas/loq4056.html",
-      "nome"      : " Química Analítica para Engenharia",
-      "nomeascii" : " Quimica Analitica para Engenharia",
-      "docentes"     : "5840601 - Hélcio José Izário Filho"
-    } ,
-  
-    {
-      "title"     : "LOQ4085",
-      "url"       : "/pyjupiter/disciplinas/loq4085.html",
-      "nome"      : " Operações Unitárias I",
-      "nomeascii" : " Operacoes Unitarias I",
-      "docentes"     : "8151869 - Livia Chaguri e Carvalho"
     } ,
   
     {
@@ -1915,11 +1899,19 @@
     } ,
   
     {
-      "title"     : "LOQ4001",
-      "url"       : "/pyjupiter/disciplinas/loq4001.html",
-      "nome"      : " Análise Instrumental",
-      "nomeascii" : " Analise Instrumental",
-      "docentes"     : "2341641 - Maria da Rosa Capri"
+      "title"     : "LOT2030",
+      "url"       : "/pyjupiter/disciplinas/lot2030.html",
+      "nome"      : " Tecnologia de Conversão de Biomassa Vegetal",
+      "nomeascii" : " Tecnologia de Conversao de Biomassa Vegetal",
+      "docentes"     : "2143261 - André Luis Ferraz"
+    } ,
+  
+    {
+      "title"     : "LOT2060",
+      "url"       : "/pyjupiter/disciplinas/lot2060.html",
+      "nome"      : " Tecnologia de Biopolímeros",
+      "nomeascii" : " Tecnologia de Biopolimeros",
+      "docentes"     : "5111420 - Talita Martins Lacerda"
     } ,
   
     {
@@ -1931,14 +1923,6 @@
     } ,
   
     {
-      "title"     : "LOQ4054",
-      "url"       : "/pyjupiter/disciplinas/loq4054.html",
-      "nome"      : " Fenômenos de Transporte III",
-      "nomeascii" : " Fenomenos de Transporte III",
-      "docentes"     : "5840841 - Gilberto Garcia Cortez"
-    } ,
-  
-    {
       "title"     : "LOQ4060",
       "url"       : "/pyjupiter/disciplinas/loq4060.html",
       "nome"      : " Laboratório de Engenharia Química I",
@@ -1947,11 +1931,11 @@
     } ,
   
     {
-      "title"     : "LOQ4086",
-      "url"       : "/pyjupiter/disciplinas/loq4086.html",
-      "nome"      : " Operações Unitárias II",
-      "nomeascii" : " Operacoes Unitarias II",
-      "docentes"     : "8151869 - Livia Chaguri e Carvalho5817372 - Simone de Fátima Medeiros Sampaio"
+      "title"     : "LOQ4085",
+      "url"       : "/pyjupiter/disciplinas/loq4085.html",
+      "nome"      : " Operações Unitárias I",
+      "nomeascii" : " Operacoes Unitarias I",
+      "docentes"     : "8151869 - Livia Chaguri e Carvalho"
     } ,
   
     {
@@ -1979,11 +1963,11 @@
     } ,
   
     {
-      "title"     : "LOQ4057",
-      "url"       : "/pyjupiter/disciplinas/loq4057.html",
-      "nome"      : " Operações Unitárias III",
-      "nomeascii" : " Operacoes Unitarias III",
-      "docentes"     : "5817372 - Simone de Fátima Medeiros Sampaio"
+      "title"     : "LOQ4054",
+      "url"       : "/pyjupiter/disciplinas/loq4054.html",
+      "nome"      : " Fenômenos de Transporte III",
+      "nomeascii" : " Fenomenos de Transporte III",
+      "docentes"     : "5840841 - Gilberto Garcia Cortez"
     } ,
   
     {
@@ -1992,6 +1976,14 @@
       "nome"      : " Laboratório de Engenharia Química II",
       "nomeascii" : " Laboratorio de Engenharia Quimica II",
       "docentes"     : "6666306 - Daniela Helena Pelegrine Guimarães"
+    } ,
+  
+    {
+      "title"     : "LOQ4086",
+      "url"       : "/pyjupiter/disciplinas/loq4086.html",
+      "nome"      : " Operações Unitárias II",
+      "nomeascii" : " Operacoes Unitarias II",
+      "docentes"     : "8151869 - Livia Chaguri e Carvalho5817372 - Simone de Fátima Medeiros Sampaio"
     } ,
   
     {
@@ -2024,6 +2016,14 @@
       "nome"      : " Genética e Biotecnologia Vegetal",
       "nomeascii" : " Genetica e Biotecnologia Vegetal",
       "docentes"     : "8711290 - Elisson Antônio da Costa Romanel"
+    } ,
+  
+    {
+      "title"     : "LOQ4057",
+      "url"       : "/pyjupiter/disciplinas/loq4057.html",
+      "nome"      : " Operações Unitárias III",
+      "nomeascii" : " Operacoes Unitarias III",
+      "docentes"     : "5817372 - Simone de Fátima Medeiros Sampaio"
     } ,
   
     {
@@ -2064,14 +2064,6 @@
       "nome"      : " Reatores Bioquímicos",
       "nomeascii" : " Reatores Bioquimicos",
       "docentes"     : "1112574 - Inês Conceição Roberto"
-    } ,
-  
-    {
-      "title"     : "LOT2035",
-      "url"       : "/pyjupiter/disciplinas/lot2035.html",
-      "nome"      : " Tratamento Biológico de Efluentes",
-      "nomeascii" : " Tratamento Biologico de Efluentes",
-      "docentes"     : "1720367 - Teresa Cristina Brazil de Paiva"
     } ,
   
     {
@@ -2251,14 +2243,6 @@
     } ,
   
     {
-      "title"     : "LOB1046",
-      "url"       : "/pyjupiter/disciplinas/lob1046.html",
-      "nome"      : " Engenharia do Meio Ambiente",
-      "nomeascii" : " Engenharia do Meio Ambiente",
-      "docentes"     : "5840671 - Francisco José Moreira Chaves"
-    } ,
-  
-    {
       "title"     : "LOQ4204",
       "url"       : "/pyjupiter/disciplinas/loq4204.html",
       "nome"      : " Economia Geral",
@@ -2368,14 +2352,6 @@
       "nome"      : " Engenharia da Sustentabilidade",
       "nomeascii" : " Engenharia da Sustentabilidade",
       "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
-      "title"     : "LOB1057",
-      "url"       : "/pyjupiter/disciplinas/lob1057.html",
-      "nome"      : " Engenharia de Fatores Humanos",
-      "nomeascii" : " Engenharia de Fatores Humanos",
-      "docentes"     : "8767640 - Eduardo Ferro dos Santos8188658 - Maria Auxiliadora Motta Barreto"
     } ,
   
     {
@@ -2547,14 +2523,6 @@
     } ,
   
     {
-      "title"     : "LOQ4247",
-      "url"       : "/pyjupiter/disciplinas/loq4247.html",
-      "nome"      : " Desenho Assistido por Computador",
-      "nomeascii" : " Desenho Assistido por Computador",
-      "docentes"     : "8767640 - Eduardo Ferro dos Santos"
-    } ,
-  
-    {
       "title"     : "LOQ4248",
       "url"       : "/pyjupiter/disciplinas/loq4248.html",
       "nome"      : " Marketing Estratégico",
@@ -2579,22 +2547,6 @@
     } ,
   
     {
-      "title"     : "LOQ4055",
-      "url"       : "/pyjupiter/disciplinas/loq4055.html",
-      "nome"      : " Quimica Inorgânica",
-      "nomeascii" : " Quimica Inorganica",
-      "docentes"     : "5840705 - Maria Lúcia Caetano Pinto da Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4033",
-      "url"       : "/pyjupiter/disciplinas/loq4033.html",
-      "nome"      : " Química Inorgânica Experimental",
-      "nomeascii" : " Quimica Inorganica Experimental",
-      "docentes"     : "5840705 - Maria Lúcia Caetano Pinto da Silva"
-    } ,
-  
-    {
       "title"     : "LOQ4037",
       "url"       : "/pyjupiter/disciplinas/loq4037.html",
       "nome"      : " Química Orgânica I",
@@ -2603,19 +2555,11 @@
     } ,
   
     {
-      "title"     : "LOQ4009",
-      "url"       : "/pyjupiter/disciplinas/loq4009.html",
-      "nome"      : " Instrumentação na Industria Química",
-      "nomeascii" : " Instrumentacao na Industria Quimica",
-      "docentes"     : "5840643 - Luiz Carlos de Queiroz"
-    } ,
-  
-    {
-      "title"     : "LOQ4022",
-      "url"       : "/pyjupiter/disciplinas/loq4022.html",
-      "nome"      : " Processos Químicos Industriais I",
-      "nomeascii" : " Processos Quimicos Industriais I",
-      "docentes"     : "4808662 - Lucrécio Fábio dos Santos"
+      "title"     : "LOQ4055",
+      "url"       : "/pyjupiter/disciplinas/loq4055.html",
+      "nome"      : " Quimica Inorgânica",
+      "nomeascii" : " Quimica Inorganica",
+      "docentes"     : "5840705 - Maria Lúcia Caetano Pinto da Silva"
     } ,
   
     {
@@ -2627,14 +2571,6 @@
     } ,
   
     {
-      "title"     : "LOM3022",
-      "url"       : "/pyjupiter/disciplinas/lom3022.html",
-      "nome"      : " Materiais para a  Indústria Química",
-      "nomeascii" : " Materiais para a  Industria Quimica",
-      "docentes"     : "5840963 - Daniela Camargo Vernilli5840820 - Gustavo Aristides Santana Martinez"
-    } ,
-  
-    {
       "title"     : "LOQ4082",
       "url"       : "/pyjupiter/disciplinas/loq4082.html",
       "nome"      : " Corrosão",
@@ -2643,19 +2579,11 @@
     } ,
   
     {
-      "title"     : "LOT2004",
-      "url"       : "/pyjupiter/disciplinas/lot2004.html",
-      "nome"      : " Bioquímica",
-      "nomeascii" : " Bioquimica",
-      "docentes"     : "8711290 - Elisson Antônio da Costa Romanel5111420 - Talita Martins Lacerda"
-    } ,
-  
-    {
-      "title"     : "LOQ4002",
-      "url"       : "/pyjupiter/disciplinas/loq4002.html",
-      "nome"      : " Reatores Quimicos",
-      "nomeascii" : " Reatores Quimicos",
-      "docentes"     : "5963230 - Leandro Gonçalves de Aguiar"
+      "title"     : "LOQ4009",
+      "url"       : "/pyjupiter/disciplinas/loq4009.html",
+      "nome"      : " Instrumentação na Industria Química",
+      "nomeascii" : " Instrumentacao na Industria Quimica",
+      "docentes"     : "5840643 - Luiz Carlos de Queiroz"
     } ,
   
     {
@@ -2667,6 +2595,30 @@
     } ,
   
     {
+      "title"     : "LOT2004",
+      "url"       : "/pyjupiter/disciplinas/lot2004.html",
+      "nome"      : " Bioquímica",
+      "nomeascii" : " Bioquimica",
+      "docentes"     : "8711290 - Elisson Antônio da Costa Romanel5111420 - Talita Martins Lacerda"
+    } ,
+  
+    {
+      "title"     : "LOM3022",
+      "url"       : "/pyjupiter/disciplinas/lom3022.html",
+      "nome"      : " Materiais para a  Indústria Química",
+      "nomeascii" : " Materiais para a  Industria Quimica",
+      "docentes"     : "5840963 - Daniela Camargo Vernilli5840820 - Gustavo Aristides Santana Martinez"
+    } ,
+  
+    {
+      "title"     : "LOQ4002",
+      "url"       : "/pyjupiter/disciplinas/loq4002.html",
+      "nome"      : " Reatores Quimicos",
+      "nomeascii" : " Reatores Quimicos",
+      "docentes"     : "5963230 - Leandro Gonçalves de Aguiar"
+    } ,
+  
+    {
       "title"     : "LOQ4064",
       "url"       : "/pyjupiter/disciplinas/loq4064.html",
       "nome"      : " Engenharia de Processos Quimicos I",
@@ -2675,11 +2627,11 @@
     } ,
   
     {
-      "title"     : "LOQ4023",
-      "url"       : "/pyjupiter/disciplinas/loq4023.html",
-      "nome"      : " Processos Químicos Industriais II",
-      "nomeascii" : " Processos Quimicos Industriais II",
-      "docentes"     : "5840855 - Heizir Ferreira de Castro"
+      "title"     : "LOQ4022",
+      "url"       : "/pyjupiter/disciplinas/loq4022.html",
+      "nome"      : " Processos Químicos Industriais I",
+      "nomeascii" : " Processos Quimicos Industriais I",
+      "docentes"     : "4808662 - Lucrécio Fábio dos Santos"
     } ,
   
     {
@@ -2723,10 +2675,10 @@
     } ,
   
     {
-      "title"     : "LOQ4024",
-      "url"       : "/pyjupiter/disciplinas/loq4024.html",
-      "nome"      : " Processos Químicos Industriais III",
-      "nomeascii" : " Processos Quimicos Industriais III",
+      "title"     : "LOQ4023",
+      "url"       : "/pyjupiter/disciplinas/loq4023.html",
+      "nome"      : " Processos Químicos Industriais II",
+      "nomeascii" : " Processos Quimicos Industriais II",
       "docentes"     : "1285870 - Marcos Villela Barcza"
     } ,
   
@@ -2803,6 +2755,14 @@
     } ,
   
     {
+      "title"     : "LOQ4099",
+      "url"       : "/pyjupiter/disciplinas/loq4099.html",
+      "nome"      : " Engenharia de Cristais Moleculares",
+      "nomeascii" : " Engenharia de Cristais Moleculares",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "8800008",
       "url"       : "/pyjupiter/disciplinas/8800008.html",
       "nome"      : " Projetos Especiais em Engenharia I",
@@ -2840,6 +2800,30 @@
       "nome"      : " Filosofia da Ciência",
       "nomeascii" : " Filosofia da Ciencia",
       "docentes"     : "948230 - Francisco Sodero Toledo"
+    } ,
+  
+    {
+      "title"     : "LOQ4005",
+      "url"       : "/pyjupiter/disciplinas/loq4005.html",
+      "nome"      : " Controle Estatístico de Processos",
+      "nomeascii" : " Controle Estatistico de Processos",
+      "docentes"     : "5840535 - Messias Borges Silva"
+    } ,
+  
+    {
+      "title"     : "LOQ4008",
+      "url"       : "/pyjupiter/disciplinas/loq4008.html",
+      "nome"      : " Gestão Tecnológica",
+      "nomeascii" : " Gestao Tecnologica",
+      "docentes"     : "849935 - Humberto Felipe da Silva"
+    } ,
+  
+    {
+      "title"     : "LOQ4019",
+      "url"       : "/pyjupiter/disciplinas/loq4019.html",
+      "nome"      : " Planejamento de Experimentos",
+      "nomeascii" : " Planejamento de Experimentos",
+      "docentes"     : "5840535 - Messias Borges Silva"
     } ,
   
     {
