@@ -18,6 +18,7 @@ worksheet.set_column('A:A', 12)
 worksheet.set_column('B:B', 48)
 worksheet.set_column('C:C', 12)
 worksheet.set_column('D:D', 48)
+worksheet.set_column('E:E', 48)
     
 row = rc.rows()
 
@@ -25,7 +26,8 @@ r = next(row)
 worksheet.write(r, 0, 'Sigla', bold)
 worksheet.write(r, 1, 'Nome', bold)
 worksheet.write(r, 2, 'NUSP', bold)
-worksheet.write(r, 3, 'Docente', bold)
+worksheet.write(r, 3, 'Docentes responsáveis - atuais', bold)
+worksheet.write(r, 4, 'Docentes responsáveis - proposta', bold)
     
 for index, discpln in sorted(data.items()):
         
@@ -42,10 +44,17 @@ for index, discpln in sorted(data.items()):
             if i == 0:
                 worksheet.write(r, 2, dados_doc[0], rule)
                 worksheet.write(r, 3, dados_doc[1], rule)
+                worksheet.write(r, 4, '', rule)
             else:
                 worksheet.write(r, 2, dados_doc[0])
                 worksheet.write(r, 3, dados_doc[1])
             if i < ndoc-1:
                 r = next(row)
+    else:
+        worksheet.write(r, 2, '', rule)
+        worksheet.write(r, 3, '', rule)
+        worksheet.write(r, 4, '', rule)
+
+    r = next(row)
 
 workbook.close()
