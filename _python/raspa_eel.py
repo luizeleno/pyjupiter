@@ -11,7 +11,7 @@ EQN = 'EQN', '052', '4'
 
 for curso, codigo, hab in [EF, EM, EA, EB, EP, EQD, EQN]:
     URL = f'https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&codcur=88{codigo}&codhab={hab}&tipo=N'
-    print(URL)
+    print(curso)
 
     dados = rc.scrape_curso(URL)
 

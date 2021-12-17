@@ -3164,7 +3164,7 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " qui  08:00  12:00 "
+          horario: " qua  14:00  18:00 "
           prof: "Emerson Gonçalves de Melo "
       vagas:
         - Obrigatoria:
@@ -3222,7 +3222,7 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " seg  16:00  18:00 "
+          horario: " seg  14:00  16:00 "
           prof: "(R) Paulo Atsushi Suzuki "
         - h1:
           horario: " qui  16:00  18:00 "
@@ -3288,8 +3288,8 @@ PEASE, R.A. Troubleshooting Analog Circuits, Newnes, 1991."
       Tipo_da_Turma: "Prática"
       aulas:
         - h0:
-          horario: " qua  14:00  18:00 "
-          prof: "Emerson Gonçalves de Melo "
+          horario: " qui  08:00  12:00 "
+          prof: "Carlos Renato Menegatti "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -4003,7 +4003,7 @@ GROOVER, M. P.; ZIMMERS Jr., E. W. CAD/CAM - Computer-aided design and manufactu
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " qua  19:00  23:00 "
+          horario: " qui  08:00  12:00 "
           prof: " "
       vagas:
         - Obrigatoria:
