@@ -907,29 +907,6 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
           Inscritos: "25"
           Pendentes: "0"
           Matriculados: "0"
-    - 20221N4:
-      Codigo_da_Turma: "20221N4"
-      Inicio: "14/03/2022"
-      Fim: "23/07/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  21:00  23:00 "
-          prof: "Priscila Alves da Silva "
-        - h1:
-          horario: " qui  21:00  23:00 "
-          prof: "Priscila Alves da Silva "
-      vagas:
-        - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "41"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "40"
-          Inscritos: "41"
-          Pendentes: "0"
-          Matriculados: "0"
     - 20221P2:
       Codigo_da_Turma: "20221P2"
       Inicio: "14/03/2022"
@@ -945,12 +922,41 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "22"
+          Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "22"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+    - 20221PN:
+      Codigo_da_Turma: "20221PN"
+      Inicio: "14/03/2022"
+      Fim: "23/07/2022"
+      Tipo_da_Turma: "Teórica"
+      Observacoes: ""
+      aulas:
+        - h0:
+          horario: " ter  21:00  23:00 "
+          prof: " "
+        - h1:
+          horario: " qui  21:00  23:00 "
+          prof: " "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "60"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_Engenharia_de_Producao:
+          Vagas: "21"
+          Inscritos: "21"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "39"
+          Inscritos: "39"
           Pendentes: "0"
           Matriculados: "0"
 - LOB1037:
@@ -6945,12 +6951,12 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "43"
+          Inscritos: "42"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "43"
+          Inscritos: "42"
           Pendentes: "0"
           Matriculados: "0"
 - LOM3015:
@@ -8483,18 +8489,24 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       Inicio: "14/03/2022"
       Fim: "23/07/2022"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qui  21:00  23:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
+          Vagas: "0"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -10308,12 +10320,12 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "44"
+          Inscritos: "43"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "44"
+          Inscritos: "43"
           Pendentes: "0"
           Matriculados: "0"
 - LOB1210:
@@ -10985,12 +10997,12 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "22"
+          Inscritos: "21"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "22"
+          Inscritos: "21"
           Pendentes: "0"
           Matriculados: "0"
 - LOB1212:
@@ -14041,12 +14053,12 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "21"
+          Inscritos: "20"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "21"
+          Inscritos: "20"
           Pendentes: "0"
           Matriculados: "0"
     - 20221N4:
@@ -19061,12 +19073,12 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "35"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "35"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "0"
 - LOQ4009:
