@@ -1,28 +1,26 @@
----
----
+--- --- {% include head.html %} {% include header.html %}
 
-{% include head.html %}
-{% include header.html %}
-
-  <div class="container">
+<div class="container">
     <div class="row">
-      <div class="col-lg-12">
-        {{ content }}
-      </div>
+        <div class="col-lg-12">
+            {{ content }}
+            <hr>
+            <p><i>Última atualização em {{ "now" | date: "%Y-%m-%d %H:%M" }}.</i></p>
+        </div>
     </div>
-  </div>
+</div>
 
 <!-- Script pointing to search-script.js -->
 <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '{{site.baseurl}}/search/search.json',
-  searchResultTemplate: '<li class="list-group-item list-group-item-action"><a class="stretched-link" href="{url}">{title} -{nome}</a></li>'
-})
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{site.baseurl}}/search/search.json',
+        searchResultTemplate: '<li class="list-group-item list-group-item-action"><a class="stretched-link" href="{url}">{title} -{nome}</a></li>'
+    })
 </script>
 
 {% include footer.html %}

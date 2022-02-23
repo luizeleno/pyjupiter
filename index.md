@@ -37,7 +37,3 @@ O projeto [PyJupiter](https://github.com/luizeleno/pyjupiter){: target='_blank'}
 Por enquanto, extraímos apenas dados das disciplinas da EEL, ainda sem informações de turmas, horários, número de vagas e professores ministrantes. Mas já conseguimos gerar as ementas de todas as nossas disciplinas em arquivos `pdf`, `docx` e `xlsx`, o que pode auxiliar também na reformulação dessas ementas visando as novas DCNs.
 
 Para o futuro, o plano é estender a raspagem para mais detalhes dos cursos e disciplinas, além de, ainda mais adiante, montar uma plataforma para a criação de grades horárias pela Comissão de Graduação da EEL. É um plano de longo prazo, com trabalho "da meia-noite às seis" a ser feito pela [equipe]({{site.baseurl}}/equipe/) de voluntários e alunos de conclusão de curso que se interessarem pelo projeto.
-
----
-
-*Última atualização em {{ "now" | date: "%Y-%m-%d %H:%M" }}.*
