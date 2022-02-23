@@ -38,3 +38,6 @@ Por enquanto, extraímos apenas dados das disciplinas da EEL, ainda sem informa�
 
 Para o futuro, o plano é estender a raspagem para mais detalhes dos cursos e disciplinas, além de, ainda mais adiante, montar uma plataforma para a criação de grades horárias pela Comissão de Graduação da EEL. É um plano de longo prazo, com trabalho "da meia-noite às seis" a ser feito pela [equipe]({{site.baseurl}}/equipe/) de voluntários e alunos de conclusão de curso que se interessarem pelo projeto.
 
+---
+
+*Última atualização em {{ "now" | date: "%Y-%m-%d %H:%M" }}.*
