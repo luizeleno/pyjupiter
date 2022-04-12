@@ -1,16 +1,25 @@
-I"�S
+I"{n
 <h2 class="alert alert-dark" id="disciplinas-obrigatórias">Disciplinas obrigatórias</h2>
 
 <h3 class="alert alert-secondary" id="1º-semestre">1º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1003">
-LOB1003
-</a>  Cálculo I</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1003">
+  LOB1003
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1003" tabindex="-1" role="dialog" aria-labelledby=" Cálculo I" aria-hidden="true">
@@ -259,14 +268,20 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1009">
-LOB1009
-</a>  Leitura e Interpretação de Desenho Técnico</p>
-  </li>
-</ul>
+</td>
+<td>
+ Cálculo I
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1009">
+  LOB1009
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1009" tabindex="-1" role="dialog" aria-labelledby=" Leitura e Interpretação de Desenho Técnico" aria-hidden="true">
@@ -442,14 +457,20 @@ LOB1009
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1036">
-LOB1036
-</a>  Geometria Analítica</p>
-  </li>
-</ul>
+</td>
+<td>
+ Leitura e Interpretação de Desenho Técnico
+</td>
+<td>2</td>
+<td>2</td>
+<td>90 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1036">
+  LOB1036
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1036" tabindex="-1" role="dialog" aria-labelledby=" Geometria Analítica" aria-hidden="true">
@@ -694,14 +715,20 @@ LOB1036
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1045">
-LOB1045
-</a>  Leitura e Produção de Textos Acadêmicos</p>
-  </li>
-</ul>
+</td>
+<td>
+ Geometria Analítica
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1045">
+  LOB1045
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1045" tabindex="-1" role="dialog" aria-labelledby=" Leitura e Produção de Textos Acadêmicos" aria-hidden="true">
@@ -905,14 +932,20 @@ LOB1045
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOM3016">
-LOM3016
-</a>  Introdução à  Ciência dos Materiais</p>
-  </li>
-</ul>
+</td>
+<td>
+ Leitura e Produção de Textos Acadêmicos
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOM3016">
+  LOM3016
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOM3016" tabindex="-1" role="dialog" aria-labelledby=" Introdução à  Ciência dos Materiais" aria-hidden="true">
@@ -1092,14 +1125,20 @@ LOM3016
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4100">
-LOQ4100
-</a>  Fundamentos de Química para Engenharia I-B</p>
-  </li>
-</ul>
+</td>
+<td>
+ Introdução à  Ciência dos Materiais
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4100">
+  LOQ4100
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4100" tabindex="-1" role="dialog" aria-labelledby=" Fundamentos de Química para Engenharia I-B" aria-hidden="true">
@@ -1227,14 +1266,20 @@ LOQ4100
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2002">
-LOT2002
-</a>  Biologia Celular</p>
-  </li>
-</ul>
+</td>
+<td>
+ Fundamentos de Química para Engenharia I-B
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2002">
+  LOT2002
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2002" tabindex="-1" role="dialog" aria-labelledby=" Biologia Celular" aria-hidden="true">
@@ -1345,14 +1390,20 @@ LOT2002
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2043">
-LOT2043
-</a>  Introdução à Engenharia Bioquímica</p>
-  </li>
-</ul>
+</td>
+<td>
+ Biologia Celular
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2043">
+  LOT2043
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2043" tabindex="-1" role="dialog" aria-labelledby=" Introdução à Engenharia Bioquímica" aria-hidden="true">
@@ -1460,17 +1511,43 @@ LOT2043
         </div>
     </div>
 </div>
+</td>
+<td>
+ Introdução à Engenharia Bioquímica
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h3 class="alert alert-secondary" id="2º-semestre">2º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1004">
-LOB1004
-</a>  Cálculo II</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1004">
+  LOB1004
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1004" tabindex="-1" role="dialog" aria-labelledby=" Cálculo II" aria-hidden="true">
@@ -1562,14 +1639,20 @@ LOB1004
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1018">
-LOB1018
-</a>  Física I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Cálculo II
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1018">
+  LOB1018
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1018" tabindex="-1" role="dialog" aria-labelledby=" Física I" aria-hidden="true">
@@ -1729,14 +1812,20 @@ LOB1018
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1037">
-LOB1037
-</a>  Àlgebra Linear</p>
-  </li>
-</ul>
+</td>
+<td>
+ Física I
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1037">
+  LOB1037
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1037" tabindex="-1" role="dialog" aria-labelledby=" Àlgebra Linear" aria-hidden="true">
@@ -1826,14 +1915,20 @@ LOB1037
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1038">
-LOB1038
-</a>  Física Experimental I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Àlgebra Linear
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1038">
+  LOB1038
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1038" tabindex="-1" role="dialog" aria-labelledby=" Física Experimental I" aria-hidden="true">
@@ -1981,14 +2076,20 @@ LOB1038
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4095">
-LOQ4095
-</a>  Química Geral Experimental</p>
-  </li>
-</ul>
+</td>
+<td>
+ Física Experimental I
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4095">
+  LOQ4095
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4095" tabindex="-1" role="dialog" aria-labelledby=" Química Geral Experimental" aria-hidden="true">
@@ -2096,14 +2197,20 @@ LOQ4095
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4098">
-LOQ4098
-</a>  Fundamentos de Química para Engenharia II-A</p>
-  </li>
-</ul>
+</td>
+<td>
+ Química Geral Experimental
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4098">
+  LOQ4098
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4098" tabindex="-1" role="dialog" aria-labelledby=" Fundamentos de Química para Engenharia II-A" aria-hidden="true">
@@ -2211,14 +2318,20 @@ LOQ4098
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2040">
-LOT2040
-</a>  Engenharia Genética</p>
-  </li>
-</ul>
+</td>
+<td>
+ Fundamentos de Química para Engenharia II-A
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2040">
+  LOT2040
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2040" tabindex="-1" role="dialog" aria-labelledby=" Engenharia Genética" aria-hidden="true">
@@ -2308,14 +2421,20 @@ LOT2040
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2050">
-LOT2050
-</a>  Microbiologia Experimental</p>
-  </li>
-</ul>
+</td>
+<td>
+ Engenharia Genética
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2050">
+  LOT2050
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2050" tabindex="-1" role="dialog" aria-labelledby=" Microbiologia Experimental" aria-hidden="true">
@@ -2407,14 +2526,20 @@ LOT2050
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2053">
-LOT2053
-</a>  Microbiologia</p>
-  </li>
-</ul>
+</td>
+<td>
+ Microbiologia Experimental
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2053">
+  LOT2053
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2053" tabindex="-1" role="dialog" aria-labelledby=" Microbiologia" aria-hidden="true">
@@ -2506,17 +2631,43 @@ LOT2053
         </div>
     </div>
 </div>
+</td>
+<td>
+ Microbiologia
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h3 class="alert alert-secondary" id="3º-semestre">3º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1012">
-LOB1012
-</a>  Estatística</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1012">
+  LOB1012
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1012" tabindex="-1" role="dialog" aria-labelledby=" Estatística" aria-hidden="true">
@@ -2707,14 +2858,20 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1019">
-LOB1019
-</a>  Física II</p>
-  </li>
-</ul>
+</td>
+<td>
+ Estatística
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1019">
+  LOB1019
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1019" tabindex="-1" role="dialog" aria-labelledby=" Física II" aria-hidden="true">
@@ -2806,14 +2963,20 @@ LOB1019
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1024">
-LOB1024
-</a>  Mecânica</p>
-  </li>
-</ul>
+</td>
+<td>
+ Física II
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1024">
+  LOB1024
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1024" tabindex="-1" role="dialog" aria-labelledby=" Mecânica" aria-hidden="true">
@@ -3034,14 +3197,20 @@ LOB1024
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1052">
-LOB1052
-</a>  Cálculo III</p>
-  </li>
-</ul>
+</td>
+<td>
+ Mecânica
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1052">
+  LOB1052
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1052" tabindex="-1" role="dialog" aria-labelledby=" Cálculo III" aria-hidden="true">
@@ -3294,14 +3463,20 @@ LOB1052
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1056">
-LOB1056
-</a>  Introdução aos Métodos Numéricos e Computacionais</p>
-  </li>
-</ul>
+</td>
+<td>
+ Cálculo III
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1056">
+  LOB1056
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1056" tabindex="-1" role="dialog" aria-labelledby=" Introdução aos Métodos Numéricos e Computacionais" aria-hidden="true">
@@ -3487,14 +3662,20 @@ LOB1056
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4053">
-LOQ4053
-</a>  Balanços de Massa e Energia</p>
-  </li>
-</ul>
+</td>
+<td>
+ Introdução aos Métodos Numéricos e Computacionais
+</td>
+<td>4</td>
+<td>2</td>
+<td>120 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4053">
+  LOQ4053
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4053" tabindex="-1" role="dialog" aria-labelledby=" Balanços de Massa e Energia" aria-hidden="true">
@@ -3642,14 +3823,20 @@ LOQ4053
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2036">
-LOT2036
-</a>  Química Bioinorgânica</p>
-  </li>
-</ul>
+</td>
+<td>
+ Balanços de Massa e Energia
+</td>
+<td>2</td>
+<td>2</td>
+<td>90 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2036">
+  LOT2036
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2036" tabindex="-1" role="dialog" aria-labelledby=" Química Bioinorgânica" aria-hidden="true">
@@ -3766,14 +3953,20 @@ LOT2036
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2059">
-LOT2059
-</a>  Química Orgânica Fundamental</p>
-  </li>
-</ul>
+</td>
+<td>
+ Química Bioinorgânica
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2059">
+  LOT2059
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2059" tabindex="-1" role="dialog" aria-labelledby=" Química Orgânica Fundamental" aria-hidden="true">
@@ -3892,17 +4085,43 @@ LOT2059
         </div>
     </div>
 </div>
+</td>
+<td>
+ Química Orgânica Fundamental
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h3 class="alert alert-secondary" id="4º-semestre">4º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1006">
-LOB1006
-</a>  Cálculo IV</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1006">
+  LOB1006
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1006" tabindex="-1" role="dialog" aria-labelledby=" Cálculo IV" aria-hidden="true">
@@ -4038,14 +4257,20 @@ LOB1006
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1039">
-LOB1039
-</a>  Física Experimental III</p>
-  </li>
-</ul>
+</td>
+<td>
+ Cálculo IV
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1039">
+  LOB1039
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1039" tabindex="-1" role="dialog" aria-labelledby=" Física Experimental III" aria-hidden="true">
@@ -4201,14 +4426,20 @@ LOB1039
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1053">
-LOB1053
-</a>  Física III</p>
-  </li>
-</ul>
+</td>
+<td>
+ Física Experimental III
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1053">
+  LOB1053
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1053" tabindex="-1" role="dialog" aria-labelledby=" Física III" aria-hidden="true">
@@ -4395,14 +4626,20 @@ LOB1053
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4056">
-LOQ4056
-</a>  Química Analítica para Engenharia</p>
-  </li>
-</ul>
+</td>
+<td>
+ Física III
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4056">
+  LOQ4056
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4056" tabindex="-1" role="dialog" aria-labelledby=" Química Analítica para Engenharia" aria-hidden="true">
@@ -4566,14 +4803,20 @@ SKOOG, Douglas A. et al. Fundamentos da química analítica. São Paulo: Editora
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4087">
-LOQ4087
-</a>  Termodinâmica Química Aplicada I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Química Analítica para Engenharia
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4087">
+  LOQ4087
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4087" tabindex="-1" role="dialog" aria-labelledby=" Termodinâmica Química Aplicada I" aria-hidden="true">
@@ -4716,14 +4959,20 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4233">
-LOQ4233
-</a>  Gestão de Negócios</p>
-  </li>
-</ul>
+</td>
+<td>
+ Termodinâmica Química Aplicada I
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4233">
+  LOQ4233
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4233" tabindex="-1" role="dialog" aria-labelledby=" Gestão de Negócios" aria-hidden="true">
@@ -4899,14 +5148,20 @@ LOQ4233
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2005">
-LOT2005
-</a>  Bioquímica Experimental I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Gestão de Negócios
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2005">
+  LOT2005
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2005" tabindex="-1" role="dialog" aria-labelledby=" Bioquímica Experimental I" aria-hidden="true">
@@ -4996,14 +5251,20 @@ LOT2005
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2007">
-LOT2007
-</a>  Bioquímica I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Bioquímica Experimental I
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2007">
+  LOT2007
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2007" tabindex="-1" role="dialog" aria-labelledby=" Bioquímica I" aria-hidden="true">
@@ -5095,17 +5356,43 @@ LOT2007
         </div>
     </div>
 </div>
+</td>
+<td>
+ Bioquímica I
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h3 class="alert alert-secondary" id="5º-semestre">5º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1011">
-LOB1011
-</a>  Eletricidade Aplicada</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1011">
+  LOB1011
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1011" tabindex="-1" role="dialog" aria-labelledby=" Eletricidade Aplicada" aria-hidden="true">
@@ -5261,14 +5548,20 @@ LOB1011
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1040">
-LOB1040
-</a>  Laboratório de Eletricidade</p>
-  </li>
-</ul>
+</td>
+<td>
+ Eletricidade Aplicada
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1040">
+  LOB1040
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1040" tabindex="-1" role="dialog" aria-labelledby=" Laboratório de Eletricidade" aria-hidden="true">
@@ -5424,14 +5717,20 @@ LOB1040
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4001">
-LOQ4001
-</a>  Análise Instrumental</p>
-  </li>
-</ul>
+</td>
+<td>
+ Laboratório de Eletricidade
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4001">
+  LOQ4001
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4001" tabindex="-1" role="dialog" aria-labelledby=" Análise Instrumental" aria-hidden="true">
@@ -5560,14 +5859,20 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4083">
-LOQ4083
-</a>  Fenômenos de Transporte I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Análise Instrumental
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4083">
+  LOQ4083
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4083" tabindex="-1" role="dialog" aria-labelledby=" Fenômenos de Transporte I" aria-hidden="true">
@@ -5663,14 +5968,20 @@ LOQ4083
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4088">
-LOQ4088
-</a>  Termodinâmica Química Aplicada II</p>
-  </li>
-</ul>
+</td>
+<td>
+ Fenômenos de Transporte I
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4088">
+  LOQ4088
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4088" tabindex="-1" role="dialog" aria-labelledby=" Termodinâmica Química Aplicada II" aria-hidden="true">
@@ -5827,14 +6138,20 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4209">
-LOQ4209
-</a>  Engenharia da Qualidade</p>
-  </li>
-</ul>
+</td>
+<td>
+ Termodinâmica Química Aplicada II
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4209">
+  LOQ4209
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4209" tabindex="-1" role="dialog" aria-labelledby=" Engenharia da Qualidade" aria-hidden="true">
@@ -5990,14 +6307,20 @@ LOQ4209
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2006">
-LOT2006
-</a>  Bioquímica Experimental II</p>
-  </li>
-</ul>
+</td>
+<td>
+ Engenharia da Qualidade
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2006">
+  LOT2006
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2006" tabindex="-1" role="dialog" aria-labelledby=" Bioquímica Experimental II" aria-hidden="true">
@@ -6125,14 +6448,20 @@ LOT2006
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2008">
-LOT2008
-</a>  Bioquímica II</p>
-  </li>
-</ul>
+</td>
+<td>
+ Bioquímica Experimental II
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2008">
+  LOT2008
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2008" tabindex="-1" role="dialog" aria-labelledby=" Bioquímica II" aria-hidden="true">
@@ -6249,14 +6578,20 @@ LOT2008
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2030">
-LOT2030
-</a>  Tecnologia de Conversão de Biomassa Vegetal</p>
-  </li>
-</ul>
+</td>
+<td>
+ Bioquímica II
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2030">
+  LOT2030
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2030" tabindex="-1" role="dialog" aria-labelledby=" Tecnologia de Conversão de Biomassa Vegetal" aria-hidden="true">
@@ -6373,14 +6708,20 @@ LOT2030
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2060">
-LOT2060
-</a>  Tecnologia de Biopolímeros</p>
-  </li>
-</ul>
+</td>
+<td>
+ Tecnologia de Conversão de Biomassa Vegetal
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2060">
+  LOT2060
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2060" tabindex="-1" role="dialog" aria-labelledby=" Tecnologia de Biopolímeros" aria-hidden="true">
@@ -6494,17 +6835,43 @@ LOT2060
         </div>
     </div>
 </div>
+</td>
+<td>
+ Tecnologia de Biopolímeros
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h3 class="alert alert-secondary" id="6º-semestre">6º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4003">
-LOQ4003
-</a>  Cinética Química Aplicada</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4003">
+  LOQ4003
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4003" tabindex="-1" role="dialog" aria-labelledby=" Cinética Química Aplicada" aria-hidden="true">
@@ -6632,14 +6999,20 @@ LOQ4003
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4060">
-LOQ4060
-</a>  Laboratório de Engenharia Química I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Cinética Química Aplicada
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4060">
+  LOQ4060
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4060" tabindex="-1" role="dialog" aria-labelledby=" Laboratório de Engenharia Química I" aria-hidden="true">
@@ -6781,14 +7154,20 @@ LOQ4060
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4084">
-LOQ4084
-</a>  Fenômenos de Transporte II</p>
-  </li>
-</ul>
+</td>
+<td>
+ Laboratório de Engenharia Química I
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4084">
+  LOQ4084
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4084" tabindex="-1" role="dialog" aria-labelledby=" Fenômenos de Transporte II" aria-hidden="true">
@@ -6943,14 +7322,20 @@ LOQ4084
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4085">
-LOQ4085
-</a>  Operações Unitárias I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Fenômenos de Transporte II
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4085">
+  LOQ4085
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4085" tabindex="-1" role="dialog" aria-labelledby=" Operações Unitárias I" aria-hidden="true">
@@ -7084,14 +7469,20 @@ LOQ4085
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2028">
-LOT2028
-</a>  Tecnologia de Processos Fermentativos</p>
-  </li>
-</ul>
+</td>
+<td>
+ Operações Unitárias I
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2028">
+  LOT2028
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2028" tabindex="-1" role="dialog" aria-labelledby=" Tecnologia de Processos Fermentativos" aria-hidden="true">
@@ -7183,14 +7574,20 @@ LOT2028
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2035">
-LOT2035
-</a>  Tratamento Biológico de Efluentes</p>
-  </li>
-</ul>
+</td>
+<td>
+ Tecnologia de Processos Fermentativos
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2035">
+  LOT2035
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2035" tabindex="-1" role="dialog" aria-labelledby=" Tratamento Biológico de Efluentes" aria-hidden="true">
@@ -7280,14 +7677,20 @@ LOT2035
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2054">
-LOT2054
-</a>  Engenharia de Segurança do Trabalho e Biossegurança</p>
-  </li>
-</ul>
+</td>
+<td>
+ Tratamento Biológico de Efluentes
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2054">
+  LOT2054
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2054" tabindex="-1" role="dialog" aria-labelledby=" Engenharia de Segurança do Trabalho e Biossegurança" aria-hidden="true">
@@ -7377,14 +7780,20 @@ LOT2054
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2058">
-LOT2058
-</a>  Fundamentos de Engenharia Econômica</p>
-  </li>
-</ul>
+</td>
+<td>
+ Engenharia de Segurança do Trabalho e Biossegurança
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2058">
+  LOT2058
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2058" tabindex="-1" role="dialog" aria-labelledby=" Fundamentos de Engenharia Econômica" aria-hidden="true">
@@ -7476,17 +7885,43 @@ LOT2058
         </div>
     </div>
 </div>
+</td>
+<td>
+ Fundamentos de Engenharia Econômica
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h3 class="alert alert-secondary" id="7º-semestre">7º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4054">
-LOQ4054
-</a>  Fenômenos de Transporte III</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4054">
+  LOQ4054
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4054" tabindex="-1" role="dialog" aria-labelledby=" Fenômenos de Transporte III" aria-hidden="true">
@@ -7614,14 +8049,20 @@ LOQ4054
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4061">
-LOQ4061
-</a>  Laboratório de Engenharia Química II</p>
-  </li>
-</ul>
+</td>
+<td>
+ Fenômenos de Transporte III
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4061">
+  LOQ4061
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4061" tabindex="-1" role="dialog" aria-labelledby=" Laboratório de Engenharia Química II" aria-hidden="true">
@@ -7751,14 +8192,20 @@ LOQ4061
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4086">
-LOQ4086
-</a>  Operações Unitárias II</p>
-  </li>
-</ul>
+</td>
+<td>
+ Laboratório de Engenharia Química II
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4086">
+  LOQ4086
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4086" tabindex="-1" role="dialog" aria-labelledby=" Operações Unitárias II" aria-hidden="true">
@@ -7888,14 +8335,20 @@ LOQ4086
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4250">
-LOQ4250
-</a>  Fundamentos de Administração da Produção</p>
-  </li>
-</ul>
+</td>
+<td>
+ Operações Unitárias II
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4250">
+  LOQ4250
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4250" tabindex="-1" role="dialog" aria-labelledby=" Fundamentos de Administração da Produção" aria-hidden="true">
@@ -8037,14 +8490,20 @@ LOQ4250
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2012">
-LOT2012
-</a>  Engenharia Ambiental</p>
-  </li>
-</ul>
+</td>
+<td>
+ Fundamentos de Administração da Produção
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2012">
+  LOT2012
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2012" tabindex="-1" role="dialog" aria-labelledby=" Engenharia Ambiental" aria-hidden="true">
@@ -8161,14 +8620,20 @@ LOT2012
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2013">
-LOT2013
-</a>  Engenharia Bioquímica I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Engenharia Ambiental
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2013">
+  LOT2013
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2013" tabindex="-1" role="dialog" aria-labelledby=" Engenharia Bioquímica I" aria-hidden="true">
@@ -8282,14 +8747,20 @@ LOT2013
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2017">
-LOT2017
-</a>  Enzimologia</p>
-  </li>
-</ul>
+</td>
+<td>
+ Engenharia Bioquímica I
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2017">
+  LOT2017
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2017" tabindex="-1" role="dialog" aria-labelledby=" Enzimologia" aria-hidden="true">
@@ -8407,14 +8878,20 @@ LOT2017
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2049">
-LOT2049
-</a>  Genética e Biotecnologia Vegetal</p>
-  </li>
-</ul>
+</td>
+<td>
+ Enzimologia
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2049">
+  LOT2049
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2049" tabindex="-1" role="dialog" aria-labelledby=" Genética e Biotecnologia Vegetal" aria-hidden="true">
@@ -8532,17 +9009,43 @@ LOT2049
         </div>
     </div>
 </div>
+</td>
+<td>
+ Genética e Biotecnologia Vegetal
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h3 class="alert alert-secondary" id="8º-semestre">8º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4057">
-LOQ4057
-</a>  Operações Unitárias III</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4057">
+  LOQ4057
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4057" tabindex="-1" role="dialog" aria-labelledby=" Operações Unitárias III" aria-hidden="true">
@@ -8670,14 +9173,20 @@ LOQ4057
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4062">
-LOQ4062
-</a>  Laboratório de Engenharia Química III</p>
-  </li>
-</ul>
+</td>
+<td>
+ Operações Unitárias III
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4062">
+  LOQ4062
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4062" tabindex="-1" role="dialog" aria-labelledby=" Laboratório de Engenharia Química III" aria-hidden="true">
@@ -8823,14 +9332,20 @@ LOQ4062
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2015">
-LOT2015
-</a>  Engenharia Bioquímica II</p>
-  </li>
-</ul>
+</td>
+<td>
+ Laboratório de Engenharia Química III
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2015">
+  LOT2015
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2015" tabindex="-1" role="dialog" aria-labelledby=" Engenharia Bioquímica II" aria-hidden="true">
@@ -8920,14 +9435,20 @@ LOT2015
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2022">
-LOT2022
-</a>  Modelagem e Simulação de Processos Biotecnológicos</p>
-  </li>
-</ul>
+</td>
+<td>
+ Engenharia Bioquímica II
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2022">
+  LOT2022
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2022" tabindex="-1" role="dialog" aria-labelledby=" Modelagem e Simulação de Processos Biotecnológicos" aria-hidden="true">
@@ -9019,14 +9540,20 @@ LOT2022
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2023">
-LOT2023
-</a>  Processos Bioquímicos Industriais</p>
-  </li>
-</ul>
+</td>
+<td>
+ Modelagem e Simulação de Processos Biotecnológicos
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2023">
+  LOT2023
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2023" tabindex="-1" role="dialog" aria-labelledby=" Processos Bioquímicos Industriais" aria-hidden="true">
@@ -9118,14 +9645,20 @@ LOT2023
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2025">
-LOT2025
-</a>  Reatores Bioquímicos</p>
-  </li>
-</ul>
+</td>
+<td>
+ Processos Bioquímicos Industriais
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2025">
+  LOT2025
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2025" tabindex="-1" role="dialog" aria-labelledby=" Reatores Bioquímicos" aria-hidden="true">
@@ -9217,14 +9750,20 @@ LOT2025
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2037">
-LOT2037
-</a>  Instrumentação e Controle de Bioprocessos</p>
-  </li>
-</ul>
+</td>
+<td>
+ Reatores Bioquímicos
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2037">
+  LOT2037
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2037" tabindex="-1" role="dialog" aria-labelledby=" Instrumentação e Controle de Bioprocessos" aria-hidden="true">
@@ -9326,14 +9865,20 @@ LOT2037
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2047">
-LOT2047
-</a>  Laboratório de Engenharia Bioquímica</p>
-  </li>
-</ul>
+</td>
+<td>
+ Instrumentação e Controle de Bioprocessos
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2047">
+  LOT2047
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2047" tabindex="-1" role="dialog" aria-labelledby=" Laboratório de Engenharia Bioquímica" aria-hidden="true">
@@ -9425,14 +9970,20 @@ LOT2047
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1008">
-LOB1008
-</a>  Ciência, Tecnologia e Sociedade</p>
-  </li>
-</ul>
+</td>
+<td>
+ Laboratório de Engenharia Bioquímica
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1008">
+  LOB1008
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1008" tabindex="-1" role="dialog" aria-labelledby=" Ciência, Tecnologia e Sociedade" aria-hidden="true">
@@ -9542,14 +10093,20 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1010">
-LOB1010
-</a>  Direito  Aplicado à Engenharia</p>
-  </li>
-</ul>
+</td>
+<td>
+ Ciência, Tecnologia e Sociedade
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1010">
+  LOB1010
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1010" tabindex="-1" role="dialog" aria-labelledby=" Direito  Aplicado à Engenharia" aria-hidden="true">
@@ -9691,14 +10248,20 @@ LOB1010
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1031">
-LOB1031
-</a>  Psicologia Organizacional e do Trabalho</p>
-  </li>
-</ul>
+</td>
+<td>
+ Direito  Aplicado à Engenharia
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1031">
+  LOB1031
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1031" tabindex="-1" role="dialog" aria-labelledby=" Psicologia Organizacional e do Trabalho" aria-hidden="true">
@@ -9840,14 +10403,20 @@ LOB1031
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4234">
-LOQ4234
-</a>  Empreendedorismo</p>
-  </li>
-</ul>
+</td>
+<td>
+ Psicologia Organizacional e do Trabalho
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4234">
+  LOQ4234
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4234" tabindex="-1" role="dialog" aria-labelledby=" Empreendedorismo" aria-hidden="true">
@@ -9967,17 +10536,43 @@ LOQ4234
         </div>
     </div>
 </div>
+</td>
+<td>
+ Empreendedorismo
+</td>
+<td>2</td>
+<td>1</td>
+<td>60 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h3 class="alert alert-secondary" id="9º-semestre">9º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2038">
-LOT2038
-</a>  Tecnologia de Bebidas</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2038">
+  LOT2038
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2038" tabindex="-1" role="dialog" aria-labelledby=" Tecnologia de Bebidas" aria-hidden="true">
@@ -10093,14 +10688,20 @@ LOT2038
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2052">
-LOT2052
-</a>  Tecnologia de Bebidas Experimental</p>
-  </li>
-</ul>
+</td>
+<td>
+ Tecnologia de Bebidas
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2052">
+  LOT2052
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2052" tabindex="-1" role="dialog" aria-labelledby=" Tecnologia de Bebidas Experimental" aria-hidden="true">
@@ -10216,14 +10817,20 @@ LOT2052
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2055">
-LOT2055
-</a>  Estatística em Bioprocessos</p>
-  </li>
-</ul>
+</td>
+<td>
+ Tecnologia de Bebidas Experimental
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2055">
+  LOT2055
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2055" tabindex="-1" role="dialog" aria-labelledby=" Estatística em Bioprocessos" aria-hidden="true">
@@ -10339,14 +10946,20 @@ LOT2055
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2056">
-LOT2056
-</a>  Trabalho de Conclusão de Curso I</p>
-  </li>
-</ul>
+</td>
+<td>
+ Estatística em Bioprocessos
+</td>
+<td>2</td>
+<td>1</td>
+<td>60 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2056">
+  LOT2056
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2056" tabindex="-1" role="dialog" aria-labelledby=" Trabalho de Conclusão de Curso I" aria-hidden="true">
@@ -10462,17 +11075,43 @@ LOT2056
         </div>
     </div>
 </div>
+</td>
+<td>
+ Trabalho de Conclusão de Curso I
+</td>
+<td>1</td>
+<td>1</td>
+<td>45 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h3 class="alert alert-secondary" id="10º-semestre">10º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2044">
-LOT2044
-</a>  Estágio Supervisionado</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2044">
+  LOT2044
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2044" tabindex="-1" role="dialog" aria-labelledby=" Estágio Supervisionado" aria-hidden="true">
@@ -10634,14 +11273,20 @@ LOT2044
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2051">
-LOT2051
-</a>  Tecnologia do Cultivo de Células Animais</p>
-  </li>
-</ul>
+</td>
+<td>
+ Estágio Supervisionado
+</td>
+<td>0</td>
+<td>6</td>
+<td>180 h   (    Estágio: 180 h         )</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2051">
+  LOT2051
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2051" tabindex="-1" role="dialog" aria-labelledby=" Tecnologia do Cultivo de Células Animais" aria-hidden="true">
@@ -10731,14 +11376,20 @@ LOT2051
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2057">
-LOT2057
-</a>  Trabalho de Conclusão de Curso II</p>
-  </li>
-</ul>
+</td>
+<td>
+ Tecnologia do Cultivo de Células Animais
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2057">
+  LOT2057
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2057" tabindex="-1" role="dialog" aria-labelledby=" Trabalho de Conclusão de Curso II" aria-hidden="true">
@@ -10854,19 +11505,45 @@ LOT2057
         </div>
     </div>
 </div>
+</td>
+<td>
+ Trabalho de Conclusão de Curso II
+</td>
+<td>1</td>
+<td>2</td>
+<td>75 h</td>
+</tr><tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
 
 <h2 class="alert alert-dark" id="disciplinas-eletivas">Disciplinas eletivas</h2>
 
 <h3 class="alert alert-secondary" id="4º-semestre-1">4º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2039">
-LOT2039
-</a>  Estrutura e Química de Materiais Lignocelulósicos</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+<tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2039">
+  LOT2039
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2039" tabindex="-1" role="dialog" aria-labelledby=" Estrutura e Química de Materiais Lignocelulósicos" aria-hidden="true">
@@ -10950,17 +11627,34 @@ Será considerado aprovado o aluno com NF&gt;= 5,0 e 70% de freqüência no curs
         </div>
     </div>
 </div>
+</td>
+<td>
+ Estrutura e Química de Materiais Lignocelulósicos
+</td>
+<td>3</td>
+<td>0</td>
+<td>45 h</td>
+</tr></table>
 
 <h3 class="alert alert-secondary" id="8º-semestre-1">8º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1047">
-LOB1047
-</a>  Tópicos Especiais de Produção de Textos Acadêmicos</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+<tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOB1047">
+  LOB1047
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOB1047" tabindex="-1" role="dialog" aria-labelledby=" Tópicos Especiais de Produção de Textos Acadêmicos" aria-hidden="true">
@@ -11043,14 +11737,20 @@ LOB1047
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4052">
-LOQ4052
-</a>  Tópicos Especiais de Gestão e Produção</p>
-  </li>
-</ul>
+</td>
+<td>
+ Tópicos Especiais de Produção de Textos Acadêmicos
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4052">
+  LOQ4052
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4052" tabindex="-1" role="dialog" aria-labelledby=" Tópicos Especiais de Gestão e Produção" aria-hidden="true">
@@ -11140,14 +11840,20 @@ LOQ4052
         </div>
     </div>
 </div>
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2026">
-LOT2026
-</a>  Tecnologia de Alimentos</p>
-  </li>
-</ul>
+</td>
+<td>
+ Tópicos Especiais de Gestão e Produção
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr>
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOT2026">
+  LOT2026
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOT2026" tabindex="-1" role="dialog" aria-labelledby=" Tecnologia de Alimentos" aria-hidden="true">
@@ -11229,17 +11935,34 @@ LOT2026
         </div>
     </div>
 </div>
+</td>
+<td>
+ Tecnologia de Alimentos
+</td>
+<td>4</td>
+<td>0</td>
+<td>60 h</td>
+</tr></table>
 
 <h3 class="alert alert-secondary" id="10º-semestre-1">10º semestre</h3>
 
-<ul>
-  <li>
-    <!-- Button trigger modal -->
-    <p><a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4235">
-LOQ4235
-</a>  Tópicos Especiais de Gestão de Negócios</p>
-  </li>
-</ul>
+<table class="table table-hover">
+<thead>
+<tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+
+<tr>
+<td>
+<!-- Button trigger modal -->
+<a type="button" class="btn btn-primary" data-toggle="modal" data-target="#EELLOQ4235">
+  LOQ4235
+</a>
 
 <!-- Modal -->
 <div class="modal fade" id="EELLOQ4235" tabindex="-1" role="dialog" aria-labelledby=" Tópicos Especiais de Gestão de Negócios" aria-hidden="true">
@@ -11321,5 +12044,13 @@ LOQ4235
         </div>
     </div>
 </div>
+</td>
+<td>
+ Tópicos Especiais de Gestão de Negócios
+</td>
+<td>2</td>
+<td>0</td>
+<td>30 h</td>
+</tr></table>
 
 :ET

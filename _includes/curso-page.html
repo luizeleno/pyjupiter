@@ -1,0 +1,99 @@
+{% assign lista = '' %}
+{% for curso in include.curso %}
+    {% assign disc = site.data.disciplinas | where: 'sigla', curso %}
+    {% assign lista = lista | concat: disc %}
+{% endfor %}
+
+
+## Disciplinas obrigatórias
+{: .alert .alert-dark}
+
+{% assign disciplinas = lista | where: 'tipo', 'Obrigatórias' %}
+
+{% for n in (1..include.nsem) %}
+
+### {{n}}º semestre
+{: .alert .alert-secondary}
+
+{%assign ns = n | downcase %}
+
+{% assign sem = disciplinas | where: include.curso_sem, ns %}
+
+<table class="table table-hover">
+<thead>
+    <tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+{% for disc in sem %}
+<tr>
+<td>
+{% include disciplina-modal.html disciplina=disc curso=include.label %}
+</td>
+<td>
+{{disc.nome}}
+</td>
+<td>{{disc.CA}}</td>
+<td>{{disc.CT}}</td>
+<td>{{disc.CH}}</td>
+</tr>
+{%- endfor -%}
+<tfoot>
+<tr>
+<td></td>
+<td style="text-align:right"><b>Total:</b></td>
+<td>26</td>
+<td>0</td>
+<td>390</td>
+</tr>
+</tfoot>
+</table>
+
+{% endfor %}
+
+## Disciplinas eletivas
+{: .alert .alert-dark}
+
+{% assign disciplinas = lista | where: 'tipo', 'Optativas' %}
+
+{% for n in (1..include.nsem) %}
+
+{% assign sem = disciplinas | where: include.curso_sem, n %}
+
+{% if sem.size > 0 %}
+
+### {{ n }}º semestre
+{: .alert .alert-secondary}
+
+<table class="table table-hover">
+<thead>
+<tr>
+      <th scope="col">Código</th>
+      <th scope="col">Nome</th>
+      <th scope="col">CA</th>
+      <th scope="col">CT</th>
+      <th scope="col">CH</th>
+    </tr>
+</thead>
+{% for disc in sem %}
+<tr>
+<td>
+{% include disciplina-modal.html disciplina=disc curso=include.label %}
+</td>
+<td>
+{{disc.nome}}
+</td>
+<td>{{disc.CA}}</td>
+<td>{{disc.CT}}</td>
+<td>{{disc.CH}}</td>
+</tr>
+{%- endfor -%}
+</table>
+
+{% endif %}
+
+{% endfor %}
