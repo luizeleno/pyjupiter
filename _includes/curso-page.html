@@ -4,7 +4,6 @@
     {% assign lista = lista | concat: disc %}
 {% endfor %}
 
-
 ## Disciplinas obrigatórias
 {: .alert .alert-dark}
 
@@ -12,10 +11,14 @@
 
 {% for n in (1..include.nsem) %}
 
+{% assign CA=0 %}
+{% assign CT=0 %}
+
+
 ### {{n}}º semestre
 {: .alert .alert-secondary}
 
-{%assign ns = n | downcase %}
+{% assign ns = n | downcase %}
 
 {% assign sem = disciplinas | where: include.curso_sem, ns %}
 
@@ -29,7 +32,9 @@
       <th scope="col">CH</th>
     </tr>
 </thead>
+
 {% for disc in sem %}
+
 <tr>
 <td>
 {% include disciplina-modal.html disciplina=disc curso=include.label %}
@@ -41,14 +46,22 @@
 <td>{{disc.CT}}</td>
 <td>{{disc.CH}}</td>
 </tr>
+
+{% assign CA=CA | plus: disc.CA  %}
+{% assign CT=CT | plus: disc.CT  %}
+
 {%- endfor -%}
+
 <tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>{{CA}}</td>
+<td>{{CT}}</td>
+{% assign CA=CA | times: 15 %}
+{% assign CT=CT | times: 30 %}
+{% assign CH=CA | plus: CT %}
+<td>{{CH}} h</td>
 </tr>
 </tfoot>
 </table>

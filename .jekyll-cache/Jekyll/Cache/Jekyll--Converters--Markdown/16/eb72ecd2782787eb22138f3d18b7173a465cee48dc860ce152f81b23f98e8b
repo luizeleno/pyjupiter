@@ -1,4 +1,4 @@
-I"B�	
+I"��	
 <h2 class="alert alert-dark" id="disciplinas-obrigatórias">Disciplinas obrigatórias</h2>
 
 <h3 class="alert alert-secondary" id="1º-semestre">1º semestre</h3>
@@ -13,6 +13,8 @@
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -276,6 +278,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -449,6 +455,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -707,6 +717,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -868,6 +882,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -987,6 +1005,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1106,6 +1128,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1227,13 +1253,19 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
 <td>26</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>390 h</td>
 </tr>
 </tfoot>
 </table>
@@ -1250,6 +1282,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -1356,6 +1390,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1461,6 +1499,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1564,6 +1606,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1693,6 +1739,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1910,6 +1960,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2031,6 +2085,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2134,6 +2192,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2231,6 +2293,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2351,13 +2417,19 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>30</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>450 h</td>
 </tr>
 </tfoot>
 </table>
@@ -2374,6 +2446,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -2524,6 +2598,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2647,6 +2725,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2816,6 +2898,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3082,6 +3168,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3282,6 +3372,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3475,6 +3569,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3604,6 +3702,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3736,6 +3838,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3873,13 +3979,19 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>30</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>450 h</td>
 </tr>
 </tfoot>
 </table>
@@ -3896,6 +4008,8 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -4101,6 +4215,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4206,6 +4324,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4309,6 +4431,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4456,6 +4582,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4561,6 +4691,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4672,6 +4806,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4783,6 +4921,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4894,13 +5036,19 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>28</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>420 h</td>
 </tr>
 </tfoot>
 </table>
@@ -4917,6 +5065,8 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -5064,6 +5214,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5196,6 +5350,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5328,6 +5486,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5457,6 +5619,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5599,6 +5765,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5732,6 +5902,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5859,6 +6033,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5991,13 +6169,19 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>2</td>
 <td>1</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>30</td>
+<td>1</td>
+
+
+
+<td>480 h</td>
 </tr>
 </tfoot>
 </table>
@@ -6014,6 +6198,8 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -6120,6 +6306,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6227,6 +6417,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6336,6 +6530,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6441,6 +6639,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6550,6 +6752,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6655,6 +6861,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>4</td>
 <td>135 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6761,13 +6971,19 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>25</td>
+<td>4</td>
+
+
+
+<td>495 h</td>
 </tr>
 </tfoot>
 </table>
@@ -6784,6 +7000,8 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -6904,6 +7122,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>2</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7033,6 +7255,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7160,6 +7386,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7289,6 +7519,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7416,6 +7650,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7571,6 +7809,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7759,13 +8001,19 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>22</td>
+<td>2</td>
+
+
+
+<td>390 h</td>
 </tr>
 </tfoot>
 </table>
@@ -7782,6 +8030,8 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -7888,6 +8138,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7993,6 +8247,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>4</td>
 <td>135 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8106,6 +8364,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8275,6 +8537,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8429,13 +8695,19 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>13</td>
+<td>4</td>
+
+
+
+<td>315 h</td>
 </tr>
 </tfoot>
 </table>
@@ -8452,6 +8724,8 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -8608,6 +8882,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8763,6 +9041,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8890,6 +9172,10 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>1</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9019,13 +9305,19 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>2</td>
 <td>4</td>
 <td>150 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>8</td>
+<td>5</td>
+
+
+
+<td>270 h</td>
 </tr>
 </tfoot>
 </table>
@@ -9042,6 +9334,8 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -9223,13 +9517,19 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
 <td>1</td>
 <td>12</td>
 <td>375 h   (    Estágio: 375 h         )</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>1</td>
+<td>12</td>
+
+
+
+<td>375 h</td>
 </tr>
 </tfoot>
 </table>

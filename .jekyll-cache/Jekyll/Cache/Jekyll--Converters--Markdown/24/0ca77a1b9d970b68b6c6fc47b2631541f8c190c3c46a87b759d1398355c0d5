@@ -1,4 +1,4 @@
-I"��
+I"�
 
 <h2 class="alert alert-dark" id="disciplinas-obrigatórias">Disciplinas obrigatórias</h2>
 
@@ -14,6 +14,8 @@
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -277,6 +279,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -450,6 +456,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -708,6 +718,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -869,6 +883,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1086,6 +1104,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1207,6 +1229,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1328,6 +1354,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1468,13 +1498,19 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
 <td>26</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>390 h</td>
 </tr>
 </tfoot>
 </table>
@@ -1491,6 +1527,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -1597,6 +1635,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1720,6 +1762,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1825,6 +1871,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1928,6 +1978,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2057,6 +2111,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2207,6 +2265,10 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2338,6 +2400,10 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2445,6 +2511,10 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
 <td>1</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2566,6 +2636,10 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2686,13 +2760,19 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>28</td>
+<td>1</td>
+
+
+
+<td>450 h</td>
 </tr>
 </tfoot>
 </table>
@@ -2709,6 +2789,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -2914,6 +2996,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3083,6 +3169,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3349,6 +3439,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3549,6 +3643,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3685,6 +3783,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3814,6 +3916,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3944,6 +4050,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4068,6 +4178,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4186,13 +4300,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>30</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>450 h</td>
 </tr>
 </tfoot>
 </table>
@@ -4209,6 +4329,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -4359,6 +4481,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4528,6 +4654,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4635,6 +4765,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4764,6 +4898,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4871,6 +5009,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4976,6 +5118,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5085,6 +5231,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5192,6 +5342,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>1</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5324,13 +5478,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>2</td>
 <td>1</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>28</td>
+<td>2</td>
+
+
+
+<td>480 h</td>
 </tr>
 </tfoot>
 </table>
@@ -5347,6 +5507,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -5478,6 +5640,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5608,6 +5774,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>1</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5754,6 +5924,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5884,6 +6058,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6013,6 +6191,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6146,6 +6328,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6276,6 +6462,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6407,13 +6597,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>30</td>
+<td>1</td>
+
+
+
+<td>480 h</td>
 </tr>
 </tfoot>
 </table>
@@ -6430,6 +6626,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -6542,6 +6740,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6649,6 +6851,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6754,6 +6960,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6886,6 +7096,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>1</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6989,6 +7203,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7098,6 +7316,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7225,6 +7447,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7330,6 +7556,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7518,13 +7748,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>24</td>
+<td>1</td>
+
+
+
+<td>390 h</td>
 </tr>
 </tfoot>
 </table>
@@ -7541,6 +7777,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -7672,6 +7910,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7801,6 +8043,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7930,6 +8176,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8059,6 +8309,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8186,6 +8440,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8317,6 +8575,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8448,6 +8710,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8582,6 +8848,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>1</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8686,13 +8956,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
 <td>26</td>
-<td>0</td>
-<td>390</td>
+<td>1</td>
+
+
+
+<td>420 h</td>
 </tr>
 </tfoot>
 </table>
@@ -8709,6 +8985,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -8865,6 +9143,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9020,6 +9302,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9119,6 +9405,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9228,6 +9518,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9335,6 +9629,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9444,6 +9742,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9551,6 +9853,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9658,6 +9964,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9762,13 +10072,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>24</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>360 h</td>
 </tr>
 </tfoot>
 </table>
@@ -9785,6 +10101,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -9920,6 +10238,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>5</td>
 <td>150 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -10088,13 +10410,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>2</td>
+<td>5</td>
+
+
+
+<td>180 h</td>
 </tr>
 </tfoot>
 </table>
@@ -10111,6 +10439,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -10300,13 +10630,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>6</td>
 <td>180 h   (    Estágio: 180 h         )</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
 <td>0</td>
-<td>390</td>
+<td>6</td>
+
+
+
+<td>180 h</td>
 </tr>
 </tfoot>
 </table>

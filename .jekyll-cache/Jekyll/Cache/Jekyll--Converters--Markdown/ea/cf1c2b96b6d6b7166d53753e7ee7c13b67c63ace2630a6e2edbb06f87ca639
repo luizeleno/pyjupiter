@@ -1,4 +1,4 @@
-I"�
+I"��
 <h2 class="alert alert-dark" id="disciplinas-obrigatórias">Disciplinas obrigatórias</h2>
 
 <h3 class="alert alert-secondary" id="1º-semestre">1º semestre</h3>
@@ -13,6 +13,8 @@
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -276,6 +278,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -534,6 +540,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -751,6 +761,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -872,6 +886,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -991,6 +1009,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1110,6 +1132,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1302,6 +1328,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1421,6 +1451,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>1</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1539,13 +1573,19 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>24</td>
+<td>1</td>
+
+
+
+<td>390 h</td>
 </tr>
 </tfoot>
 </table>
@@ -1562,6 +1602,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -1668,6 +1710,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1841,6 +1887,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1944,6 +1994,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2105,6 +2159,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2200,6 +2258,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2321,6 +2383,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2442,6 +2508,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2575,6 +2645,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>1</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2677,13 +2751,19 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>30</td>
+<td>1</td>
+
+
+
+<td>480 h</td>
 </tr>
 </tfoot>
 </table>
@@ -2700,6 +2780,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -2806,6 +2888,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3040,6 +3126,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3169,6 +3259,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3435,6 +3529,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3634,6 +3732,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>2</td>
 <td>120 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3764,6 +3866,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3957,6 +4063,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4118,6 +4228,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>2</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4247,13 +4361,19 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>30</td>
+<td>4</td>
+
+
+
+<td>570 h</td>
 </tr>
 </tfoot>
 </table>
@@ -4270,6 +4390,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -4420,6 +4542,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4624,6 +4750,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4793,6 +4923,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4993,6 +5127,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5096,6 +5234,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5201,6 +5343,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5348,6 +5494,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5486,6 +5636,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5594,13 +5748,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>30</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>450 h</td>
 </tr>
 </tfoot>
 </table>
@@ -5617,6 +5777,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -5787,6 +5949,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5892,6 +6058,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6061,6 +6231,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6164,6 +6338,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6291,6 +6469,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6410,6 +6592,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6534,6 +6720,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>1</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6661,6 +6851,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6829,6 +7023,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6952,6 +7150,10 @@ SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company.</p>
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7140,13 +7342,19 @@ SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company.</p>
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>30</td>
+<td>1</td>
+
+
+
+<td>480 h</td>
 </tr>
 </tfoot>
 </table>
@@ -7163,6 +7371,8 @@ SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company.</p>
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -7270,6 +7480,10 @@ Bibliografia complementar: TORRES, C., Lélis, J.C., Garantia de sucesso em gest
 <td>1</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7365,6 +7579,10 @@ Bibliografia complementar: TORRES, C., Lélis, J.C., Garantia de sucesso em gest
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7468,6 +7686,10 @@ Bibliografia complementar: TORRES, C., Lélis, J.C., Garantia de sucesso em gest
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7571,6 +7793,10 @@ Bibliografia complementar: TORRES, C., Lélis, J.C., Garantia de sucesso em gest
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7674,6 +7900,10 @@ Bibliografia complementar: TORRES, C., Lélis, J.C., Garantia de sucesso em gest
 <td>1</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7777,6 +8007,10 @@ Bibliografia complementar: TORRES, C., Lélis, J.C., Garantia de sucesso em gest
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7918,13 +8152,19 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
 <td>26</td>
-<td>0</td>
-<td>390</td>
+<td>2</td>
+
+
+
+<td>450 h</td>
 </tr>
 </tfoot>
 </table>
@@ -7941,6 +8181,8 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -8061,6 +8303,10 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8188,6 +8434,10 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8315,6 +8565,10 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8442,6 +8696,10 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8571,6 +8829,10 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8699,13 +8961,19 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>18</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>270 h</td>
 </tr>
 </tfoot>
 </table>
@@ -8722,6 +8990,8 @@ Bibliografia complementar 1) CHRISTIAN, G.D. Analytical chemistry. 4. ed. Nova Y
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -8846,6 +9116,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8943,6 +9217,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9048,6 +9326,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9143,6 +9425,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9240,6 +9526,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9345,6 +9635,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9447,13 +9741,19 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>3</td>
 <td>0</td>
 <td>45 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>21</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>315 h</td>
 </tr>
 </tfoot>
 </table>
@@ -9470,6 +9770,8 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -9590,6 +9892,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9771,6 +10077,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>1</td>
 <td>45 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9900,6 +10210,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -10026,13 +10340,19 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>9</td>
+<td>1</td>
+
+
+
+<td>165 h</td>
 </tr>
 </tfoot>
 </table>
@@ -10049,6 +10369,8 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -10153,6 +10475,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -10282,6 +10608,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>1</td>
 <td>45 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -10472,13 +10802,19 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>6</td>
 <td>180 h   (    Estágio: 180 h         )</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>3</td>
+<td>7</td>
+
+
+
+<td>255 h</td>
 </tr>
 </tfoot>
 </table>

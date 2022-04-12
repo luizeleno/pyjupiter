@@ -1,4 +1,4 @@
-I"�s	
+I"�t	
 <h2 class="alert alert-dark" id="disciplinas-obrigatórias">Disciplinas obrigatórias</h2>
 
 <h3 class="alert alert-secondary" id="1º-semestre">1º semestre</h3>
@@ -13,6 +13,8 @@
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -276,6 +278,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -465,6 +471,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>2</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -723,6 +733,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -940,6 +954,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1061,6 +1079,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1184,6 +1206,10 @@ BATALHA, M.O. et al , Introdução à Engenharia de Produção, Rio de Janeiro, 
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1304,6 +1330,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>2</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1422,13 +1452,19 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>20</td>
+<td>4</td>
+
+
+
+<td>420 h</td>
 </tr>
 </tfoot>
 </table>
@@ -1445,6 +1481,8 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -1551,6 +1589,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1724,6 +1766,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1827,6 +1873,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -1988,6 +2038,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2181,6 +2235,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2285,6 +2343,10 @@ Textos complementares serão usados durante o curso.</p>
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2387,13 +2449,19 @@ TZU, S. A Arte da Guerra (Edição Completa). São Paulo. WMF Martins Fontes, 20
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>20</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>300 h</td>
 </tr>
 </tfoot>
 </table>
@@ -2410,6 +2478,8 @@ TZU, S. A Arte da Guerra (Edição Completa). São Paulo. WMF Martins Fontes, 20
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -2615,6 +2685,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2720,6 +2794,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -2849,6 +2927,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3115,6 +3197,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3234,6 +3320,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3353,6 +3443,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3479,13 +3573,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>2</td>
 <td>2</td>
 <td>90 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>20</td>
+<td>2</td>
+
+
+
+<td>360 h</td>
 </tr>
 </tfoot>
 </table>
@@ -3502,6 +3602,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -3652,6 +3754,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3821,6 +3927,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -3924,6 +4034,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4124,6 +4238,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4323,6 +4441,10 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
 <td>2</td>
 <td>120 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4426,13 +4548,19 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>2</td>
 <td>2</td>
 <td>90 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>20</td>
+<td>4</td>
+
+
+
+<td>420 h</td>
 </tr>
 </tfoot>
 </table>
@@ -4449,6 +4577,8 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -4684,6 +4814,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4834,6 +4968,10 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -4929,6 +5067,10 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5056,6 +5198,10 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5184,6 +5330,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>2</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5312,13 +5462,19 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>20</td>
+<td>2</td>
+
+
+
+<td>360 h</td>
 </tr>
 </tfoot>
 </table>
@@ -5335,6 +5491,8 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -5505,6 +5663,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5674,6 +5836,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5821,6 +5987,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -5959,6 +6129,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6062,6 +6236,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6195,6 +6373,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>1</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6322,6 +6504,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6424,13 +6610,19 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>2</td>
 <td>2</td>
 <td>90 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>20</td>
+<td>3</td>
+
+
+
+<td>390 h</td>
 </tr>
 </tfoot>
 </table>
@@ -6447,6 +6639,8 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -6617,6 +6811,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6720,6 +6918,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6847,6 +7049,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -6974,6 +7180,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7077,6 +7287,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7204,6 +7418,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7307,6 +7525,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7409,13 +7631,19 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>2</td>
 <td>2</td>
 <td>90 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>20</td>
+<td>2</td>
+
+
+
+<td>360 h</td>
 </tr>
 </tfoot>
 </table>
@@ -7432,6 +7660,8 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -7530,6 +7760,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7657,6 +7891,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7784,6 +8022,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7887,6 +8129,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -7989,13 +8235,19 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>4</td>
 <td>0</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
+<td>20</td>
 <td>0</td>
-<td>390</td>
+
+
+
+<td>300 h</td>
 </tr>
 </tfoot>
 </table>
@@ -8012,6 +8264,8 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -8140,6 +8394,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8267,6 +8525,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8386,6 +8648,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>2</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8489,6 +8755,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>1</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8592,6 +8862,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8697,6 +8971,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>1</td>
 <td>60 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8824,6 +9102,10 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>2</td>
 <td>90 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -8926,13 +9208,19 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
 <td>2</td>
 <td>0</td>
 <td>30 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>20</td>
+<td>6</td>
+
+
+
+<td>480 h</td>
 </tr>
 </tfoot>
 </table>
@@ -8949,6 +9237,8 @@ Os alunos serão divididos em grupos que desenvolverão um projeto durante o sem
       <th scope="col">CH</th>
     </tr>
 </thead>
+
+
 
 <tr>
 <td>
@@ -9073,6 +9363,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9228,6 +9522,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9383,6 +9681,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>0</td>
 <td>30 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9560,6 +9862,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>6</td>
 <td>180 h   (    Estágio: 180 h         )</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9665,6 +9971,10 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>6</td>
 <td>180 h</td>
 </tr>
+
+
+
+
 <tr>
 <td>
 <!-- Button trigger modal -->
@@ -9783,13 +10093,19 @@ Artigos de revistas especializadas e de jornais; Estudos, artigos, notícias e p
 <td>2</td>
 <td>1</td>
 <td>60 h</td>
-</tr><tfoot>
+</tr>
+
+
+<tfoot>
 <tr>
 <td></td>
 <td style="text-align:right"><b>Total:</b></td>
-<td>26</td>
-<td>0</td>
-<td>390</td>
+<td>8</td>
+<td>13</td>
+
+
+
+<td>510 h</td>
 </tr>
 </tfoot>
 </table>
