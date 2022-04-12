@@ -4,7 +4,7 @@ title: Engenharia Física (EF)
 permalink: /grade-ef/
 ---
 
-{% assign lista = '' | split: '' %}
+{% assign lista = '' %}
 {% for curso in site.data.cursos.EF %}
     {% assign disc = site.data.disciplinas | where: 'sigla', curso %}
     {% assign lista = lista | concat: disc %}

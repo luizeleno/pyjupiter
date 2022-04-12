@@ -16,7 +16,7 @@ permalink: /grade-eqn/
 
 {% assign disciplinas = lista | where: 'tipo', 'Obrigatórias' %}
 
-{% for n in (1..10) %}
+{% for n in (1..12) %}
 
 ### {{n}}º semestre
 {: .alert .alert-secondary}
