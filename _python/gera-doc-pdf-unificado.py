@@ -16,7 +16,7 @@ for index, discpln in data.items():
     doc.add_paragraph()
     
     # Dados gerais
-    p = doc.add_paragraph(style = 'List Number')
+    p = doc.add_paragraph(style = 'List Bullet')
     p.add_run(f'Créditos-aula: {discpln["CA"]}\n')
     p.add_run(f'Créditos-trabalho: {discpln["CT"]}\n')
     p.add_run(f'Carga horária: {discpln["CH"]}\n')
