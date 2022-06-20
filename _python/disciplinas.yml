@@ -1228,14 +1228,14 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   nomeascii: " Circuitos Eletricos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3202&codcur=88301&codhab=0"
   requisitos:
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
     - LOM3254:
       sigla: "LOM3254"
       nome: " Laboratório de Circuitos Elétricos "
       tipo: "Indicação de Conjunto"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
     EF: "4"
@@ -1351,14 +1351,14 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
   nomeascii: " Laboratorio de Circuitos Eletricos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3254&codcur=88301&codhab=0"
   requisitos:
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
     - LOM3202:
       sigla: "LOM3202"
       nome: " Circuitos Elétricos "
       tipo: "Indicação de Conjunto"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
     EF: "4"
@@ -1456,14 +1456,14 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
   nomeascii: " Eletronica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3206&codcur=88301&codhab=0"
   requisitos:
-    - LOM3202:
-      sigla: "LOM3202"
-      nome: " Circuitos Elétricos "
-      tipo: "Requisito"
     - LOM3221:
       sigla: "LOM3221"
       nome: " Laboratório de Eletrônica "
       tipo: "Indicação de Conjunto"
+    - LOM3202:
+      sigla: "LOM3202"
+      nome: " Circuitos Elétricos "
+      tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
     EF: "5"
@@ -1532,14 +1532,14 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
   nomeascii: " Laboratorio de Eletronica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3221&codcur=88301&codhab=0"
   requisitos:
-    - LOM3202:
-      sigla: "LOM3202"
-      nome: " Circuitos Elétricos "
-      tipo: "Requisito"
     - LOM3206:
       sigla: "LOM3206"
       nome: " Eletrônica "
       tipo: "Indicação de Conjunto"
+    - LOM3202:
+      sigla: "LOM3202"
+      nome: " Circuitos Elétricos "
+      tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
     EF: "5"
@@ -1822,6 +1822,10 @@ SISSOM, L. E., PITTS, D. R. Fenômenos de Transporte. Ed. Guanabara, 1988."
   nomeascii: " Metodos Experimentais da Fisica II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3229&codcur=88301&codhab=0"
   requisitos:
+    - LOM3246:
+      sigla: "LOM3246"
+      nome: " Técnicas de Caracterização de Materiais "
+      tipo: "Indicação de Conjunto"
     - LOB1021:
       sigla: "LOB1021"
       nome: " Física IV "
@@ -1830,10 +1834,6 @@ SISSOM, L. E., PITTS, D. R. Fenômenos de Transporte. Ed. Guanabara, 1988."
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito"
-    - LOM3246:
-      sigla: "LOM3246"
-      nome: " Técnicas de Caracterização de Materiais "
-      tipo: "Indicação de Conjunto"
   tipo: "Obrigatórias"
   semestre:
     EF: "6"
@@ -2005,6 +2005,10 @@ ANDRADE, M. M. Introdução à Metodologia do Trabalho Científico São Paulo: A
   nomeascii: " Tecnicas de Caracterizacao de Materiais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3246&codcur=88301&codhab=0"
   requisitos:
+    - LOM3229:
+      sigla: "LOM3229"
+      nome: " Métodos Experimentais da Física II "
+      tipo: "Indicação de Conjunto"
     - LOB1021:
       sigla: "LOB1021"
       nome: " Física IV "
@@ -2013,10 +2017,6 @@ ANDRADE, M. M. Introdução à Metodologia do Trabalho Científico São Paulo: A
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito"
-    - LOM3229:
-      sigla: "LOM3229"
-      nome: " Métodos Experimentais da Física II "
-      tipo: "Indicação de Conjunto"
   tipo: "Obrigatórias"
   semestre:
     EF: "6"
@@ -2343,14 +2343,14 @@ FOX, M. Optical Properties of Solids, Oxford University Press, 2010."
   nomeascii: " Metodos Experimentais da Fisica IV"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3231&codcur=88301&codhab=0"
   requisitos:
-    - LOM3234:
-      sigla: "LOM3234"
-      nome: " Óptica Física "
-      tipo: "Requisito"
     - LOM3259:
       sigla: "LOM3259"
       nome: " Materiais e Dispositivos Eletrônicos "
       tipo: "Indicação de Conjunto"
+    - LOM3234:
+      sigla: "LOM3234"
+      nome: " Óptica Física "
+      tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
     EF: "8"
@@ -2427,6 +2427,10 @@ LAPONI, J. C., Modelos para a Avaliação Econômica de Projetos de Investimento
   nomeascii: " Materiais e Dispositivos Eletronicos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3259&codcur=88301&codhab=0"
   requisitos:
+    - LOM3231:
+      sigla: "LOM3231"
+      nome: " Métodos Experimentais da Física IV "
+      tipo: "Indicação de Conjunto"
     - LOM3206:
       sigla: "LOM3206"
       nome: " Eletrônica "
@@ -2435,10 +2439,6 @@ LAPONI, J. C., Modelos para a Avaliação Econômica de Projetos de Investimento
       sigla: "LOM3215"
       nome: " Física do Estado Sólido "
       tipo: "Requisito"
-    - LOM3231:
-      sigla: "LOM3231"
-      nome: " Métodos Experimentais da Física IV "
-      tipo: "Indicação de Conjunto"
     - LOM3234:
       sigla: "LOM3234"
       nome: " Óptica Física "
@@ -10687,14 +10687,14 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
   nomeascii: " Tecnologia de Bebidas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2038&codcur=88152&codhab=0"
   requisitos:
-    - LOT2028:
-      sigla: "LOT2028"
-      nome: " Tecnologia de Processos Fermentativos "
-      tipo: "Requisito fraco"
     - LOT2052:
       sigla: "LOT2052"
       nome: " Tecnologia de Bebidas Experimental "
       tipo: "Indicação de Conjunto"
+    - LOT2028:
+      sigla: "LOT2028"
+      nome: " Tecnologia de Processos Fermentativos "
+      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
     EB: "9"
@@ -10725,14 +10725,14 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
   nomeascii: " Tecnologia de Bebidas Experimental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2052&codcur=88152&codhab=0"
   requisitos:
-    - LOT2028:
-      sigla: "LOT2028"
-      nome: " Tecnologia de Processos Fermentativos "
-      tipo: "Requisito fraco"
     - LOT2038:
       sigla: "LOT2038"
       nome: " Tecnologia de Bebidas "
       tipo: "Indicação de Conjunto"
+    - LOT2028:
+      sigla: "LOT2028"
+      nome: " Tecnologia de Processos Fermentativos "
+      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
     EB: "9"
