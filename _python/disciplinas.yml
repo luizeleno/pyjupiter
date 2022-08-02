@@ -9988,12 +9988,12 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
+          Vagas: "50"
           Inscritos: "20"
           Pendentes: "20"
           Matriculados: "0"
         - EEL_-_Engenharia_Ambiental:
-          Vagas: "20"
+          Vagas: "50"
           Inscritos: "20"
           Pendentes: "20"
           Matriculados: "0"
@@ -10009,12 +10009,12 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
+          Vagas: "50"
           Inscritos: "20"
           Pendentes: "20"
           Matriculados: "0"
         - EEL_-_Engenharia_Ambiental:
-          Vagas: "20"
+          Vagas: "50"
           Inscritos: "20"
           Pendentes: "20"
           Matriculados: "0"
@@ -11185,26 +11185,6 @@ Bibliografia complementar
           Vagas: "40"
           Inscritos: "40"
           Pendentes: "40"
-          Matriculados: "0"
-    - 20222N5:
-      Codigo_da_Turma: "20222N5"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Prática"
-      aulas:
-        - h0:
-          horario: " seg  19:00  23:00 "
-          prof: "Talita Martins Lacerda "
-      vagas:
-        - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "7"
-          Pendentes: "7"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "40"
-          Inscritos: "7"
-          Pendentes: "7"
           Matriculados: "0"
 - LOB1211:
   sigla: "LOB1211"
@@ -15939,8 +15919,8 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
           Matriculados: "0"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "12"
-          Pendentes: "12"
+          Inscritos: "11"
+          Pendentes: "11"
           Matriculados: "0"
 - LOQ4201:
   sigla: "LOQ4201"
@@ -18211,6 +18191,21 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
           Vagas: "60"
           Inscritos: "28"
           Pendentes: "28"
+          Matriculados: "0"
+    - 20222T3:
+      Codigo_da_Turma: "20222T3"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " seg  19:00  23:00 "
+          prof: " "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
           Matriculados: "0"
 - LOQ4082:
   sigla: "LOQ4082"
