@@ -42,6 +42,60 @@ GUIDORIZZI, Hamilton. Um curso de cálculo. Rio de Janeiro: Livros Técnicos e C
 FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentice Hall, 2009."
   docentes: ['5840692 - Diovana Aparecida dos Santos Napoleão']
   oferecimento:
+    - 20222T1:
+      Codigo_da_Turma: "20222T1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " seg  08:00  10:00 "
+          prof: "Rosa Ana Conte "
+        - h1:
+          horario: " qui  14:00  16:00 "
+          prof: "Rosa Ana Conte "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+    - 20222T2:
+      Codigo_da_Turma: "20222T2"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " seg  08:00  10:00 "
+          prof: "Antônio Sérgio Cobianchi "
+        - h1:
+          horario: " sex  14:00  16:00 "
+          prof: "Antônio Sérgio Cobianchi "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+    - 20222T3:
+      Codigo_da_Turma: "20222T3"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " seg  10:00  12:00 "
+          prof: "Antônio Sérgio Cobianchi "
+        - h1:
+          horario: " sex  16:00  18:00 "
+          prof: "Antônio Sérgio Cobianchi "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1018:
   sigla: "LOB1018"
   nome: " Física I"
@@ -93,7 +147,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "47"
+          Inscritos: "62"
           Pendentes: "0"
           Matriculados: "32"
         - EEL_-_Engenharia_Ambiental:
@@ -116,7 +170,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "46"
+          Inscritos: "54"
           Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_Bioquimica:
@@ -162,7 +216,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "56"
+          Inscritos: "61"
           Pendentes: "0"
           Matriculados: "50"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -175,6 +229,42 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
           Inscritos: "37"
           Pendentes: "0"
           Matriculados: "37"
+    - 20222T4:
+      Codigo_da_Turma: "20222T4"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " seg  10:00  12:00 "
+          prof: "Antonio Fernando Sartori "
+        - h1:
+          horario: " qua  16:00  18:00 "
+          prof: "Antonio Fernando Sartori "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+    - 20222T5:
+      Codigo_da_Turma: "20222T5"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " qua  10:00  12:00 "
+          prof: "Denize Kalempa "
+        - h1:
+          horario: " sex  10:00  12:00 "
+          prof: "Denize Kalempa "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1036:
   sigla: "LOB1036"
   nome: " Geometria Analítica"
@@ -211,6 +301,42 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   bibliografia: "1.CAMARGO, Ivan ; BOULOS, Paulo. Geometria Analítica: um tratamento vetorial. São Paulo: Prentice Hall, 2005.2.LIMA, Elon Lages de. Geometria analítica e algebra Linear. Rio de Janeiro: SBM SociedadeBrasileira de Matemática,2001. Coleção Matemática Universitária.3.CAROLI, Alésio de; CALLIOLI, A.; FEITOSA, Miguel O. Matrizes vetores geometria analítica. São Paulo: Nobel, 1998.4.SANTOS, Nathan Moreira dos. Vetores e matrizes: uma introdução à álgebra linear. São Paulo: Thomson, 2007."
   docentes: ['3682251 - Gabrielle Weber Martins']
   oferecimento:
+    - 20222T1:
+      Codigo_da_Turma: "20222T1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  19:00  21:00 "
+          prof: "Oswaldo Luiz Cobra Guimarães "
+        - h1:
+          horario: " qui  19:00  21:00 "
+          prof: "Oswaldo Luiz Cobra Guimarães "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+    - 20222T2:
+      Codigo_da_Turma: "20222T2"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " seg  10:00  12:00 "
+          prof: "Oswaldo Luiz Cobra Guimarães "
+        - h1:
+          horario: " sex  16:00  18:00 "
+          prof: "Oswaldo Luiz Cobra Guimarães "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1038:
   sigla: "LOB1038"
   nome: " Física Experimental I"
@@ -259,7 +385,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
+          Inscritos: "43"
           Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Ambiental:
@@ -279,7 +405,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "37"
+          Inscritos: "39"
           Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Bioquimica:
@@ -299,7 +425,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
+          Inscritos: "42"
           Pendentes: "0"
           Matriculados: "36"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -339,7 +465,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "36"
+          Inscritos: "39"
           Pendentes: "0"
           Matriculados: "36"
         - EEL_-_Engenharia_de_Producao:
@@ -525,13 +651,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "20"
-          Pendentes: "9"
+          Inscritos: "12"
+          Pendentes: "0"
           Matriculados: "9"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "18"
-          Pendentes: "9"
+          Inscritos: "9"
+          Pendentes: "0"
           Matriculados: "9"
     - 20222BD:
       Codigo_da_Turma: "20222BD"
@@ -548,18 +674,18 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "59"
-          Pendentes: "10"
+          Inscritos: "52"
+          Pendentes: "0"
           Matriculados: "48"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "28"
-          Inscritos: "28"
-          Pendentes: "5"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "30"
-          Inscritos: "30"
-          Pendentes: "5"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "25"
     - 20222D1:
       Codigo_da_Turma: "20222D1"
@@ -576,13 +702,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "51"
-          Pendentes: "12"
+          Inscritos: "42"
+          Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "50"
-          Pendentes: "12"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "38"
     - 20222FM:
       Codigo_da_Turma: "20222FM"
@@ -599,18 +725,18 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "53"
-          Pendentes: "23"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "30"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "17"
-          Inscritos: "17"
-          Pendentes: "11"
+          Inscritos: "6"
+          Pendentes: "0"
           Matriculados: "6"
         - EEL_-_Engenharia_Fisica:
           Vagas: "36"
-          Inscritos: "36"
-          Pendentes: "12"
+          Inscritos: "24"
+          Pendentes: "0"
           Matriculados: "24"
     - 20222N3:
       Codigo_da_Turma: "20222N3"
@@ -627,13 +753,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "47"
-          Pendentes: "19"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "45"
-          Pendentes: "19"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
     - 20222PN:
       Codigo_da_Turma: "20222PN"
@@ -650,18 +776,18 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
-          Pendentes: "6"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "31"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "39"
-          Inscritos: "16"
-          Pendentes: "3"
+          Inscritos: "13"
+          Pendentes: "0"
           Matriculados: "13"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "21"
-          Inscritos: "21"
-          Pendentes: "3"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "18"
 - LOB1019:
   sigla: "LOB1019"
@@ -722,13 +848,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "24"
-          Pendentes: "9"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "6"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "15"
-          Pendentes: "9"
+          Inscritos: "6"
+          Pendentes: "0"
           Matriculados: "6"
     - 20222D2:
       Codigo_da_Turma: "20222D2"
@@ -745,13 +871,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "18"
+          Inscritos: "44"
+          Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "56"
-          Pendentes: "18"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "38"
     - 20222FM:
       Codigo_da_Turma: "20222FM"
@@ -769,18 +895,18 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "46"
-          Pendentes: "27"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "18"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "30"
-          Inscritos: "16"
-          Pendentes: "13"
+          Inscritos: "3"
+          Pendentes: "0"
           Matriculados: "3"
         - EEL_-_Engenharia_Fisica:
           Vagas: "30"
-          Inscritos: "29"
-          Pendentes: "14"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "15"
 - LOB1037:
   sigla: "LOB1037"
@@ -837,13 +963,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "28"
-          Pendentes: "3"
-          Matriculados: "17"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "23"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "20"
-          Pendentes: "3"
+          Inscritos: "17"
+          Pendentes: "0"
           Matriculados: "17"
     - 20222BD:
       Codigo_da_Turma: "20222BD"
@@ -860,8 +986,8 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "3"
+          Inscritos: "59"
+          Pendentes: "0"
           Matriculados: "57"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "34"
@@ -870,8 +996,8 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
           Matriculados: "34"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "26"
-          Inscritos: "26"
-          Pendentes: "3"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
     - 20222D1:
       Codigo_da_Turma: "20222D1"
@@ -888,13 +1014,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "40"
-          Pendentes: "3"
+          Inscritos: "37"
+          Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "37"
-          Pendentes: "3"
+          Inscritos: "34"
+          Pendentes: "0"
           Matriculados: "34"
     - 20222FM:
       Codigo_da_Turma: "20222FM"
@@ -904,25 +1030,25 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
-          prof: "Flávio José da Silva "
+          prof: "Iraídes Aparecida de Castro Villela "
         - h1:
           horario: " sex  08:00  10:00 "
-          prof: " "
+          prof: "Iraídes Aparecida de Castro Villela "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
-          Pendentes: "28"
-          Matriculados: "28"
+          Inscritos: "44"
+          Pendentes: "0"
+          Matriculados: "42"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "21"
-          Inscritos: "22"
-          Pendentes: "21"
-          Matriculados: "0"
+          Inscritos: "14"
+          Pendentes: "0"
+          Matriculados: "14"
         - EEL_-_Engenharia_Fisica:
           Vagas: "35"
-          Inscritos: "35"
-          Pendentes: "7"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
@@ -939,13 +1065,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "59"
-          Pendentes: "13"
+          Inscritos: "45"
+          Pendentes: "0"
           Matriculados: "45"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "58"
-          Pendentes: "13"
+          Inscritos: "45"
+          Pendentes: "0"
           Matriculados: "45"
     - 20222PN:
       Codigo_da_Turma: "20222PN"
@@ -963,17 +1089,17 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "45"
-          Pendentes: "4"
-          Matriculados: "37"
+          Pendentes: "0"
+          Matriculados: "45"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "32"
-          Pendentes: "2"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "30"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
-          Inscritos: "9"
-          Pendentes: "2"
+          Inscritos: "7"
+          Pendentes: "0"
           Matriculados: "7"
 - LOB1041:
   sigla: "LOB1041"
@@ -1028,13 +1154,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
-          Pendentes: "13"
+          Inscritos: "27"
+          Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "13"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
     - 20222M2:
       Codigo_da_Turma: "20222M2"
@@ -1048,13 +1174,13 @@ RUSSEL, J.B. Química geral.  São Paulo: MacGrall-Hill"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "29"
-          Pendentes: "16"
+          Inscritos: "14"
+          Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
-          Inscritos: "27"
-          Pendentes: "16"
+          Inscritos: "10"
+          Pendentes: "0"
           Matriculados: "10"
 - LOB1045:
   sigla: "LOB1045"
@@ -1122,7 +1248,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "51"
+          Inscritos: "60"
           Pendentes: "0"
           Matriculados: "37"
         - EEL_-_Engenharia_Fisica:
@@ -1245,13 +1371,13 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "32"
-          Pendentes: "7"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "25"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "32"
-          Pendentes: "7"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "25"
 - LOM3260:
   sigla: "LOM3260"
@@ -1294,10 +1420,10 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
           prof: "(R) Luiz Tadeu Fernandes Eleno "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "40"
+          Vagas: "41"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "41"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "40"
@@ -1352,12 +1478,12 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "30"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "29"
-          Pendentes: "1"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
     - 20222B6:
       Codigo_da_Turma: "20222B6"
@@ -1371,13 +1497,13 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
-          Pendentes: "3"
+          Inscritos: "37"
+          Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "37"
-          Pendentes: "3"
+          Inscritos: "34"
+          Pendentes: "0"
           Matriculados: "34"
     - 20222D1:
       Codigo_da_Turma: "20222D1"
@@ -1391,13 +1517,13 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "34"
-          Pendentes: "3"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "25"
-          Pendentes: "3"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "22"
     - 20222D2:
       Codigo_da_Turma: "20222D2"
@@ -1412,12 +1538,12 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "40"
-          Pendentes: "4"
+          Pendentes: "0"
           Matriculados: "36"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "4"
+          Inscritos: "36"
+          Pendentes: "0"
           Matriculados: "36"
     - 20222F5:
       Codigo_da_Turma: "20222F5"
@@ -1431,7 +1557,7 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "35"
+          Inscritos: "38"
           Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Fisica:
@@ -1451,7 +1577,7 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "11"
+          Inscritos: "28"
           Pendentes: "0"
           Matriculados: "3"
         - EEL_-_Engenharia_de_Materiais:
@@ -1471,7 +1597,7 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "26"
+          Inscritos: "31"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -1491,7 +1617,7 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "27"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "3"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -1551,16 +1677,16 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       aulas:
         - h0:
           horario: " seg  16:00  18:00 "
-          prof: "Iraídes Aparecida de Castro Villela "
+          prof: "Flávio José da Silva "
         - h1:
           horario: " qua  16:00  18:00 "
-          prof: "Iraídes Aparecida de Castro Villela "
+          prof: "Flávio José da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "32"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "30"
           Inscritos: "4"
@@ -1614,14 +1740,14 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "37"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "37"
+          Matriculados: "36"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "34"
+          Inscritos: "33"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "33"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
       Inicio: "15/08/2022"
@@ -1637,7 +1763,7 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "55"
+          Inscritos: "54"
           Pendentes: "0"
           Matriculados: "52"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -1660,7 +1786,7 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "44"
+          Inscritos: "46"
           Pendentes: "0"
           Matriculados: "36"
         - EEL_-_Engenharia_de_Producao:
@@ -1754,7 +1880,7 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "29"
+          Inscritos: "31"
           Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Ambiental:
@@ -1770,18 +1896,18 @@ Estudos, artigos, notícias e pesquisas via internet."
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "Henrique Otávio Queiroz de Aquino "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "27"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "27"
 - LOB1039:
   sigla: "LOB1039"
   nome: " Física Experimental III"
@@ -1834,7 +1960,7 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "31"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "29"
         - EEL_-_Engenharia_Ambiental:
@@ -1854,9 +1980,9 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
+          Inscritos: "38"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "38"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
           Inscritos: "32"
@@ -1894,9 +2020,9 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "5"
+          Inscritos: "7"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "7"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
           Inscritos: "2"
@@ -1914,7 +2040,7 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "27"
+          Inscritos: "31"
           Pendentes: "0"
           Matriculados: "25"
         - EEL_-_Engenharia_de_Producao:
@@ -1974,7 +2100,7 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "54"
+          Inscritos: "68"
           Pendentes: "0"
           Matriculados: "37"
         - EEL_-_Engenharia_de_Materiais:
@@ -2071,7 +2197,7 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "37"
+          Inscritos: "40"
           Pendentes: "0"
           Matriculados: "25"
         - EEL_-_Engenharia_Ambiental:
@@ -2094,13 +2220,13 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "55"
-          Pendentes: "2"
+          Inscritos: "64"
+          Pendentes: "0"
           Matriculados: "31"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "33"
-          Pendentes: "2"
+          Inscritos: "31"
+          Pendentes: "0"
           Matriculados: "31"
     - 20222N3:
       Codigo_da_Turma: "20222N3"
@@ -2119,7 +2245,7 @@ Estudos, artigos, notícias e pesquisas via internet."
           Vagas: "60"
           Inscritos: "55"
           Pendentes: "0"
-          Matriculados: "53"
+          Matriculados: "55"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
           Inscritos: "53"
@@ -2133,16 +2259,16 @@ Estudos, artigos, notícias e pesquisas via internet."
       aulas:
         - h0:
           horario: " ter  19:00  21:00 "
-          prof: " "
+          prof: "(R) Bertha María Cuadros Melgar "
         - h1:
           horario: " qui  19:00  21:00 "
-          prof: " "
+          prof: "(R) Bertha María Cuadros Melgar "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
-          Pendentes: "1"
-          Matriculados: "30"
+          Inscritos: "45"
+          Pendentes: "0"
+          Matriculados: "45"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "17"
@@ -2150,8 +2276,8 @@ Estudos, artigos, notícias e pesquisas via internet."
           Matriculados: "17"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
-          Inscritos: "14"
-          Pendentes: "1"
+          Inscritos: "13"
+          Pendentes: "0"
           Matriculados: "13"
 - LOM3016:
   sigla: "LOM3016"
@@ -2211,7 +2337,7 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
+          Inscritos: "57"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -2231,7 +2357,7 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "64"
           Pendentes: "0"
           Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -2251,9 +2377,9 @@ Estudos, artigos, notícias e pesquisas via internet."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "55"
           Pendentes: "0"
-          Matriculados: "38"
+          Matriculados: "39"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "38"
@@ -2454,7 +2580,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "53"
+          Inscritos: "69"
           Pendentes: "0"
           Matriculados: "41"
         - EEL_-_Engenharia_Fisica:
@@ -2544,13 +2670,13 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
-          Pendentes: "1"
+          Inscritos: "44"
+          Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "27"
-          Pendentes: "1"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
 - LOB1042:
   sigla: "LOB1042"
@@ -2599,14 +2725,14 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
-          Pendentes: "29"
-          Matriculados: "5"
+          Inscritos: "43"
+          Pendentes: "0"
+          Matriculados: "34"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "34"
-          Pendentes: "29"
-          Matriculados: "5"
+          Pendentes: "0"
+          Matriculados: "34"
 - LOM3081:
   sigla: "LOM3081"
   nome: " Introdução à Mecânica dos Sólidos"
@@ -2667,13 +2793,13 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "8"
+          Inscritos: "53"
+          Pendentes: "0"
           Matriculados: "52"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "8"
+          Inscritos: "52"
+          Pendentes: "0"
           Matriculados: "52"
     - 20222F2:
       Codigo_da_Turma: "20222F2"
@@ -2687,13 +2813,13 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
-          Pendentes: "14"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "17"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "31"
-          Pendentes: "14"
+          Inscritos: "17"
+          Pendentes: "0"
           Matriculados: "17"
     - 20222N3:
       Codigo_da_Turma: "20222N3"
@@ -2703,17 +2829,17 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       aulas:
         - h0:
           horario: " ter  19:00  21:00 "
-          prof: " "
+          prof: "(R) João Paulo Pascon "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "24"
-          Pendentes: "2"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "22"
-          Pendentes: "2"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "20"
     - 20222P4:
       Codigo_da_Turma: "20222P4"
@@ -2728,12 +2854,12 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "25"
-          Pendentes: "4"
+          Pendentes: "0"
           Matriculados: "17"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "21"
-          Pendentes: "4"
+          Inscritos: "17"
+          Pendentes: "0"
           Matriculados: "17"
     - 20222QA:
       Codigo_da_Turma: "20222QA"
@@ -2747,18 +2873,18 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "21"
-          Pendentes: "11"
+          Inscritos: "13"
+          Pendentes: "0"
           Matriculados: "3"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "20"
-          Inscritos: "3"
-          Pendentes: "2"
+          Inscritos: "1"
+          Pendentes: "0"
           Matriculados: "1"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "11"
-          Pendentes: "9"
+          Inscritos: "2"
+          Pendentes: "0"
           Matriculados: "2"
 - LOM3202:
   sigla: "LOM3202"
@@ -2815,13 +2941,13 @@ EDMINISTER, J. A. Circuitos elétricos. McGraw-Hill."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "30"
-          Pendentes: "10"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "29"
-          Pendentes: "10"
+          Inscritos: "19"
+          Pendentes: "0"
           Matriculados: "19"
 - LOM3205:
   sigla: "LOM3205"
@@ -2882,13 +3008,13 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "8"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "21"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "29"
-          Pendentes: "8"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "21"
 - LOM3253:
   sigla: "LOM3253"
@@ -2943,13 +3069,13 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "40"
-          Pendentes: "10"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "30"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "40"
-          Pendentes: "10"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "30"
 - LOM3254:
   sigla: "LOM3254"
@@ -3029,13 +3155,13 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "32"
-          Pendentes: "10"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "32"
-          Pendentes: "10"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "22"
 - LOM3049:
   sigla: "LOM3049"
@@ -3091,9 +3217,9 @@ MANUAL de capacitores para correção de fator de potência. Disponível: www.we
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "14"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "13"
+          Matriculados: "17"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "13"
@@ -3391,7 +3517,7 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "61"
+          Inscritos: "65"
           Pendentes: "0"
           Matriculados: "51"
         - EEL_-_Engenharia_Ambiental:
@@ -3410,10 +3536,10 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
           prof: "Lucio Garcia Veraldo Junior "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
+          Vagas: "61"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
           Inscritos: "40"
@@ -3506,13 +3632,13 @@ SISSOM, L. E., PITTS, D. R. Fenômenos de Transporte. Ed. Guanabara, 1988."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "8"
+          Inscritos: "34"
+          Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "8"
+          Inscritos: "33"
+          Pendentes: "0"
           Matriculados: "33"
 - LOM3215:
   sigla: "LOM3215"
@@ -3570,13 +3696,13 @@ SISSOM, L. E., PITTS, D. R. Fenômenos de Transporte. Ed. Guanabara, 1988."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "33"
-          Pendentes: "5"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "33"
-          Pendentes: "5"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
 - LOM3229:
   sigla: "LOM3229"
@@ -3639,13 +3765,13 @@ HAINES, P. J. Principles of Thermal Analysis and Calorimetry, Royal Society of C
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "33"
-          Pendentes: "3"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "32"
-          Pendentes: "3"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
 - LOM3233:
   sigla: "LOM3233"
@@ -3704,14 +3830,14 @@ BATEMAN, A.; PATERSON-STEPHENS, I. The DSP Handbook: Algorithms, Applications an
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "26"
-          Pendentes: "23"
-          Matriculados: "2"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "22"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "25"
-          Pendentes: "23"
-          Matriculados: "2"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
 - LOM3234:
   sigla: "LOM3234"
   nome: " Óptica Física"
@@ -3775,7 +3901,7 @@ ZILLIO, S. C. Óptica Moderna - Fundamentos e Aplicações, 2005."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "23"
+          Inscritos: "24"
           Pendentes: "0"
           Matriculados: "21"
         - EEL_-_Engenharia_Fisica:
@@ -3836,9 +3962,9 @@ ANDRADE, M. M. Introdução à Metodologia do Trabalho Científico São Paulo: A
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "29"
+          Inscritos: "30"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "28"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "27"
@@ -3910,13 +4036,13 @@ SCHRAMM, G. Reologia e Reometria. Editora Artliber, 2006."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
-          Pendentes: "2"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "31"
-          Pendentes: "2"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
 - LOM3095:
   sigla: "LOM3095"
@@ -4179,7 +4305,7 @@ FOX, M. Optical Properties of Solids, Oxford University Press, 2010."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "66"
+          Inscritos: "74"
           Pendentes: "0"
           Matriculados: "47"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -4234,7 +4360,7 @@ FOX, M. Optical Properties of Solids, Oxford University Press, 2010."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
+          Inscritos: "55"
           Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Bioquimica:
@@ -4254,14 +4380,14 @@ FOX, M. Optical Properties of Solids, Oxford University Press, 2010."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
+          Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "29"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "29"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "29"
 - LOM3231:
   sigla: "LOM3231"
   nome: " Métodos Experimentais da Física IV"
@@ -4316,7 +4442,7 @@ VON HIPPEL, A. R. Dielectric Materials and Applications, Artech House, 1995."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "27"
+          Inscritos: "31"
           Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_Fisica:
@@ -4378,7 +4504,7 @@ LAPONI, J. C., Modelos para a Avaliação Econômica de Projetos de Investimento
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "30"
+          Inscritos: "33"
           Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_Fisica:
@@ -4458,7 +4584,7 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "31"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "31"
         - EEL_-_Engenharia_Fisica:
@@ -4529,14 +4655,19 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "19"
+          Inscritos: "21"
           Pendentes: "0"
-          Matriculados: "14"
+          Matriculados: "21"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
           Inscritos: "14"
           Pendentes: "0"
           Matriculados: "14"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
       Inicio: "15/08/2022"
@@ -4549,9 +4680,9 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
+          Inscritos: "51"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "49"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
           Inscritos: "27"
@@ -4606,9 +4737,9 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "40"
+          Inscritos: "45"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "37"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
           Inscritos: "27"
@@ -4626,9 +4757,9 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "34"
+          Inscritos: "42"
           Pendentes: "0"
-          Matriculados: "24"
+          Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
           Inscritos: "24"
@@ -4703,14 +4834,14 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "48"
+          Matriculados: "47"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "47"
           Pendentes: "0"
-          Matriculados: "48"
+          Matriculados: "47"
     - 20222M2:
       Codigo_da_Turma: "20222M2"
       Inicio: "15/08/2022"
@@ -4724,14 +4855,14 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "15"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "8"
+          Matriculados: "9"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "9"
           Pendentes: "0"
-          Matriculados: "8"
+          Matriculados: "9"
     - 20222P3:
       Codigo_da_Turma: "20222P3"
       Inicio: "15/08/2022"
@@ -4744,14 +4875,14 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "37"
-          Pendentes: "6"
-          Matriculados: "9"
+          Inscritos: "38"
+          Pendentes: "5"
+          Matriculados: "8"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "15"
-          Pendentes: "6"
-          Matriculados: "9"
+          Inscritos: "13"
+          Pendentes: "5"
+          Matriculados: "8"
 - LOB1031:
   sigla: "LOB1031"
   nome: " Psicologia Organizacional e do Trabalho"
@@ -4827,7 +4958,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "28"
+          Inscritos: "37"
           Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_de_Materiais:
@@ -4847,7 +4978,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "51"
+          Inscritos: "66"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -4867,13 +4998,13 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
-          Pendentes: "1"
+          Inscritos: "65"
+          Pendentes: "0"
           Matriculados: "14"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "15"
-          Pendentes: "1"
+          Inscritos: "14"
+          Pendentes: "0"
           Matriculados: "14"
 - LOM3243:
   sigla: "LOM3243"
@@ -4958,7 +5089,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "25"
+          Inscritos: "33"
           Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Fisica:
@@ -6111,14 +6242,14 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "52"
+          Inscritos: "68"
           Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "37"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "37"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
       Inicio: "15/08/2022"
@@ -6185,14 +6316,14 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "28"
-          Pendentes: "8"
-          Matriculados: "17"
+          Inscritos: "20"
+          Pendentes: "0"
+          Matriculados: "18"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "26"
-          Pendentes: "8"
-          Matriculados: "17"
+          Inscritos: "18"
+          Pendentes: "0"
+          Matriculados: "18"
 - LOM3104:
   sigla: "LOM3104"
   nome: " Projeto Integrado em Engenharia de Materiais I"
@@ -6239,13 +6370,13 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "41"
-          Pendentes: "1"
+          Inscritos: "39"
+          Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "1"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "38"
 - LOQ4098:
   sigla: "LOQ4098"
@@ -6297,12 +6428,12 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "37"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "36"
-          Pendentes: "1"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "35"
     - 20222BQ:
       Codigo_da_Turma: "20222BQ"
@@ -6319,13 +6450,13 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "59"
-          Pendentes: "3"
+          Inscritos: "56"
+          Pendentes: "0"
           Matriculados: "56"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "35"
-          Inscritos: "35"
-          Pendentes: "3"
+          Inscritos: "32"
+          Pendentes: "0"
           Matriculados: "32"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "25"
@@ -6347,7 +6478,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "51"
           Pendentes: "0"
           Matriculados: "50"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -6372,12 +6503,12 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
           Vagas: "60"
           Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "27"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "27"
     - 20222N4:
       Codigo_da_Turma: "20222N4"
       Inicio: "15/08/2022"
@@ -6393,7 +6524,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "54"
+          Inscritos: "55"
           Pendentes: "0"
           Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -6655,13 +6786,13 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "52"
-          Pendentes: "6"
+          Inscritos: "51"
+          Pendentes: "0"
           Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "47"
-          Pendentes: "6"
+          Inscritos: "41"
+          Pendentes: "0"
           Matriculados: "41"
     - 20222DM:
       Codigo_da_Turma: "20222DM"
@@ -6675,8 +6806,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "3"
+          Inscritos: "39"
+          Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
@@ -6685,8 +6816,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
           Matriculados: "15"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "20"
-          Inscritos: "16"
-          Pendentes: "3"
+          Inscritos: "13"
+          Pendentes: "0"
           Matriculados: "13"
     - 20222P2:
       Codigo_da_Turma: "20222P2"
@@ -6700,7 +6831,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "29"
+          Inscritos: "33"
           Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_de_Producao:
@@ -6816,7 +6947,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "27"
+          Inscritos: "25"
           Pendentes: "0"
           Matriculados: "25"
         - EEL_-_Engenharia_de_Materiais:
@@ -6878,13 +7009,13 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "34"
-          Pendentes: "7"
+          Inscritos: "27"
+          Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
-          Inscritos: "34"
-          Pendentes: "7"
+          Inscritos: "27"
+          Pendentes: "0"
           Matriculados: "27"
 - LOM3106:
   sigla: "LOM3106"
@@ -7312,7 +7443,7 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "17"
+          Inscritos: "26"
           Pendentes: "0"
           Matriculados: "3"
         - EEL_-_Engenharia_de_Materiais:
@@ -7373,7 +7504,7 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "17"
+          Inscritos: "25"
           Pendentes: "0"
           Matriculados: "4"
         - EEL_-_Engenharia_de_Materiais:
@@ -7434,13 +7565,13 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
-          Pendentes: "5"
+          Inscritos: "34"
+          Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "38"
-          Pendentes: "5"
+          Inscritos: "33"
+          Pendentes: "0"
           Matriculados: "33"
 - LOM3073:
   sigla: "LOM3073"
@@ -7491,7 +7622,7 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "21"
+          Inscritos: "23"
           Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_de_Materiais:
@@ -7558,13 +7689,13 @@ SZEKELY, J. Fluid Flow Phenomena in Metals Processing. Academic Press, 1979."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "34"
-          Pendentes: "29"
+          Inscritos: "6"
+          Pendentes: "0"
           Matriculados: "5"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "34"
-          Pendentes: "29"
+          Inscritos: "5"
+          Pendentes: "0"
           Matriculados: "5"
 - LOM3086:
   sigla: "LOM3086"
@@ -7687,7 +7818,7 @@ SZEKELY, J. Fluid Flow Phenomena in Metals Processing. Academic Press, 1979."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
+          Inscritos: "36"
           Pendentes: "0"
           Matriculados: "31"
         - EEL_-_Engenharia_de_Materiais:
@@ -7741,7 +7872,7 @@ SZEKELY, J. Fluid Flow Phenomena in Metals Processing. Academic Press, 1979."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "17"
+          Inscritos: "18"
           Pendentes: "0"
           Matriculados: "17"
         - EEL_-_Engenharia_de_Materiais:
@@ -8048,7 +8179,7 @@ edição, 1993.
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "4"
+          Inscritos: "8"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
@@ -8158,14 +8289,14 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
+          Inscritos: "65"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "59"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "60"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "59"
     - 20222DM:
       Codigo_da_Turma: "20222DM"
       Inicio: "15/08/2022"
@@ -8178,9 +8309,9 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "51"
           Pendentes: "0"
-          Matriculados: "44"
+          Matriculados: "43"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
           Inscritos: "24"
@@ -8188,9 +8319,9 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
           Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "20"
-          Inscritos: "20"
+          Inscritos: "19"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "19"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
       Inicio: "15/08/2022"
@@ -8202,10 +8333,10 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
           prof: "(R) Eduardo Ferro dos Santos "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
+          Vagas: "62"
+          Inscritos: "63"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "62"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
           Inscritos: "60"
@@ -8264,13 +8395,13 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "1"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "1"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
 - LOM3043:
   sigla: "LOM3043"
@@ -8326,7 +8457,7 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "20"
+          Inscritos: "21"
           Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_de_Materiais:
@@ -8388,13 +8519,13 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "8"
-          Pendentes: "1"
-          Matriculados: "7"
+          Pendentes: "0"
+          Matriculados: "8"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "8"
-          Pendentes: "1"
-          Matriculados: "7"
+          Pendentes: "0"
+          Matriculados: "8"
 - LOM3084:
   sigla: "LOM3084"
   nome: " Inspeção e Ensaios Não Destrutivos"
@@ -8449,7 +8580,7 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "24"
+          Inscritos: "30"
           Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_de_Materiais:
@@ -8507,7 +8638,7 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "26"
+          Inscritos: "28"
           Pendentes: "0"
           Matriculados: "25"
         - EEL_-_Engenharia_de_Materiais:
@@ -8561,14 +8692,14 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "24"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "24"
+          Matriculados: "23"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "24"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "24"
+          Matriculados: "23"
 - LOM3112:
   sigla: "LOM3112"
   nome: " Projeto Final de Curso de Engenharia de Materiais"
@@ -8615,7 +8746,7 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "15"
+          Inscritos: "29"
           Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_de_Materiais:
@@ -9145,13 +9276,13 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
-          Pendentes: "4"
-          Matriculados: "43"
+          Inscritos: "44"
+          Pendentes: "0"
+          Matriculados: "44"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "47"
-          Pendentes: "4"
+          Inscritos: "43"
+          Pendentes: "0"
           Matriculados: "43"
 - LOM3075:
   sigla: "LOM3075"
@@ -9624,7 +9755,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
+          Inscritos: "31"
           Pendentes: "0"
           Matriculados: "30"
         - EEL_-_Engenharia_Ambiental:
@@ -9632,6 +9763,11 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           Inscritos: "30"
           Pendentes: "0"
           Matriculados: "30"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2046:
   sigla: "LOT2046"
   nome: " Microbiologia e Bioquimica Aplicadas"
@@ -9786,7 +9922,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "35"
+          Inscritos: "38"
           Pendentes: "1"
           Matriculados: "28"
         - EEL_-_Engenharia_de_Producao:
@@ -9989,7 +10125,7 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "20"
+          Inscritos: "23"
           Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Ambiental:
@@ -10010,7 +10146,7 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "35"
+          Inscritos: "42"
           Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Ambiental:
@@ -10068,13 +10204,13 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "26"
-          Pendentes: "2"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "25"
-          Pendentes: "2"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
 - LOQ4076:
   sigla: "LOQ4076"
@@ -10281,13 +10417,13 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "11"
-          Pendentes: "4"
+          Inscritos: "10"
+          Pendentes: "0"
           Matriculados: "1"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "5"
-          Pendentes: "4"
+          Inscritos: "1"
+          Pendentes: "0"
           Matriculados: "1"
     - 20222D1:
       Codigo_da_Turma: "20222D1"
@@ -10304,13 +10440,13 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "7"
+          Inscritos: "55"
+          Pendentes: "0"
           Matriculados: "53"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "7"
+          Inscritos: "53"
+          Pendentes: "0"
           Matriculados: "53"
 - LOB1040:
   sigla: "LOB1040"
@@ -10363,13 +10499,13 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "40"
-          Pendentes: "40"
-          Matriculados: "0"
+          Pendentes: "0"
+          Matriculados: "39"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "40"
-          Matriculados: "0"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
     - 20222D2:
       Codigo_da_Turma: "20222D2"
       Inicio: "15/08/2022"
@@ -10382,14 +10518,14 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "32"
-          Pendentes: "19"
-          Matriculados: "1"
+          Inscritos: "38"
+          Pendentes: "0"
+          Matriculados: "19"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "20"
-          Pendentes: "19"
-          Matriculados: "1"
+          Inscritos: "19"
+          Pendentes: "0"
+          Matriculados: "19"
     - 20222P3:
       Codigo_da_Turma: "20222P3"
       Inicio: "15/08/2022"
@@ -10402,13 +10538,13 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "37"
-          Pendentes: "8"
+          Inscritos: "40"
+          Pendentes: "6"
           Matriculados: "22"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "30"
-          Pendentes: "8"
+          Inscritos: "28"
+          Pendentes: "6"
           Matriculados: "22"
 - LOB1212:
   sigla: "LOB1212"
@@ -10624,13 +10760,13 @@ FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd Ed. New
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "1"
+          Inscritos: "43"
+          Pendentes: "0"
           Matriculados: "32"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "33"
-          Pendentes: "1"
+          Inscritos: "32"
+          Pendentes: "0"
           Matriculados: "32"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
@@ -10647,7 +10783,7 @@ FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd Ed. New
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "73"
+          Inscritos: "79"
           Pendentes: "0"
           Matriculados: "57"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -10862,13 +10998,13 @@ Project Management Institute. PMBok, 2013"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "46"
-          Pendentes: "4"
+          Inscritos: "42"
+          Pendentes: "0"
           Matriculados: "42"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "46"
-          Pendentes: "4"
+          Inscritos: "42"
+          Pendentes: "0"
           Matriculados: "42"
 - LOB1217:
   sigla: "LOB1217"
@@ -10916,13 +11052,13 @@ Project Management Institute. PMBok, 2013"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "11"
+          Inscritos: "50"
+          Pendentes: "0"
           Matriculados: "49"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "11"
+          Inscritos: "49"
+          Pendentes: "0"
           Matriculados: "49"
     - 20222A2:
       Codigo_da_Turma: "20222A2"
@@ -10936,7 +11072,7 @@ Project Management Institute. PMBok, 2013"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "16"
+          Inscritos: "23"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Ambiental:
@@ -11045,12 +11181,12 @@ Project Management Institute. PMBok, 2013"
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "49"
-          Pendentes: "2"
+          Pendentes: "0"
           Matriculados: "44"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "46"
-          Pendentes: "2"
+          Inscritos: "44"
+          Pendentes: "0"
           Matriculados: "44"
 - LOQ4001:
   sigla: "LOQ4001"
@@ -11118,7 +11254,7 @@ Bibliografia complementar
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "21"
+          Inscritos: "24"
           Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_Ambiental:
@@ -11138,13 +11274,13 @@ Bibliografia complementar
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "22"
-          Pendentes: "2"
+          Inscritos: "24"
+          Pendentes: "0"
           Matriculados: "15"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "17"
-          Pendentes: "2"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "15"
     - 20222D2:
       Codigo_da_Turma: "20222D2"
@@ -11178,13 +11314,13 @@ Bibliografia complementar
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "2"
+          Inscritos: "41"
+          Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "2"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "38"
 - LOB1211:
   sigla: "LOB1211"
@@ -11453,10 +11589,10 @@ www.aneel.gov.br"
           prof: "(R) Eduardo Ferro dos Santos "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "2"
-          Matriculados: "58"
+          Vagas: "61"
+          Inscritos: "63"
+          Pendentes: "0"
+          Matriculados: "59"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "30"
           Inscritos: "30"
@@ -11464,8 +11600,8 @@ www.aneel.gov.br"
           Matriculados: "30"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "30"
-          Inscritos: "30"
-          Pendentes: "2"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
 - LOB1209:
   sigla: "LOB1209"
@@ -11517,7 +11653,7 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "22"
+          Inscritos: "23"
           Pendentes: "0"
           Matriculados: "17"
         - EEL_-_Engenharia_Ambiental:
@@ -11567,7 +11703,7 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
+          Inscritos: "50"
           Pendentes: "0"
           Matriculados: "48"
         - EEL_-_Engenharia_Ambiental:
@@ -11676,12 +11812,12 @@ www.aneel.gov.br"
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "57"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "49"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "50"
-          Pendentes: "1"
+          Inscritos: "49"
+          Pendentes: "0"
           Matriculados: "49"
 - LOT2035:
   sigla: "LOT2035"
@@ -11730,7 +11866,7 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "47"
+          Inscritos: "49"
           Pendentes: "0"
           Matriculados: "45"
         - EEL_-_Engenharia_Ambiental:
@@ -11754,10 +11890,10 @@ www.aneel.gov.br"
           prof: "(R) Teresa Cristina Brazil de Paiva "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
+          Vagas: "62"
+          Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "62"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
           Inscritos: "60"
@@ -11947,7 +12083,7 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "6"
+          Inscritos: "12"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Ambiental:
@@ -12073,7 +12209,7 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "32"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "29"
         - EEL_-_Engenharia_Ambiental:
@@ -12127,13 +12263,13 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "26"
-          Pendentes: "5"
+          Inscritos: "29"
+          Pendentes: "4"
           Matriculados: "19"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "24"
-          Pendentes: "5"
+          Inscritos: "23"
+          Pendentes: "4"
           Matriculados: "19"
 - LOB1237:
   sigla: "LOB1237"
@@ -13180,10 +13316,10 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
           prof: "(R) Tatiane da Franca Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "21"
+          Inscritos: "21"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "21"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
           Inscritos: "20"
@@ -13204,7 +13340,7 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       vagas:
         - Obrigatoria:
           Vagas: "20"
-          Inscritos: "18"
+          Inscritos: "19"
           Pendentes: "0"
           Matriculados: "18"
         - EEL_-_Engenharia_Bioquimica:
@@ -13408,13 +13544,13 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "14"
-          Pendentes: "4"
+          Inscritos: "12"
+          Pendentes: "0"
           Matriculados: "9"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "13"
-          Pendentes: "4"
+          Inscritos: "9"
+          Pendentes: "0"
           Matriculados: "9"
     - 20222D1:
       Codigo_da_Turma: "20222D1"
@@ -13428,13 +13564,13 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "23"
-          Pendentes: "1"
+          Inscritos: "34"
+          Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "11"
-          Pendentes: "1"
+          Inscritos: "10"
+          Pendentes: "0"
           Matriculados: "10"
     - 20222D2:
       Codigo_da_Turma: "20222D2"
@@ -13449,12 +13585,12 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "1"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "1"
-          Pendentes: "1"
+          Inscritos: "0"
+          Pendentes: "0"
           Matriculados: "0"
 - LOQ4087:
   sigla: "LOQ4087"
@@ -13525,19 +13661,19 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "61"
-          Pendentes: "2"
-          Matriculados: "57"
+          Inscritos: "66"
+          Pendentes: "0"
+          Matriculados: "56"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "31"
-          Inscritos: "30"
-          Pendentes: "2"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "29"
-          Inscritos: "29"
+          Inscritos: "28"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "28"
     - 20222D1:
       Codigo_da_Turma: "20222D1"
       Inicio: "15/08/2022"
@@ -13553,14 +13689,14 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "63"
+          Inscritos: "70"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "49"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "49"
 - LOT2005:
   sigla: "LOT2005"
   nome: " Bioquímica Experimental I"
@@ -13626,13 +13762,13 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
       vagas:
         - Obrigatoria:
           Vagas: "20"
-          Inscritos: "20"
-          Pendentes: "2"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "18"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
-          Inscritos: "20"
-          Pendentes: "2"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "18"
     - 20222B2:
       Codigo_da_Turma: "20222B2"
@@ -13646,13 +13782,13 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
       vagas:
         - Obrigatoria:
           Vagas: "20"
-          Inscritos: "18"
-          Pendentes: "2"
+          Inscritos: "17"
+          Pendentes: "0"
           Matriculados: "16"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
-          Inscritos: "18"
-          Pendentes: "2"
+          Inscritos: "16"
+          Pendentes: "0"
           Matriculados: "16"
 - LOT2007:
   sigla: "LOT2007"
@@ -13708,13 +13844,13 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "5"
+          Inscritos: "31"
+          Pendentes: "0"
           Matriculados: "30"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "5"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "30"
 - LOQ4088:
   sigla: "LOQ4088"
@@ -13803,13 +13939,13 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "1"
+          Inscritos: "65"
+          Pendentes: "0"
           Matriculados: "59"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "1"
+          Inscritos: "59"
+          Pendentes: "0"
           Matriculados: "59"
 - LOT2006:
   sigla: "LOT2006"
@@ -14014,8 +14150,8 @@ FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd. Ed. Ne
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "56"
-          Pendentes: "3"
+          Inscritos: "62"
+          Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
@@ -14024,8 +14160,8 @@ FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd. Ed. Ne
           Matriculados: "28"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "20"
-          Inscritos: "9"
-          Pendentes: "3"
+          Inscritos: "6"
+          Pendentes: "0"
           Matriculados: "6"
     - 20222D1:
       Codigo_da_Turma: "20222D1"
@@ -14042,13 +14178,13 @@ FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd. Ed. Ne
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "52"
-          Pendentes: "1"
+          Inscritos: "59"
+          Pendentes: "0"
           Matriculados: "47"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "48"
-          Pendentes: "1"
+          Inscritos: "47"
+          Pendentes: "0"
           Matriculados: "47"
 - LOQ4060:
   sigla: "LOQ4060"
@@ -14098,7 +14234,7 @@ FROMENT, G.F. ; BISCHOFF, K.B. Chemical reactor analysis and design. 2nd. Ed. Ne
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "47"
+          Inscritos: "60"
           Pendentes: "0"
           Matriculados: "37"
         - EEL_-_Engenharia_Bioquimica:
@@ -14160,7 +14296,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "46"
+          Inscritos: "52"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_Bioquimica:
@@ -14366,14 +14502,19 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "56"
-          Pendentes: "7"
+          Inscritos: "50"
+          Pendentes: "0"
           Matriculados: "49"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "56"
-          Pendentes: "7"
+          Inscritos: "49"
+          Pendentes: "0"
           Matriculados: "49"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4054:
   sigla: "LOQ4054"
   nome: " Fenômenos de Transporte III"
@@ -14424,14 +14565,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           prof: "Daniela Helena Pelegrine Guimarães "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "7"
-          Matriculados: "53"
+          Vagas: "61"
+          Inscritos: "74"
+          Pendentes: "0"
+          Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "7"
+          Inscritos: "53"
+          Pendentes: "0"
           Matriculados: "53"
     - 20222D4:
       Codigo_da_Turma: "20222D4"
@@ -14448,7 +14589,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "6"
+          Inscritos: "10"
           Pendentes: "0"
           Matriculados: "2"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -14508,13 +14649,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "2"
+          Inscritos: "42"
+          Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Quimica:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "2"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "38"
     - 20222D2:
       Codigo_da_Turma: "20222D2"
@@ -14528,14 +14669,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "4"
-          Matriculados: "36"
+          Inscritos: "41"
+          Pendentes: "0"
+          Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "4"
-          Matriculados: "36"
+          Inscritos: "35"
+          Pendentes: "0"
+          Matriculados: "35"
     - 20222N3:
       Codigo_da_Turma: "20222N3"
       Inicio: "15/08/2022"
@@ -14569,7 +14710,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "35"
-          Inscritos: "55"
+          Inscritos: "65"
           Pendentes: "0"
           Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -14666,13 +14807,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "6"
+          Inscritos: "61"
+          Pendentes: "0"
           Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "6"
+          Inscritos: "54"
+          Pendentes: "0"
           Matriculados: "54"
 - LOT2012:
   sigla: "LOT2012"
@@ -14889,7 +15030,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
+          Inscritos: "38"
           Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Bioquimica:
@@ -14915,8 +15056,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "60"
-          Pendentes: "5"
-          Matriculados: "55"
+          Pendentes: "0"
+          Matriculados: "56"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "10"
           Inscritos: "10"
@@ -14924,8 +15065,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
           Matriculados: "10"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "50"
-          Inscritos: "50"
-          Pendentes: "5"
+          Inscritos: "45"
+          Pendentes: "0"
           Matriculados: "45"
 - LOQ4062:
   sigla: "LOQ4062"
@@ -14979,13 +15120,13 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "65"
-          Pendentes: "1"
-          Matriculados: "36"
+          Inscritos: "80"
+          Pendentes: "0"
+          Matriculados: "38"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "37"
-          Pendentes: "1"
+          Inscritos: "36"
+          Pendentes: "0"
           Matriculados: "36"
 - LOT2015:
   sigla: "LOT2015"
@@ -15037,7 +15178,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "42"
+          Inscritos: "43"
           Pendentes: "0"
           Matriculados: "42"
         - EEL_-_Engenharia_Bioquimica:
@@ -15095,13 +15236,13 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "3"
+          Inscritos: "39"
+          Pendentes: "0"
           Matriculados: "37"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "3"
+          Inscritos: "37"
+          Pendentes: "0"
           Matriculados: "37"
 - LOT2023:
   sigla: "LOT2023"
@@ -15160,12 +15301,12 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "44"
-          Pendentes: "2"
+          Pendentes: "0"
           Matriculados: "42"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "44"
-          Pendentes: "2"
+          Inscritos: "42"
+          Pendentes: "0"
           Matriculados: "42"
 - LOT2025:
   sigla: "LOT2025"
@@ -15217,13 +15358,13 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "34"
-          Pendentes: "3"
+          Inscritos: "33"
+          Pendentes: "0"
           Matriculados: "30"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "33"
-          Pendentes: "3"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "30"
 - LOT2037:
   sigla: "LOT2037"
@@ -15298,7 +15439,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "51"
           Pendentes: "0"
           Matriculados: "49"
         - EEL_-_Engenharia_Bioquimica:
@@ -15367,10 +15508,10 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
           prof: "(R) Rita de Cássia Lacerda Brambilla Rodrigues "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "21"
+          Inscritos: "21"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "21"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
           Inscritos: "20"
@@ -15389,13 +15530,13 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       vagas:
         - Obrigatoria:
           Vagas: "20"
-          Inscritos: "20"
-          Pendentes: "1"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
-          Inscritos: "20"
-          Pendentes: "1"
+          Inscritos: "19"
+          Pendentes: "0"
           Matriculados: "19"
 - LOT2038:
   sigla: "LOT2038"
@@ -15558,12 +15699,12 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "26"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "23"
-          Pendentes: "1"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "22"
 - LOT2044:
   sigla: "LOT2044"
@@ -15726,12 +15867,12 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "16"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "15"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "16"
-          Pendentes: "1"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "15"
 - LOT2057:
   sigla: "LOT2057"
@@ -15779,7 +15920,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "15"
+          Inscritos: "17"
           Pendentes: "1"
           Matriculados: "11"
         - EEL_-_Engenharia_Bioquimica:
@@ -15910,7 +16051,7 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
       aulas:
         - h0:
           horario: " sex  14:00  18:00 "
-          prof: " "
+          prof: "(R) Ismael Maciel de Mancilha "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -16085,13 +16226,18 @@ Textos complementares serão usados durante o curso."
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "47"
-          Pendentes: "1"
-          Matriculados: "46"
+          Pendentes: "0"
+          Matriculados: "47"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "47"
-          Pendentes: "1"
-          Matriculados: "46"
+          Pendentes: "0"
+          Matriculados: "47"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4239:
   sigla: "LOQ4239"
   nome: " Administração e Organização I"
@@ -16156,6 +16302,11 @@ TZU, S. A Arte da Guerra (Edição Completa). São Paulo. WMF Martins Fontes, 20
           Inscritos: "45"
           Pendentes: "0"
           Matriculados: "45"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4205:
   sigla: "LOQ4205"
   nome: " Sistemas Produtivos II"
@@ -16367,13 +16518,13 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "47"
-          Pendentes: "1"
+          Inscritos: "46"
+          Pendentes: "0"
           Matriculados: "46"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "47"
-          Pendentes: "1"
+          Inscritos: "46"
+          Pendentes: "0"
           Matriculados: "46"
 - LOQ4204:
   sigla: "LOQ4204"
@@ -16418,14 +16569,19 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "38"
+          Matriculados: "39"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "38"
           Pendentes: "0"
           Matriculados: "38"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4206:
   sigla: "LOQ4206"
   nome: " Pesquisa Operacional I"
@@ -16590,13 +16746,13 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "2"
+          Inscritos: "39"
+          Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "2"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "38"
 - LOQ4253:
   sigla: "LOQ4253"
@@ -16678,13 +16834,13 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "31"
-          Pendentes: "3"
-          Matriculados: "28"
+          Inscritos: "30"
+          Pendentes: "0"
+          Matriculados: "29"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "31"
-          Pendentes: "3"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
 - LOQ4213:
   sigla: "LOQ4213"
@@ -16732,7 +16888,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "26"
+          Inscritos: "27"
           Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_de_Producao:
@@ -16937,6 +17093,11 @@ Livros e Artigos científicos relacionados com o tema do projeto."
           Inscritos: "33"
           Pendentes: "0"
           Matriculados: "33"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4264:
   sigla: "LOQ4264"
   nome: " Engenharia da Sustentabilidade"
@@ -17085,7 +17246,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "19"
+          Inscritos: "20"
           Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_de_Producao:
@@ -17093,6 +17254,11 @@ Livros e Artigos científicos relacionados com o tema do projeto."
           Inscritos: "19"
           Pendentes: "0"
           Matriculados: "19"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4261:
   sigla: "LOQ4261"
   nome: " Planejamento, Programação e Controle da Produção"
@@ -17237,7 +17403,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "32"
+          Inscritos: "33"
           Pendentes: "0"
           Matriculados: "32"
         - EEL_-_Engenharia_de_Producao:
@@ -17291,14 +17457,19 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "28"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "27"
           Pendentes: "0"
           Matriculados: "27"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4255:
   sigla: "LOQ4255"
   nome: " Inovação Tecnológica"
@@ -18051,7 +18222,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "56"
+          Inscritos: "57"
           Pendentes: "0"
           Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -18164,13 +18335,13 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "1"
+          Inscritos: "63"
+          Pendentes: "0"
           Matriculados: "59"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "1"
+          Inscritos: "59"
+          Pendentes: "0"
           Matriculados: "59"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
@@ -18184,7 +18355,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -18204,7 +18375,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "24"
+          Inscritos: "31"
           Pendentes: "0"
           Matriculados: "0"
 - LOQ4082:
@@ -18265,13 +18436,13 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "7"
+          Inscritos: "54"
+          Pendentes: "0"
           Matriculados: "53"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "7"
+          Inscritos: "53"
+          Pendentes: "0"
           Matriculados: "53"
 - LOQ4009:
   sigla: "LOQ4009"
@@ -18404,13 +18575,13 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "4"
+          Inscritos: "58"
+          Pendentes: "0"
           Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "4"
+          Inscritos: "56"
+          Pendentes: "0"
           Matriculados: "56"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
@@ -18424,13 +18595,13 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "56"
-          Pendentes: "3"
+          Inscritos: "59"
+          Pendentes: "0"
           Matriculados: "42"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "45"
-          Pendentes: "3"
+          Inscritos: "42"
+          Pendentes: "0"
           Matriculados: "42"
 - LOT2004:
   sigla: "LOT2004"
@@ -18482,13 +18653,13 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "2"
+          Inscritos: "44"
+          Pendentes: "0"
           Matriculados: "32"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "34"
-          Pendentes: "2"
+          Inscritos: "32"
+          Pendentes: "0"
           Matriculados: "32"
 - LOM3022:
   sigla: "LOM3022"
@@ -18619,13 +18790,13 @@ FROMENT, G.F.; BISCHOFF, K.B. Chemical Reactor Analysis And Design. 2nd ed.  New
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "40"
-          Pendentes: "6"
+          Inscritos: "44"
+          Pendentes: "0"
           Matriculados: "29"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "6"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
     - 20222NI:
       Codigo_da_Turma: "20222NI"
@@ -18640,8 +18811,8 @@ FROMENT, G.F.; BISCHOFF, K.B. Chemical Reactor Analysis And Design. 2nd ed.  New
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "29"
-          Pendentes: "3"
+          Inscritos: "32"
+          Pendentes: "0"
           Matriculados: "15"
         - EEL_-_Engenharia_Industrial_Quimica_(not.):
           Vagas: "10"
@@ -18650,8 +18821,8 @@ FROMENT, G.F.; BISCHOFF, K.B. Chemical Reactor Analysis And Design. 2nd ed.  New
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "50"
-          Inscritos: "18"
-          Pendentes: "3"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "15"
 - LOQ4064:
   sigla: "LOQ4064"
@@ -18715,13 +18886,13 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "6"
+          Inscritos: "66"
+          Pendentes: "0"
           Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "6"
+          Inscritos: "54"
+          Pendentes: "0"
           Matriculados: "54"
 - LOQ4022:
   sigla: "LOQ4022"
@@ -18774,7 +18945,7 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "6"
+          Inscritos: "7"
           Pendentes: "0"
           Matriculados: "5"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -18836,7 +19007,7 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "52"
+          Inscritos: "57"
           Pendentes: "0"
           Matriculados: "45"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -18931,14 +19102,14 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "47"
-          Pendentes: "1"
-          Matriculados: "15"
+          Inscritos: "60"
+          Pendentes: "0"
+          Matriculados: "14"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "35"
-          Inscritos: "11"
-          Pendentes: "1"
-          Matriculados: "10"
+          Inscritos: "9"
+          Pendentes: "0"
+          Matriculados: "9"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "5"
           Inscritos: "5"
@@ -19008,13 +19179,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "60"
-          Pendentes: "1"
-          Matriculados: "59"
+          Pendentes: "0"
+          Matriculados: "60"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
           Inscritos: "60"
-          Pendentes: "1"
-          Matriculados: "59"
+          Pendentes: "0"
+          Matriculados: "60"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
       Inicio: "15/08/2022"
@@ -19026,15 +19197,15 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
           prof: "(R) João Paulo Alves Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "2"
-          Matriculados: "58"
+          Vagas: "61"
+          Inscritos: "77"
+          Pendentes: "0"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "2"
-          Matriculados: "58"
+          Inscritos: "59"
+          Pendentes: "0"
+          Matriculados: "59"
 - LOQ4078:
   sigla: "LOQ4078"
   nome: " Modelagem e Simulação de Processos"
@@ -19090,7 +19261,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "37"
+          Inscritos: "40"
           Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -19111,7 +19282,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "48"
+          Inscritos: "50"
           Pendentes: "0"
           Matriculados: "31"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -19166,14 +19337,14 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "71"
+          Inscritos: "76"
           Pendentes: "0"
-          Matriculados: "52"
+          Matriculados: "50"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "52"
+          Inscritos: "50"
           Pendentes: "0"
-          Matriculados: "52"
+          Matriculados: "50"
 - LOQ4023:
   sigla: "LOQ4023"
   nome: " Processos Químicos Industriais II"
@@ -19225,9 +19396,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "34"
+          Inscritos: "39"
           Pendentes: "0"
-          Matriculados: "14"
+          Matriculados: "15"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
           Inscritos: "14"
@@ -19277,14 +19448,14 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "152"
-          Inscritos: "153"
+          Inscritos: "156"
           Pendentes: "0"
-          Matriculados: "152"
+          Matriculados: "151"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "68"
-          Inscritos: "68"
+          Inscritos: "67"
           Pendentes: "0"
-          Matriculados: "68"
+          Matriculados: "67"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "82"
           Inscritos: "82"
@@ -19386,14 +19557,14 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "61"
+          Inscritos: "85"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "59"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "60"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "59"
 - LOQ4048:
   sigla: "LOQ4048"
   nome: " Trabalho de  Conclusão do Curso II"
@@ -19441,20 +19612,20 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
           prof: "(R) Marcos Villela Barcza "
       vagas:
         - Obrigatoria:
-          Vagas: "97"
-          Inscritos: "101"
-          Pendentes: "19"
-          Matriculados: "78"
+          Vagas: "106"
+          Inscritos: "106"
+          Pendentes: "12"
+          Matriculados: "94"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "44"
           Inscritos: "44"
-          Pendentes: "6"
-          Matriculados: "38"
+          Pendentes: "2"
+          Matriculados: "42"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "52"
           Inscritos: "52"
-          Pendentes: "12"
-          Matriculados: "40"
+          Pendentes: "9"
+          Matriculados: "43"
         - EEL_-_Engenharia_Industrial_Quimica_(not.):
           Vagas: "1"
           Inscritos: "1"
