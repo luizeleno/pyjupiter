@@ -4,16 +4,15 @@ title: Equipe PyJupiter
 permalink: /equipe/
 ---
 
-
 [Prof. Luiz T. F. Eleno](http://www.demar.eel.usp.br/docentes/luiz-tadeu-fernandes-eleno.html){: target='_blank'}
 : Coordenador e mantenedor do Projeto [pyjupiter no Github](https://github.com/luizeleno/pyjupiter){: target='_blank'}.
-
-Luiz Felipe de Oliveira Alves
-: Aluno do curso de Engenharia Física. Vai limpar as bases de dados, eliminando repetições, e criar bases em SQL. Seu projeto principal será uma interface excel para a criação de grades horárias da EEL.
 
 ---
 
 ## Ex-integrantes do time:
+
+Luiz Felipe de Oliveira Alves
+: Aluno do curso de Engenharia Física. Vai limpar as bases de dados, eliminando repetições, e criar bases em SQL. Seu projeto principal será uma interface excel para a criação de grades horárias da EEL.
 
 Camila Abrantes
 : Aluna do último ano de Engenharia Física. Criação de uma plataforma para atribuição de carga horária pelas chefias de departamento.
