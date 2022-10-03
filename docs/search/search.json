@@ -11,6 +11,14 @@
     } ,
   
     {
+      "title"     : "LOB1008",
+      "url"       : "/pyjupiter/disciplinas/lob1008.html",
+      "nome"      : " Ciência, Tecnologia e Sociedade",
+      "nomeascii" : " Ciencia, Tecnologia e Sociedade",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOB1018",
       "url"       : "/pyjupiter/disciplinas/lob1018.html",
       "nome"      : " Física I",
@@ -43,18 +51,18 @@
     } ,
   
     {
-      "title"     : "LOM3258",
-      "url"       : "/pyjupiter/disciplinas/lom3258.html",
-      "nome"      : " Introdução à Eletrônica e Computação Física",
-      "nomeascii" : " Introducao a Eletronica e Computacao Fisica",
+      "title"     : "LOM3260",
+      "url"       : "/pyjupiter/disciplinas/lom3260.html",
+      "nome"      : " Computação Científica em Python",
+      "nomeascii" : " Computacao Cientifica em Python",
       "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOQ4031",
-      "url"       : "/pyjupiter/disciplinas/loq4031.html",
-      "nome"      : " Química Geral I",
-      "nomeascii" : " Quimica Geral I",
+      "title"     : "LOQ4100",
+      "url"       : "/pyjupiter/disciplinas/loq4100.html",
+      "nome"      : " Fundamentos de Química para Engenharia I-B",
+      "nomeascii" : " Fundamentos de Quimica para Engenharia I-B",
       "docentes"     : ""
     } ,
   
@@ -115,14 +123,6 @@
     } ,
   
     {
-      "title"     : "LOM3260",
-      "url"       : "/pyjupiter/disciplinas/lom3260.html",
-      "nome"      : " Computação Científica em Python",
-      "nomeascii" : " Computacao Cientifica em Python",
-      "docentes"     : ""
-    } ,
-  
-    {
       "title"     : "LOQ4095",
       "url"       : "/pyjupiter/disciplinas/loq4095.html",
       "nome"      : " Química Geral Experimental",
@@ -135,14 +135,6 @@
       "url"       : "/pyjupiter/disciplinas/lob1006.html",
       "nome"      : " Cálculo IV",
       "nomeascii" : " Calculo IV",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOB1008",
-      "url"       : "/pyjupiter/disciplinas/lob1008.html",
-      "nome"      : " Ciência, Tecnologia e Sociedade",
-      "nomeascii" : " Ciencia, Tecnologia e Sociedade",
       "docentes"     : ""
     } ,
   
@@ -235,18 +227,18 @@
     } ,
   
     {
-      "title"     : "LOM3202",
-      "url"       : "/pyjupiter/disciplinas/lom3202.html",
-      "nome"      : " Circuitos Elétricos",
-      "nomeascii" : " Circuitos Eletricos",
-      "docentes"     : ""
-    } ,
-  
-    {
       "title"     : "LOM3205",
       "url"       : "/pyjupiter/disciplinas/lom3205.html",
       "nome"      : " Eletromagnetismo",
       "nomeascii" : " Eletromagnetismo",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3212",
+      "url"       : "/pyjupiter/disciplinas/lom3212.html",
+      "nome"      : " Fenômenos de Transporte A",
+      "nomeascii" : " Fenomenos de Transporte A",
       "docentes"     : ""
     } ,
   
@@ -259,26 +251,26 @@
     } ,
   
     {
-      "title"     : "LOM3254",
-      "url"       : "/pyjupiter/disciplinas/lom3254.html",
-      "nome"      : " Laboratório de Circuitos Elétricos",
-      "nomeascii" : " Laboratorio de Circuitos Eletricos",
+      "title"     : "LOM3261",
+      "url"       : "/pyjupiter/disciplinas/lom3261.html",
+      "nome"      : " Métodos Numéricos e Aplicações",
+      "nomeascii" : " Metodos Numericos e Aplicacoes",
       "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOM3049",
-      "url"       : "/pyjupiter/disciplinas/lom3049.html",
-      "nome"      : " Termodinâmica de Máquinas",
-      "nomeascii" : " Termodinamica de Maquinas",
+      "title"     : "LOM3262",
+      "url"       : "/pyjupiter/disciplinas/lom3262.html",
+      "nome"      : " Circuitos Elétricos - teoria e prática",
+      "nomeascii" : " Circuitos Eletricos - teoria e pratica",
       "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOM3206",
-      "url"       : "/pyjupiter/disciplinas/lom3206.html",
-      "nome"      : " Eletrônica",
-      "nomeascii" : " Eletronica",
+      "title"     : "LOM3213",
+      "url"       : "/pyjupiter/disciplinas/lom3213.html",
+      "nome"      : " Fenômenos de Transporte B",
+      "nomeascii" : " Fenomenos de Transporte B",
       "docentes"     : ""
     } ,
   
@@ -287,14 +279,6 @@
       "url"       : "/pyjupiter/disciplinas/lom3217.html",
       "nome"      : " Física Estatística",
       "nomeascii" : " Fisica Estatistica",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3221",
-      "url"       : "/pyjupiter/disciplinas/lom3221.html",
-      "nome"      : " Laboratório de Eletrônica",
-      "nomeascii" : " Laboratorio de Eletronica",
       "docentes"     : ""
     } ,
   
@@ -323,6 +307,22 @@
     } ,
   
     {
+      "title"     : "LOM3263",
+      "url"       : "/pyjupiter/disciplinas/lom3263.html",
+      "nome"      : " Eletrônica Fundamental e Aplicada",
+      "nomeascii" : " Eletronica Fundamental e Aplicada",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4050",
+      "url"       : "/pyjupiter/disciplinas/loq4050.html",
+      "nome"      : " Engenharia Econômica",
+      "nomeascii" : " Engenharia Economica",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOQ4234",
       "url"       : "/pyjupiter/disciplinas/loq4234.html",
       "nome"      : " Empreendedorismo",
@@ -331,10 +331,10 @@
     } ,
   
     {
-      "title"     : "LOM3212",
-      "url"       : "/pyjupiter/disciplinas/lom3212.html",
-      "nome"      : " Fenômenos de Transporte A",
-      "nomeascii" : " Fenomenos de Transporte A",
+      "title"     : "LOM3049",
+      "url"       : "/pyjupiter/disciplinas/lom3049.html",
+      "nome"      : " Termodinâmica de Máquinas",
+      "nomeascii" : " Termodinamica de Maquinas",
       "docentes"     : ""
     } ,
   
@@ -373,8 +373,8 @@
     {
       "title"     : "LOM3238",
       "url"       : "/pyjupiter/disciplinas/lom3238.html",
-      "nome"      : " Projeto Integrado I",
-      "nomeascii" : " Projeto Integrado I",
+      "nome"      : " Projeto Integrado",
+      "nomeascii" : " Projeto Integrado",
       "docentes"     : ""
     } ,
   
@@ -395,22 +395,6 @@
     } ,
   
     {
-      "title"     : "LOM3203",
-      "url"       : "/pyjupiter/disciplinas/lom3203.html",
-      "nome"      : " Controle e Automação",
-      "nomeascii" : " Controle e Automacao",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3213",
-      "url"       : "/pyjupiter/disciplinas/lom3213.html",
-      "nome"      : " Fenômenos de Transporte B",
-      "nomeascii" : " Fenomenos de Transporte B",
-      "docentes"     : ""
-    } ,
-  
-    {
       "title"     : "LOM3223",
       "url"       : "/pyjupiter/disciplinas/lom3223.html",
       "nome"      : " Materiais e Dispositivos Magnéticos e Supercondutores",
@@ -427,34 +411,26 @@
     } ,
   
     {
-      "title"     : "LOQ4050",
-      "url"       : "/pyjupiter/disciplinas/loq4050.html",
-      "nome"      : " Engenharia Econômica",
-      "nomeascii" : " Engenharia Economica",
+      "title"     : "LOM3264",
+      "url"       : "/pyjupiter/disciplinas/lom3264.html",
+      "nome"      : " Fundamentos de Controle",
+      "nomeascii" : " Fundamentos de Controle",
       "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOQ4233",
-      "url"       : "/pyjupiter/disciplinas/loq4233.html",
-      "nome"      : " Gestão de Negócios",
-      "nomeascii" : " Gestao de Negocios",
+      "title"     : "LOQ4257",
+      "url"       : "/pyjupiter/disciplinas/loq4257.html",
+      "nome"      : " Gestão de Projetos",
+      "nomeascii" : " Gestao de Projetos",
       "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOM3231",
-      "url"       : "/pyjupiter/disciplinas/lom3231.html",
-      "nome"      : " Métodos Experimentais da Física IV",
-      "nomeascii" : " Metodos Experimentais da Fisica IV",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3239",
-      "url"       : "/pyjupiter/disciplinas/lom3239.html",
-      "nome"      : " Projeto Integrado II",
-      "nomeascii" : " Projeto Integrado II",
+      "title"     : "LOM3219",
+      "url"       : "/pyjupiter/disciplinas/lom3219.html",
+      "nome"      : " Introdução à Nanotecnologia",
+      "nomeascii" : " Introducao a Nanotecnologia",
       "docentes"     : ""
     } ,
   
@@ -467,18 +443,34 @@
     } ,
   
     {
-      "title"     : "LOQ4209",
-      "url"       : "/pyjupiter/disciplinas/loq4209.html",
-      "nome"      : " Engenharia da Qualidade",
-      "nomeascii" : " Engenharia da Qualidade",
+      "title"     : "LOM3265",
+      "url"       : "/pyjupiter/disciplinas/lom3265.html",
+      "nome"      : " Automação",
+      "nomeascii" : " Automacao",
       "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOQ4250",
-      "url"       : "/pyjupiter/disciplinas/loq4250.html",
-      "nome"      : " Fundamentos de Administração da Produção",
-      "nomeascii" : " Fundamentos de Administracao da Producao",
+      "title"     : "LOM3266",
+      "url"       : "/pyjupiter/disciplinas/lom3266.html",
+      "nome"      : " Fotônica Integrada",
+      "nomeascii" : " Fotonica Integrada",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3267",
+      "url"       : "/pyjupiter/disciplinas/lom3267.html",
+      "nome"      : " Trabalho de Graduação I",
+      "nomeascii" : " Trabalho de Graduacao I",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4209",
+      "url"       : "/pyjupiter/disciplinas/loq4209.html",
+      "nome"      : " Engenharia da Qualidade",
+      "nomeascii" : " Engenharia da Qualidade",
       "docentes"     : ""
     } ,
   
@@ -509,8 +501,8 @@
     {
       "title"     : "LOM3250",
       "url"       : "/pyjupiter/disciplinas/lom3250.html",
-      "nome"      : " Trabalho de Graduação",
-      "nomeascii" : " Trabalho de Graduacao",
+      "nome"      : " Trabalho de Graduação II",
+      "nomeascii" : " Trabalho de Graduacao II",
       "docentes"     : ""
     } ,
   
@@ -523,18 +515,50 @@
     } ,
   
     {
-      "title"     : "LOM3255",
-      "url"       : "/pyjupiter/disciplinas/lom3255.html",
-      "nome"      : " Introdução a Projetos de Engenharia",
-      "nomeascii" : " Introducao a Projetos de Engenharia",
+      "title"     : "LOM3105",
+      "url"       : "/pyjupiter/disciplinas/lom3105.html",
+      "nome"      : " Computação e análise de dados em Engenharia",
+      "nomeascii" : " Computacao e analise de dados em Engenharia",
       "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOM3207",
-      "url"       : "/pyjupiter/disciplinas/lom3207.html",
-      "nome"      : " Eletrônica de Potência",
-      "nomeascii" : " Eletronica de Potencia",
+      "title"     : "LOM3258",
+      "url"       : "/pyjupiter/disciplinas/lom3258.html",
+      "nome"      : " Introdução à Eletrônica e Computação Física",
+      "nomeascii" : " Introducao a Eletronica e Computacao Fisica",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3015",
+      "url"       : "/pyjupiter/disciplinas/lom3015.html",
+      "nome"      : " Termodinâmica de Materiais",
+      "nomeascii" : " Termodinamica de Materiais",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3268",
+      "url"       : "/pyjupiter/disciplinas/lom3268.html",
+      "nome"      : " Projeto Computacional",
+      "nomeascii" : " Projeto Computacional",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3005",
+      "url"       : "/pyjupiter/disciplinas/lom3005.html",
+      "nome"      : " Diagrama de Fases",
+      "nomeascii" : " Diagrama de Fases",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3106",
+      "url"       : "/pyjupiter/disciplinas/lom3106.html",
+      "nome"      : " Ciência dos Materiais Computacional",
+      "nomeascii" : " Ciencia dos Materiais Computacional",
       "docentes"     : ""
     } ,
   
@@ -543,22 +567,6 @@
       "url"       : "/pyjupiter/disciplinas/lom3208.html",
       "nome"      : " Eletroquímica",
       "nomeascii" : " Eletroquimica",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3211",
-      "url"       : "/pyjupiter/disciplinas/lom3211.html",
-      "nome"      : " Estruturas e Propriedades de Materiais",
-      "nomeascii" : " Estruturas e Propriedades de Materiais",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3225",
-      "url"       : "/pyjupiter/disciplinas/lom3225.html",
-      "nome"      : " Materiais e Dispositivos Semicondutores",
-      "nomeascii" : " Materiais e Dispositivos Semicondutores",
       "docentes"     : ""
     } ,
   
@@ -581,48 +589,16 @@
     {
       "title"     : "LOM3256",
       "url"       : "/pyjupiter/disciplinas/lom3256.html",
-      "nome"      : " Tópicos em Cálculo de Estrutura Eletrônica dos Materiais",
-      "nomeascii" : " Topicos em Calculo de Estrutura Eletronica dos Materiais",
+      "nome"      : " Tópicos em Cálculo de Estrutura Eletrônica",
+      "nomeascii" : " Topicos em Calculo de Estrutura Eletronica",
       "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOM3201",
-      "url"       : "/pyjupiter/disciplinas/lom3201.html",
-      "nome"      : " Biofísica Molecular",
-      "nomeascii" : " Biofisica Molecular",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3214",
-      "url"       : "/pyjupiter/disciplinas/lom3214.html",
-      "nome"      : " Física de Superfícies",
-      "nomeascii" : " Fisica de Superficies",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3222",
-      "url"       : "/pyjupiter/disciplinas/lom3222.html",
-      "nome"      : " Materiais e Dispositivos Dielétricos e Piezelétricos",
-      "nomeascii" : " Materiais e Dispositivos Dieletricos e Piezeletricos",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3235",
-      "url"       : "/pyjupiter/disciplinas/lom3235.html",
-      "nome"      : " Processamento de Materiais",
-      "nomeascii" : " Processamento de Materiais",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3244",
-      "url"       : "/pyjupiter/disciplinas/lom3244.html",
-      "nome"      : " Sensores e Transdutores",
-      "nomeascii" : " Sensores e Transdutores",
+      "title"     : "LOM3066",
+      "url"       : "/pyjupiter/disciplinas/lom3066.html",
+      "nome"      : " Materiais Compósitos",
+      "nomeascii" : " Materiais Compositos",
       "docentes"     : ""
     } ,
   
@@ -635,26 +611,10 @@
     } ,
   
     {
-      "title"     : "LOM3219",
-      "url"       : "/pyjupiter/disciplinas/lom3219.html",
-      "nome"      : " Introdução à Nanotecnologia",
-      "nomeascii" : " Introducao a Nanotecnologia",
-      "docentes"     : ""
-    } ,
-  
-    {
       "title"     : "LOM3220",
       "url"       : "/pyjupiter/disciplinas/lom3220.html",
       "nome"      : " Introdução à Spintrônica",
       "nomeascii" : " Introducao a Spintronica",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3224",
-      "url"       : "/pyjupiter/disciplinas/lom3224.html",
-      "nome"      : " Materiais e Dispositivos Ópticos e Fotônicos",
-      "nomeascii" : " Materiais e Dispositivos Opticos e Fotonicos",
       "docentes"     : ""
     } ,
   
@@ -667,42 +627,10 @@
     } ,
   
     {
-      "title"     : "LOM3245",
-      "url"       : "/pyjupiter/disciplinas/lom3245.html",
-      "nome"      : " Técnicas Avançadas de Caracterização de Materiais",
-      "nomeascii" : " Tecnicas Avancadas de Caracterizacao de Materiais",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3247",
-      "url"       : "/pyjupiter/disciplinas/lom3247.html",
-      "nome"      : " Técnicas de Análises Espectroscópicas",
-      "nomeascii" : " Tecnicas de Analises Espectroscopicas",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3251",
-      "url"       : "/pyjupiter/disciplinas/lom3251.html",
-      "nome"      : " Vibração e Acústica",
-      "nomeascii" : " Vibracao e Acustica",
-      "docentes"     : ""
-    } ,
-  
-    {
       "title"     : "LOM3018",
       "url"       : "/pyjupiter/disciplinas/lom3018.html",
       "nome"      : " Introdução à Engenharia de Materiais",
       "nomeascii" : " Introducao a Engenharia de Materiais",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOQ4100",
-      "url"       : "/pyjupiter/disciplinas/loq4100.html",
-      "nome"      : " Fundamentos de Química para Engenharia I-B",
-      "nomeascii" : " Fundamentos de Quimica para Engenharia I-B",
       "docentes"     : ""
     } ,
   
@@ -763,14 +691,6 @@
     } ,
   
     {
-      "title"     : "LOM3105",
-      "url"       : "/pyjupiter/disciplinas/lom3105.html",
-      "nome"      : " Computação e análise de dados em Engenharia",
-      "nomeascii" : " Computacao e analise de dados em Engenharia",
-      "docentes"     : ""
-    } ,
-  
-    {
       "title"     : "LOQ4246",
       "url"       : "/pyjupiter/disciplinas/loq4246.html",
       "nome"      : " Engenharia da Sustentabilidade",
@@ -787,14 +707,6 @@
     } ,
   
     {
-      "title"     : "LOM3015",
-      "url"       : "/pyjupiter/disciplinas/lom3015.html",
-      "nome"      : " Termodinâmica de Materiais",
-      "nomeascii" : " Termodinamica de Materiais",
-      "docentes"     : ""
-    } ,
-  
-    {
       "title"     : "LOM3046",
       "url"       : "/pyjupiter/disciplinas/lom3046.html",
       "nome"      : " Técnicas de Análise Microestrutural",
@@ -807,14 +719,6 @@
       "url"       : "/pyjupiter/disciplinas/lom3047.html",
       "nome"      : " Técnicas de Análise Química",
       "nomeascii" : " Tecnicas de Analise Quimica",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3106",
-      "url"       : "/pyjupiter/disciplinas/lom3106.html",
-      "nome"      : " Ciência dos Materiais Computacional",
-      "nomeascii" : " Ciencia dos Materiais Computacional",
       "docentes"     : ""
     } ,
   
@@ -839,14 +743,6 @@
       "url"       : "/pyjupiter/disciplinas/lom3003.html",
       "nome"      : " Cinética de Transformação em Materiais",
       "nomeascii" : " Cinetica de Transformacao em Materiais",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3005",
-      "url"       : "/pyjupiter/disciplinas/lom3005.html",
-      "nome"      : " Diagrama de Fases",
-      "nomeascii" : " Diagrama de Fases",
       "docentes"     : ""
     } ,
   
@@ -955,6 +851,14 @@
     } ,
   
     {
+      "title"     : "LOQ4233",
+      "url"       : "/pyjupiter/disciplinas/loq4233.html",
+      "nome"      : " Gestão de Negócios",
+      "nomeascii" : " Gestao de Negocios",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOM3004",
       "url"       : "/pyjupiter/disciplinas/lom3004.html",
       "nome"      : " Processamento de Materiais Metálicos II",
@@ -1047,14 +951,6 @@
       "url"       : "/pyjupiter/disciplinas/lom3043.html",
       "nome"      : " Seleção de Materiais",
       "nomeascii" : " Selecao de Materiais",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOM3066",
-      "url"       : "/pyjupiter/disciplinas/lom3066.html",
-      "nome"      : " Materiais Compósitos",
-      "nomeascii" : " Materiais Compositos",
       "docentes"     : ""
     } ,
   
@@ -1207,6 +1103,30 @@
       "url"       : "/pyjupiter/disciplinas/lom3100.html",
       "nome"      : " Dinâmica",
       "nomeascii" : " Dinamica",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3114",
+      "url"       : "/pyjupiter/disciplinas/lom3114.html",
+      "nome"      : " Estatística Aplicada à Engenharia",
+      "nomeascii" : " Estatistica Aplicada a Engenharia",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3115",
+      "url"       : "/pyjupiter/disciplinas/lom3115.html",
+      "nome"      : " Aplicações Tecnológicas Avançadas de Materiais Poliméricos",
+      "nomeascii" : " Aplicacoes Tecnologicas Avancadas de Materiais Polimericos",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3116",
+      "url"       : "/pyjupiter/disciplinas/lom3116.html",
+      "nome"      : " Análise de Falhas de Materiais e Componentes",
+      "nomeascii" : " Analise de Falhas de Materiais e Componentes",
       "docentes"     : ""
     } ,
   
@@ -1987,6 +1907,14 @@
     } ,
   
     {
+      "title"     : "LOQ4250",
+      "url"       : "/pyjupiter/disciplinas/loq4250.html",
+      "nome"      : " Fundamentos de Administração da Produção",
+      "nomeascii" : " Fundamentos de Administracao da Producao",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOT2012",
       "url"       : "/pyjupiter/disciplinas/lot2012.html",
       "nome"      : " Engenharia Ambiental",
@@ -2215,14 +2143,6 @@
       "url"       : "/pyjupiter/disciplinas/loq4240.html",
       "nome"      : " Administração e Organização II",
       "nomeascii" : " Administracao e Organizacao II",
-      "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOQ4257",
-      "url"       : "/pyjupiter/disciplinas/loq4257.html",
-      "nome"      : " Gestão de Projetos",
-      "nomeascii" : " Gestao de Projetos",
       "docentes"     : ""
     } ,
   

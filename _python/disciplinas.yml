@@ -74,14 +74,14 @@
       vagas:
         - Obrigatoria:
           Vagas: "62"
-          Inscritos: "62"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "62"
+          Matriculados: "61"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "62"
-          Inscritos: "62"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "62"
+          Matriculados: "61"
     - 20222T3:
       Codigo_da_Turma: "20222T3"
       Inicio: "15/08/2022"
@@ -106,6 +106,88 @@
           Inscritos: "24"
           Pendentes: "0"
           Matriculados: "24"
+- LOB1008:
+  sigla: "LOB1008"
+  nome: " Ciência, Tecnologia e Sociedade"
+  nomeascii: " Ciencia, Tecnologia e Sociedade"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1008&codcur=88301&codhab=0"
+  requisitos:
+  tipo: "Obrigatórias"
+  semestre:
+    EF: "1"
+    EM: "2"
+    EA: "8"
+    EB: "8"
+    EP: "10"
+    EQD: "2"
+    EQN: "5"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Ciências Básicas e Ambientais"
+  nome_en: "Science, technology and society"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "-3"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2012"
+  objetivos: "6376612 - Daisy Rafaela da Silva"
+  resumo: "Semestral"
+  programa: "01/01/2012"
+  metodo: "6376612 - Daisy Rafaela da Silva"
+  criterio: "A média semestral e final dos alunos será composta por: Prova Semestral  (PS) e outros instrumentos (T) empregados na avaliação do aluno, valorizando a sua participação e colaboração nos trabalhos e atividades desenvolvidas individualmente e no Projeto de curso em equipe."
+  exame: "(PS+T) / 2"
+  bibliografia: "-  Trabalho escrito, com questionamento, envolvendo o conteúdo do programa 
+-   prova escrita"
+  docentes: []
+  oferecimento:
+    - 20222A1:
+      Codigo_da_Turma: "20222A1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " qua  08:00  10:00 "
+          prof: "(R) Daisy Rafaela da Silva "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "33"
+          Pendentes: "0"
+          Matriculados: "33"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "60"
+          Inscritos: "26"
+          Pendentes: "0"
+          Matriculados: "26"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+    - 20222M2:
+      Codigo_da_Turma: "20222M2"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  16:00  18:00 "
+          prof: "Henrique Otávio Queiroz de Aquino "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "29"
+          Pendentes: "0"
+          Matriculados: "29"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "60"
+          Inscritos: "26"
+          Pendentes: "0"
+          Matriculados: "26"
 - LOB1018:
   sigla: "LOB1018"
   nome: " Física I"
@@ -180,9 +262,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "53"
+          Inscritos: "54"
           Pendentes: "0"
-          Matriculados: "53"
+          Matriculados: "54"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
           Inscritos: "35"
@@ -202,10 +284,10 @@
           prof: "Priscila Alves da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
+          Vagas: "61"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
           Inscritos: "59"
@@ -225,10 +307,10 @@
           prof: "Priscila Alves da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "63"
-          Inscritos: "63"
+          Vagas: "64"
+          Inscritos: "64"
           Pendentes: "0"
-          Matriculados: "63"
+          Matriculados: "64"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
           Inscritos: "15"
@@ -255,13 +337,13 @@
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "19"
-          Pendentes: "1"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "18"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "50"
-          Inscritos: "19"
-          Pendentes: "1"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "18"
 - LOB1036:
   sigla: "LOB1036"
@@ -339,9 +421,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "59"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "60"
           Inscritos: "58"
@@ -513,61 +595,88 @@
   bibliografia: "Devido às características da disciplina, não será oferecida recuperação."
   docentes: []
   oferecimento:
-- LOM3258:
-  sigla: "LOM3258"
-  nome: " Introdução à Eletrônica e Computação Física"
-  nomeascii: " Introducao a Eletronica e Computacao Fisica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3258&codcur=88301&codhab=0"
+- LOM3260:
+  sigla: "LOM3260"
+  nome: " Computação Científica em Python"
+  nomeascii: " Computacao Cientifica em Python"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3260&codcur=88301&codhab=0"
   requisitos:
   tipo: "Obrigatórias"
   semestre:
     EF: "1"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
-  nome_en: "Introduction to Electronics and Physical Computation"
+  nome_en: "Scientific Computing in Python"
   objectives: ""
   abstract: ""
   program: ""
-  ndoc: "-3"
+  ndoc: "-2"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2016"
+  ativacao: "01/01/2020"
   objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "Semestral"
-  programa: "01/01/2016"
-  metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Aulas expositivas, práticas e de realização de projetos."
-  exame: "Média das notas de trabalhos, atividades e relatório de projeto."
-  bibliografia: "Devido às características da disciplina não será oferecida recuperação."
+  resumo: "01/01/2020"
+  programa: "519033 - Carlos Yujiro Shigue"
+  metodo: "1176388 - Luiz Tadeu Fernandes Eleno"
+  criterio: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados."
+  exame: "Média aritmética de trabalhos propostos ao longo do curso."
+  bibliografia: "Não haverá exame de recuperação."
   docentes: []
   oferecimento:
-- LOQ4031:
-  sigla: "LOQ4031"
-  nome: " Química Geral I"
-  nomeascii: " Quimica Geral I"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4031&codcur=88301&codhab=0"
+    - 20222F1:
+      Codigo_da_Turma: "20222F1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " qui  14:00  18:00 "
+          prof: "(R) Luiz Tadeu Fernandes Eleno "
+      vagas:
+        - Obrigatoria:
+          Vagas: "43"
+          Inscritos: "43"
+          Pendentes: "0"
+          Matriculados: "43"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "40"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+- LOQ4100:
+  sigla: "LOQ4100"
+  nome: " Fundamentos de Química para Engenharia I-B"
+  nomeascii: " Fundamentos de Quimica para Engenharia I-B"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4100&codcur=88301&codhab=0"
   requisitos:
   tipo: "Obrigatórias"
   semestre:
     EF: "1"
+    EM: "1"
+    EB: "1"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
-  nome_en: "General Chemistry I"
+  nome_en: "Fundamentals of Chemistry for Engineering I - B"
   objectives: "Provide to students the basis of elementary concepts in chemistry, enabling them to further education in the later related disciplines, especially regarding the concepts of atomic structure; chemical bonding, intermolecular forces and nature of the compounds; the geometry of the molecules; the chemical reactions in aqueous solution, both metathesis and redox; the properties of the gases and solutions and stoichiometry calculations in chemistry, with emphasis on cases containing limiting reagents, purity of reagents and reaction yield."
-  abstract: "Elementary principles of chemistry. Atomic structure and the Periodic Table. The Chemical Bonding. Nature of the compounds. Chemical Reactions in Aqueous Solution. Gases. Solutions. Stoichiometry calculations in chemistry."
-  program: "Elementary principles of chemistry: Units Systems (Definition of the most used units in Engineering and transformations between systems).Atomic structure and the Periodic Table: electrical nature of matter. The electron charge. The nucleus of the atom. Emission spectra and atomic absorption. Electronic configuration of the elements. Elementary Particles. The Law and the Periodic Table.The Chemical Bonding: The ionic bonding. The covalent bond. Hybridization. Polarity of covalent bonding. Nature of the Compounds: Acids and bases (Arrhenius, Bronsted-Lowry and Lewis). Intermolecular forces.Chemical Reactions in Aqueous Solution: Terminology in Solutions. Electrolytes and non electrolytes. Ionic reactions. Reactions without electron transfer and its balancing. Preparation of inorganic salts (metathesis). Oxidation and reduction. Oxidation number. Redox reactions. Redox reactions balancing methods (Variation of Nox,  decomposition of the oxidizing agent, ion-electron and using the Standard Potential of Reduction).Gases: State variables. Combined gas law. Experience Torriceli. Kinetic theory of gases. Ideal and real gas. Avogadro's Principle.Solutions: Nature of solutions. Colloidal dispersions and suspensions. Types of solutions. Concentration units (Molarity, mole fraction, ppm, normality, molality). The dissolution process. Heat dissolution. Solubility and temperature.Stoichiometric calculations in Chemistry: Calculations based on chemical equations. Calculations with limiting reagents and reagent purity. Theoretical and centesimal yields. Solving of exercises with industrial stoichiometric approach."
-  ndoc: "-3"
+  abstract: "Unit Systems. Atomic Structure. Periodic table. Chemical Bonding. Nomenclature of inorganic compounds. Acids and bases definitions. Intermolecular forces. Solutions. Gases. Chemical reactions in aqueous solution. Stoichiometry and Calculations in Chemistry."
+  program: "Unit systems: Definition of the Units most used in Engineering and transformations between systems.Atomic structure: Electric nature of matter. The charge of the electron. The nucleus of the atom. Quantum theory: Radiation, quanta and photons. Emission and atomic absorption spectra. The wave-particle duality of matter. The uncertainty principle. Atomic orbitals. Quantum numbers. Electronic configuration of the elements. Elementary Particles.Periodic table: The Law and the Periodic table. Periodic properties of elements, atoms and ions.Chemical Bond: The covalent bond. Lewis structure. Molecular orbitals: Limitations of the valence bond theory. Hybridization. Bond polarity. Molecular geometry (Model VSEPR). Ionic bonding. The classification of solids. The properties of the chemical bonds. Coordination compounds. Metal complexes (crystalline field theory). Metallic bond.Nomenclature of inorganic compounds: Inorganic Functions: acids; bases; salts; oxides and nomenclatures.Definitions of acids and bases: Acids and bases (Arrhenius, Bronsted-Lowry and Lewis).Intermolecular forces: Intermolecular forces, liquids and solids.Solutions: Nature of solutions. Colloidal dispersions and suspensions. Physical and chemical properties. Types of solutions. Concentration units and calculations (Molarity, molar fraction, ppm, normality, molality, dilution). The dissolution process. Heat of dissolution. Solubility and temperature.Gases (ideal and real): State variables. Combined gas law. Torriceli's Experience. Partial gas pressure. Kinetic theory of gases. Ideal and real gas. Avogadro's principle.Chemical reactions in aqueous solution: Main chemical reactions (acid-base, precipitation, oxide-reduction and complexation). Examples of gas-forming reactions. Principles of acid-base and oxide-reduction titrations.Stoichiometry and calculations in chemistry: Balancing reactions, stoichiometric calculations, limiting reagents and yields."
+  ndoc: "-2"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "198273 - Domingos Savio Giordani"
-  resumo: "Semestral"
-  programa: "01/01/2018"
-  metodo: "198273 - Domingos Savio Giordani"
+  ativacao: "01/01/2022"
+  objetivos: "5817344 - Livia Melo Carneiro"
+  resumo: "01/01/2022"
+  programa: "5817344 - Livia Melo Carneiro"
+  metodo: "6310296 - Patrícia Caroline Molgero Da Rós"
   criterio: "Duas provas escritas"
   exame: "A média para a primeira avaliação será calculada a partir das notas das duas provas, P1 e P2, segundo a fórmula: M1=(P1+2xP2)/3. Alunos com nota final igual ou superior a 5,0 estão aprovados; inferior a 5,0 e igual ou superior a 3,0 estão de recuperação;"
   bibliografia: "A recuperação consistirá de uma prova envolvendo o assunto do semestre todo, à qual será atribuída nota NR. A média da segunda avaliação será calculada segunda a fórmula: M2=(M1+NR)/2. Alunos com nota M2 igual ou superior a 5,0 estarão aprovados, inferior a 5,0 estarão reprovados."
@@ -706,9 +815,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "29"
+          Inscritos: "30"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "30"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "17"
           Inscritos: "5"
@@ -1265,9 +1374,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "41"
-          Inscritos: "39"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "40"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "37"
@@ -1279,10 +1388,10 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
   nomeascii: " Quimica Inorganica Fundamental e Aplicada"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3240&codcur=88301&codhab=0"
   requisitos:
-    - LOQ4031:
-      sigla: "LOQ4031"
-      nome: " Química Geral I "
-      tipo: "Requisito"
+    - LOQ4100:
+      sigla: "LOQ4100"
+      nome: " Fundamentos de Química para Engenharia I"
+      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
     EF: "2"
@@ -1330,67 +1439,16 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Inscritos: "26"
           Pendentes: "0"
           Matriculados: "26"
-- LOM3260:
-  sigla: "LOM3260"
-  nome: " Computação Científica em Python"
-  nomeascii: " Computacao Cientifica em Python"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3260&codcur=88301&codhab=0"
-  requisitos:
-  tipo: "Obrigatórias"
-  semestre:
-    EF: "2"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Scientific Computing in Python"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2020"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "01/01/2020"
-  programa: "519033 - Carlos Yujiro Shigue"
-  metodo: "1176388 - Luiz Tadeu Fernandes Eleno"
-  criterio: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados."
-  exame: "Média aritmética de trabalhos propostos ao longo do curso."
-  bibliografia: "Não haverá exame de recuperação."
-  docentes: []
-  oferecimento:
-    - 20222F1:
-      Codigo_da_Turma: "20222F1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " qui  14:00  18:00 "
-          prof: "(R) Luiz Tadeu Fernandes Eleno "
-      vagas:
-        - Obrigatoria:
-          Vagas: "43"
-          Inscritos: "42"
-          Pendentes: "0"
-          Matriculados: "42"
-        - EEL_-_Engenharia_Fisica:
-          Vagas: "40"
-          Inscritos: "39"
-          Pendentes: "0"
-          Matriculados: "39"
-        - Qualquer_Unidade_da_USP:
-          Vagas: "0"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
 - LOQ4095:
   sigla: "LOQ4095"
   nome: " Química Geral Experimental"
   nomeascii: " Quimica Geral Experimental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4095&codcur=88301&codhab=0"
   requisitos:
+    - LOQ4100:
+      sigla: "LOQ4100"
+      nome: " Fundamentos de Química para Engenharia I"
+      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
     EF: "2"
@@ -1533,9 +1591,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "29"
+          Inscritos: "30"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "30"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
           Inscritos: "3"
@@ -1668,14 +1726,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "51"
+          Inscritos: "50"
           Pendentes: "0"
-          Matriculados: "51"
+          Matriculados: "50"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "23"
-          Inscritos: "22"
+          Inscritos: "21"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "21"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "30"
           Inscritos: "29"
@@ -1719,14 +1777,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "53"
-          Pendentes: "0"
-          Matriculados: "53"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "60"
           Inscritos: "52"
           Pendentes: "0"
           Matriculados: "52"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "51"
+          Pendentes: "0"
+          Matriculados: "51"
     - 20222PN:
       Codigo_da_Turma: "20222PN"
       Inicio: "15/08/2022"
@@ -1755,88 +1813,6 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Inscritos: "9"
           Pendentes: "0"
           Matriculados: "9"
-- LOB1008:
-  sigla: "LOB1008"
-  nome: " Ciência, Tecnologia e Sociedade"
-  nomeascii: " Ciencia, Tecnologia e Sociedade"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1008&codcur=88301&codhab=0"
-  requisitos:
-  tipo: "Obrigatórias"
-  semestre:
-    EF: "3"
-    EM: "2"
-    EA: "8"
-    EB: "8"
-    EP: "10"
-    EQD: "2"
-    EQN: "5"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Ciências Básicas e Ambientais"
-  nome_en: "Science, technology and society"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "2"
-  CT: "0"
-  CH: "30 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "6376612 - Daisy Rafaela da Silva"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "6376612 - Daisy Rafaela da Silva"
-  criterio: "A média semestral e final dos alunos será composta por: Prova Semestral  (PS) e outros instrumentos (T) empregados na avaliação do aluno, valorizando a sua participação e colaboração nos trabalhos e atividades desenvolvidas individualmente e no Projeto de curso em equipe."
-  exame: "(PS+T) / 2"
-  bibliografia: "-  Trabalho escrito, com questionamento, envolvendo o conteúdo do programa 
--   prova escrita"
-  docentes: []
-  oferecimento:
-    - 20222A1:
-      Codigo_da_Turma: "20222A1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " qua  08:00  10:00 "
-          prof: "(R) Daisy Rafaela da Silva "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "32"
-          Pendentes: "0"
-          Matriculados: "32"
-        - EEL_-_Engenharia_Ambiental:
-          Vagas: "60"
-          Inscritos: "26"
-          Pendentes: "0"
-          Matriculados: "26"
-        - Qualquer_Unidade_da_USP:
-          Vagas: "0"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-    - 20222M2:
-      Codigo_da_Turma: "20222M2"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  16:00  18:00 "
-          prof: "Henrique Otávio Queiroz de Aquino "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "0"
-          Matriculados: "30"
-        - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
-          Inscritos: "26"
-          Pendentes: "0"
-          Matriculados: "26"
 - LOB1039:
   sigla: "LOB1039"
   nome: " Física Experimental III"
@@ -1909,14 +1885,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "36"
+          Inscritos: "35"
           Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "35"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "30"
+          Inscritos: "29"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "29"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
       Inicio: "15/08/2022"
@@ -1928,15 +1904,15 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           prof: "Marcelo Rodrigues de Holanda "
       vagas:
         - Obrigatoria:
-          Vagas: "42"
+          Vagas: "43"
           Inscritos: "42"
           Pendentes: "0"
           Matriculados: "42"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "40"
+          Inscritos: "39"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "39"
     - 20222N3:
       Codigo_da_Turma: "20222N3"
       Inicio: "15/08/2022"
@@ -1949,14 +1925,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "8"
+          Inscritos: "7"
           Pendentes: "0"
-          Matriculados: "8"
+          Matriculados: "7"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "2"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "1"
     - 20222P4:
       Codigo_da_Turma: "20222P4"
       Inicio: "15/08/2022"
@@ -2029,9 +2005,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "64"
-          Inscritos: "64"
+          Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "64"
+          Matriculados: "62"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "0"
           Inscritos: "0"
@@ -2054,9 +2030,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "3"
-          Inscritos: "3"
+          Inscritos: "2"
           Pendentes: "0"
-          Matriculados: "3"
+          Matriculados: "2"
         - EEL_-_Engenharia_Fisica:
           Vagas: "1"
           Inscritos: "1"
@@ -2064,9 +2040,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Matriculados: "1"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "16"
-          Inscritos: "15"
+          Inscritos: "14"
           Pendentes: "0"
-          Matriculados: "15"
+          Matriculados: "14"
 - LOB1053:
   sigla: "LOB1053"
   nome: " Física III"
@@ -2172,14 +2148,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "55"
+          Inscritos: "54"
           Pendentes: "0"
-          Matriculados: "55"
+          Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "53"
+          Inscritos: "52"
           Pendentes: "0"
-          Matriculados: "53"
+          Matriculados: "52"
     - 20222PN:
       Codigo_da_Turma: "20222PN"
       Inicio: "15/08/2022"
@@ -2195,9 +2171,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
+          Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "49"
+          Matriculados: "48"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "17"
@@ -2205,9 +2181,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Matriculados: "17"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
-          Inscritos: "13"
+          Inscritos: "12"
           Pendentes: "0"
-          Matriculados: "13"
+          Matriculados: "12"
 - LOM3016:
   sigla: "LOM3016"
   nome: " Introdução à  Ciência dos Materiais"
@@ -2275,9 +2251,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "62"
-          Inscritos: "60"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "59"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
           Inscritos: "44"
@@ -2492,14 +2468,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "65"
-          Inscritos: "65"
+          Inscritos: "64"
           Pendentes: "0"
-          Matriculados: "65"
+          Matriculados: "64"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "60"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "59"
 - LOB1021:
   sigla: "LOB1021"
   nome: " Física IV"
@@ -2765,65 +2741,6 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Inscritos: "2"
           Pendentes: "0"
           Matriculados: "2"
-- LOM3202:
-  sigla: "LOM3202"
-  nome: " Circuitos Elétricos"
-  nomeascii: " Circuitos Eletricos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3202&codcur=88301&codhab=0"
-  requisitos:
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
-    - LOM3254:
-      sigla: "LOM3254"
-      nome: " Laboratório de Circuitos Elétricos "
-      tipo: "Indicação de Conjunto"
-  tipo: "Obrigatórias"
-  semestre:
-    EF: "4"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Electrical Circuits"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2015"
-  objetivos: "5982760 - Carlos Alberto Baldan"
-  resumo: "Semestral"
-  programa: "01/01/2015"
-  metodo: "5982760 - Carlos Alberto Baldan"
-  criterio: "Aulas expositivas teóricas, aulas de exercícios e estudos de casos por simulação computacional."
-  exame: "Duas provas escritas: conceitos P1 e P2. Conceito Final = (P1 + 2P2)/3"
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
-    - 20222F1:
-      Codigo_da_Turma: "20222F1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      Observacoes: ""
-      aulas:
-        - h0:
-          horario: " sex  08:00  12:00 "
-          prof: "Carlos Renato Menegatti "
-      vagas:
-        - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "21"
-          Pendentes: "0"
-          Matriculados: "21"
-        - EEL_-_Engenharia_Fisica:
-          Vagas: "40"
-          Inscritos: "19"
-          Pendentes: "0"
-          Matriculados: "19"
 - LOM3205:
   sigla: "LOM3205"
   nome: " Eletromagnetismo"
@@ -2886,6 +2803,60 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Inscritos: "20"
           Pendentes: "0"
           Matriculados: "20"
+- LOM3212:
+  sigla: "LOM3212"
+  nome: " Fenômenos de Transporte A"
+  nomeascii: " Fenomenos de Transporte A"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3212&codcur=88301&codhab=0"
+  requisitos:
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
+      tipo: "Requisito"
+  tipo: "Obrigatórias"
+  semestre:
+    EF: "4"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Transport Phenomena A"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "-3"
+  CA: "4"
+  CT: "0"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2012"
+  objetivos: "519033 - Carlos Yujiro Shigue"
+  resumo: "Semestral"
+  programa: "01/01/2012"
+  metodo: "519033 - Carlos Yujiro Shigue"
+  criterio: "Aulas expositivas, seminários e exercícios comentados."
+  exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
+  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
+  docentes: []
+  oferecimento:
+    - 20222F1:
+      Codigo_da_Turma: "20222F1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " qua  08:00  12:00 "
+          prof: "Sérgio Roberto Montoro "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "30"
+          Pendentes: "0"
+          Matriculados: "30"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "60"
+          Inscritos: "29"
+          Pendentes: "0"
+          Matriculados: "29"
 - LOM3253:
   sigla: "LOM3253"
   nome: " Física Matemática"
@@ -2947,162 +2918,105 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Inscritos: "26"
           Pendentes: "0"
           Matriculados: "26"
-- LOM3254:
-  sigla: "LOM3254"
-  nome: " Laboratório de Circuitos Elétricos"
-  nomeascii: " Laboratorio de Circuitos Eletricos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3254&codcur=88301&codhab=0"
-  requisitos:
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
-    - LOM3202:
-      sigla: "LOM3202"
-      nome: " Circuitos Elétricos "
-      tipo: "Indicação de Conjunto"
-  tipo: "Obrigatórias"
-  semestre:
-    EF: "4"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Laboratory of Electrical Circuits"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2015"
-  objetivos: "5982760 - Carlos Alberto Baldan"
-  resumo: "Semestral"
-  programa: "01/01/2015"
-  metodo: "5982760 - Carlos Alberto Baldan"
-  criterio: "Aulas práticas utilizando placas contendo circuitos elétricos para medições com equipamentos eletrônicos. Máximo 2 alunos por bancada e 20 alunos por turma  para 10 bancadas."
-  exame: "Duas provas (P1 e P2) e relatórios sobre tópicos da disciplina.
-NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
-  bibliografia: "(NF + RC)/2"
-  docentes: []
-  oferecimento:
-    - 20222F1:
-      Codigo_da_Turma: "20222F1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Prática"
-      aulas:
-        - h0:
-          horario: " qua  08:00  12:00 "
-          prof: "Carlos Yujiro Shigue "
-      vagas:
-        - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "24"
-          Pendentes: "0"
-          Matriculados: "24"
-        - EEL_-_Engenharia_Fisica:
-          Vagas: "40"
-          Inscritos: "22"
-          Pendentes: "0"
-          Matriculados: "22"
-- LOM3049:
-  sigla: "LOM3049"
-  nome: " Termodinâmica de Máquinas"
-  nomeascii: " Termodinamica de Maquinas"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3049&codcur=88301&codhab=0"
+- LOM3261:
+  sigla: "LOM3261"
+  nome: " Métodos Numéricos e Aplicações"
+  nomeascii: " Metodos Numericos e Aplicacoes"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3261&codcur=88301&codhab=0"
   requisitos:
     - LOB1004:
       sigla: "LOB1004"
       nome: " Cálculo II "
       tipo: "Requisito"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
+    - LOM3260:
+      sigla: "LOM3260"
+      nome: " Computação Científica em Python "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
-    EF: "5"
-    EM: "5"
+    EF: "4"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
-  nome_en: "Thermodynamics of Machines"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
+  nome_en: "Numerical methods and applications"
+  objectives: "Introduce the use and practice of numerical methods for solving mathematical problems applied to Physics and Engineering. The student will be able to describe mathematically and numerically solve problems with the aid of computational algorithms."
+  abstract: "Computational representation of floating point numbers; Root finding; Systems of linear equations; Least squares; Interpolation; Numerical integration; ordinary differential equations."
+  program: "• Floating point numbers: representation and precision. • Roots of functions: bisection method; false position method; Newton-Raphson method; • Solution of systems of linear equations: pivoting and scaling; Gauss method. • Least squares method: fitting linear functions to adjustable parameters; adjustment of linearizable functions; fitting nonlinear functions using the scipy.optimize library • Interpolation: Lagrange method; Newton's method; • Numerical integration: trapezoid rule; Simpson's rule; advanced methods implemented in the scipy.integrate library. • Solution of ordinary differential equations: Euler's method; Runge-Kutta method; more advanced methods of the scipy.integrate library."
+  ndoc: "-4"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2023"
+  objetivos: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados."
+  resumo: "30 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados."
+  exame: "Média aritmética de trabalhos propostos ao longo do curso (30%) e duas avaliações individuais (70%)."
+  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
+  docentes: []
+  oferecimento:
+- LOM3262:
+  sigla: "LOM3262"
+  nome: " Circuitos Elétricos - teoria e prática"
+  nomeascii: " Circuitos Eletricos - teoria e pratica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3262&codcur=88301&codhab=0"
+  requisitos:
+    - LOB1006:
+      sigla: "LOB1006"
+      nome: " Cálculo IV "
+      tipo: "Requisito"
+  tipo: "Obrigatórias"
+  semestre:
+    EF: "4"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Electrical Circuits"
+  objectives: "As an important requirement for the specific and the general engineering studies, the course aims to (a) provide the fundamental concepts concerning electrical circuits, which are important for the learning process in physics engineering; (b) enable the student, to work as individually as in groups, to model and solve problems of interest regarding passive electrical circuits, including the adequate choice of hypotheses and the application of suitable solution tools; (c) to introduce the components, techniques, software, and equipment employed in the analysis and design of electrical circuits; and (d) apply and extend the previously learned physical concepts."
+  abstract: "Elements of linear circuits. Ohm's Law. Kirchhoff's Laws. Analysis methods. Theorems. First order circuits. sinusoidal excitation. phasors. Analysis in steady state C.A. Power in steady state A.C. Three Phase Circuits. Transformers. engines. Computational simulation."
+  program: "1. Linear Circuit Elements; Ohm's Law; Electric power.2. Kirchhoff's Laws; Voltage and Current Networks; Series and Parallel Resistance; Y-Delta Conversions.3. Nodal Analysis; Mesh Analysis.4. Theorems: Linearity and Superposition, Source Transformation, Thévenin and Norton, Maximum Power Transfer.5. Resistors; Color Code; Voltage and Electric Current Measurements; Experimental Verification of Kirchhoff's Laws and Circuit Theorems.6. Capacitors; Inductors; First Order Circuits; Second Order Circuits;7. SPICE simulator; Computational Analysis of First and Second Order Circuits.8. Sinusoids and Phasors; Impedance and Admittance; Kirchhoff's Laws in the Frequency Domain.9. Transfer Function; AC Voltage/Current Gain and Phase; Resonance; filters.10. AC Power Analysis; Effective Voltage and Current Values; Apparent Power and Power Factor; Complex Power; Mutual Inductance; Ideal Transformer.11. Oscilloscope; Amplitude, Frequency and Phase Measurements; Experimental Analysis of Passive Filters."
+  ndoc: "-4"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2021"
-  objetivos: "5840521 - Rosa Ana Conte"
-  resumo: "Semestral"
-  programa: "01/01/2021"
-  metodo: "5840521 - Rosa Ana Conte"
-  criterio: "Serão realizadas 2 avaliações, com questões abrangendo problemas práticos e conceituais. A 1a. avaliação terá peso 1 e a 2a. avaliação terá peso 2. A nota será a média ponderada das 2 avaliações."
-  exame: "Serão aplicadas duas avaliações escritas (P1, com peso 1 e P2, com peso 2) que comporão a nota final (NF). A nota final será calculada através da expressão: NF = (P1 + P2)/3."
-  bibliografia: "Para a recuperação será realizada uma prova (PR) abrangendo toda a matéria lecionada no semestre, valendo de 0 (zero) a 10 (dez). Média final = (NF + PR)/2."
+  ativacao: "01/01/2023"
+  objetivos: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  resumo: "60 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  exame: "Média aritmética (M) de provas individuais (P1 e P2) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,3*P1+0,3*P2+0.4*T"
+  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
   docentes: []
   oferecimento:
-    - 20222M1:
-      Codigo_da_Turma: "20222M1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " seg  14:00  16:00 "
-          prof: "(R) Rosa Ana Conte "
-        - h1:
-          horario: " qua  14:00  16:00 "
-          prof: "(R) Rosa Ana Conte "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "14"
-          Pendentes: "0"
-          Matriculados: "14"
-        - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
-          Inscritos: "11"
-          Pendentes: "0"
-          Matriculados: "11"
-- LOM3206:
-  sigla: "LOM3206"
-  nome: " Eletrônica"
-  nomeascii: " Eletronica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3206&codcur=88301&codhab=0"
+- LOM3213:
+  sigla: "LOM3213"
+  nome: " Fenômenos de Transporte B"
+  nomeascii: " Fenomenos de Transporte B"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3213&codcur=88301&codhab=0"
   requisitos:
-    - LOM3202:
-      sigla: "LOM3202"
-      nome: " Circuitos Elétricos "
-      tipo: "Requisito"
-    - LOM3221:
-      sigla: "LOM3221"
-      nome: " Laboratório de Eletrônica "
-      tipo: "Indicação de Conjunto"
   tipo: "Obrigatórias"
   semestre:
     EF: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
-  nome_en: "Electronics"
+  nome_en: "Transport Phenomena B"
   objectives: ""
   abstract: ""
   program: ""
-  ndoc: "-3"
+  ndoc: "-2"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
   ativacao: "01/01/2012"
-  objetivos: "5982760 - Carlos Alberto Baldan"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "5982760 - Carlos Alberto Baldan"
-  criterio: "Aulas expositivas e práticas, com uso de ferramentas computacionais."
-  exame: "Média de duas provas escritas e relatórios: P1, P2 e MR. Conceito Final = (P1 + 2P2 + MR)/4"
+  objetivos: "519033 - Carlos Yujiro Shigue"
+  resumo: "01/01/2012"
+  programa: "519033 - Carlos Yujiro Shigue"
+  metodo: "1176388 - Luiz Tadeu Fernandes Eleno"
+  criterio: "Aulas expositivas, seminários e exercícios comentados."
+  exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
   bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
   docentes: []
   oferecimento:
@@ -3142,44 +3056,6 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
   criterio: "Aulas expositivas, seminários e exercícios comentados."
   exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
   bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
-- LOM3221:
-  sigla: "LOM3221"
-  nome: " Laboratório de Eletrônica"
-  nomeascii: " Laboratorio de Eletronica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3221&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3202:
-      sigla: "LOM3202"
-      nome: " Circuitos Elétricos "
-      tipo: "Requisito"
-    - LOM3206:
-      sigla: "LOM3206"
-      nome: " Eletrônica "
-      tipo: "Indicação de Conjunto"
-  tipo: "Obrigatórias"
-  semestre:
-    EF: "5"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Laboratory of Electronics"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "3268262 - Carlos Renato Menegatti"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "3268262 - Carlos Renato Menegatti"
-  criterio: "Experimentos desenvolvidos em laboratório didático, realização de relatórios para cada experimento, desenvolvimento e apresentação de projetos de circuitos e realização de testes sobre o experimento em estudo."
-  exame: "Média aritmética de prova escrita, testes, trabalhos e relatórios: PE, TS e TR. Conceito Final = (PE  + TS + TR)/3"
-  bibliografia: "Aplicação de uma prova escrita e prática dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
   docentes: []
   oferecimento:
 - LOM3226:
@@ -3234,9 +3110,9 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
       sigla: "LOB1006"
       nome: " Cálculo IV "
       tipo: "Requisito"
-    - LOM3260:
-      sigla: "LOM3260"
-      nome: " Computação Científica em Python "
+    - LOM3261:
+      sigla: "LOM3261"
+      nome: " Métodos Numéricos e Aplicações "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -3296,6 +3172,96 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
   bibliografia: "Aplicação de uma prova escrita e prática dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
   docentes: []
   oferecimento:
+- LOM3263:
+  sigla: "LOM3263"
+  nome: " Eletrônica Fundamental e Aplicada"
+  nomeascii: " Eletronica Fundamental e Aplicada"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3263&codcur=88301&codhab=0"
+  requisitos:
+    - LOM3262:
+      sigla: "LOM3262"
+      nome: " Circuitos Elétricos "
+      tipo: "Requisito"
+  tipo: "Obrigatórias"
+  semestre:
+    EF: "5"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Fundamental and applied Electronics"
+  objectives: "As an important requirement for the specific and the general engineering studies, the course aims to (a) provide the fundamental concepts concerning the applications of semiconductor devices within the context of electronics, which are important for the learning process in physics engineering; (b) enable the student, to work as individually as in groups, to model and solve problems of interest regarding the most important electronic devices, such as diodes, transistors, and operational amplifiers, including the adequate choice of hypotheses and the application of suitable solution tools; (c) to introduce the components, techniques, software, and equipment employed in the analysis and design of electrical circuits; and (d) apply and extend the previously learned physical concepts."
+  abstract: "Introduction to semiconductor materials and devices; Diode; Bipolar junction transistor; Field effect transistors; operational amplifiers; Small signal amplifiers; Power supplies. Analysis and design of electronic circuits using EDA software. Experimental analysis of electronic circuits."
+  program: "1. Semiconductor Materials; Diodes;2. Voltage Rectifiers: Analysis and Design;3. EDA Software; Design of Printed Circuit Boards.4. Bipolar Junction Transistor (BJT); Data Sheet, Polarization and Switching.5. Field Effect Transistor (JFET - MOSFET); Data Sheet, Polarization and Switching.6. Small Signal Amplifiers: Analysis and Design;7. Operational Amplifiers: Buffer, Amplification, Integration and Differentiation;8. Active Filters: Analysis and Design;9. Power Supplies;10. Optoelectronic Circuits;"
+  ndoc: "-4"
+  CA: "4"
+  CT: "0"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2023"
+  objetivos: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  resumo: "60 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  exame: "Média aritmética (M) de provas individuais (P1 e P2) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,3*P1+0,3*P2+0.4*T"
+  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
+  docentes: []
+  oferecimento:
+- LOQ4050:
+  sigla: "LOQ4050"
+  nome: " Engenharia Econômica"
+  nomeascii: " Engenharia Economica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4050&codcur=88301&codhab=0"
+  requisitos:
+    - LOB1012:
+      sigla: "LOB1012"
+      nome: " Estatística "
+      tipo: "Requisito"
+  tipo: "Obrigatórias"
+  semestre:
+    EF: "5"
+    EQD: "9"
+    EQN: "10"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Economic Engineering"
+  objectives: "1 ) Formative : Offer the learner the basic conditions necessary for their vocational training.2 ) Informational : provide the student the basics to understanding, advice and monitoring of Projects in the Chemical Industry following specific methodology .3 ) :The learner develop analytical reasoning , following systematic methodology applied in projects ."
+  abstract: "Market - Estimated investment : - Economic Analysis of Investments"
+  program: "Market - market trends - Marketing and market analysis - Estimate of investment: - working capital - capital assets - tangible / intangibles assets - Preliminary investments / real investments - fixed costs / variable costs , depreciation , economic concept of externalities and approaches theoretical , elements to internalize externalities , direct control or stabilize the company , indirect methods and observed data , indirect methods and data assumptions , methods and alleged direct data  methods and observed data , Economic Analysis of Investments ( basics aspects) - Statistical Techniques and interest rates - basics of Engineering Economy - Beta Distribution for analysis in the risk environment ."
+  ndoc: "-3"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2011"
+  objetivos: "5840671 - Francisco José Moreira Chaves"
+  resumo: "Semestral"
+  programa: "01/01/2011"
+  metodo: "5840671 - Francisco José Moreira Chaves"
+  criterio: "Por meio de aulas presenciais, com apresentação dos fundamentos, e resolução de exercícios e exemplos aplicativos com uso de tabelas e normas específicas."
+  exame: "A Avaliação será: (P1 + 2P2)/3 Onde: P1: Prova Individual - c/ peso-1 P2: : Prova Individual - c/ peso-2"
+  bibliografia: "Prova de exame."
+  docentes: []
+  oferecimento:
+    - 20222N1:
+      Codigo_da_Turma: "20222N1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  21:00  23:00 "
+          prof: "(R) Francisco José Moreira Chaves "
+      vagas:
+        - Obrigatoria:
+          Vagas: "69"
+          Inscritos: "67"
+          Pendentes: "0"
+          Matriculados: "67"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "43"
+          Pendentes: "0"
+          Matriculados: "43"
 - LOQ4234:
   sigla: "LOQ4234"
   nome: " Empreendedorismo"
@@ -3344,9 +3310,9 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "57"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "57"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "49"
@@ -3402,26 +3368,27 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
           Inscritos: "38"
           Pendentes: "0"
           Matriculados: "38"
-- LOM3212:
-  sigla: "LOM3212"
-  nome: " Fenômenos de Transporte A"
-  nomeascii: " Fenomenos de Transporte A"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3212&codcur=88301&codhab=0"
+- LOM3049:
+  sigla: "LOM3049"
+  nome: " Termodinâmica de Máquinas"
+  nomeascii: " Termodinamica de Maquinas"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3049&codcur=88301&codhab=0"
   requisitos:
+    - LOB1004:
+      sigla: "LOB1004"
+      nome: " Cálculo II "
+      tipo: "Requisito"
     - LOB1019:
       sigla: "LOB1019"
       nome: " Física II "
       tipo: "Requisito"
-    - LOM3257:
-      sigla: "LOM3257"
-      nome: " Mecânica Clássica "
-      tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
     EF: "6"
+    EM: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
-  nome_en: "Transport Phenomena A"
+  nome_en: "Thermodynamics of Machines"
   objectives: ""
   abstract: ""
   program: ""
@@ -3430,36 +3397,39 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "519033 - Carlos Yujiro Shigue"
+  ativacao: "01/01/2021"
+  objetivos: "5840521 - Rosa Ana Conte"
   resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Aulas expositivas, seminários e exercícios comentados."
-  exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
+  programa: "01/01/2021"
+  metodo: "5840521 - Rosa Ana Conte"
+  criterio: "Serão realizadas 2 avaliações, com questões abrangendo problemas práticos e conceituais. A 1a. avaliação terá peso 1 e a 2a. avaliação terá peso 2. A nota será a média ponderada das 2 avaliações."
+  exame: "Serão aplicadas duas avaliações escritas (P1, com peso 1 e P2, com peso 2) que comporão a nota final (NF). A nota final será calculada através da expressão: NF = (P1 + P2)/3."
+  bibliografia: "Para a recuperação será realizada uma prova (PR) abrangendo toda a matéria lecionada no semestre, valendo de 0 (zero) a 10 (dez). Média final = (NF + PR)/2."
   docentes: []
   oferecimento:
-    - 20222F1:
-      Codigo_da_Turma: "20222F1"
+    - 20222M1:
+      Codigo_da_Turma: "20222M1"
       Inicio: "15/08/2022"
       Fim: "21/12/2022"
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " qua  08:00  12:00 "
-          prof: "Sérgio Roberto Montoro "
+          horario: " seg  14:00  16:00 "
+          prof: "(R) Rosa Ana Conte "
+        - h1:
+          horario: " qua  14:00  16:00 "
+          prof: "(R) Rosa Ana Conte "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "31"
+          Inscritos: "13"
           Pendentes: "0"
-          Matriculados: "31"
-        - EEL_-_Engenharia_Fisica:
+          Matriculados: "13"
+        - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "30"
+          Inscritos: "11"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "11"
 - LOM3215:
   sigla: "LOM3215"
   nome: " Física do Estado Sólido"
@@ -3523,6 +3493,10 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
   nomeascii: " Metodos Experimentais da Fisica II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3229&codcur=88301&codhab=0"
   requisitos:
+    - LOM3246:
+      sigla: "LOM3246"
+      nome: " Técnicas de Caracterização de Materiais "
+      tipo: "Indicação de Conjunto"
     - LOB1021:
       sigla: "LOB1021"
       nome: " Física IV "
@@ -3531,10 +3505,6 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito"
-    - LOM3246:
-      sigla: "LOM3246"
-      nome: " Técnicas de Caracterização de Materiais "
-      tipo: "Indicação de Conjunto"
   tipo: "Obrigatórias"
   semestre:
     EF: "6"
@@ -3585,13 +3555,9 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
   nomeascii: " Microprocessadores"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3233&codcur=88301&codhab=0"
   requisitos:
-    - LOM3206:
-      sigla: "LOM3206"
-      nome: " Eletrônica "
-      tipo: "Requisito"
-    - LOM3221:
-      sigla: "LOM3221"
-      nome: " Laboratório de Eletrônica "
+    - LOM3263:
+      sigla: "LOM3263"
+      nome: " Eletrônica Fundamental e Aplicada "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -3700,8 +3666,8 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
           Matriculados: "21"
 - LOM3238:
   sigla: "LOM3238"
-  nome: " Projeto Integrado I"
-  nomeascii: " Projeto Integrado I"
+  nome: " Projeto Integrado"
+  nomeascii: " Projeto Integrado"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3238&codcur=88301&codhab=0"
   requisitos:
     - LOB1008:
@@ -3762,6 +3728,10 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
   nomeascii: " Tecnicas de Caracterizacao de Materiais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3246&codcur=88301&codhab=0"
   requisitos:
+    - LOM3229:
+      sigla: "LOM3229"
+      nome: " Métodos Experimentais da Física II "
+      tipo: "Indicação de Conjunto"
     - LOB1021:
       sigla: "LOB1021"
       nome: " Física IV "
@@ -3770,10 +3740,6 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito"
-    - LOM3229:
-      sigla: "LOM3229"
-      nome: " Métodos Experimentais da Física II "
-      tipo: "Indicação de Conjunto"
   tipo: "Obrigatórias"
   semestre:
     EF: "6"
@@ -3848,91 +3814,19 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
   bibliografia: "Para a recuperação será realizada uma prova (PR) abrangendo toda a matéria lecionada no semestre e apresentada nos trabalhos, valendo de 0 (zero) a 10 (dez). Média final = (NF + PR)/2."
   docentes: []
   oferecimento:
-- LOM3203:
-  sigla: "LOM3203"
-  nome: " Controle e Automação"
-  nomeascii: " Controle e Automacao"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3203&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3206:
-      sigla: "LOM3206"
-      nome: " Eletrônica "
-      tipo: "Requisito"
-    - LOM3260:
-      sigla: "LOM3260"
-      nome: " Computação Científica em Python "
-      tipo: "Requisito"
-  tipo: "Obrigatórias"
-  semestre:
-    EF: "7"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Control and Automation"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "5982760 - Carlos Alberto Baldan"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "5982760 - Carlos Alberto Baldan"
-  criterio: "O curso é desenvolvido através de aulas expositivas e práticas em laboratório."
-  exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
-- LOM3213:
-  sigla: "LOM3213"
-  nome: " Fenômenos de Transporte B"
-  nomeascii: " Fenomenos de Transporte B"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3213&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3049:
-      sigla: "LOM3049"
-      nome: " Termodinâmica de Máquinas "
-      tipo: "Requisito"
-  tipo: "Obrigatórias"
-  semestre:
-    EF: "7"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Transport Phenomena B"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "01/01/2012"
-  programa: "519033 - Carlos Yujiro Shigue"
-  metodo: "1176388 - Luiz Tadeu Fernandes Eleno"
-  criterio: "Aulas expositivas, seminários e exercícios comentados."
-  exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
 - LOM3223:
   sigla: "LOM3223"
   nome: " Materiais e Dispositivos Magnéticos e Supercondutores"
   nomeascii: " Materiais e Dispositivos Magneticos e Supercondutores"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3223&codcur=88301&codhab=0"
   requisitos:
-    - LOM3206:
-      sigla: "LOM3206"
-      nome: " Eletrônica "
-      tipo: "Requisito"
     - LOM3215:
       sigla: "LOM3215"
       nome: " Física do Estado Sólido "
+      tipo: "Requisito"
+    - LOM3263:
+      sigla: "LOM3263"
+      nome: " Eletrônica Fundamental e Aplicada "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -3992,162 +3886,95 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
   bibliografia: "Aplicação de uma prova escrita e prática dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
   docentes: []
   oferecimento:
-- LOQ4050:
-  sigla: "LOQ4050"
-  nome: " Engenharia Econômica"
-  nomeascii: " Engenharia Economica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4050&codcur=88301&codhab=0"
+- LOM3264:
+  sigla: "LOM3264"
+  nome: " Fundamentos de Controle"
+  nomeascii: " Fundamentos de Controle"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3264&codcur=88301&codhab=0"
   requisitos:
-    - LOB1012:
-      sigla: "LOB1012"
-      nome: " Estatística "
+    - LOM3227:
+      sigla: "LOM3227"
+      nome: " Métodos Computacionais da Física "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
     EF: "7"
-    EQD: "9"
-    EQN: "10"
   unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Economic Engineering"
-  objectives: "1 ) Formative : Offer the learner the basic conditions necessary for their vocational training.2 ) Informational : provide the student the basics to understanding, advice and monitoring of Projects in the Chemical Industry following specific methodology .3 ) :The learner develop analytical reasoning , following systematic methodology applied in projects ."
-  abstract: "Market - Estimated investment : - Economic Analysis of Investments"
-  program: "Market - market trends - Marketing and market analysis - Estimate of investment: - working capital - capital assets - tangible / intangibles assets - Preliminary investments / real investments - fixed costs / variable costs , depreciation , economic concept of externalities and approaches theoretical , elements to internalize externalities , direct control or stabilize the company , indirect methods and observed data , indirect methods and data assumptions , methods and alleged direct data  methods and observed data , Economic Analysis of Investments ( basics aspects) - Statistical Techniques and interest rates - basics of Engineering Economy - Beta Distribution for analysis in the risk environment ."
-  ndoc: "-3"
-  CA: "2"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Control Fundamentals"
+  objectives: "As an important requirement for the specific and the general engineering studies, the course aims to (a) provide the fundamental concepts concerning the control theory, which are important for the learning process in physics engineering; (b) enable the student, to work as individually as in groups, to model and solve problems of interest regarding control techniques, including the adequate choice of hypotheses and the application of suitable solution tools; (c) to introduce the components, techniques, software, and equipment employed in the analysis and design of control systems; and (d) apply and extend the previously learned physical concepts."
+  abstract: "Introduction to fundamentals of control theory; Transient response and steady state regime; Controller types; Root Locus Analysis; Frequency Response Analysis; Computational tools."
+  program: "1. Laplace transform.2. Basic concepts: Transfer function; open-loop and closed-loop control systems;3. Mathematical modeling of mechanical and electrical systems.4. Computational aided design, analysis and simulation.5. Transient and steady-state response analysis; Performance; Routh-Hurwitz Criterion; Steady-state error.6. Proportional, integral and derivative control actions; PID controller; Ziegler-Nichols method.7. Analysis and design of control systems using the Root Locus method.8. Analysis and design of control systems using the frequency response method; Goat Diagrams; Polar charts; Nyquist stability criterion."
+  ndoc: "-4"
+  CA: "4"
   CT: "0"
-  CH: "30 h"
+  CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2011"
-  objetivos: "5840671 - Francisco José Moreira Chaves"
-  resumo: "Semestral"
-  programa: "01/01/2011"
-  metodo: "5840671 - Francisco José Moreira Chaves"
-  criterio: "Por meio de aulas presenciais, com apresentação dos fundamentos, e resolução de exercícios e exemplos aplicativos com uso de tabelas e normas específicas."
-  exame: "A Avaliação será: (P1 + 2P2)/3 Onde: P1: Prova Individual - c/ peso-1 P2: : Prova Individual - c/ peso-2"
-  bibliografia: "Prova de exame."
+  ativacao: "01/01/2023"
+  objetivos: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  resumo: "60 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  exame: "Média aritmética (M) de provas individuais (P1 e P2) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,3*P1+0,3*P2+0.4*T"
+  bibliografia: "Média aritmética (M) de uma prova individual (P1) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,5*P1+0.5*T"
   docentes: []
   oferecimento:
-    - 20222N1:
-      Codigo_da_Turma: "20222N1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  21:00  23:00 "
-          prof: "(R) Francisco José Moreira Chaves "
-      vagas:
-        - Obrigatoria:
-          Vagas: "69"
-          Inscritos: "68"
-          Pendentes: "0"
-          Matriculados: "68"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "60"
-          Inscritos: "44"
-          Pendentes: "0"
-          Matriculados: "44"
-- LOQ4233:
-  sigla: "LOQ4233"
-  nome: " Gestão de Negócios"
-  nomeascii: " Gestao de Negocios"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4233&codcur=88301&codhab=0"
+- LOQ4257:
+  sigla: "LOQ4257"
+  nome: " Gestão de Projetos"
+  nomeascii: " Gestao de Projetos"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4257&codcur=88301&codhab=0"
   requisitos:
   tipo: "Obrigatórias"
   semestre:
     EF: "7"
-    EM: "6"
-    EA: "5"
-    EB: "4"
-    EQD: "7"
-    EQN: "11"
+    EP: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
-  nome_en: "Business Management"
-  objectives: "To present to the student the concept of an organization and the foundations of its administration; to characterize the various functional areas existing in the organizations; to awaken the interest of the students for management issues."
-  abstract: "The Administration of Organizations. 2 - The Administrative Process. 3 - Management Processes"
-  program: "- The Administration of organizations - defining the administration 2 - The administrative process: planning, organization, direction, control 3 - Management Processes: Marketing, Finance, People Management, Production and Operations, Research and Development, Information Technology, Logistics and Environment."
+  nome_en: "Project Management"
+  objectives: "Provide an overview of project management in an organization, its stages and interrelationships with other organizational areasand their importance in the competitive world of business"
+  abstract: "General considerations about project management, Project initiation, Planning and Management Plan, Monitoring and EvaluationStructure, Execution and Control."
+  program: "General considerations about project management, Project initiation, Planning and Management Plan, Monitoring and EvaluationStructure, Execution and Control."
   ndoc: "-3"
   CA: "2"
-  CT: "0"
-  CH: "30 h"
+  CT: "2"
+  CH: "90 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2022"
-  objetivos: "849935 - Humberto Felipe da Silva"
+  ativacao: "01/01/2021"
+  objetivos: "5840917 - Fabrício Maciel Gomes"
   resumo: "Semestral"
-  programa: "01/01/2022"
-  metodo: "849935 - Humberto Felipe da Silva"
-  criterio: "O sistema de avaliação será continuo com aplicação de avaliações escritas utilizando-se avaliações em papel como em sistema informacionais, ademais serão realizados seminários, projetos, entrega de trabalho em formato de artigo e Estudos de Casos."
-  exame: "Avaliações em diversos formatos realizadas no decorrer do semestre. O peso maior da avaliação será aplicado ao Seminário Final da Disciplina, quando serão realizadas a apresentação oral do trabalho bem como a entrega do trabalho em formato de artigo; essa avaliação representará 70% da média do semestre."
-  bibliografia: "NF = (MF + PR)/ 2 , onde NF é a média final da segunda avaliação, MF é a média final da primeira avaliação e PR é a nota do trabalho de recuperação"
+  programa: "01/01/2021"
+  metodo: "5840917 - Fabrício Maciel Gomes"
+  criterio: "Aulas expositivas. Trabalhos em grupo. Seminários. Palestras. Exercícios em sala de aula."
+  exame: "Duas Provas com peso de 30% cada uma. Trabalhos em sala de aula com peso de 20% e Trabalho final com peso de 20%"
+  bibliografia: "Prova única"
   docentes: []
   oferecimento:
-    - 20222B2:
-      Codigo_da_Turma: "20222B2"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " qui  16:00  18:00 "
-          prof: "(R) Humberto Felipe da Silva "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "51"
-          Pendentes: "0"
-          Matriculados: "51"
-        - EEL_-_Engenharia_Bioquimica:
-          Vagas: "60"
-          Inscritos: "23"
-          Pendentes: "0"
-          Matriculados: "23"
-        - Qualquer_Unidade_da_USP:
-          Vagas: "0"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-    - 20222M1:
-      Codigo_da_Turma: "20222M1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " qui  14:00  16:00 "
-          prof: "(R) Humberto Felipe da Silva "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "24"
-          Pendentes: "0"
-          Matriculados: "24"
-        - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
-          Inscritos: "22"
-          Pendentes: "0"
-          Matriculados: "22"
-- LOM3231:
-  sigla: "LOM3231"
-  nome: " Métodos Experimentais da Física IV"
-  nomeascii: " Metodos Experimentais da Fisica IV"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3231&codcur=88301&codhab=0"
+- LOM3219:
+  sigla: "LOM3219"
+  nome: " Introdução à Nanotecnologia"
+  nomeascii: " Introducao a Nanotecnologia"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3219&codcur=88301&codhab=0"
   requisitos:
-    - LOM3234:
-      sigla: "LOM3234"
-      nome: " Óptica Física "
+    - LOM3215:
+      sigla: "LOM3215"
+      nome: " Física do Estado Sólido "
       tipo: "Requisito"
-    - LOM3259:
-      sigla: "LOM3259"
-      nome: " Materiais e Dispositivos Eletrônicos "
-      tipo: "Indicação de Conjunto"
+    - LOM3229:
+      sigla: "LOM3229"
+      nome: " Métodos Experimentais da Física II "
+      tipo: "Requisito"
+    - LOM3246:
+      sigla: "LOM3246"
+      nome: " Técnicas de Caracterização de Materiais "
+      tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
     EF: "8"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
-  nome_en: "Methods of Experimental Physics IV"
+  nome_en: "Introduction to Nanotechnology"
   objectives: ""
   abstract: ""
   program: ""
@@ -4161,110 +3988,28 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
   resumo: "Semestral"
   programa: "01/01/2012"
   metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Experimentos desenvolvidos em laboratório didático, realização de relatórios para cada experimento e de testes sobre o experimento em estudo."
-  exame: "Média aritmética de duas provas escritas, testes, trabalhos e relatórios: P1, P2 e TR. Conceito Final = (P1 + P2 + TR)/3"
-  bibliografia: "Aplicação de uma prova escrita e prática dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
+  criterio: "Aulas expositivas e seminários."
+  exame: "Duas provas escritas: conceitos P1 e P2. Conceito Final = (P1 + 2P2)/3"
+  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
   docentes: []
   oferecimento:
-    - 20222F1:
-      Codigo_da_Turma: "20222F1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Prática"
-      aulas:
-        - h0:
-          horario: " sex  14:00  18:00 "
-          prof: "Lucas Barboza Sarno da Silva "
-      vagas:
-        - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "30"
-          Pendentes: "0"
-          Matriculados: "30"
-        - EEL_-_Engenharia_Fisica:
-          Vagas: "40"
-          Inscritos: "26"
-          Pendentes: "0"
-          Matriculados: "26"
-- LOM3239:
-  sigla: "LOM3239"
-  nome: " Projeto Integrado II"
-  nomeascii: " Projeto Integrado II"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3239&codcur=88301&codhab=0"
-  requisitos:
-    - LOQ4050:
-      sigla: "LOQ4050"
-      nome: " Engenharia Econômica "
-      tipo: "Requisito"
-    - LOQ4234:
-      sigla: "LOQ4234"
-      nome: " Empreendedorismo "
-      tipo: "Requisito"
-  tipo: "Obrigatórias"
-  semestre:
-    EF: "8"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Integrated Project II"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "1"
-  CT: "4"
-  CH: "135 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Aulas expositivas, reuniões com supervisor, desenvolvimento e elaboração de projeto."
-  exame: "Nota de avaliação do projeto."
-  bibliografia: "A critério da Comissão de Curso poderá ser oferecida recuperação."
-  docentes: []
-  oferecimento:
-    - 20222F1:
-      Codigo_da_Turma: "20222F1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " seg  18:00  19:00 "
-          prof: "(R) Carlos Yujiro Shigue "
-      vagas:
-        - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "31"
-          Pendentes: "0"
-          Matriculados: "31"
-        - EEL_-_Engenharia_Fisica:
-          Vagas: "40"
-          Inscritos: "27"
-          Pendentes: "0"
-          Matriculados: "27"
 - LOM3259:
   sigla: "LOM3259"
   nome: " Materiais e Dispositivos Eletrônicos"
   nomeascii: " Materiais e Dispositivos Eletronicos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3259&codcur=88301&codhab=0"
   requisitos:
-    - LOM3206:
-      sigla: "LOM3206"
-      nome: " Eletrônica "
-      tipo: "Requisito"
     - LOM3215:
       sigla: "LOM3215"
       nome: " Física do Estado Sólido "
       tipo: "Requisito"
-    - LOM3231:
-      sigla: "LOM3231"
-      nome: " Métodos Experimentais da Física IV "
-      tipo: "Indicação de Conjunto"
     - LOM3234:
       sigla: "LOM3234"
       nome: " Óptica Física "
+      tipo: "Requisito"
+    - LOM3263:
+      sigla: "LOM3263"
+      nome: " Eletrônica Fundamental e Aplicada "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -4302,14 +4047,116 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
+          Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "31"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
           Inscritos: "30"
           Pendentes: "0"
           Matriculados: "30"
+- LOM3265:
+  sigla: "LOM3265"
+  nome: " Automação"
+  nomeascii: " Automacao"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3265&codcur=88301&codhab=0"
+  requisitos:
+    - LOM3264:
+      sigla: "LOM3264"
+      nome: " Fundamentos de Controle "
+      tipo: "Requisito"
+  tipo: "Obrigatórias"
+  semestre:
+    EF: "8"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Automation"
+  objectives: "As an important requirement for the specific and the general engineering studies, the course aims to (a) provide the fundamental concepts concerning automated manufacturing systems, as well as their applications, characteristics, yield, and programming, which are important for the learning process in physics engineering; (b) enable the student, to work as individually as in groups, to model and solve problems of interest regarding automated manufacturing systems, including the adequate choice of hypotheses and the application of suitable solution tools; and (c) apply and extend the previously learned physical concepts."
+  abstract: "Introduction to manufacturing systems; Technologies applied to industrial process automation; Supervision and automation equipment and hardware programming."
+  program: "1. Introduction to manufacturing systems;2. 4.0 industry;3. Artificial intelligence (AI), internet of things (IoT), and cyber-physical systems;4. Industrial control systems; PLM concept and integration with management systems;5. Production process monitoring and supervision. Production control systems, sustainable manufacturing;6. Hardware components for process automation: numerical control, CNC programming, discrete control using programmable logic controllers and on-chip systems;7. Industrial robotics – programming of robots and collaborative robots;8. Material transportation systems and storage systems;9. Automatic identification and data capture – inspection technologies."
+  ndoc: "-4"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2023"
+  objetivos: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  resumo: "30 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  exame: "Média aritmética (M) de provas individuais (P1 e P2) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,3*P1+0,3*P2+0.4*T"
+  bibliografia: "Média aritmética (M) de uma prova individual (P1) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,5*P1+0.5*T"
+  docentes: []
+  oferecimento:
+- LOM3266:
+  sigla: "LOM3266"
+  nome: " Fotônica Integrada"
+  nomeascii: " Fotonica Integrada"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3266&codcur=88301&codhab=0"
+  requisitos:
+    - LOM3205:
+      sigla: "LOM3205"
+      nome: " Eletromagnetismo "
+      tipo: "Requisito"
+  tipo: "Obrigatórias"
+  semestre:
+    EF: "8"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Integrated Photonics"
+  objectives: "As an important requirement for the specific and the general engineering studies, the course aims to (a) provide the fundamental concepts concerning the photonics integrated devices, which are important for the learning process in physics engineering; (b) enable the student, to work as individually as in groups, to model and solve problems of interest regarding the most important passive photonic integrated devices, including the adequate choice of hypotheses and the application of suitable solution tools; (c) to introduce the components, techniques, software, and equipment employed in the analysis, design, and fabrication of photonic integrated circuits; and (d) apply and extend the previously learned physical concepts."
+  abstract: "Introduction to integrated photonics. Light propagation in homogeneous media. Planar and rectangular dielectric waveguides. Numerical methods. Modal analysis. Dispersion parameters. Fabrication and characterization of integrated waveguides. Analysis and design of passive optical elements."
+  program: "1. Introduction to integrated photonics; Light propagation in homogeneous media; Boundary conditions at dielectric interfaces. Fresnel coefficients. Snell's Law; Total internal reflection.2. Planar dielectric waveguide (slab waveguide). Optical modes. Analytical solution for TE and TM polarizations. Effective index. Dispersion relations. Rectangular dielectric waveguide.3. Numerical methods applied to the analysis and design of integrated photonic devices.4. Modal analysis; Dispersion parameters; Transmission and reflection spectra.5. Methods for fabrication and characterization of integrated photonic waveguides.6. Design of curves, beam splitters, couplers and optical filters."
+  ndoc: "-4"
+  CA: "4"
+  CT: "0"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2023"
+  objetivos: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  resumo: "60 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Aulas expositivas e práticas de laboratório com interações em grupo para a solução de problemas."
+  exame: "Média aritmética (M) de provas individuais (P1 e P2) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,3*P1+0,3*P2+0.4*T"
+  bibliografia: "Média aritmética (M) de uma prova individual (P1) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,5*P1+0.5*T"
+  docentes: []
+  oferecimento:
+- LOM3267:
+  sigla: "LOM3267"
+  nome: " Trabalho de Graduação I"
+  nomeascii: " Trabalho de Graduacao I"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3267&codcur=88301&codhab=0"
+  requisitos:
+    - LOM3238:
+      sigla: "LOM3238"
+      nome: " Projeto Integrado "
+      tipo: "Requisito"
+  tipo: "Obrigatórias"
+  semestre:
+    EF: "8"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Term Paper I"
+  objectives: "The Graduation Work (TG) aims to integrate, deepen and apply the knowledge acquired throughout the course, preparing and developing the student's ability to perform tasks that are part of the professional performance profile of the physical engineer."
+  abstract: "Preparation, with the guidance of a supervising professor, of a project proposal on a topic related to the area of science and technology."
+  program: "The student should look for a professor or professional with training in the area of engineering or related areas, for the elaboration of a project proposal containing motivation and objectives, theoretical foundation and execution schedule. The project itself will be developed and defended in the course Undergraduate Work II."
+  ndoc: "-4"
+  CA: "2"
+  CT: "4"
+  CH: "150 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2023"
+  objetivos: "O aluno deve apresentar a proposta de trabalho à uma banca formada pelo responsável pela disciplina e professores ou profissionais da área."
+  resumo: "150 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "O aluno deve apresentar a proposta de trabalho à uma banca formada pelo responsável pela disciplina e professores ou profissionais da área."
+  exame: "Avaliação e atribuição de nota do Trabalho de Graduação por uma comissão de professores."
+  bibliografia: "A critério da banca de avaliação poderá ser estabelecido um prazo para readequação e reapresentação do plano de trabalho."
+  docentes: []
+  oferecimento:
 - LOQ4209:
   sigla: "LOQ4209"
   nome: " Engenharia da Qualidade"
@@ -4386,91 +4233,14 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
+          Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "49"
+          Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
           Inscritos: "27"
           Pendentes: "0"
           Matriculados: "27"
-- LOQ4250:
-  sigla: "LOQ4250"
-  nome: " Fundamentos de Administração da Produção"
-  nomeascii: " Fundamentos de Administracao da Producao"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4250&codcur=88301&codhab=0"
-  requisitos:
-    - LOQ4233:
-      sigla: "LOQ4233"
-      nome: " Gestão de Negócios "
-      tipo: "Requisito"
-  tipo: "Obrigatórias"
-  semestre:
-    EF: "8"
-    EB: "7"
-    EQD: "9"
-    EQN: "12"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Fundamentals of Production Management"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "2"
-  CT: "0"
-  CH: "30 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "5840560 - Marco Antonio Carvalho Pereira"
-  resumo: "Semestral"
-  programa: "01/01/2018"
-  metodo: "5840560 - Marco Antonio Carvalho Pereira"
-  criterio: "O desenvolvimento da disciplina será baseado em leituras, aula expositiva, discussão e resolução de estudos de caso."
-  exame: "Provas e Trabalhos"
-  bibliografia: "Prova única com nota maior ou igual a 5,0 (cinco)."
-  docentes: []
-  oferecimento:
-    - 20222F1:
-      Codigo_da_Turma: "20222F1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  16:00  18:00 "
-          prof: "Cleginaldo Pereira de Carvalho "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "44"
-          Pendentes: "0"
-          Matriculados: "44"
-        - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
-          Inscritos: "26"
-          Pendentes: "0"
-          Matriculados: "26"
-    - 20222N2:
-      Codigo_da_Turma: "20222N2"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  19:00  21:00 "
-          prof: "Cleginaldo Pereira de Carvalho "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "39"
-          Pendentes: "0"
-          Matriculados: "39"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "60"
-          Inscritos: "23"
-          Pendentes: "0"
-          Matriculados: "23"
 - LOB1010:
   sigla: "LOB1010"
   nome: " Direito  Aplicado à Engenharia"
@@ -4563,13 +4333,13 @@ NF= MR*0,2 +0,8*(P1 + P2)/2...........MR- média de notas dos relatórios"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "32"
-          Pendentes: "3"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "11"
-          Pendentes: "3"
+          Inscritos: "8"
+          Pendentes: "0"
           Matriculados: "8"
 - LOB1031:
   sigla: "LOB1031"
@@ -4694,7 +4464,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
   requisitos:
     - LOM3238:
       sigla: "LOM3238"
-      nome: " Projeto Integrado I "
+      nome: " Projeto Integrado "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -4722,13 +4492,13 @@ Motivation : the basic and psychological needs of human beings; motivation and c
   oferecimento:
 - LOM3250:
   sigla: "LOM3250"
-  nome: " Trabalho de Graduação"
-  nomeascii: " Trabalho de Graduacao"
+  nome: " Trabalho de Graduação II"
+  nomeascii: " Trabalho de Graduacao II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3250&codcur=88301&codhab=0"
   requisitos:
-    - LOM3238:
-      sigla: "LOM3238"
-      nome: " Projeto Integrado I "
+    - LOM3267:
+      sigla: "LOM3267"
+      nome: " Trabalho de Graduação I "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -4769,14 +4539,14 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "27"
+          Inscritos: "25"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "25"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "17"
+          Inscritos: "15"
           Pendentes: "0"
-          Matriculados: "17"
+          Matriculados: "15"
 - LOM3210:
   sigla: "LOM3210"
   nome: " Estágio Supervisionado"
@@ -4787,9 +4557,17 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       sigla: "LOB1003"
       nome: " Cálculo I "
       tipo: "Requisito"
+    - LOB1004:
+      sigla: "LOB1004"
+      nome: " Cálculo II "
+      tipo: "Requisito"
     - LOB1006:
       sigla: "LOB1006"
       nome: " Cálculo IV "
+      tipo: "Requisito"
+    - LOB1008:
+      sigla: "LOB1008"
+      nome: " Ciência, Tecnologia e Sociedade "
       tipo: "Requisito"
     - LOB1012:
       sigla: "LOB1012"
@@ -4798,6 +4576,10 @@ Motivation : the basic and psychological needs of human beings; motivation and c
     - LOB1018:
       sigla: "LOB1018"
       nome: " Física I "
+      tipo: "Requisito"
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
       tipo: "Requisito"
     - LOB1021:
       sigla: "LOB1021"
@@ -4815,6 +4597,14 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       sigla: "LOB1038"
       nome: " Física Experimental I "
       tipo: "Requisito"
+    - LOB1039:
+      sigla: "LOB1039"
+      nome: " Física Experimental III "
+      tipo: "Requisito"
+    - LOB1041:
+      sigla: "LOB1041"
+      nome: " Física Experimental II "
+      tipo: "Requisito"
     - LOB1042:
       sigla: "LOB1042"
       nome: " Física Experimental IV "
@@ -4827,6 +4617,10 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       sigla: "LOB1052"
       nome: " Cálculo III "
       tipo: "Requisito"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito"
     - LOM3016:
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
@@ -4835,21 +4629,37 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       sigla: "LOM3081"
       nome: " Introdução à Mecânica dos Sólidos "
       tipo: "Requisito"
-    - LOM3202:
-      sigla: "LOM3202"
-      nome: " Circuitos Elétricos "
-      tipo: "Requisito"
     - LOM3204:
       sigla: "LOM3204"
       nome: " Desenho Técnico e Projeto Assistido por Computador "
+      tipo: "Requisito"
+    - LOM3205:
+      sigla: "LOM3205"
+      nome: " Eletromagnetismo "
+      tipo: "Requisito"
+    - LOM3212:
+      sigla: "LOM3212"
+      nome: " Fenômenos de Transporte A "
+      tipo: "Requisito"
+    - LOM3218:
+      sigla: "LOM3218"
+      nome: " Introdução à Engenharia Física "
+      tipo: "Requisito"
+    - LOM3236:
+      sigla: "LOM3236"
+      nome: " Processos de Fabricação "
       tipo: "Requisito"
     - LOM3240:
       sigla: "LOM3240"
       nome: " Química Inorgânica Fundamental e Aplicada "
       tipo: "Requisito"
-    - LOM3254:
-      sigla: "LOM3254"
-      nome: " Laboratório de Circuitos Elétricos "
+    - LOM3241:
+      sigla: "LOM3241"
+      nome: " Química de Materiais "
+      tipo: "Requisito"
+    - LOM3253:
+      sigla: "LOM3253"
+      nome: " Física Matemática "
       tipo: "Requisito"
     - LOM3257:
       sigla: "LOM3257"
@@ -4859,13 +4669,21 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       sigla: "LOM3260"
       nome: " Computação Científica em Python "
       tipo: "Requisito"
-    - LOQ4031:
-      sigla: "LOQ4031"
-      nome: " Química Geral I "
+    - LOM3261:
+      sigla: "LOM3261"
+      nome: " Métodos Numéricos e Aplicações "
+      tipo: "Requisito"
+    - LOM3262:
+      sigla: "LOM3262"
+      nome: " Circuitos Elétricos "
       tipo: "Requisito"
     - LOQ4095:
       sigla: "LOQ4095"
       nome: " Química Geral Experimental "
+      tipo: "Requisito"
+    - LOQ4100:
+      sigla: "LOQ4100"
+      nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -4914,55 +4732,49 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           prof: " "
       vagas:
         - Atividades_Didaticas:
-- LOM3255:
-  sigla: "LOM3255"
-  nome: " Introdução a Projetos de Engenharia"
-  nomeascii: " Introducao a Projetos de Engenharia"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3255&codcur=88301&codhab=0"
+- LOM3105:
+  sigla: "LOM3105"
+  nome: " Computação e análise de dados em Engenharia"
+  nomeascii: " Computacao e analise de dados em Engenharia"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3105&codcur=88301&codhab=0"
   requisitos:
   tipo: "Optativas"
   semestre:
-    EF: "2"
+    EF: "3"
+    EM: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
-  nome_en: "Introduction to Engineering Projects"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "2"
-  CT: "1"
+  nome_en: "Computation and Data Analysis in Engineering"
+  objectives: "Present to the student of Materials Engineering the most widespread tools for the analysis, treatment and display of data in Engineering, using electronic spreadsheet resources. At the end of the course, the student will be able to create correlations between variables, present them in the form of graphs and discuss them confidently. Present to the student of Materials Engineering advanced tools for treatment, manipulation and presentation of data in electronic spreadsheets. It will also serve as an introduction to programming in an environment that is easy to understand, so that the student can confidently understand and develop their own codes for activities to be developed in other subjects of the course. The resources learned in the course can be used in all other subjects of the course."
+  abstract: "Work on spreadsheets. Formatting. Importing and exporting data. Formulas and Functions. Graphics. Descriptive statistics. Data search and manipulation. Macros. Visual Basic for Applications. Reference to intervals; Repetition and flow control. Event-oriented programming. Arrays. Classes and collections. Introduction to UserForms. Dynamical tables. Defining new functions."
+  program: "- Work in electronic spreadsheets: configuring the working environment; Several varieties of spreadsheets; navigating tables, cell notations, repetition of commands, creation of sequences;- Formatting: verification of conditions, conditional formatting- Importing and exporting data. Text files, csv (comma separated values) and other efficient data sharing formats.- Formulas and Functions: Using functions in spreadsheets. Using Solver and Scenario features. Syncing spreadsheets- Descriptive statistics. Mean, standard deviation, quartiles, median, mode and other characteristics of data distributions.- Matrices: working with matrices in spreadsheets; basic operations: sum, multiplication, transposition, inversion. Solution of linear systems using matrices.- Graphs: Time series graphs; histograms; graphs of data presentation (bars, circular sector, etc.) XY graphs of correlation between two variables.- Data search and manipulation: Data search and identification functions. Logical operators.- Macros: recording, editing and using command sequences (macros) to automate tasks.- Visual Basic for Applications: Developer guide, VB Editor, debugging tools. Project Explorer.- Reference to ranges: Range and Cells objects. Offset, resize, Columns and Rows properties- Repetition and flow control: For ... Next loops and variations. Do While / Until Ties. Flow Controls If ... Then ... Else- Event-oriented programming: Event levels and parameters.- Arrays: declaration, multidimensional arrays, dynamic arrays- Classes and collections: Creating and using classes, application events, collections, dictionaries- Introduction to UserForms: Inboxes, messages, buttons, radio buttons;- Pivot tables: creating and configuring a pivot table- Defining new functions: extending the"
+  ndoc: "-2"
+  CA: "4"
+  CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "15/07/2015"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "Semestral"
-  programa: "15/07/2015"
-  metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Avaliação do projeto:
--Apresentações orais: proposta de projeto, relatório preliminar e relatório final;
--Trabalhos escritos: plano de trabalho. relatório preliminar e relatório final;
--Avaliação pelos pares"
-  exame: "Média Final = Nota global de projeto"
-  bibliografia: "Devido às características práticas da disciplina, não será oferecida recuperação"
+  ativacao: "01/01/2022"
+  objetivos: "1176388 - Luiz Tadeu Fernandes Eleno"
+  resumo: "01/01/2022"
+  programa: "1176388 - Luiz Tadeu Fernandes Eleno"
+  metodo: "7797767 - Viktor Pastoukhov"
+  criterio: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados. Trabalho baseado em Projeto"
+  exame: "Média aritmética de trabalhos propostos ao longo do curso (60%) e do Trabalho final em grupo (40%)."
+  bibliografia: "Não haverá exame de recuperação"
   docentes: []
   oferecimento:
-- LOM3207:
-  sigla: "LOM3207"
-  nome: " Eletrônica de Potência"
-  nomeascii: " Eletronica de Potencia"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3207&codcur=88301&codhab=0"
+- LOM3258:
+  sigla: "LOM3258"
+  nome: " Introdução à Eletrônica e Computação Física"
+  nomeascii: " Introducao a Eletronica e Computacao Fisica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3258&codcur=88301&codhab=0"
   requisitos:
-    - LOM3206:
-      sigla: "LOM3206"
-      nome: " Eletrônica "
-      tipo: "Requisito"
   tipo: "Optativas"
   semestre:
-    EF: "7"
+    EF: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
-  nome_en: "Power Electronics"
+  nome_en: "Introduction to Electronics and Physical Computation"
   objectives: ""
   abstract: ""
   program: ""
@@ -4971,14 +4783,176 @@ Motivation : the basic and psychological needs of human beings; motivation and c
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "5982760 - Carlos Alberto Baldan"
+  ativacao: "01/01/2016"
+  objetivos: "519033 - Carlos Yujiro Shigue"
   resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "5982760 - Carlos Alberto Baldan"
-  criterio: "Aulas expositivas e práticas, com uso de ferramentas computacionais."
-  exame: "Média de duas provas escritas e relatórios: P1, P2 e MR. Conceito Final = (P1 + 2P2 + MR)/4"
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
+  programa: "01/01/2016"
+  metodo: "519033 - Carlos Yujiro Shigue"
+  criterio: "Aulas expositivas, práticas e de realização de projetos."
+  exame: "Média das notas de trabalhos, atividades e relatório de projeto."
+  bibliografia: "Devido às características da disciplina não será oferecida recuperação."
+  docentes: []
+  oferecimento:
+- LOM3015:
+  sigla: "LOM3015"
+  nome: " Termodinâmica de Materiais"
+  nomeascii: " Termodinamica de Materiais"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3015&codcur=88301&codhab=0"
+  requisitos:
+    - LOB1004:
+      sigla: "LOB1004"
+      nome: " Cálculo II "
+      tipo: "Requisito fraco"
+    - LOQ4100:
+      sigla: "LOQ4100"
+      nome: " Fundamentos de Química para Engenharia I"
+      tipo: "Requisito fraco"
+  tipo: "Optativas"
+  semestre:
+    EF: "4"
+    EM: "4"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Thermodynamics of Materials"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "-2"
+  CA: "4"
+  CT: "0"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2011"
+  objetivos: "3577649 - Carlos Angelo Nunes"
+  resumo: "01/01/2011"
+  programa: "3577649 - Carlos Angelo Nunes"
+  metodo: "1176388 - Luiz Tadeu Fernandes Eleno"
+  criterio: "O curso será ministrado na forma de aulas expositivas."
+  exame: "Serão aplicadas duas avaliações escritas (P1 e P2) que comporão a nota final (NF). A nota final será calculada através da expressão:NF=(P1+2*P2)/3"
+  bibliografia: "Para os alunos que obtiverem 3,0≤NF<5,0, será aplicada uma avaliação de recuperação (R), com pontuação de 0 a 10, que levará ao cálculo da média final (MF) através da seguinte expressão:MF=(NF+R)/2"
+  docentes: []
+  oferecimento:
+    - 20222M1:
+      Codigo_da_Turma: "20222M1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  14:00  16:00 "
+          prof: "(R) Carlos Angelo Nunes "
+        - h1:
+          horario: " qui  14:00  16:00 "
+          prof: "(R) Carlos Angelo Nunes "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "60"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
+- LOM3268:
+  sigla: "LOM3268"
+  nome: " Projeto Computacional"
+  nomeascii: " Projeto Computacional"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3268&codcur=88301&codhab=0"
+  requisitos:
+    - LOM3260:
+      sigla: "LOM3260"
+      nome: " Computação Científica em Python "
+      tipo: "Requisito"
+  tipo: "Optativas"
+  semestre:
+    EF: "4"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Computational Project"
+  objectives: "Provide the student with an introduction to software design, through work on topics to be developed in the classroom. Through group work, at the end of the course the student will be able to create programs and executables in python, with the possibility of making the code available in online repositories"
+  abstract: "Software development; Version controller systems; Online repositories; automation tools; Documentation management; Integrated Development Environments (IDEs); Computer project management"
+  program: "Software development: main strategies and resources. Version controller systems: git and variants; Online repositories: github, gitlab and variants; Automation tools: bash, make, etc; Documentation management: auto-commented codes and automatic documentation creation; Integrated Development Environments (IDEs): VSCode, Atom etc.; Management of computer projects: development and implementation stages; version control; group work; software creation organization chart."
+  ndoc: "-4"
+  CA: "2"
+  CT: "2"
+  CH: "90 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2023"
+  objetivos: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados."
+  resumo: "90 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados."
+  exame: "Apresentação de monografia e defesa de projeto."
+  bibliografia: "Não haverá exame de recuperação."
+  docentes: []
+  oferecimento:
+- LOM3005:
+  sigla: "LOM3005"
+  nome: " Diagrama de Fases"
+  nomeascii: " Diagrama de Fases"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3005&codcur=88301&codhab=0"
+  requisitos:
+  tipo: "Optativas"
+  semestre:
+    EF: "5"
+    EM: "5"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Phase Diagram"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "-3"
+  CA: "4"
+  CT: "1"
+  CH: "90 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2022"
+  objetivos: "5009972 - Gilberto Carvalho Coelho"
+  resumo: "Semestral"
+  programa: "01/01/2022"
+  metodo: "5009972 - Gilberto Carvalho Coelho"
+  criterio: "O curso será ministrado na forma de aulas expositivas e aulas práticas em laboratório envolvendo preparação de amostras e caracterização microestrutural. Os resultados das aulas práticas serão apresentados oralmente e sujeitos a avaliação (T)."
+  exame: "Serão aplicadas duas avaliações escritas (P1 e P2) que comporão a nota final (NF) juntamente com a avaliação do trabalho prático (T). O critério para a nota final é:NF=((P1*0,8)+(T*0,2)+P2*1)/2"
+  bibliografia: "Para os alunos que obtiverem 3,0≤NF<5,0, será aplicada uma avaliação de recuperação (R) que levará ao cálculo da média final (MF) com o seguinte critério:MF=(NF+R)/2"
+  docentes: []
+  oferecimento:
+- LOM3106:
+  sigla: "LOM3106"
+  nome: " Ciência dos Materiais Computacional"
+  nomeascii: " Ciencia dos Materiais Computacional"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3106&codcur=88301&codhab=0"
+  requisitos:
+    - LOM3016:
+      sigla: "LOM3016"
+      nome: " Introdução à  Ciência dos Materiais "
+      tipo: "Requisito fraco"
+  tipo: "Optativas"
+  semestre:
+    EF: "6"
+    EM: "4"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Computational Materials Science"
+  objectives: "Provide to Materials Engineering students access to modern computational tools, so that they can describe and quantify concepts seen in other disciplines, such as Materials Science, Phase Diagrams, Transformation Kinetics in Materials, Thermodynamics, Electrical, Magnetic, Thermal and Optical Properties, etc. At the end of the course, the student will be able to apply and understand the results of realistic computer simulations applied to different classes of materials."
+  abstract: "Image processing in materialography; Adjusting empirical equations; Interatomic potentials and classical molecular dynamics; Description of nucleation and growth kinetics; Finite Element Method; Monte Carlo methods; Grain growth; Calculation of phase diagrams."
+  program: "- Image treatment: resolution, definition, contrast, saturation; use of automated techniques for determining particle size and distribution.- Proposition and fit of empirical equations to results of experimental measures: the various proposals for relationships for plastic deformation and hardening.- Interatomic potentials and the classical molecular dynamics method; simulation of solidification of a pure metal.- Nucleation and growth kinetics: the Johnson-Mehl-Avrami-Kolmogorov (JMAK) equation and its computational application.- Finite element method: study of the stress state of materials under mechanical loads; simulation of heat transfer applied to heat treatments.- Monte Carlo method applied to the ferro-paramagnetic transition and to grain growth kinetics- Calculation of phase diagrams: free energy curves, the CALPHAD method; Thermo-Calc and Dictra."
+  ndoc: "-2"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2022"
+  objetivos: "3480026 - João Paulo Pascon"
+  resumo: "01/01/2022"
+  programa: "3480026 - João Paulo Pascon"
+  metodo: "1176388 - Luiz Tadeu Fernandes Eleno"
+  criterio: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados. Trabalho baseado em Projeto"
+  exame: "Média aritmética de trabalhos propostos ao longo do curso (60%) e do Trabalho final em grupo (40%)."
+  bibliografia: "Não haverá exame de recuperação."
   docentes: []
   oferecimento:
 - LOM3208:
@@ -5012,78 +4986,6 @@ Motivation : the basic and psychological needs of human beings; motivation and c
   metodo: "144651 - Antonio Fernando Sartori"
   criterio: "Aulas expositivas, seminários e exercícios comentados."
   exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
-- LOM3211:
-  sigla: "LOM3211"
-  nome: " Estruturas e Propriedades de Materiais"
-  nomeascii: " Estruturas e Propriedades de Materiais"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3211&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3016:
-      sigla: "LOM3016"
-      nome: " Introdução à  Ciência dos Materiais "
-      tipo: "Requisito"
-  tipo: "Optativas"
-  semestre:
-    EF: "7"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Structures and Properties of Materials"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "984972 - Hugo Ricardo Zschommler Sandim"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "984972 - Hugo Ricardo Zschommler Sandim"
-  criterio: "Aulas expositivas, seminários e exercícios comentados."
-  exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
-- LOM3225:
-  sigla: "LOM3225"
-  nome: " Materiais e Dispositivos Semicondutores"
-  nomeascii: " Materiais e Dispositivos Semicondutores"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3225&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3206:
-      sigla: "LOM3206"
-      nome: " Eletrônica "
-      tipo: "Requisito"
-    - LOM3215:
-      sigla: "LOM3215"
-      nome: " Física do Estado Sólido "
-      tipo: "Requisito"
-  tipo: "Optativas"
-  semestre:
-    EF: "7"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Semiconductor Materials and Devices"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Aulas expositivas, seminários e exercícios."
-  exame: "Duas provas escritas: conceitos P1 e P2. Conceito Final = (P1 + 2P2)/3"
   bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
   docentes: []
   oferecimento:
@@ -5153,13 +5055,13 @@ Motivation : the basic and psychological needs of human beings; motivation and c
   oferecimento:
 - LOM3256:
   sigla: "LOM3256"
-  nome: " Tópicos em Cálculo de Estrutura Eletrônica dos Materiais"
-  nomeascii: " Topicos em Calculo de Estrutura Eletronica dos Materiais"
+  nome: " Tópicos em Cálculo de Estrutura Eletrônica"
+  nomeascii: " Topicos em Calculo de Estrutura Eletronica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3256&codcur=88301&codhab=0"
   requisitos:
-    - LOM3215:
-      sigla: "LOM3215"
-      nome: " Física do Estado Sólido "
+    - LOM3226:
+      sigla: "LOM3226"
+      nome: " Mecânica Quântica "
       tipo: "Requisito"
   tipo: "Optativas"
   semestre:
@@ -5213,180 +5115,65 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
-- LOM3201:
-  sigla: "LOM3201"
-  nome: " Biofísica Molecular"
-  nomeascii: " Biofisica Molecular"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3201&codcur=88301&codhab=0"
+- LOM3066:
+  sigla: "LOM3066"
+  nome: " Materiais Compósitos"
+  nomeascii: " Materiais Compositos"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3066&codcur=88301&codhab=0"
   requisitos:
   tipo: "Optativas"
   semestre:
     EF: "8"
+    EM: "8"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
-  nome_en: "Molecular Biophysics"
+  nome_en: "Composite Materials"
   objectives: ""
   abstract: ""
   program: ""
-  ndoc: "-3"
+  ndoc: "-1"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "2166002 - Sandra Giacomin Schneider"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "2166002 - Sandra Giacomin Schneider"
-  criterio: "Aulas expositivas; demonstrações com o uso de programas de computador e discussão de listas de exercícios"
-  exame: "Três provas escritas: conceitos P1, P2 e P3. Conceito Final = (P1 + P2 + 2P3)/4"
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
-- LOM3214:
-  sigla: "LOM3214"
-  nome: " Física de Superfícies"
-  nomeascii: " Fisica de Superficies"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3214&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3212:
-      sigla: "LOM3212"
-      nome: " Fenômenos de Transporte A "
-      tipo: "Requisito"
-  tipo: "Optativas"
-  semestre:
-    EF: "8"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Physics of Surfaces"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
+  ativacao: "01/01/2022"
   objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Aulas expositivas, seminários e práticas ministradas em laboratório."
-  exame: "Média ponderada de duas provas escritas, trabalhos e relatórios: P1, P2 e TR. Conceito Final = (P1 + 2P2 + TR)/4"
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
+  resumo: "519033 - Carlos Yujiro Shigue"
+  programa: "1033242 - Fábio Herbst Florenzano"
+  metodo: "1922320 - Sebastiao Ribeiro"
+  criterio: "De acordo com a atual ementa da disciplina propõe-se o uso de uma nova metodologia de ensino com o intuito de abordar o conteúdo de forma mais prática e contextualizada para que o aluno consiga relacionar os conhecimentos teóricos vistos em sala de aula com as outras disciplinas do curso. Assim, avaliação do aluno será feita através de uma prova escrita e por uma apresentação final com base nas atividades práticas desenvolvidas."
+  exame: "A nota final será calculada como descrita a seguir: NF= (0,4*Avaliação escrita + 0,6 *Apresentação final)"
+  bibliografia: "Devido a cunho prático da disciplina não haverá recuperação."
   docentes: []
   oferecimento:
-- LOM3222:
-  sigla: "LOM3222"
-  nome: " Materiais e Dispositivos Dielétricos e Piezelétricos"
-  nomeascii: " Materiais e Dispositivos Dieletricos e Piezeletricos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3222&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3206:
-      sigla: "LOM3206"
-      nome: " Eletrônica "
-      tipo: "Requisito"
-    - LOM3215:
-      sigla: "LOM3215"
-      nome: " Física do Estado Sólido "
-      tipo: "Requisito"
-  tipo: "Optativas"
-  semestre:
-    EF: "8"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Dielectric and Piezoelectric Materials and Devices"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "5840730 - Antonio Jefferson da Silva Machado"
-  resumo: "01/01/2012"
-  programa: "5840730 - Antonio Jefferson da Silva Machado"
-  metodo: "5840726 - Cristina Bormio Nunes"
-  criterio: "Aulas expositivas, seminários e exercícios comentados."
-  exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
-- LOM3235:
-  sigla: "LOM3235"
-  nome: " Processamento de Materiais"
-  nomeascii: " Processamento de Materiais"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3235&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3211:
-      sigla: "LOM3211"
-      nome: " Estruturas e Propriedades de Materiais "
-      tipo: "Requisito"
-    - LOM3213:
-      sigla: "LOM3213"
-      nome: " Fenômenos de Transporte B "
-      tipo: "Requisito"
-  tipo: "Optativas"
-  semestre:
-    EF: "8"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Materials Processing"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "984972 - Hugo Ricardo Zschommler Sandim"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "984972 - Hugo Ricardo Zschommler Sandim"
-  criterio: "Aulas expositivas e aulas práticas de demonstração em oficina. Visita a feiras."
-  exame: "Média ponderada de duas provas escritas, trabalhos e relatórios: P1, P2 e TR. Conceito Final = (P1 + 2P2 + TR)/4"
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
-- LOM3244:
-  sigla: "LOM3244"
-  nome: " Sensores e Transdutores"
-  nomeascii: " Sensores e Transdutores"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3244&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3206:
-      sigla: "LOM3206"
-      nome: " Eletrônica "
-      tipo: "Requisito"
-  tipo: "Optativas"
-  semestre:
-    EF: "8"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Sensors and Transducers"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "01/01/2012"
-  programa: "519033 - Carlos Yujiro Shigue"
-  metodo: "5840726 - Cristina Bormio Nunes"
-  criterio: "Aulas expositivas e práticas ministradas em laboratório."
-  exame: "Média ponderada de duas provas escritas, trabalhos e relatórios: P1, P2 e TR. Conceito Final = (P1 + 2P2 + TR)/4"
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
+    - 20222M1:
+      Codigo_da_Turma: "20222M1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  16:00  18:00 "
+          prof: "Cassius Olivio Figueiredo Terra Ruchert "
+        - h1:
+          horario: " qui  16:00  18:00 "
+          prof: "Cassius Olivio Figueiredo Terra Ruchert "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "4"
+          Pendentes: "0"
+          Matriculados: "4"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "60"
+          Inscritos: "4"
+          Pendentes: "0"
+          Matriculados: "4"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3249:
   sigla: "LOM3249"
   nome: " Tópicos Especiais em Engenharia Física II"
@@ -5415,48 +5202,6 @@ Motivation : the basic and psychological needs of human beings; motivation and c
   criterio: "Este curso deverá conter duas avaliações escritas denominadas P1 e P2. A P2 deverá englobar toda a matéria ministrada ao longo do semestre, abrangendo todos os tópicos previstos na ementa."
   exame: "A média do semestre será computada com base na relação: M=(P1+2P2)/3"
   bibliografia: "A recuperação será composta por uma única prova (RC) englobando toda a matéria ministrada ao longo do semestre. A média final, para os alunos em recuperação, será computada com base na relação: MF=(M+RC)/2"
-  docentes: []
-  oferecimento:
-- LOM3219:
-  sigla: "LOM3219"
-  nome: " Introdução à Nanotecnologia"
-  nomeascii: " Introducao a Nanotecnologia"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3219&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3215:
-      sigla: "LOM3215"
-      nome: " Física do Estado Sólido "
-      tipo: "Requisito"
-    - LOM3229:
-      sigla: "LOM3229"
-      nome: " Métodos Experimentais da Física II "
-      tipo: "Requisito"
-    - LOM3246:
-      sigla: "LOM3246"
-      nome: " Técnicas de Caracterização de Materiais "
-      tipo: "Requisito"
-  tipo: "Optativas"
-  semestre:
-    EF: "9"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Introduction to Nanotechnology"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Aulas expositivas e seminários."
-  exame: "Duas provas escritas: conceitos P1 e P2. Conceito Final = (P1 + 2P2)/3"
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
   docentes: []
   oferecimento:
 - LOM3220:
@@ -5488,44 +5233,6 @@ Motivation : the basic and psychological needs of human beings; motivation and c
   resumo: "01/01/2012"
   programa: "519033 - Carlos Yujiro Shigue"
   metodo: "7290967 - Emerson Gonçalves de Melo"
-  criterio: "Aulas expositivas, seminários e exercícios comentados."
-  exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
-- LOM3224:
-  sigla: "LOM3224"
-  nome: " Materiais e Dispositivos Ópticos e Fotônicos"
-  nomeascii: " Materiais e Dispositivos Opticos e Fotonicos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3224&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3231:
-      sigla: "LOM3231"
-      nome: " Métodos Experimentais da Física IV "
-      tipo: "Requisito"
-    - LOM3234:
-      sigla: "LOM3234"
-      nome: " Óptica Física "
-      tipo: "Requisito"
-  tipo: "Optativas"
-  semestre:
-    EF: "9"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Optical and Photonic Materials and Devices"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "519033 - Carlos Yujiro Shigue"
   criterio: "Aulas expositivas, seminários e exercícios comentados."
   exame: "Média aritmética de duas provas sendo a primeira com peso 1 e a segunda com peso 2."
   bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
@@ -5565,110 +5272,6 @@ Motivation : the basic and psychological needs of human beings; motivation and c
   bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
   docentes: []
   oferecimento:
-- LOM3245:
-  sigla: "LOM3245"
-  nome: " Técnicas Avançadas de Caracterização de Materiais"
-  nomeascii: " Tecnicas Avancadas de Caracterizacao de Materiais"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3245&codcur=88301&codhab=0"
-  requisitos:
-    - LOM3229:
-      sigla: "LOM3229"
-      nome: " Métodos Experimentais da Física II "
-      tipo: "Requisito"
-    - LOM3246:
-      sigla: "LOM3246"
-      nome: " Técnicas de Caracterização de Materiais "
-      tipo: "Requisito"
-  tipo: "Optativas"
-  semestre:
-    EF: "9"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Advanced Techniques for Materials Characterization"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "6495737 - Durval Rodrigues Junior"
-  resumo: "01/01/2012"
-  programa: "6495737 - Durval Rodrigues Junior"
-  metodo: "1643715 - Paulo Atsushi Suzuki"
-  criterio: "Listas de exercícios, provas escritas, apresentação de seminário, aulas de laboratório e preparação de relatórios."
-  exame: "Média ponderada de duas provas escritas, trabalhos e relatórios: P1, P2 e TR. Conceito Final = (P1 + 2P2 + TR)/4"
-  bibliografia: "WILLIAMS, D. B.; CARTER, C. B., Transmission Electron Microscopy: A Textbook for Materials Science, Springer, 2009.
-WILLIAMS, D. B.; CARTER, C. B., Transmission Electron Microscopy: A Textbook for Materials Science, Springer, 2009.
-BOZZOLA, J. J.; RUSSELL, L. D. Electron Microscopy, Boston, Jones & Bartlett, 1999.
-HUNTER, E. Practical Electron Microscopy, Cambridge University Press, 1993.
-REIMER, L.; KOHL, H., Transmission Electron Microscopy: Physics of Image Formation, Springer, 2008.
-EATON, P.; WEST, P. Atomic Force Microscopy, Oxford University Press, 2010.
-MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Springer, 2002."
-  docentes: []
-  oferecimento:
-- LOM3247:
-  sigla: "LOM3247"
-  nome: " Técnicas de Análises Espectroscópicas"
-  nomeascii: " Tecnicas de Analises Espectroscopicas"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3247&codcur=88301&codhab=0"
-  requisitos:
-  tipo: "Optativas"
-  semestre:
-    EF: "9"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Techniques for Spectroscopic Analysis"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Aulas expositivas e práticas ministradas em laboratório."
-  exame: "Média ponderada de duas provas escritas, trabalhos e relatórios: P1, P2 e TR. Conceito Final = (P1 + 2P2 + TR)/4"
-  bibliografia: "Média ponderada de duas provas escritas, trabalhos e relatórios: P1, P2 e TR. Conceito Final = (P1 + 2P2 + TR)/4"
-  docentes: []
-  oferecimento:
-- LOM3251:
-  sigla: "LOM3251"
-  nome: " Vibração e Acústica"
-  nomeascii: " Vibracao e Acustica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3251&codcur=88301&codhab=0"
-  requisitos:
-  tipo: "Optativas"
-  semestre:
-    EF: "9"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Vibration and Acoustics"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "Semestral"
-  programa: "01/01/2012"
-  metodo: "519033 - Carlos Yujiro Shigue"
-  criterio: "Provas, listas de exercícios e trabalhos práticos."
-  exame: "Média ponderada de duas provas escritas, trabalhos e relatórios: P1, P2 e TR. Conceito Final = (P1 + 2P2 + TR)/4"
-  bibliografia: "Aplicação de uma prova escrita dentro do prazo regimental antes do início do próximo semestre letivo. A nota da segunda avaliação será a média aritmética entre a nota da prova de recuperação e a nota final da primeira avaliação"
-  docentes: []
-  oferecimento:
 - LOM3018:
   sigla: "LOM3018"
   nome: " Introdução à Engenharia de Materiais"
@@ -5697,37 +5300,6 @@ MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Spri
   criterio: "Aulas expositivas e dialogadas; dinâmicas, projetos e trabalhos em grupo; exercícios individuais; e, seminários, debates e palestras"
   exame: "Média Aritmética dos Projetos, Trabalhos, Relatórios e Exercícios realizados no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude) desenvolvidas."
   bibliografia: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
-  docentes: []
-  oferecimento:
-- LOQ4100:
-  sigla: "LOQ4100"
-  nome: " Fundamentos de Química para Engenharia I-B"
-  nomeascii: " Fundamentos de Quimica para Engenharia I-B"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4100&codcur=88202&codhab=0"
-  requisitos:
-  tipo: "Obrigatórias"
-  semestre:
-    EM: "1"
-    EB: "1"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Fundamentals of Chemistry for Engineering I - B"
-  objectives: "Provide to students the basis of elementary concepts in chemistry, enabling them to further education in the later related disciplines, especially regarding the concepts of atomic structure; chemical bonding, intermolecular forces and nature of the compounds; the geometry of the molecules; the chemical reactions in aqueous solution, both metathesis and redox; the properties of the gases and solutions and stoichiometry calculations in chemistry, with emphasis on cases containing limiting reagents, purity of reagents and reaction yield."
-  abstract: "Unit Systems. Atomic Structure. Periodic table. Chemical Bonding. Nomenclature of inorganic compounds. Acids and bases definitions. Intermolecular forces. Solutions. Gases. Chemical reactions in aqueous solution. Stoichiometry and Calculations in Chemistry."
-  program: "Unit systems: Definition of the Units most used in Engineering and transformations between systems.Atomic structure: Electric nature of matter. The charge of the electron. The nucleus of the atom. Quantum theory: Radiation, quanta and photons. Emission and atomic absorption spectra. The wave-particle duality of matter. The uncertainty principle. Atomic orbitals. Quantum numbers. Electronic configuration of the elements. Elementary Particles.Periodic table: The Law and the Periodic table. Periodic properties of elements, atoms and ions.Chemical Bond: The covalent bond. Lewis structure. Molecular orbitals: Limitations of the valence bond theory. Hybridization. Bond polarity. Molecular geometry (Model VSEPR). Ionic bonding. The classification of solids. The properties of the chemical bonds. Coordination compounds. Metal complexes (crystalline field theory). Metallic bond.Nomenclature of inorganic compounds: Inorganic Functions: acids; bases; salts; oxides and nomenclatures.Definitions of acids and bases: Acids and bases (Arrhenius, Bronsted-Lowry and Lewis).Intermolecular forces: Intermolecular forces, liquids and solids.Solutions: Nature of solutions. Colloidal dispersions and suspensions. Physical and chemical properties. Types of solutions. Concentration units and calculations (Molarity, molar fraction, ppm, normality, molality, dilution). The dissolution process. Heat of dissolution. Solubility and temperature.Gases (ideal and real): State variables. Combined gas law. Torriceli's Experience. Partial gas pressure. Kinetic theory of gases. Ideal and real gas. Avogadro's principle.Chemical reactions in aqueous solution: Main chemical reactions (acid-base, precipitation, oxide-reduction and complexation). Examples of gas-forming reactions. Principles of acid-base and oxide-reduction titrations.Stoichiometry and calculations in chemistry: Balancing reactions, stoichiometric calculations, limiting reagents and yields."
-  ndoc: "-2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2022"
-  objetivos: "5817344 - Livia Melo Carneiro"
-  resumo: "01/01/2022"
-  programa: "5817344 - Livia Melo Carneiro"
-  metodo: "6310296 - Patrícia Caroline Molgero Da Rós"
-  criterio: "Duas provas escritas"
-  exame: "A média para a primeira avaliação será calculada a partir das notas das duas provas, P1 e P2, segundo a fórmula: M1=(P1+2xP2)/3. Alunos com nota final igual ou superior a 5,0 estão aprovados; inferior a 5,0 e igual ou superior a 3,0 estão de recuperação;"
-  bibliografia: "A recuperação consistirá de uma prova envolvendo o assunto do semestre todo, à qual será atribuída nota NR. A média da segunda avaliação será calculada segunda a fórmula: M2=(M1+NR)/2. Alunos com nota M2 igual ou superior a 5,0 estarão aprovados, inferior a 5,0 estarão reprovados."
   docentes: []
   oferecimento:
 - LOB1046:
@@ -5775,14 +5347,14 @@ MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Spri
       vagas:
         - Obrigatoria:
           Vagas: "67"
-          Inscritos: "66"
+          Inscritos: "65"
           Pendentes: "0"
-          Matriculados: "66"
+          Matriculados: "65"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "37"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "37"
+          Matriculados: "36"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -5800,14 +5372,14 @@ MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Spri
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "0"
-          Matriculados: "60"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "60"
           Inscritos: "59"
           Pendentes: "0"
           Matriculados: "59"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "58"
+          Pendentes: "0"
+          Matriculados: "58"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -6097,14 +5669,14 @@ MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Spri
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "56"
+          Inscritos: "55"
           Pendentes: "0"
-          Matriculados: "56"
+          Matriculados: "55"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "53"
+          Inscritos: "52"
           Pendentes: "0"
-          Matriculados: "53"
+          Matriculados: "52"
     - 20222N5:
       Codigo_da_Turma: "20222N5"
       Inicio: "15/08/2022"
@@ -6228,36 +5800,6 @@ MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Spri
   criterio: "Avaliações escritas envolvendo o conteúdo da disciplina."
   exame: "Duas avaliações no semestre (P1, P2). MS= (P1+P2)/2, onde: MS= média do semestre. MS> ou = 5,0 = Aluno Aprovado MS< 3,0 = Aluno Reprovado 3,0 < ou = MS < 5,0 = Aluno de Recuperação."
   bibliografia: "Uma prova (PR), contendo todo o conteúdo da disciplina. O aluno será aprovado se apresentar (média final) MF > ou = 5,0. Onde: MF= MS+PR/2, onde: MS= média do semestre e PR= prova de recuperação."
-  docentes: []
-  oferecimento:
-- LOM3105:
-  sigla: "LOM3105"
-  nome: " Computação e análise de dados em Engenharia"
-  nomeascii: " Computacao e analise de dados em Engenharia"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3105&codcur=88202&codhab=0"
-  requisitos:
-  tipo: "Obrigatórias"
-  semestre:
-    EM: "3"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Computation and Data Analysis in Engineering"
-  objectives: "Present to the student of Materials Engineering the most widespread tools for the analysis, treatment and display of data in Engineering, using electronic spreadsheet resources. At the end of the course, the student will be able to create correlations between variables, present them in the form of graphs and discuss them confidently. Present to the student of Materials Engineering advanced tools for treatment, manipulation and presentation of data in electronic spreadsheets. It will also serve as an introduction to programming in an environment that is easy to understand, so that the student can confidently understand and develop their own codes for activities to be developed in other subjects of the course. The resources learned in the course can be used in all other subjects of the course."
-  abstract: "Work on spreadsheets. Formatting. Importing and exporting data. Formulas and Functions. Graphics. Descriptive statistics. Data search and manipulation. Macros. Visual Basic for Applications. Reference to intervals; Repetition and flow control. Event-oriented programming. Arrays. Classes and collections. Introduction to UserForms. Dynamical tables. Defining new functions."
-  program: "- Work in electronic spreadsheets: configuring the working environment; Several varieties of spreadsheets; navigating tables, cell notations, repetition of commands, creation of sequences;- Formatting: verification of conditions, conditional formatting- Importing and exporting data. Text files, csv (comma separated values) and other efficient data sharing formats.- Formulas and Functions: Using functions in spreadsheets. Using Solver and Scenario features. Syncing spreadsheets- Descriptive statistics. Mean, standard deviation, quartiles, median, mode and other characteristics of data distributions.- Matrices: working with matrices in spreadsheets; basic operations: sum, multiplication, transposition, inversion. Solution of linear systems using matrices.- Graphs: Time series graphs; histograms; graphs of data presentation (bars, circular sector, etc.) XY graphs of correlation between two variables.- Data search and manipulation: Data search and identification functions. Logical operators.- Macros: recording, editing and using command sequences (macros) to automate tasks.- Visual Basic for Applications: Developer guide, VB Editor, debugging tools. Project Explorer.- Reference to ranges: Range and Cells objects. Offset, resize, Columns and Rows properties- Repetition and flow control: For ... Next loops and variations. Do While / Until Ties. Flow Controls If ... Then ... Else- Event-oriented programming: Event levels and parameters.- Arrays: declaration, multidimensional arrays, dynamic arrays- Classes and collections: Creating and using classes, application events, collections, dictionaries- Introduction to UserForms: Inboxes, messages, buttons, radio buttons;- Pivot tables: creating and configuring a pivot table- Defining new functions: extending the"
-  ndoc: "-2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2022"
-  objetivos: "1176388 - Luiz Tadeu Fernandes Eleno"
-  resumo: "01/01/2022"
-  programa: "1176388 - Luiz Tadeu Fernandes Eleno"
-  metodo: "7797767 - Viktor Pastoukhov"
-  criterio: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados. Trabalho baseado em Projeto"
-  exame: "Média aritmética de trabalhos propostos ao longo do curso (60%) e do Trabalho final em grupo (40%)."
-  bibliografia: "Não haverá exame de recuperação"
   docentes: []
   oferecimento:
 - LOQ4246:
@@ -6394,67 +5936,6 @@ MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Spri
           Inscritos: "23"
           Pendentes: "0"
           Matriculados: "23"
-- LOM3015:
-  sigla: "LOM3015"
-  nome: " Termodinâmica de Materiais"
-  nomeascii: " Termodinamica de Materiais"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3015&codcur=88202&codhab=0"
-  requisitos:
-    - LOB1004:
-      sigla: "LOB1004"
-      nome: " Cálculo II "
-      tipo: "Requisito fraco"
-    - LOQ4098:
-      sigla: "LOQ4098"
-      nome: " Fundamentos de Química para Engenharia II"
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EM: "4"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Thermodynamics of Materials"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2011"
-  objetivos: "3577649 - Carlos Angelo Nunes"
-  resumo: "01/01/2011"
-  programa: "3577649 - Carlos Angelo Nunes"
-  metodo: "1176388 - Luiz Tadeu Fernandes Eleno"
-  criterio: "O curso será ministrado na forma de aulas expositivas."
-  exame: "Serão aplicadas duas avaliações escritas (P1 e P2) que comporão a nota final (NF). A nota final será calculada através da expressão:NF=(P1+2*P2)/3"
-  bibliografia: "Para os alunos que obtiverem 3,0≤NF<5,0, será aplicada uma avaliação de recuperação (R), com pontuação de 0 a 10, que levará ao cálculo da média final (MF) através da seguinte expressão:MF=(NF+R)/2"
-  docentes: []
-  oferecimento:
-    - 20222M1:
-      Codigo_da_Turma: "20222M1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  14:00  16:00 "
-          prof: "(R) Carlos Angelo Nunes "
-        - h1:
-          horario: " qui  14:00  16:00 "
-          prof: "(R) Carlos Angelo Nunes "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "27"
-          Pendentes: "0"
-          Matriculados: "27"
-        - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
-          Inscritos: "27"
-          Pendentes: "0"
-          Matriculados: "27"
 - LOM3046:
   sigla: "LOM3046"
   nome: " Técnicas de Análise Microestrutural"
@@ -6572,40 +6053,6 @@ MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Spri
           Inscritos: "26"
           Pendentes: "0"
           Matriculados: "26"
-- LOM3106:
-  sigla: "LOM3106"
-  nome: " Ciência dos Materiais Computacional"
-  nomeascii: " Ciencia dos Materiais Computacional"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3106&codcur=88202&codhab=0"
-  requisitos:
-    - LOM3013:
-      sigla: "LOM3013"
-      nome: " Ciência dos Materiais "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EM: "4"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Computational Materials Science"
-  objectives: "Provide to Materials Engineering students access to modern computational tools, so that they can describe and quantify concepts seen in other disciplines, such as Materials Science, Phase Diagrams, Transformation Kinetics in Materials, Thermodynamics, Electrical, Magnetic, Thermal and Optical Properties, etc. At the end of the course, the student will be able to apply and understand the results of realistic computer simulations applied to different classes of materials."
-  abstract: "Image processing in materialography; Adjusting empirical equations; Interatomic potentials and classical molecular dynamics; Description of nucleation and growth kinetics; Finite Element Method; Monte Carlo methods; Grain growth; Calculation of phase diagrams."
-  program: "- Image treatment: resolution, definition, contrast, saturation; use of automated techniques for determining particle size and distribution.- Proposition and fit of empirical equations to results of experimental measures: the various proposals for relationships for plastic deformation and hardening.- Interatomic potentials and the classical molecular dynamics method; simulation of solidification of a pure metal.- Nucleation and growth kinetics: the Johnson-Mehl-Avrami-Kolmogorov (JMAK) equation and its computational application.- Finite element method: study of the stress state of materials under mechanical loads; simulation of heat transfer applied to heat treatments.- Monte Carlo method applied to the ferro-paramagnetic transition and to grain growth kinetics- Calculation of phase diagrams: free energy curves, the CALPHAD method; Thermo-Calc and Dictra."
-  ndoc: "-2"
-  CA: "2"
-  CT: "0"
-  CH: "30 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2022"
-  objetivos: "3480026 - João Paulo Pascon"
-  resumo: "01/01/2022"
-  programa: "3480026 - João Paulo Pascon"
-  metodo: "1176388 - Luiz Tadeu Fernandes Eleno"
-  criterio: "Aulas expositivas e em laboratório computacional, trabalhos e exercícios comentados. Trabalho baseado em Projeto"
-  exame: "Média aritmética de trabalhos propostos ao longo do curso (60%) e do Trabalho final em grupo (40%)."
-  bibliografia: "Não haverá exame de recuperação."
-  docentes: []
-  oferecimento:
 - LOM3107:
   sigla: "LOM3107"
   nome: " Mecânica dos Sólidos Deformáveis"
@@ -6729,40 +6176,6 @@ MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Spri
   criterio: "O aluno será avaliado ao longo do semestre por duas avaliações escritas (P1 e P2) e com pesos iguais."
   exame: "Nota Final NF = [P1 + P2]/2"
   bibliografia: "Para a recuperação será realizada uma prova escrita (PR) abrangendo toda a matéria lecionada no semestre, valendo de 0 (zero) a 10 (dez). Média final = (NF + PR)/2"
-  docentes: []
-  oferecimento:
-- LOM3005:
-  sigla: "LOM3005"
-  nome: " Diagrama de Fases"
-  nomeascii: " Diagrama de Fases"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3005&codcur=88202&codhab=0"
-  requisitos:
-    - LOM3013:
-      sigla: "LOM3013"
-      nome: " Ciência dos Materiais "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EM: "5"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Phase Diagram"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-3"
-  CA: "4"
-  CT: "1"
-  CH: "90 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2022"
-  objetivos: "5009972 - Gilberto Carvalho Coelho"
-  resumo: "Semestral"
-  programa: "01/01/2022"
-  metodo: "5009972 - Gilberto Carvalho Coelho"
-  criterio: "O curso será ministrado na forma de aulas expositivas e aulas práticas em laboratório envolvendo preparação de amostras e caracterização microestrutural. Os resultados das aulas práticas serão apresentados oralmente e sujeitos a avaliação (T)."
-  exame: "Serão aplicadas duas avaliações escritas (P1 e P2) que comporão a nota final (NF) juntamente com a avaliação do trabalho prático (T). O critério para a nota final é:NF=((P1*0,8)+(T*0,2)+P2*1)/2"
-  bibliografia: "Para os alunos que obtiverem 3,0≤NF<5,0, será aplicada uma avaliação de recuperação (R) que levará ao cálculo da média final (MF) com o seguinte critério:MF=(NF+R)/2"
   docentes: []
   oferecimento:
 - LOM3057:
@@ -7406,6 +6819,85 @@ MORITA, S.; WIESENDANGER, R.; MEYER, E. Noncontact Atomic Force Microscopy, Spri
           Inscritos: "16"
           Pendentes: "0"
           Matriculados: "16"
+- LOQ4233:
+  sigla: "LOQ4233"
+  nome: " Gestão de Negócios"
+  nomeascii: " Gestao de Negocios"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4233&codcur=88202&codhab=0"
+  requisitos:
+  tipo: "Obrigatórias"
+  semestre:
+    EM: "6"
+    EA: "5"
+    EB: "4"
+    EQD: "7"
+    EQN: "11"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Business Management"
+  objectives: "To present to the student the concept of an organization and the foundations of its administration; to characterize the various functional areas existing in the organizations; to awaken the interest of the students for management issues."
+  abstract: "The Administration of Organizations. 2 - The Administrative Process. 3 - Management Processes"
+  program: "- The Administration of organizations - defining the administration 2 - The administrative process: planning, organization, direction, control 3 - Management Processes: Marketing, Finance, People Management, Production and Operations, Research and Development, Information Technology, Logistics and Environment."
+  ndoc: "-3"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2022"
+  objetivos: "849935 - Humberto Felipe da Silva"
+  resumo: "Semestral"
+  programa: "01/01/2022"
+  metodo: "849935 - Humberto Felipe da Silva"
+  criterio: "O sistema de avaliação será continuo com aplicação de avaliações escritas utilizando-se avaliações em papel como em sistema informacionais, ademais serão realizados seminários, projetos, entrega de trabalho em formato de artigo e Estudos de Casos."
+  exame: "Avaliações em diversos formatos realizadas no decorrer do semestre. O peso maior da avaliação será aplicado ao Seminário Final da Disciplina, quando serão realizadas a apresentação oral do trabalho bem como a entrega do trabalho em formato de artigo; essa avaliação representará 70% da média do semestre."
+  bibliografia: "NF = (MF + PR)/ 2 , onde NF é a média final da segunda avaliação, MF é a média final da primeira avaliação e PR é a nota do trabalho de recuperação"
+  docentes: []
+  oferecimento:
+    - 20222B2:
+      Codigo_da_Turma: "20222B2"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " qui  16:00  18:00 "
+          prof: "(R) Humberto Felipe da Silva "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "50"
+          Pendentes: "0"
+          Matriculados: "50"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "60"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "23"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+    - 20222M1:
+      Codigo_da_Turma: "20222M1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " qui  14:00  16:00 "
+          prof: "(R) Humberto Felipe da Silva "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "23"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "60"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
 - LOM3004:
   sigla: "LOM3004"
   nome: " Processamento de Materiais Metálicos II"
@@ -7700,9 +7192,9 @@ calculada como: MF = (NF + PR)/2"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "12"
+          Inscritos: "11"
           Pendentes: "0"
-          Matriculados: "12"
+          Matriculados: "11"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
           Inscritos: "0"
@@ -7977,72 +7469,6 @@ calculada como: MF = (NF + PR)/2"
           Inscritos: "19"
           Pendentes: "0"
           Matriculados: "19"
-- LOM3066:
-  sigla: "LOM3066"
-  nome: " Materiais Compósitos"
-  nomeascii: " Materiais Compositos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3066&codcur=88202&codhab=0"
-  requisitos:
-    - LOM3011:
-      sigla: "LOM3011"
-      nome: " Ensaios Mecânicos "
-      tipo: "Requisito fraco"
-    - LOM3046:
-      sigla: "LOM3046"
-      nome: " Técnicas de Análise Microestrutural "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EM: "8"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia de Materiais"
-  nome_en: "Composite Materials"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "-1"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2022"
-  objetivos: "519033 - Carlos Yujiro Shigue"
-  resumo: "519033 - Carlos Yujiro Shigue"
-  programa: "1033242 - Fábio Herbst Florenzano"
-  metodo: "1922320 - Sebastiao Ribeiro"
-  criterio: "De acordo com a atual ementa da disciplina propõe-se o uso de uma nova metodologia de ensino com o intuito de abordar o conteúdo de forma mais prática e contextualizada para que o aluno consiga relacionar os conhecimentos teóricos vistos em sala de aula com as outras disciplinas do curso. Assim, avaliação do aluno será feita através de uma prova escrita e por uma apresentação final com base nas atividades práticas desenvolvidas."
-  exame: "A nota final será calculada como descrita a seguir: NF= (0,4*Avaliação escrita + 0,6 *Apresentação final)"
-  bibliografia: "Devido a cunho prático da disciplina não haverá recuperação."
-  docentes: []
-  oferecimento:
-    - 20222M1:
-      Codigo_da_Turma: "20222M1"
-      Inicio: "15/08/2022"
-      Fim: "21/12/2022"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  16:00  18:00 "
-          prof: "Cassius Olivio Figueiredo Terra Ruchert "
-        - h1:
-          horario: " qui  16:00  18:00 "
-          prof: "Cassius Olivio Figueiredo Terra Ruchert "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "4"
-          Pendentes: "0"
-          Matriculados: "4"
-        - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
-          Inscritos: "4"
-          Pendentes: "0"
-          Matriculados: "4"
-        - Qualquer_Unidade_da_USP:
-          Vagas: "0"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
 - LOM3084:
   sigla: "LOM3084"
   nome: " Inspeção e Ensaios Não Destrutivos"
@@ -8259,9 +7685,9 @@ calculada como: MF = (NF + PR)/2"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "30"
+          Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "31"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
           Inscritos: "9"
@@ -8766,14 +8192,14 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "43"
-          Pendentes: "0"
-          Matriculados: "43"
-        - EEL_-_Engenharia_Bioquimica:
-          Vagas: "60"
           Inscritos: "42"
           Pendentes: "0"
           Matriculados: "42"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "60"
+          Inscritos: "41"
+          Pendentes: "0"
+          Matriculados: "41"
 - LOM3075:
   sigla: "LOM3075"
   nome: " Cerâmicas Refratárias"
@@ -8944,6 +8370,100 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
   criterio: "A avaliação será composta por duas provas (P1 e P2)."
   exame: "NS = NP1+NP2; NP1: questões da P1 valendo até 4p. no total; NP2: questões da P2 valendo até 6 p. no total."
   bibliografia: "A recuperação consistirá de uma prova de Recuperação (R), que irá compor a nota final (NF) da seguinte forma: NF = (R + NS)/2."
+  docentes: []
+  oferecimento:
+- LOM3114:
+  sigla: "LOM3114"
+  nome: " Estatística Aplicada à Engenharia"
+  nomeascii: " Estatistica Aplicada a Engenharia"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3114&codcur=88202&codhab=0"
+  requisitos:
+    - LOB1012:
+      sigla: "LOB1012"
+      nome: " Estatística "
+      tipo: "Requisito fraco"
+  tipo: "Optativas"
+  semestre:
+    EM: "10"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Applied Statistics"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "-4"
+  CA: "4"
+  CT: "0"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2023"
+  objetivos: "Estudo de Casos, Aulas expositivas e em laboratório computacional, trabalhos em grupo e exercícios comentados."
+  resumo: "60 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Estudo de Casos, Aulas expositivas e em laboratório computacional, trabalhos em grupo e exercícios comentados."
+  exame: "Média aritmética de trabalhos propostos ao longo do curso (40%) e avaliação individual final (60%)."
+  bibliografia: "Não haverá exame de recuperação."
+  docentes: []
+  oferecimento:
+- LOM3115:
+  sigla: "LOM3115"
+  nome: " Aplicações Tecnológicas Avançadas de Materiais Poliméricos"
+  nomeascii: " Aplicacoes Tecnologicas Avancadas de Materiais Polimericos"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3115&codcur=88202&codhab=0"
+  requisitos:
+  tipo: "Optativas"
+  semestre:
+    EM: "10"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Polymers in Advanced Applications"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "-4"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2023"
+  objetivos: "Projetos pré-estruturados de aplicações potenciais de polímeros realizados emgrupo com apresentação de texto escrito e seminário."
+  resumo: "30 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Projetos pré-estruturados de aplicações potenciais de polímeros realizados emgrupo com apresentação de texto escrito e seminário."
+  exame: "As notas (0 a 10) serão atribuídas conforme avaliação do projeto escrito e da apresentação do seminário. A nota mínima 5 é exigida para aprovação na disciplina."
+  bibliografia: "Não há recuperação para esta disciplina."
+  docentes: []
+  oferecimento:
+- LOM3116:
+  sigla: "LOM3116"
+  nome: " Análise de Falhas de Materiais e Componentes"
+  nomeascii: " Analise de Falhas de Materiais e Componentes"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3116&codcur=88202&codhab=0"
+  requisitos:
+  tipo: "Optativas"
+  semestre:
+    EM: "10"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia de Materiais"
+  nome_en: "Failure Analysis in Materials and Components"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "-4"
+  CA: "2"
+  CT: "2"
+  CH: "90 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2023"
+  objetivos: "Aulas expositivas teóricas. Confecção de lista de exercícios orientada pelo professor e amplo estudos de casos reais."
+  resumo: "90 h"
+  programa: "Semestral"
+  metodo: "01/01/2023"
+  criterio: "Aulas expositivas teóricas. Confecção de lista de exercícios orientada pelo professor e amplo estudos de casos reais."
+  exame: "Média ponderada das notas de seminários, relatórios advindos do estudo de caso em grupos de trabalho (não haverá prova escrita)"
+  bibliografia: "Não haverá recuperação."
   docentes: []
   oferecimento:
 - LOQ4212:
@@ -9270,14 +8790,14 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "54"
+          Inscritos: "53"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "53"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "54"
+          Inscritos: "53"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "53"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -9380,13 +8900,13 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "37"
-          Pendentes: "1"
+          Inscritos: "36"
+          Pendentes: "0"
           Matriculados: "36"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "29"
-          Pendentes: "1"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
@@ -9930,14 +9450,14 @@ Nota Final mínima para aprovação= 5,0"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
-          Pendentes: "5"
-          Matriculados: "33"
+          Inscritos: "37"
+          Pendentes: "0"
+          Matriculados: "37"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "28"
-          Pendentes: "5"
-          Matriculados: "23"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
 - LOB1212:
   sigla: "LOB1212"
   nome: " Química Analítica Ambiental II"
@@ -10644,9 +10164,9 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       vagas:
         - Obrigatoria:
           Vagas: "43"
-          Inscritos: "43"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "43"
+          Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
           Inscritos: "37"
@@ -10962,9 +10482,9 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "21"
+          Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "21"
+          Matriculados: "22"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "16"
@@ -11130,14 +10650,14 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "56"
+          Inscritos: "57"
           Pendentes: "0"
-          Matriculados: "56"
+          Matriculados: "57"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "48"
+          Matriculados: "49"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -11412,9 +10932,9 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "9"
+          Inscritos: "10"
           Pendentes: "0"
-          Matriculados: "9"
+          Matriculados: "10"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "0"
@@ -12098,9 +11618,9 @@ N = nota"
           Matriculados: "0"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "20"
-          Inscritos: "16"
+          Inscritos: "15"
           Pendentes: "0"
-          Matriculados: "16"
+          Matriculados: "15"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -12826,14 +12346,14 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "10"
+          Inscritos: "9"
           Pendentes: "0"
-          Matriculados: "10"
+          Matriculados: "9"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "8"
+          Inscritos: "7"
           Pendentes: "0"
-          Matriculados: "8"
+          Matriculados: "7"
     - 20222D1:
       Codigo_da_Turma: "20222D1"
       Inicio: "15/08/2022"
@@ -13708,14 +13228,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
+          Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "49"
+          Matriculados: "48"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "49"
+          Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "49"
+          Matriculados: "48"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -14003,6 +13523,82 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Inscritos: "54"
           Pendentes: "0"
           Matriculados: "54"
+- LOQ4250:
+  sigla: "LOQ4250"
+  nome: " Fundamentos de Administração da Produção"
+  nomeascii: " Fundamentos de Administracao da Producao"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4250&codcur=88152&codhab=0"
+  requisitos:
+    - LOQ4233:
+      sigla: "LOQ4233"
+      nome: " Gestão de Negócios "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EB: "7"
+    EQD: "9"
+    EQN: "12"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Fundamentals of Production Management"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "-3"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2018"
+  objetivos: "5840560 - Marco Antonio Carvalho Pereira"
+  resumo: "Semestral"
+  programa: "01/01/2018"
+  metodo: "5840560 - Marco Antonio Carvalho Pereira"
+  criterio: "O desenvolvimento da disciplina será baseado em leituras, aula expositiva, discussão e resolução de estudos de caso."
+  exame: "Provas e Trabalhos"
+  bibliografia: "Prova única com nota maior ou igual a 5,0 (cinco)."
+  docentes: []
+  oferecimento:
+    - 20222F1:
+      Codigo_da_Turma: "20222F1"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  16:00  18:00 "
+          prof: "Cleginaldo Pereira de Carvalho "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "43"
+          Pendentes: "0"
+          Matriculados: "43"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "60"
+          Inscritos: "25"
+          Pendentes: "0"
+          Matriculados: "25"
+    - 20222N2:
+      Codigo_da_Turma: "20222N2"
+      Inicio: "15/08/2022"
+      Fim: "21/12/2022"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  19:00  21:00 "
+          prof: "Cleginaldo Pereira de Carvalho "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "23"
 - LOT2012:
   sigla: "LOT2012"
   nome: " Engenharia Ambiental"
@@ -14683,14 +14279,14 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
   nomeascii: " Tecnologia de Bebidas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2038&codcur=88152&codhab=0"
   requisitos:
-    - LOT2028:
-      sigla: "LOT2028"
-      nome: " Tecnologia de Processos Fermentativos "
-      tipo: "Requisito fraco"
     - LOT2052:
       sigla: "LOT2052"
       nome: " Tecnologia de Bebidas Experimental "
       tipo: "Indicação de Conjunto"
+    - LOT2028:
+      sigla: "LOT2028"
+      nome: " Tecnologia de Processos Fermentativos "
+      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
     EB: "9"
@@ -14721,14 +14317,14 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
   nomeascii: " Tecnologia de Bebidas Experimental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2052&codcur=88152&codhab=0"
   requisitos:
-    - LOT2028:
-      sigla: "LOT2028"
-      nome: " Tecnologia de Processos Fermentativos "
-      tipo: "Requisito fraco"
     - LOT2038:
       sigla: "LOT2038"
       nome: " Tecnologia de Bebidas "
       tipo: "Indicação de Conjunto"
+    - LOT2028:
+      sigla: "LOT2028"
+      nome: " Tecnologia de Processos Fermentativos "
+      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
     EB: "9"
@@ -15089,13 +14685,13 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "21"
-          Pendentes: "1"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "13"
-          Pendentes: "1"
+          Inscritos: "12"
+          Pendentes: "0"
           Matriculados: "12"
 - LOB1047:
   sigla: "LOB1047"
@@ -15213,9 +14809,9 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
           Matriculados: "0"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "8"
+          Inscritos: "6"
           Pendentes: "0"
-          Matriculados: "8"
+          Matriculados: "6"
 - LOQ4201:
   sigla: "LOQ4201"
   nome: " Introdução à Engenharia de Produção"
@@ -15485,40 +15081,6 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
   bibliografia: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação"
   docentes: []
   oferecimento:
-- LOQ4257:
-  sigla: "LOQ4257"
-  nome: " Gestão de Projetos"
-  nomeascii: " Gestao de Projetos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4257&codcur=88352&codhab=4"
-  requisitos:
-    - LOQ4203:
-      sigla: "LOQ4203"
-      nome: " Sistemas Produtivos I "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EP: "3"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Project Management"
-  objectives: "Provide an overview of project management in an organization, its stages and interrelationships with other organizational areasand their importance in the competitive world of business"
-  abstract: "General considerations about project management, Project initiation, Planning and Management Plan, Monitoring and EvaluationStructure, Execution and Control."
-  program: "General considerations about project management, Project initiation, Planning and Management Plan, Monitoring and EvaluationStructure, Execution and Control."
-  ndoc: "-3"
-  CA: "2"
-  CT: "2"
-  CH: "90 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2021"
-  objetivos: "5840917 - Fabrício Maciel Gomes"
-  resumo: "Semestral"
-  programa: "01/01/2021"
-  metodo: "5840917 - Fabrício Maciel Gomes"
-  criterio: "Aulas expositivas. Trabalhos em grupo. Seminários. Palestras. Exercícios em sala de aula."
-  exame: "Duas Provas com peso de 30% cada uma. Trabalhos em sala de aula com peso de 20% e Trabalho final com peso de 20%"
-  bibliografia: "Prova única"
-  docentes: []
-  oferecimento:
 - LOB1049:
   sigla: "LOB1049"
   nome: " Estatística Multivariada"
@@ -15566,14 +15128,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "37"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "37"
+          Matriculados: "36"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "37"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "37"
+          Matriculados: "36"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -17326,14 +16888,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "56"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "54"
+          Inscritos: "52"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "52"
 - LOQ4055:
   sigla: "LOQ4055"
   nome: " Quimica Inorgânica"
@@ -17381,14 +16943,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "61"
-          Inscritos: "60"
-          Pendentes: "0"
-          Matriculados: "60"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "60"
           Inscritos: "59"
           Pendentes: "0"
           Matriculados: "59"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "58"
+          Pendentes: "0"
+          Matriculados: "58"
 - LOQ4038:
   sigla: "LOQ4038"
   nome: " Química Orgânica II"
@@ -17439,14 +17001,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "62"
-          Inscritos: "62"
+          Inscritos: "63"
           Pendentes: "0"
-          Matriculados: "62"
+          Matriculados: "63"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "59"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "60"
     - 20222N2:
       Codigo_da_Turma: "20222N2"
       Inicio: "15/08/2022"
@@ -18023,14 +17585,14 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "53"
+          Inscritos: "50"
           Pendentes: "0"
-          Matriculados: "53"
+          Matriculados: "50"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "41"
+          Inscritos: "39"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "39"
 - LOQ4063:
   sigla: "LOQ4063"
   nome: " Laboratório de Engenharia Química IV"
@@ -18445,14 +18007,14 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "158"
-          Inscritos: "152"
+          Inscritos: "148"
           Pendentes: "0"
-          Matriculados: "152"
+          Matriculados: "148"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "68"
-          Inscritos: "65"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "65"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "82"
           Inscritos: "77"
@@ -18605,19 +18167,19 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "123"
-          Inscritos: "115"
+          Inscritos: "113"
           Pendentes: "0"
-          Matriculados: "115"
+          Matriculados: "113"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "44"
-          Inscritos: "41"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "40"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "52"
-          Inscritos: "47"
+          Inscritos: "46"
           Pendentes: "0"
-          Matriculados: "47"
+          Matriculados: "46"
         - EEL_-_Engenharia_Industrial_Quimica_(not.):
           Vagas: "1"
           Inscritos: "1"
@@ -19099,8 +18661,8 @@ Média final mínima de aprovação = 5,0"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "10"
           Inscritos: "10"
-          Pendentes: "1"
-          Matriculados: "9"
+          Pendentes: "0"
+          Matriculados: "10"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
