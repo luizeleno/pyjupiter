@@ -308,9 +308,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "64"
-          Inscritos: "63"
+          Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "63"
+          Matriculados: "62"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
           Inscritos: "14"
@@ -318,9 +318,9 @@
           Matriculados: "14"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "37"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "37"
+          Matriculados: "36"
     - 20222T4:
       Codigo_da_Turma: "20222T4"
       Inicio: "15/08/2022"
@@ -13054,9 +13054,9 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "69"
+          Inscritos: "70"
           Pendentes: "0"
-          Matriculados: "69"
+          Matriculados: "70"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
           Inscritos: "59"
