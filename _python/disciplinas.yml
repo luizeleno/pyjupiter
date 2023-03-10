@@ -42,10 +42,10 @@
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
-          prof: " "
+          prof: "Estaner Claro Romão "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Estaner Claro Romão "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -60,10 +60,10 @@
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
-          prof: " "
+          prof: "Estaner Claro Romão "
         - h1:
           horario: " qui  10:00  12:00 "
-          prof: " "
+          prof: "Estaner Claro Romão "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -78,10 +78,10 @@
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
-          prof: " "
+          prof: "Roberta Veloso Garcia "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Roberta Veloso Garcia "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -96,10 +96,10 @@
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
-          prof: " "
+          prof: "Roberta Veloso Garcia "
         - h1:
           horario: " qui  10:00  12:00 "
-          prof: " "
+          prof: "Roberta Veloso Garcia "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -114,10 +114,10 @@
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
-          prof: " "
+          prof: "(R) Diovana Aparecida dos Santos Napoleão "
         - h1:
           horario: " qui  14:00  16:00 "
-          prof: " "
+          prof: "(R) Diovana Aparecida dos Santos Napoleão "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -132,10 +132,10 @@
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "(R) Diovana Aparecida dos Santos Napoleão "
         - h1:
           horario: " qui  16:00  18:00 "
-          prof: " "
+          prof: "(R) Diovana Aparecida dos Santos Napoleão "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -150,10 +150,10 @@
       aulas:
         - h0:
           horario: " qua  19:00  21:00 "
-          prof: " "
+          prof: "Antônio Sérgio Cobianchi "
         - h1:
           horario: " sex  19:00  21:00 "
-          prof: " "
+          prof: "Antônio Sérgio Cobianchi "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -168,10 +168,10 @@
       aulas:
         - h0:
           horario: " qua  21:00  23:00 "
-          prof: " "
+          prof: "Antônio Sérgio Cobianchi "
         - h1:
           horario: " sex  21:00  23:00 "
-          prof: " "
+          prof: "Antônio Sérgio Cobianchi "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -186,10 +186,10 @@
       aulas:
         - h0:
           horario: " ter  21:00  23:00 "
-          prof: " "
+          prof: "Juan Fernando Zapata Zapata "
         - h1:
           horario: " qui  21:00  23:00 "
-          prof: " "
+          prof: "Juan Fernando Zapata Zapata "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -241,7 +241,7 @@
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
-          prof: " "
+          prof: "Ana Karine Furtado de Carvalho "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -257,18 +257,18 @@
       aulas:
         - h0:
           horario: " sex  21:00  23:00 "
-          prof: " "
+          prof: "Ana Karine Furtado de Carvalho "
       vagas:
         - Obrigatoria:
           Vagas: "59"
-          Inscritos: "63"
+          Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "57"
+          Matriculados: "59"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "39"
+          Inscritos: "38"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "38"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "6"
           Inscritos: "5"
@@ -338,10 +338,10 @@
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
-          prof: " "
+          prof: "(R) Flavia Reis Cardoso Rojas "
         - h1:
           horario: " sex  08:00  10:00 "
-          prof: " "
+          prof: "(R) Flavia Reis Cardoso Rojas "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -374,10 +374,10 @@
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
-          prof: " "
+          prof: "Sandra Giacomin Schneider "
         - h1:
           horario: " qui  10:00  12:00 "
-          prof: " "
+          prof: "Sandra Giacomin Schneider "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -392,10 +392,10 @@
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
-          prof: " "
+          prof: "Antonio Fernando Sartori "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Antonio Fernando Sartori "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -446,10 +446,10 @@
       aulas:
         - h0:
           horario: " seg  16:00  18:00 "
-          prof: " "
+          prof: "Flávio José da Silva "
         - h1:
           horario: " qua  16:00  18:00 "
-          prof: " "
+          prof: "Flávio José da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -464,10 +464,10 @@
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
-          prof: " "
+          prof: "Flávio José da Silva "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Flávio José da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -482,10 +482,10 @@
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
-          prof: " "
+          prof: "Lucas Barboza Sarno da Silva "
         - h1:
           horario: " sex  10:00  12:00 "
-          prof: " "
+          prof: "Lucas Barboza Sarno da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -500,10 +500,10 @@
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
-          prof: " "
+          prof: "Flávio José da Silva "
         - h1:
           horario: " sex  08:00  10:00 "
-          prof: " "
+          prof: "Flávio José da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -518,10 +518,10 @@
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
-          prof: " "
+          prof: "Érica Leonor Romão "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Érica Leonor Romão "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -536,10 +536,10 @@
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
-          prof: " "
+          prof: "Érica Leonor Romão "
         - h1:
           horario: " qui  10:00  12:00 "
-          prof: " "
+          prof: "Érica Leonor Romão "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -590,10 +590,10 @@
       aulas:
         - h0:
           horario: " qua  21:00  23:00 "
-          prof: " "
+          prof: "Oswaldo Luiz Cobra Guimarães "
         - h1:
           horario: " sex  21:00  23:00 "
-          prof: " "
+          prof: "Oswaldo Luiz Cobra Guimarães "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -644,7 +644,7 @@
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "Janaína Ferreira Batista "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -659,7 +659,7 @@
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
-          prof: " "
+          prof: "Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -674,7 +674,7 @@
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
-          prof: " "
+          prof: "Lucas Barboza Sarno da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -689,7 +689,7 @@
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
-          prof: " "
+          prof: "Lucas Barboza Sarno da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -927,10 +927,10 @@
       aulas:
         - h0:
           horario: " seg  08:00  10:00 "
-          prof: " "
+          prof: "Antônio Sérgio Cobianchi "
         - h1:
           horario: " sex  14:00  16:00 "
-          prof: " "
+          prof: "Antônio Sérgio Cobianchi "
       vagas:
         - Obrigatoria:
           Vagas: "65"
@@ -981,10 +981,10 @@
       aulas:
         - h0:
           horario: " seg  19:00  21:00 "
-          prof: " "
+          prof: "Darcy Nunes Villela Filho "
         - h1:
           horario: " qua  19:00  21:00 "
-          prof: " "
+          prof: "Darcy Nunes Villela Filho "
       vagas:
         - Obrigatoria:
           Vagas: "65"
@@ -1078,16 +1078,16 @@
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
-          prof: " "
+          prof: "Marcelo Rodrigues de Holanda "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Marcelo Rodrigues de Holanda "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "21"
-          Pendentes: "2"
-          Matriculados: "18"
+          Inscritos: "20"
+          Pendentes: "0"
+          Matriculados: "19"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "11"
           Inscritos: "8"
@@ -1095,8 +1095,8 @@
           Matriculados: "8"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "4"
-          Inscritos: "2"
-          Pendentes: "1"
+          Inscritos: "1"
+          Pendentes: "0"
           Matriculados: "1"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "10"
@@ -1111,8 +1111,8 @@
         - EEL_-_Engenharia_de_Producao:
           Vagas: "5"
           Inscritos: "1"
-          Pendentes: "1"
-          Matriculados: "0"
+          Pendentes: "0"
+          Matriculados: "1"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "1"
           Inscritos: "0"
@@ -1131,14 +1131,14 @@
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
-          prof: " "
+          prof: "Bertha María Cuadros Melgar "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Bertha María Cuadros Melgar "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "28"
+          Inscritos: "26"
           Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Bioquimica:
@@ -1184,10 +1184,10 @@
       aulas:
         - h0:
           horario: " ter  19:00  21:00 "
-          prof: " "
+          prof: "Priscila Alves da Silva "
         - h1:
           horario: " qui  19:00  21:00 "
-          prof: " "
+          prof: "Priscila Alves da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -1207,21 +1207,21 @@
       aulas:
         - h0:
           horario: " ter  21:00  23:00 "
-          prof: " "
+          prof: "Priscila Alves da Silva "
         - h1:
           horario: " qui  21:00  23:00 "
-          prof: " "
+          prof: "Priscila Alves da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "32"
-          Pendentes: "12"
-          Matriculados: "16"
+          Inscritos: "31"
+          Pendentes: "0"
+          Matriculados: "27"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "21"
-          Pendentes: "12"
-          Matriculados: "9"
+          Inscritos: "20"
+          Pendentes: "0"
+          Matriculados: "20"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
           Inscritos: "7"
@@ -1235,20 +1235,20 @@
       aulas:
         - h0:
           horario: " seg  10:00  12:00 "
-          prof: " "
+          prof: "Weiliang Qian "
         - h1:
           horario: " sex  16:00  18:00 "
-          prof: " "
+          prof: "Weiliang Qian "
       vagas:
         - Obrigatoria:
           Vagas: "65"
-          Inscritos: "48"
-          Pendentes: "2"
+          Inscritos: "46"
+          Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "14"
-          Inscritos: "13"
-          Pendentes: "1"
+          Inscritos: "12"
+          Pendentes: "0"
           Matriculados: "12"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "2"
@@ -1267,8 +1267,8 @@
           Matriculados: "4"
         - EEL_-_Engenharia_Fisica:
           Vagas: "11"
-          Inscritos: "8"
-          Pendentes: "1"
+          Inscritos: "7"
+          Pendentes: "0"
           Matriculados: "7"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "1"
@@ -1369,7 +1369,7 @@
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "João Bosco Nunes Romeiro "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -1389,18 +1389,18 @@
       aulas:
         - h0:
           horario: " sex  19:00  21:00 "
-          prof: " "
+          prof: "João Bosco Nunes Romeiro "
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "21"
-          Pendentes: "4"
-          Matriculados: "13"
+          Inscritos: "20"
+          Pendentes: "0"
+          Matriculados: "16"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "17"
-          Pendentes: "4"
-          Matriculados: "13"
+          Inscritos: "16"
+          Pendentes: "0"
+          Matriculados: "16"
 - LOB1045:
   sigla: "LOB1045"
   nome: " Leitura e Produção de Textos Acadêmicos"
@@ -1626,20 +1626,20 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
-          prof: " "
+          prof: "Iraídes Aparecida de Castro Villela "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Iraídes Aparecida de Castro Villela "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "69"
-          Pendentes: "1"
+          Inscritos: "68"
+          Pendentes: "0"
           Matriculados: "52"
         - EEL_-_Engenharia_Fisica:
           Vagas: "15"
-          Inscritos: "13"
-          Pendentes: "1"
+          Inscritos: "12"
+          Pendentes: "0"
           Matriculados: "12"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "1"
@@ -1714,13 +1714,13 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
-          prof: " "
+          prof: "Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "34"
+          Inscritos: "33"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "33"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
           Inscritos: "31"
@@ -1734,13 +1734,13 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
-          prof: " "
+          prof: "Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "40"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
           Inscritos: "39"
@@ -1754,7 +1754,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " seg  16:00  18:00 "
-          prof: " "
+          prof: "Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -1774,7 +1774,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " seg  14:00  16:00 "
-          prof: " "
+          prof: "Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -1834,10 +1834,10 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
-          prof: " "
+          prof: "Iraídes Aparecida de Castro Villela "
         - h1:
           horario: " sex  10:00  12:00 "
-          prof: " "
+          prof: "Iraídes Aparecida de Castro Villela "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -1887,16 +1887,16 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "(R) Juan Fernando Zapata Zapata "
         - h1:
           horario: " qui  16:00  18:00 "
-          prof: " "
+          prof: "(R) Juan Fernando Zapata Zapata "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "45"
           Pendentes: "0"
-          Matriculados: "43"
+          Matriculados: "45"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
           Inscritos: "43"
@@ -1910,20 +1910,20 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
-          prof: " "
+          prof: "Iraídes Aparecida de Castro Villela "
         - h1:
           horario: " qui  14:00  16:00 "
-          prof: " "
+          prof: "Iraídes Aparecida de Castro Villela "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "1"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Fisica:
           Vagas: "15"
-          Inscritos: "13"
-          Pendentes: "1"
+          Inscritos: "12"
+          Pendentes: "0"
           Matriculados: "12"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "3"
@@ -1963,10 +1963,10 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " ter  21:00  23:00 "
-          prof: " "
+          prof: "Darcy Nunes Villela Filho "
         - h1:
           horario: " qui  21:00  23:00 "
-          prof: " "
+          prof: "Darcy Nunes Villela Filho "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -1986,10 +1986,10 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " ter  19:00  21:00 "
-          prof: " "
+          prof: "Darcy Nunes Villela Filho "
         - h1:
           horario: " qui  19:00  21:00 "
-          prof: " "
+          prof: "Darcy Nunes Villela Filho "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -2084,16 +2084,16 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
-          prof: " "
+          prof: "(R) Bertha María Cuadros Melgar "
         - h1:
           horario: " qui  14:00  16:00 "
-          prof: " "
+          prof: "(R) Bertha María Cuadros Melgar "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "83"
+          Vagas: "69"
+          Inscritos: "69"
           Pendentes: "0"
-          Matriculados: "57"
+          Matriculados: "69"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
           Inscritos: "57"
@@ -2107,20 +2107,20 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "Marcelo Rodrigues de Holanda "
         - h1:
           horario: " qui  16:00  18:00 "
-          prof: " "
+          prof: "Marcelo Rodrigues de Holanda "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "63"
-          Pendentes: "2"
+          Inscritos: "62"
+          Pendentes: "1"
           Matriculados: "50"
         - EEL_-_Engenharia_Fisica:
           Vagas: "28"
-          Inscritos: "24"
-          Pendentes: "2"
+          Inscritos: "23"
+          Pendentes: "1"
           Matriculados: "22"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "4"
@@ -2486,14 +2486,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "28"
-          Pendentes: "4"
-          Matriculados: "20"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "23"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "24"
-          Pendentes: "4"
-          Matriculados: "20"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "23"
 - LOB1012:
   sigla: "LOB1012"
   nome: " Estatística"
@@ -2542,16 +2542,16 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " seg  14:00  16:00 "
-          prof: " "
+          prof: "(R) Mariana Pereira de Melo "
         - h1:
           horario: " qua  14:00  16:00 "
-          prof: " "
+          prof: "(R) Mariana Pereira de Melo "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "47"
           Pendentes: "0"
-          Matriculados: "45"
+          Matriculados: "47"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "30"
           Inscritos: "27"
@@ -2580,16 +2580,16 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
-          prof: " "
+          prof: "Fernando Catalani "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Fernando Catalani "
       vagas:
         - Obrigatoria:
           Vagas: "65"
-          Inscritos: "63"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "55"
+          Matriculados: "60"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "2"
           Inscritos: "2"
@@ -2633,16 +2633,16 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " seg  16:00  18:00 "
-          prof: " "
+          prof: "(R) Mariana Pereira de Melo "
         - h1:
           horario: " qua  16:00  18:00 "
-          prof: " "
+          prof: "(R) Mariana Pereira de Melo "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "37"
+          Inscritos: "32"
           Pendentes: "1"
-          Matriculados: "24"
+          Matriculados: "31"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "4"
           Inscritos: "2"
@@ -2686,16 +2686,16 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " seg  19:00  21:00 "
-          prof: " "
+          prof: "(R) Mariana Pereira de Melo "
         - h1:
           horario: " qua  19:00  21:00 "
-          prof: " "
+          prof: "(R) Mariana Pereira de Melo "
       vagas:
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "60"
-          Pendentes: "1"
-          Matriculados: "59"
+          Pendentes: "0"
+          Matriculados: "60"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "14"
           Inscritos: "14"
@@ -2709,8 +2709,8 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "2"
           Inscritos: "2"
-          Pendentes: "1"
-          Matriculados: "1"
+          Pendentes: "0"
+          Matriculados: "2"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "7"
           Inscritos: "7"
@@ -2778,10 +2778,10 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
-          prof: " "
+          prof: "Weiliang Qian "
         - h1:
           horario: " sex  08:00  10:00 "
-          prof: " "
+          prof: "Weiliang Qian "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -2851,7 +2851,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "(R) Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -3190,13 +3190,13 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "27"
-          Pendentes: "1"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "27"
-          Pendentes: "1"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
 - LOM3226:
   sigla: "LOM3226"
@@ -3255,13 +3255,13 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "23"
-          Pendentes: "4"
+          Inscritos: "19"
+          Pendentes: "0"
           Matriculados: "18"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "22"
-          Pendentes: "4"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "18"
 - LOM3227:
   sigla: "LOM3227"
@@ -3427,13 +3427,13 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "23"
-          Pendentes: "2"
+          Inscritos: "22"
+          Pendentes: "1"
           Matriculados: "19"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "21"
-          Pendentes: "2"
+          Inscritos: "20"
+          Pendentes: "1"
           Matriculados: "19"
 - LOQ4050:
   sigla: "LOQ4050"
@@ -3579,9 +3579,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "69"
+          Inscritos: "70"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "59"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
           Inscritos: "58"
@@ -3666,9 +3666,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "28"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "25"
+          Matriculados: "27"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "44"
           Inscritos: "10"
@@ -4007,13 +4007,13 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "5"
+          Inscritos: "26"
+          Pendentes: "1"
           Matriculados: "22"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
-          Inscritos: "27"
-          Pendentes: "5"
+          Inscritos: "23"
+          Pendentes: "1"
           Matriculados: "22"
 - LOM3230:
   sigla: "LOM3230"
@@ -4061,13 +4061,13 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "23"
-          Pendentes: "2"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "22"
-          Pendentes: "2"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "20"
 - LOM3264:
   sigla: "LOM3264"
@@ -4169,9 +4169,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "43"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "40"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "32"
           Inscritos: "32"
@@ -4182,6 +4182,11 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Inscritos: "2"
           Pendentes: "0"
           Matriculados: "2"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3219:
   sigla: "LOM3219"
   nome: " Introdução à Nanotecnologia"
@@ -4522,10 +4527,10 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           prof: "Erica Ximenes Dias "
       vagas:
         - Obrigatoria:
-          Vagas: "55"
+          Vagas: "57"
           Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "53"
+          Matriculados: "57"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "24"
           Inscritos: "23"
@@ -4551,6 +4556,11 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Inscritos: "4"
           Pendentes: "0"
           Matriculados: "4"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1010:
   sigla: "LOB1010"
   nome: " Direito  Aplicado à Engenharia"
@@ -4648,7 +4658,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
-          prof: " "
+          prof: "(R) Maria Auxiliadora Motta Barreto "
       vagas:
         - Obrigatoria:
           Vagas: "58"
@@ -4694,7 +4704,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
-          prof: " "
+          prof: "(R) Maria Auxiliadora Motta Barreto "
       vagas:
         - Obrigatoria:
           Vagas: "57"
@@ -4740,7 +4750,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
-          prof: " "
+          prof: "(R) Maria Auxiliadora Motta Barreto "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -5670,13 +5680,13 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
-          prof: " "
+          prof: "Teresa Cristina Brazil de Paiva "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "75"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "60"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
           Inscritos: "58"
@@ -5690,13 +5700,13 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       aulas:
         - h0:
           horario: " qua  21:00  23:00 "
-          prof: " "
+          prof: "Débora Souza Alvim "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "70"
           Inscritos: "71"
           Pendentes: "0"
-          Matriculados: "52"
+          Matriculados: "70"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "45"
           Inscritos: "44"
@@ -5880,7 +5890,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "60"
           Inscritos: "28"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "27"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "26"
@@ -6099,12 +6109,12 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
-          prof: " "
+          prof: "Marcelo Rodrigues de Holanda "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "45"
-          Pendentes: "1"
+          Inscritos: "44"
+          Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "30"
@@ -6113,8 +6123,8 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Matriculados: "13"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "30"
-          Inscritos: "21"
-          Pendentes: "1"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "20"
     - 20231N1:
       Codigo_da_Turma: "20231N1"
@@ -6124,7 +6134,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       aulas:
         - h0:
           horario: " ter  21:00  23:00 "
-          prof: " "
+          prof: "Marcelo Rodrigues de Holanda "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -6169,7 +6179,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       aulas:
         - h0:
           horario: " ter  19:00  21:00 "
-          prof: " "
+          prof: "Marcelo Rodrigues de Holanda "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -6255,7 +6265,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "40"
           Inscritos: "13"
           Pendentes: "0"
-          Matriculados: "10"
+          Matriculados: "13"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
           Inscritos: "10"
@@ -6420,13 +6430,13 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "34"
-          Pendentes: "1"
+          Inscritos: "33"
+          Pendentes: "0"
           Matriculados: "30"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "31"
-          Pendentes: "1"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "30"
 - LOM3057:
   sigla: "LOM3057"
@@ -6643,13 +6653,13 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "22"
-          Pendentes: "1"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "21"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "22"
-          Pendentes: "1"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "21"
 - LOM3113:
   sigla: "LOM3113"
@@ -7926,7 +7936,7 @@ calculada como: MF = (NF + PR)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "26"
+          Inscritos: "27"
           Pendentes: "0"
           Matriculados: "8"
         - EEL_-_Engenharia_de_Materiais:
@@ -8752,7 +8762,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
-          prof: " "
+          prof: "(R) Danúbia Caporusso Bargos "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -8797,9 +8807,14 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " qui  14:00  16:00 "
-          prof: " "
+          prof: "(R) Marco Aurélio Kondracki de Alcântara "
       vagas:
         - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
           Pendentes: "0"
@@ -8842,7 +8857,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
-          prof: " "
+          prof: "(R) Mariana Consiglio Kasemodel "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -9176,10 +9191,10 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
-          prof: " "
+          prof: "Denize Kalempa "
         - h1:
           horario: " sex  08:00  10:00 "
-          prof: " "
+          prof: "Denize Kalempa "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -9219,16 +9234,16 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
-          prof: " "
+          prof: "(R) Janaína Ferreira Batista "
         - h1:
           horario: " sex  10:00  12:00 "
-          prof: " "
+          prof: "(R) Janaína Ferreira Batista "
       vagas:
         - Obrigatoria:
           Vagas: "65"
           Inscritos: "57"
           Pendentes: "0"
-          Matriculados: "53"
+          Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "31"
           Inscritos: "27"
@@ -9258,16 +9273,16 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
-          prof: " "
+          prof: "(R) Janaína Ferreira Batista "
         - h1:
           horario: " sex  08:00  10:00 "
-          prof: " "
+          prof: "(R) Janaína Ferreira Batista "
       vagas:
         - Obrigatoria:
           Vagas: "65"
           Inscritos: "50"
-          Pendentes: "1"
-          Matriculados: "45"
+          Pendentes: "0"
+          Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "27"
           Inscritos: "26"
@@ -9286,8 +9301,8 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "7"
           Inscritos: "6"
-          Pendentes: "1"
-          Matriculados: "5"
+          Pendentes: "0"
+          Matriculados: "6"
     - 20231N3:
       Codigo_da_Turma: "20231N3"
       Inicio: "13/03/2023"
@@ -9296,15 +9311,15 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " seg  21:00  23:00 "
-          prof: " "
+          prof: "Denize Kalempa "
         - h1:
           horario: " qua  21:00  23:00 "
-          prof: " "
+          prof: "Denize Kalempa "
       vagas:
         - Obrigatoria:
           Vagas: "65"
-          Inscritos: "57"
-          Pendentes: "1"
+          Inscritos: "56"
+          Pendentes: "0"
           Matriculados: "51"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "33"
@@ -9318,8 +9333,8 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           Matriculados: "4"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "5"
-          Inscritos: "5"
-          Pendentes: "1"
+          Inscritos: "4"
+          Pendentes: "0"
           Matriculados: "4"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "11"
@@ -9334,10 +9349,10 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " seg  19:00  21:00 "
-          prof: " "
+          prof: "Denize Kalempa "
         - h1:
           horario: " qua  19:00  21:00 "
-          prof: " "
+          prof: "Denize Kalempa "
       vagas:
         - Obrigatoria:
           Vagas: "65"
@@ -9419,11 +9434,11 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " seg  14:00  18:00 "
-          prof: " "
+          prof: "(R) Fabiano Fernandes Bargos "
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "25"
+          Inscritos: "22"
           Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Ambiental:
@@ -9439,18 +9454,23 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " ter  14:00  18:00 "
-          prof: " "
+          prof: "Henrique Otávio Queiroz de Aquino "
       vagas:
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "25"
           Pendentes: "0"
-          Matriculados: "19"
+          Matriculados: "23"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
           Inscritos: "19"
           Pendentes: "0"
           Matriculados: "19"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D3:
       Codigo_da_Turma: "20231D3"
       Inicio: "13/03/2023"
@@ -9459,7 +9479,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " qua  14:00  18:00 "
-          prof: " "
+          prof: "Henrique Otávio Queiroz de Aquino "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -9479,7 +9499,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " seg  08:00  12:00 "
-          prof: " "
+          prof: "(R) Fabiano Fernandes Bargos "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -9499,17 +9519,17 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " sex  19:00  23:00 "
-          prof: " "
+          prof: "Henrique Otávio Queiroz de Aquino "
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "41"
-          Pendentes: "1"
-          Matriculados: "34"
+          Inscritos: "38"
+          Pendentes: "0"
+          Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "35"
-          Pendentes: "1"
+          Inscritos: "34"
+          Pendentes: "0"
           Matriculados: "34"
     - 20231N6:
       Codigo_da_Turma: "20231N6"
@@ -9519,7 +9539,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " seg  19:00  23:00 "
-          prof: " "
+          prof: "Henrique Otávio Queiroz de Aquino "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -9573,10 +9593,10 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " seg  10:00  12:00 "
-          prof: " "
+          prof: "(R) Marco Aurélio Kondracki de Alcântara "
         - h1:
           horario: " qua  08:00  10:00 "
-          prof: " "
+          prof: "(R) Marco Aurélio Kondracki de Alcântara "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -9588,6 +9608,11 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           Inscritos: "28"
           Pendentes: "0"
           Matriculados: "28"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4053:
   sigla: "LOQ4053"
   nome: " Balanços de Massa e Energia"
@@ -9635,9 +9660,9 @@ Nota Final mínima para aprovação= 5,0"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "40"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "27"
           Inscritos: "26"
@@ -9704,10 +9729,10 @@ Nota Final mínima para aprovação= 5,0"
           prof: "Lucrécio Fábio dos Santos "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
+          Vagas: "61"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "57"
           Inscritos: "57"
@@ -9966,10 +9991,10 @@ Nota Final mínima para aprovação= 5,0"
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
-          prof: "Geronimo Virginio Tagliaferro "
+          prof: "Daniela Helena Pelegrine Guimarães "
         - h1:
           horario: " qui  08:00  10:00 "
-          prof: "Geronimo Virginio Tagliaferro "
+          prof: "Daniela Helena Pelegrine Guimarães "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -10080,17 +10105,17 @@ Nota Final mínima para aprovação= 5,0"
       aulas:
         - h0:
           horario: " sex  10:00  12:00 "
-          prof: " "
+          prof: "(R) Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "26"
-          Pendentes: "1"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "15"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "16"
-          Pendentes: "1"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "15"
     - 20231B2:
       Codigo_da_Turma: "20231B2"
@@ -10100,7 +10125,7 @@ Nota Final mínima para aprovação= 5,0"
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
-          prof: " "
+          prof: "(R) Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -10120,7 +10145,7 @@ Nota Final mínima para aprovação= 5,0"
       aulas:
         - h0:
           horario: " sex  21:00  23:00 "
-          prof: " "
+          prof: "Carlos Renato Menegatti "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -10140,7 +10165,7 @@ Nota Final mínima para aprovação= 5,0"
       aulas:
         - h0:
           horario: " sex  19:00  21:00 "
-          prof: " "
+          prof: "Carlos Renato Menegatti "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -10194,7 +10219,7 @@ Nota Final mínima para aprovação= 5,0"
       aulas:
         - h0:
           horario: " seg  08:00  12:00 "
-          prof: " "
+          prof: "(R) Morun Bernardino Neto "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -10294,10 +10319,10 @@ Nota Final mínima para aprovação= 5,0"
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
-          prof: " "
+          prof: "(R) Danúbia Caporusso Bargos "
         - h1:
-          horario: " qui  10:00  12:00 "
-          prof: " "
+          horario: "(R) Mariana Consiglio Kasemodel   qui  10:00"
+          prof: " 12:00 "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -10355,13 +10380,13 @@ Nota Final mínima para aprovação= 5,0"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "29"
-          Pendentes: "6"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "29"
-          Pendentes: "6"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
 - LOQ4084:
   sigla: "LOQ4084"
@@ -10424,8 +10449,8 @@ Nota Final mínima para aprovação= 5,0"
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "21"
-          Pendentes: "1"
-          Matriculados: "18"
+          Pendentes: "0"
+          Matriculados: "20"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "7"
           Inscritos: "6"
@@ -10434,8 +10459,8 @@ Nota Final mínima para aprovação= 5,0"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "13"
           Inscritos: "10"
-          Pendentes: "1"
-          Matriculados: "9"
+          Pendentes: "0"
+          Matriculados: "10"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "2"
           Inscritos: "2"
@@ -10462,13 +10487,13 @@ Nota Final mínima para aprovação= 5,0"
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "70"
-          Pendentes: "2"
-          Matriculados: "54"
+          Pendentes: "0"
+          Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
           Inscritos: "46"
-          Pendentes: "2"
-          Matriculados: "44"
+          Pendentes: "0"
+          Matriculados: "46"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "4"
           Inscritos: "4"
@@ -10885,13 +10910,13 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " ter  14:00  18:00 "
-          prof: " "
+          prof: "Débora Souza Alvim "
       vagas:
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "35"
+          Matriculados: "37"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "35"
@@ -10939,11 +10964,11 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
-          prof: " "
+          prof: "Ana Karine Furtado de Carvalho "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "23"
+          Inscritos: "22"
           Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Ambiental:
@@ -10993,7 +11018,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
-          prof: " "
+          prof: "(R) Marco Aurélio Kondracki de Alcântara "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -11005,6 +11030,11 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
           Inscritos: "39"
           Pendentes: "0"
           Matriculados: "39"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1232:
   sigla: "LOB1232"
   nome: " Licenciamento Ambiental"
@@ -11047,7 +11077,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " qua  08:00  12:00 "
-          prof: " "
+          prof: "Débora Souza Alvim "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -11105,7 +11135,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " seg  14:00  18:00 "
-          prof: " "
+          prof: "(R) Mariana Consiglio Kasemodel "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -11159,7 +11189,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " qui  14:00  16:00 "
-          prof: " "
+          prof: "(R) Ana Lucia Gabas Ferreira "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -11411,13 +11441,13 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " qui  08:00  10:00 "
-          prof: " "
+          prof: "Ana Karine Furtado de Carvalho "
       vagas:
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "28"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "28"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "27"
@@ -11573,13 +11603,13 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " ter  18:00  19:00 "
-          prof: " "
+          prof: "(R) Ana Lucia Gabas Ferreira "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "44"
+          Inscritos: "45"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "33"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "32"
@@ -11631,11 +11661,11 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " qui  19:00  23:00 "
-          prof: " "
+          prof: "(R) Adriano Francisco Siqueira "
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "17"
+          Inscritos: "14"
           Pendentes: "0"
           Matriculados: "14"
         - EEL_-_Engenharia_Ambiental:
@@ -11685,7 +11715,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " qui  14:00  16:00 "
-          prof: " "
+          prof: "(R) Danúbia Caporusso Bargos "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -11773,7 +11803,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       aulas:
         - h0:
           horario: " qua  18:00  19:00 "
-          prof: " "
+          prof: "(R) Ana Lucia Gabas Ferreira "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -12587,7 +12617,7 @@ MP: média das provas; ME: média de trabalhos
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
-          prof: " "
+          prof: "(R) Gustavo Aristides Santana Martinez "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -12602,7 +12632,7 @@ MP: média das provas; ME: média de trabalhos
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
-          prof: " "
+          prof: "(R) Gustavo Aristides Santana Martinez "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -12617,7 +12647,7 @@ MP: média das provas; ME: média de trabalhos
       aulas:
         - h0:
           horario: " ter  21:00  23:00 "
-          prof: " "
+          prof: "(R) Gustavo Aristides Santana Martinez "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -12632,7 +12662,7 @@ MP: média das provas; ME: média de trabalhos
       aulas:
         - h0:
           horario: " seg  19:00  21:00 "
-          prof: " "
+          prof: "(R) Gustavo Aristides Santana Martinez "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -12647,7 +12677,7 @@ MP: média das provas; ME: média de trabalhos
       aulas:
         - h0:
           horario: " qui  19:00  21:00 "
-          prof: " "
+          prof: "Katia Cristiane Gandolpho Candioto "
       vagas:
         - Obrigatoria:
           Vagas: "0"
@@ -12698,10 +12728,10 @@ MP: média das provas; ME: média de trabalhos
           prof: "(R) Maria das Graças de Almeida Felipe "
       vagas:
         - Obrigatoria:
-          Vagas: "0"
-          Inscritos: "0"
+          Vagas: "1"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
 - LOT2043:
   sigla: "LOT2043"
   nome: " Introdução à Engenharia Bioquímica"
@@ -12898,7 +12928,7 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "42"
+          Inscritos: "13"
           Pendentes: "0"
           Matriculados: "13"
         - EEL_-_Engenharia_Bioquimica:
@@ -13019,9 +13049,9 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "46"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "40"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
           Inscritos: "39"
@@ -13059,9 +13089,9 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "48"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "40"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
           Inscritos: "32"
@@ -13079,9 +13109,9 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "46"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "17"
+          Matriculados: "40"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
           Inscritos: "17"
@@ -13363,7 +13393,7 @@ MP: média das provas; ME: média de trabalhos
           Vagas: "60"
           Inscritos: "66"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "60"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
           Inscritos: "50"
@@ -13421,7 +13451,7 @@ MP: média das provas; ME: média de trabalhos
       aulas:
         - h0:
           horario: " sex  08:00  10:00 "
-          prof: " "
+          prof: "Paulo Ricardo Franco Marcelino "
       vagas:
         - Obrigatoria:
           Vagas: "20"
@@ -13441,7 +13471,7 @@ MP: média das provas; ME: média de trabalhos
       aulas:
         - h0:
           horario: " sex  10:00  12:00 "
-          prof: " "
+          prof: "Paulo Ricardo Franco Marcelino "
       vagas:
         - Obrigatoria:
           Vagas: "20"
@@ -13559,9 +13589,9 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "45"
           Pendentes: "0"
-          Matriculados: "44"
+          Matriculados: "45"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
           Inscritos: "44"
@@ -13785,10 +13815,10 @@ Obs: Fica a critério de cada docente a inserção de trabalhos no decorrer do c
           prof: "Geronimo Virginio Tagliaferro "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "60"
+          Vagas: "46"
+          Inscritos: "46"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "46"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
           Inscritos: "39"
@@ -14109,13 +14139,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       aulas:
         - h0:
           horario: " qui  19:00  23:00 "
-          prof: "Daniela Helena Pelegrine Guimarães "
+          prof: "Geronimo Virginio Tagliaferro "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
+          Vagas: "61"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "50"
           Inscritos: "50"
@@ -14279,13 +14309,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "54"
-          Pendentes: "2"
-          Matriculados: "45"
+          Inscritos: "52"
+          Pendentes: "0"
+          Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "47"
-          Pendentes: "2"
+          Inscritos: "45"
+          Pendentes: "0"
           Matriculados: "45"
 - LOQ4250:
   sigla: "LOQ4250"
@@ -14337,7 +14367,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Vagas: "50"
           Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "33"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "27"
           Inscritos: "27"
@@ -14353,6 +14383,11 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Inscritos: "5"
           Pendentes: "0"
           Matriculados: "5"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D2:
       Codigo_da_Turma: "20231D2"
       Inicio: "13/03/2023"
@@ -14365,14 +14400,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "16"
+          Inscritos: "15"
           Pendentes: "0"
-          Matriculados: "12"
+          Matriculados: "14"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
-          Inscritos: "8"
+          Inscritos: "7"
           Pendentes: "0"
-          Matriculados: "8"
+          Matriculados: "7"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "5"
           Inscritos: "1"
@@ -14383,6 +14418,11 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Inscritos: "3"
           Pendentes: "0"
           Matriculados: "3"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D3:
       Codigo_da_Turma: "20231D3"
       Inicio: "13/03/2023"
@@ -14397,7 +14437,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Vagas: "60"
           Inscritos: "56"
           Pendentes: "0"
-          Matriculados: "46"
+          Matriculados: "49"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "20"
           Inscritos: "19"
@@ -14675,8 +14715,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "1"
+          Inscritos: "36"
+          Pendentes: "0"
           Matriculados: "36"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "25"
@@ -14685,8 +14725,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
           Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "7"
-          Inscritos: "6"
-          Pendentes: "1"
+          Inscritos: "5"
+          Pendentes: "0"
           Matriculados: "5"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "7"
@@ -14705,7 +14745,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "45"
           Pendentes: "0"
           Matriculados: "44"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -14814,10 +14854,10 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
           prof: "Geronimo Virginio Tagliaferro "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "40"
+          Vagas: "42"
+          Inscritos: "42"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "42"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
           Inscritos: "40"
@@ -15103,7 +15143,7 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
-          prof: " "
+          prof: "Paulo Ricardo Franco Marcelino "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -15161,7 +15201,7 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
-          prof: " "
+          prof: "Paulo Ricardo Franco Marcelino "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -15479,9 +15519,9 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "19"
+          Inscritos: "20"
           Pendentes: "0"
-          Matriculados: "16"
+          Matriculados: "17"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
           Inscritos: "16"
@@ -15626,10 +15666,10 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
           prof: "Messias Borges Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "0"
-          Inscritos: "0"
+          Vagas: "1"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
 - LOQ4236:
   sigla: "LOQ4236"
   nome: " Projeto Integrado de Engenharia de Produção I"
@@ -15676,10 +15716,10 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           prof: "Carlos Alberto Moreira dos Santos "
       vagas:
         - Obrigatoria:
-          Vagas: "0"
-          Inscritos: "0"
+          Vagas: "1"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
 - LOQ4251:
   sigla: "LOQ4251"
   nome: " Fundamentos de Química"
@@ -15830,10 +15870,10 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           prof: "(R) Messias Borges Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "42"
+          Vagas: "41"
+          Inscritos: "44"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "41"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "39"
@@ -15881,9 +15921,9 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "47"
+          Matriculados: "48"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "47"
@@ -16058,14 +16098,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "41"
-          Inscritos: "41"
-          Pendentes: "2"
-          Matriculados: "39"
+          Inscritos: "40"
+          Pendentes: "0"
+          Matriculados: "40"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "2"
-          Matriculados: "38"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
 - LOQ4238:
   sigla: "LOQ4238"
   nome: " Projeto Integrado em Engenharia de Produção III"
@@ -16117,14 +16157,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "59"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "60"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "59"
 - LOQ4252:
   sigla: "LOQ4252"
   nome: " Fundamentos de Fenômenos de Transporte"
@@ -16264,7 +16304,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "25"
+          Inscritos: "22"
           Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_de_Producao:
@@ -16394,6 +16434,11 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Inscritos: "42"
           Pendentes: "0"
           Matriculados: "42"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4254:
   sigla: "LOQ4254"
   nome: " Processos Industriais II"
@@ -16704,14 +16749,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "36"
+          Inscritos: "35"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "32"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "33"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "32"
 - LOQ4224:
   sigla: "LOQ4224"
   nome: " Planejamento de Experimentos"
@@ -16826,14 +16871,19 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "49"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "49"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4219:
   sigla: "LOQ4219"
   nome: " Projeto do Produto e Processo"
@@ -16880,14 +16930,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "18"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "17"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "18"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "17"
 - LOQ4228:
   sigla: "LOQ4228"
   nome: " Trabalho de Graduação em Engenharia de Produção I"
@@ -17090,14 +17140,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "22"
-          Pendentes: "1"
-          Matriculados: "21"
+          Inscritos: "20"
+          Pendentes: "0"
+          Matriculados: "20"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "22"
-          Pendentes: "1"
-          Matriculados: "21"
+          Inscritos: "20"
+          Pendentes: "0"
+          Matriculados: "20"
 - LOQ4268:
   sigla: "LOQ4268"
   nome: " Gestão da Tecnologia da Informação"
@@ -17822,7 +17872,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Vagas: "60"
           Inscritos: "52"
           Pendentes: "0"
-          Matriculados: "45"
+          Matriculados: "52"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "33"
           Inscritos: "31"
@@ -18073,13 +18123,13 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "76"
-          Pendentes: "2"
-          Matriculados: "54"
+          Pendentes: "0"
+          Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
           Inscritos: "47"
-          Pendentes: "2"
-          Matriculados: "45"
+          Pendentes: "0"
+          Matriculados: "47"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "10"
           Inscritos: "9"
@@ -18524,32 +18574,6 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
   exame: "Provas em sala, entrega de trabalhos e exercícios ou casos práticos elaborados fora de sala de aula."
   bibliografia: "Frequência mínima de 70% e nota igual ou superior a 3,00 e inferior a 5,00 possibilita prova de recuperação."
   docentes: []
-  oferecimento:
-    - 20231N2:
-      Codigo_da_Turma: "20231N2"
-      Inicio: "13/03/2023"
-      Fim: "15/07/2023"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  19:00  21:00 "
-          prof: "Antonio Carlos da Silva "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "2"
-          Pendentes: "0"
-          Matriculados: "1"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "50"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "10"
-          Inscritos: "1"
-          Pendentes: "0"
-          Matriculados: "1"
 - LOQ4059:
   sigla: "LOQ4059"
   nome: " Polímeros"
@@ -18687,13 +18711,13 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "44"
-          Pendentes: "1"
+          Inscritos: "43"
+          Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "19"
-          Inscritos: "15"
-          Pendentes: "1"
+          Inscritos: "14"
+          Pendentes: "0"
           Matriculados: "14"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "6"
@@ -18856,9 +18880,9 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "83"
+          Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "60"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "50"
           Inscritos: "50"
@@ -18920,7 +18944,7 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "47"
           Pendentes: "0"
           Matriculados: "45"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -18930,9 +18954,9 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
           Matriculados: "17"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "29"
-          Inscritos: "28"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "27"
 - LOQ4047:
   sigla: "LOQ4047"
   nome: " Trabalho de Conclusão de Curso I"
@@ -19041,14 +19065,14 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
+          Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "33"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "31"
-          Inscritos: "25"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "25"
+          Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "12"
           Inscritos: "9"
@@ -19122,18 +19146,18 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       aulas:
         - h0:
           horario: " qua  14:00  18:00 "
-          prof: " "
+          prof: "André Moreni Lopes "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "59"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
-          Inscritos: "50"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "49"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "10"
           Inscritos: "10"
@@ -19186,19 +19210,19 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "100"
-          Inscritos: "81"
-          Pendentes: "9"
-          Matriculados: "61"
+          Inscritos: "75"
+          Pendentes: "0"
+          Matriculados: "75"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "48"
-          Inscritos: "47"
-          Pendentes: "5"
-          Matriculados: "42"
+          Inscritos: "45"
+          Pendentes: "0"
+          Matriculados: "45"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
-          Inscritos: "23"
-          Pendentes: "4"
-          Matriculados: "19"
+          Inscritos: "21"
+          Pendentes: "0"
+          Matriculados: "21"
 - LOQ4051:
   sigla: "LOQ4051"
   nome: " Estágio Supervisionado"
