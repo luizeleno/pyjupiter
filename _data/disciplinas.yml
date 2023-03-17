@@ -39,6 +39,7 @@
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -48,15 +49,21 @@
           prof: "Estaner Claro Romão "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "23"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231B2:
       Codigo_da_Turma: "20231B2"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
@@ -66,15 +73,21 @@
           prof: "Estaner Claro Romão "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
+          Vagas: "40"
           Inscritos: "29"
           Pendentes: "0"
           Matriculados: "29"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D6:
       Codigo_da_Turma: "20231D6"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -84,15 +97,21 @@
           prof: "Roberta Veloso Garcia "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
+          Vagas: "60"
           Inscritos: "40"
           Pendentes: "0"
           Matriculados: "40"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D7:
       Codigo_da_Turma: "20231D7"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
@@ -102,15 +121,21 @@
           prof: "Roberta Veloso Garcia "
       vagas:
         - Obrigatoria:
-          Vagas: "18"
-          Inscritos: "18"
+          Vagas: "60"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "27"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231F3:
       Codigo_da_Turma: "20231F3"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
@@ -120,15 +145,21 @@
           prof: "(R) Diovana Aparecida dos Santos Napoleão "
       vagas:
         - Obrigatoria:
-          Vagas: "22"
-          Inscritos: "22"
+          Vagas: "40"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "24"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231M4:
       Codigo_da_Turma: "20231M4"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
@@ -138,15 +169,21 @@
           prof: "(R) Diovana Aparecida dos Santos Napoleão "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "22"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N8:
       Codigo_da_Turma: "20231N8"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  19:00  21:00 "
@@ -156,15 +193,21 @@
           prof: "Antônio Sérgio Cobianchi "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
+          Vagas: "60"
           Inscritos: "40"
           Pendentes: "0"
           Matriculados: "40"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N9:
       Codigo_da_Turma: "20231N9"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  21:00  23:00 "
@@ -174,15 +217,21 @@
           prof: "Antônio Sérgio Cobianchi "
       vagas:
         - Obrigatoria:
-          Vagas: "7"
-          Inscritos: "7"
+          Vagas: "60"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "17"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
     - 20231P5:
       Codigo_da_Turma: "20231P5"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  21:00  23:00 "
@@ -192,10 +241,15 @@
           prof: "Juan Fernando Zapata Zapata "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
-          Inscritos: "29"
+          Vagas: "60"
+          Inscritos: "33"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "33"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1008:
   sigla: "LOB1008"
   nome: " Ciência, Tecnologia e Sociedade"
@@ -238,16 +292,22 @@
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
           prof: "Ana Karine Furtado de Carvalho "
       vagas:
         - Obrigatoria:
-          Vagas: "22"
-          Inscritos: "22"
+          Vagas: "40"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "24"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -266,14 +326,14 @@
       vagas:
         - Obrigatoria:
           Vagas: "59"
-          Inscritos: "59"
+          Inscritos: "58"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "58"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "38"
+          Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "38"
+          Matriculados: "37"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "6"
           Inscritos: "5"
@@ -353,11 +413,17 @@
           Inscritos: "40"
           Pendentes: "0"
           Matriculados: "40"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D4:
       Codigo_da_Turma: "20231D4"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
@@ -367,15 +433,21 @@
           prof: "(R) Flavia Reis Cardoso Rojas "
       vagas:
         - Obrigatoria:
-          Vagas: "18"
-          Inscritos: "18"
+          Vagas: "40"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "27"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231F1:
       Codigo_da_Turma: "20231F1"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
@@ -385,15 +457,21 @@
           prof: "Sandra Giacomin Schneider "
       vagas:
         - Obrigatoria:
-          Vagas: "22"
-          Inscritos: "22"
+          Vagas: "40"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "23"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231M2:
       Codigo_da_Turma: "20231M2"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -403,10 +481,15 @@
           prof: "Antonio Fernando Sartori "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "22"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1036:
   sigla: "LOB1036"
   nome: " Geometria Analítica"
@@ -448,6 +531,7 @@
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  16:00  18:00 "
@@ -457,15 +541,21 @@
           prof: "Flávio José da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "206"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "23"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231B2:
       Codigo_da_Turma: "20231B2"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -475,15 +565,21 @@
           prof: "Flávio José da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
+          Vagas: "60"
           Inscritos: "29"
           Pendentes: "0"
           Matriculados: "29"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D6:
       Codigo_da_Turma: "20231D6"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
@@ -493,15 +589,21 @@
           prof: "Lucas Barboza Sarno da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
+          Vagas: "60"
           Inscritos: "40"
           Pendentes: "0"
           Matriculados: "40"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D7:
       Codigo_da_Turma: "20231D7"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
@@ -511,15 +613,21 @@
           prof: "Flávio José da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "18"
-          Inscritos: "18"
+          Vagas: "60"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "27"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231F3:
       Codigo_da_Turma: "20231F3"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -529,15 +637,21 @@
           prof: "Érica Leonor Romão "
       vagas:
         - Obrigatoria:
-          Vagas: "22"
-          Inscritos: "22"
+          Vagas: "60"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "23"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231M4:
       Codigo_da_Turma: "20231M4"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
@@ -547,15 +661,21 @@
           prof: "Érica Leonor Romão "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "60"
+          Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "22"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N8:
       Codigo_da_Turma: "20231N8"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  21:00  23:00 "
@@ -565,15 +685,21 @@
           prof: "(R) Gabrielle Weber Martins "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
+          Vagas: "60"
           Inscritos: "40"
           Pendentes: "0"
           Matriculados: "40"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N9:
       Codigo_da_Turma: "20231N9"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  19:00  21:00 "
@@ -583,15 +709,21 @@
           prof: "(R) Gabrielle Weber Martins "
       vagas:
         - Obrigatoria:
-          Vagas: "7"
-          Inscritos: "7"
+          Vagas: "60"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "17"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
     - 20231P5:
       Codigo_da_Turma: "20231P5"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  21:00  23:00 "
@@ -601,10 +733,15 @@
           prof: "Oswaldo Luiz Cobra Guimarães "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
-          Inscritos: "29"
+          Vagas: "60"
+          Inscritos: "33"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "33"
+        - EEL_-_Engenharia_de_Producao:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1038:
   sigla: "LOB1038"
   nome: " Física Experimental I"
@@ -661,46 +798,64 @@
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Prática"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
           prof: "Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
-          Vagas: "18"
-          Inscritos: "18"
+          Vagas: "40"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "27"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231F1:
       Codigo_da_Turma: "20231F1"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Prática"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
           prof: "Lucas Barboza Sarno da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "22"
-          Inscritos: "22"
+          Vagas: "40"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "24"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231M2:
       Codigo_da_Turma: "20231M2"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Prática"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
           prof: "Lucas Barboza Sarno da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "22"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3218:
   sigla: "LOM3218"
   nome: " Introdução à Engenharia Física"
@@ -736,16 +891,22 @@
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
           prof: "(R) Carlos Yujiro Shigue "
       vagas:
         - Obrigatoria:
-          Vagas: "22"
-          Inscritos: "22"
+          Vagas: "40"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "24"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3260:
   sigla: "LOM3260"
   nome: " Computação Científica em Python"
@@ -781,6 +942,7 @@
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  14:00  16:00 "
@@ -790,10 +952,15 @@
           prof: "(R) Luiz Tadeu Fernandes Eleno "
       vagas:
         - Obrigatoria:
-          Vagas: "22"
-          Inscritos: "22"
+          Vagas: "60"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "24"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "60"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4100:
   sigla: "LOQ4100"
   nome: " Fundamentos de Química para Engenharia I-B"
@@ -831,6 +998,7 @@
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
@@ -840,7 +1008,7 @@
           prof: "(R) Livia Melo Carneiro "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
+          Vagas: "40"
           Inscritos: "29"
           Pendentes: "0"
           Matriculados: "29"
@@ -849,6 +1017,7 @@
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
@@ -858,15 +1027,21 @@
           prof: "(R) Patrícia Caroline Molgero Da Rós "
       vagas:
         - Obrigatoria:
-          Vagas: "22"
-          Inscritos: "22"
+          Vagas: "40"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "24"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231M3:
       Codigo_da_Turma: "20231M3"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
@@ -876,10 +1051,15 @@
           prof: "Eliane Corrêa Pedrozo "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "22"
+        - EEL_-_Engenharia_Fisica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1004:
   sigla: "LOB1004"
   nome: " Cálculo II"
@@ -939,9 +1119,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "65"
-          Inscritos: "55"
+          Inscritos: "65"
           Pendentes: "0"
-          Matriculados: "55"
+          Matriculados: "65"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "10"
           Inscritos: "8"
@@ -1090,7 +1270,7 @@
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "20"
+          Inscritos: "19"
           Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_Ambiental:
@@ -1474,6 +1654,28 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
   exame: "Média aritmética das notas de atividades em aula e extra aula."
   bibliografia: "Devido às características práticas da disciplina, não será oferecida recuperação"
   docentes: []
+  oferecimento:
+    - 20231M1:
+      Codigo_da_Turma: "20231M1"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Teórica"
+      Observacoes: ""
+      aulas:
+        - h0:
+          horario: " sex  08:00  12:00 "
+          prof: "(R) Katia Cristiane Gandolpho Candioto "
+      vagas:
+        - Obrigatoria:
+          Vagas: "40"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3240:
   sigla: "LOM3240"
   nome: " Química Inorgânica Fundamental e Aplicada"
@@ -1553,16 +1755,22 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Prática"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " sex  19:00  21:00 "
           prof: "Isabel Cristina Coelho Calegao "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
-          Inscritos: "29"
+          Vagas: "40"
+          Inscritos: "34"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "34"
+        - EEL_-_Engenharia_de_Producao:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1006:
   sigla: "LOB1006"
   nome: " Cálculo IV"
@@ -2103,9 +2311,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "62"
+          Inscritos: "60"
           Pendentes: "1"
-          Matriculados: "50"
+          Matriculados: "59"
         - EEL_-_Engenharia_Fisica:
           Vagas: "28"
           Inscritos: "23"
@@ -2226,16 +2434,22 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
           prof: "(R) Maria Ismenia Sodero Toledo Faria "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
+          Vagas: "40"
           Inscritos: "29"
           Pendentes: "0"
           Matriculados: "29"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231F5:
       Codigo_da_Turma: "20231F5"
       Inicio: "13/03/2023"
@@ -2301,16 +2515,22 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  19:00  21:00 "
           prof: "Cassius Olivio Figueiredo Terra Ruchert "
       vagas:
         - Obrigatoria:
-          Vagas: "7"
-          Inscritos: "7"
+          Vagas: "40"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "17"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "40"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOM3236:
   sigla: "LOM3236"
   nome: " Processos de Fabricação"
@@ -2654,7 +2874,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Matriculados: "10"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "1"
-          Inscritos: "1"
+          Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Bioquimica:
@@ -3114,7 +3334,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       aulas:
         - h0:
           horario: " sex  10:00  12:00 "
-          prof: " "
+          prof: "Carlos Yujiro Shigue "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -3244,9 +3464,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "19"
+          Inscritos: "20"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "19"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
           Inscritos: "18"
@@ -3418,7 +3638,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Vagas: "60"
           Inscritos: "22"
           Pendentes: "1"
-          Matriculados: "19"
+          Matriculados: "20"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
           Inscritos: "20"
@@ -3573,9 +3793,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "70"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "60"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
           Inscritos: "58"
@@ -3592,10 +3812,10 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           prof: "Lucio Garcia Veraldo Junior "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "71"
+          Vagas: "61"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "60"
         - EEL_-_Engenharia_Fisica:
           Vagas: "32"
           Inscritos: "30"
@@ -3603,9 +3823,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Matriculados: "30"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "28"
-          Inscritos: "24"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "24"
+          Matriculados: "23"
 - LOM3049:
   sigla: "LOM3049"
   nome: " Termodinâmica de Máquinas"
@@ -4165,7 +4385,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Vagas: "60"
           Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "41"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "32"
           Inscritos: "32"
@@ -4486,14 +4706,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "65"
-          Inscritos: "54"
+          Inscritos: "53"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "53"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "33"
-          Inscritos: "32"
+          Inscritos: "30"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "30"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "5"
           Inscritos: "4"
@@ -4707,9 +4927,9 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "57"
-          Inscritos: "50"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "48"
+          Matriculados: "47"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "25"
           Inscritos: "24"
@@ -4727,9 +4947,9 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Matriculados: "4"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "5"
-          Inscritos: "5"
+          Inscritos: "4"
           Pendentes: "0"
-          Matriculados: "5"
+          Matriculados: "4"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "3"
           Inscritos: "3"
@@ -5060,6 +5280,29 @@ Motivation : the basic and psychological needs of human beings; motivation and c
   bibliografia: "Devido às características da disciplina, não será oferecida recuperação."
   docentes: []
   oferecimento:
+    - 20231F1:
+      Codigo_da_Turma: "20231F1"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      Observacoes: ""
+      aulas:
+        - h0:
+          horario: " sex  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Atividades_Didaticas:
+    - 20231F2:
+      Codigo_da_Turma: "20231F2"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " sex  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Atividades_Didaticas:
 - LOM3105:
   sigla: "LOM3105"
   nome: " Computação e análise de dados em Engenharia"
@@ -5633,16 +5876,22 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
           prof: "(R) Maria Ismenia Sodero Toledo Faria "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "22"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1046:
   sigla: "LOB1046"
   nome: " Engenharia do Meio Ambiente"
@@ -5687,15 +5936,15 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           prof: "Teresa Cristina Brazil de Paiva "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "62"
           Inscritos: "60"
           Pendentes: "0"
           Matriculados: "60"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "56"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "56"
     - 20231P1:
       Codigo_da_Turma: "20231P1"
       Inicio: "13/03/2023"
@@ -5708,9 +5957,9 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "71"
+          Inscritos: "70"
           Pendentes: "0"
-          Matriculados: "70"
+          Matriculados: "69"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "45"
           Inscritos: "44"
@@ -5718,9 +5967,9 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Matriculados: "44"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "8"
-          Inscritos: "8"
+          Inscritos: "7"
           Pendentes: "0"
-          Matriculados: "8"
+          Matriculados: "7"
 - LOM3099:
   sigla: "LOM3099"
   nome: " Estática"
@@ -6117,7 +6366,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "44"
+          Inscritos: "38"
           Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Ambiental:
@@ -6142,7 +6391,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "32"
+          Inscritos: "30"
           Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -6187,7 +6436,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "44"
           Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -7052,14 +7301,14 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "61"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "57"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "33"
-          Inscritos: "33"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "32"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "14"
           Inscritos: "13"
@@ -7147,9 +7396,9 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "39"
+          Inscritos: "38"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "28"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "8"
           Inscritos: "7"
@@ -7167,9 +7416,9 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Matriculados: "5"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "11"
-          Inscritos: "10"
+          Inscritos: "9"
           Pendentes: "0"
-          Matriculados: "10"
+          Matriculados: "9"
 - LOM3004:
   sigla: "LOM3004"
   nome: " Processamento de Materiais Metálicos II"
@@ -8086,6 +8335,36 @@ calculada como: MF = (NF + PR)/2"
   bibliografia: "Não será oferecida recuperação."
   docentes: []
   oferecimento:
+    - 20231M1:
+      Codigo_da_Turma: "20231M1"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      Observacoes: ""
+      aulas:
+      vagas:
+        - Obrigatoria:
+          Vagas: "40"
+          Inscritos: "8"
+          Pendentes: "0"
+          Matriculados: "8"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+    - 20231M2:
+      Codigo_da_Turma: "20231M2"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3032:
   sigla: "LOM3032"
   nome: " Produtos Cerâmicos"
@@ -8763,16 +9042,22 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
           prof: "(R) Danúbia Caporusso Bargos "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "23"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1205:
   sigla: "LOB1205"
   nome: " Ecologia Básica"
@@ -8808,16 +9093,22 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qui  14:00  16:00 "
           prof: "(R) Marco Aurélio Kondracki de Alcântara "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "23"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -8858,16 +9149,22 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
           prof: "(R) Mariana Consiglio Kasemodel "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "23"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4097:
   sigla: "LOQ4097"
   nome: " Fundamentos de Química para Engenharia I-A"
@@ -8905,6 +9202,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
@@ -8914,10 +9212,15 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           prof: "Morun Bernardino Neto "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "23"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D2:
       Codigo_da_Turma: "20231D2"
       Inicio: "13/03/2023"
@@ -8936,11 +9239,17 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           Inscritos: "40"
           Pendentes: "0"
           Matriculados: "40"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231D3:
       Codigo_da_Turma: "20231D3"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -8950,10 +9259,15 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           prof: "Larissa de Freitas "
       vagas:
         - Obrigatoria:
-          Vagas: "18"
-          Inscritos: "18"
+          Vagas: "40"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "27"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N4:
       Codigo_da_Turma: "20231N4"
       Inicio: "13/03/2023"
@@ -8972,11 +9286,17 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           Inscritos: "40"
           Pendentes: "0"
           Matriculados: "40"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N5:
       Codigo_da_Turma: "20231N5"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  21:00  23:00 "
@@ -8986,10 +9306,15 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           prof: "Patrícia Caroline Molgero Da Rós "
       vagas:
         - Obrigatoria:
-          Vagas: "7"
-          Inscritos: "7"
+          Vagas: "40"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "17"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "20"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOQ4247:
   sigla: "LOQ4247"
   nome: " Desenho Assistido por Computador"
@@ -9026,16 +9351,22 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Prática"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  14:00  16:00 "
           prof: "(R) Eduardo Ferro dos Santos "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "24"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2045:
   sigla: "LOT2045"
   nome: " Biologia"
@@ -9071,16 +9402,22 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qui  16:00  18:00 "
           prof: "(R) Maria das Graças de Almeida Felipe "
       vagas:
         - Obrigatoria:
-          Vagas: "20"
-          Inscritos: "20"
+          Vagas: "40"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "23"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1206:
   sigla: "LOB1206"
   nome: " Solos I"
@@ -9462,7 +9799,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "25"
+          Inscritos: "23"
           Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Bioquimica:
@@ -9487,7 +9824,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "26"
+          Inscritos: "24"
           Pendentes: "0"
           Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -9527,7 +9864,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
+          Inscritos: "35"
           Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -9547,7 +9884,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "11"
+          Inscritos: "10"
           Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -10040,7 +10377,7 @@ Nota Final mínima para aprovação= 5,0"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "51"
+          Inscritos: "48"
           Pendentes: "0"
           Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -10490,9 +10827,9 @@ Nota Final mínima para aprovação= 5,0"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "70"
+          Inscritos: "68"
           Pendentes: "0"
-          Matriculados: "56"
+          Matriculados: "55"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
           Inscritos: "46"
@@ -10505,9 +10842,9 @@ Nota Final mínima para aprovação= 5,0"
           Matriculados: "4"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "1"
-          Inscritos: "1"
+          Inscritos: "0"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "5"
           Inscritos: "5"
@@ -10557,7 +10894,7 @@ Nota Final mínima para aprovação= 5,0"
           Vagas: "60"
           Inscritos: "34"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "34"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "32"
@@ -10818,14 +11155,14 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "23"
+          Inscritos: "18"
           Pendentes: "0"
-          Matriculados: "19"
+          Matriculados: "18"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "17"
-          Inscritos: "15"
+          Inscritos: "14"
           Pendentes: "0"
-          Matriculados: "15"
+          Matriculados: "14"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "3"
           Inscritos: "3"
@@ -10853,14 +11190,14 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "28"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "17"
+          Matriculados: "16"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "7"
-          Inscritos: "7"
+          Inscritos: "6"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "6"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "5"
           Inscritos: "3"
@@ -11811,7 +12148,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "14"
+          Inscritos: "15"
           Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_Ambiental:
@@ -11953,6 +12290,28 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
   bibliografia: "Devido às características da disciplina, não será oferecida recuperação."
   docentes: []
   oferecimento:
+    - 20231A1:
+      Codigo_da_Turma: "20231A1"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " sex  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Atividades_Didaticas:
+    - 20231A2:
+      Codigo_da_Turma: "20231A2"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " sex  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Atividades_Didaticas:
 - 8800009:
   sigla: "8800009"
   nome: " Canto Coral I"
@@ -12618,43 +12977,46 @@ MP: média das provas; ME: média de trabalhos
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
           prof: "(R) Gustavo Aristides Santana Martinez "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
-          Inscritos: "29"
+          Vagas: "60"
+          Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "37"
     - 20231D1:
       Codigo_da_Turma: "20231D1"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
           prof: "(R) Gustavo Aristides Santana Martinez "
       vagas:
         - Obrigatoria:
-          Vagas: "58"
-          Inscritos: "58"
+          Vagas: "60"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "60"
     - 20231N2:
       Codigo_da_Turma: "20231N2"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  21:00  23:00 "
           prof: "(R) Gustavo Aristides Santana Martinez "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
+          Vagas: "60"
           Inscritos: "40"
           Pendentes: "0"
           Matriculados: "40"
@@ -12663,31 +13025,38 @@ MP: média das provas; ME: média de trabalhos
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
-          horario: " seg  19:00  21:00 "
+          horario: " ter  19:00  21:00 "
           prof: "(R) Gustavo Aristides Santana Martinez "
       vagas:
         - Obrigatoria:
-          Vagas: "7"
-          Inscritos: "7"
-          Pendentes: "7"
-          Matriculados: "0"
+          Vagas: "60"
+          Inscritos: "17"
+          Pendentes: "0"
+          Matriculados: "17"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "20"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
     - 20231P4:
       Codigo_da_Turma: "20231P4"
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qui  19:00  21:00 "
           prof: "Katia Cristiane Gandolpho Candioto "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
-          Inscritos: "29"
+          Vagas: "60"
+          Inscritos: "33"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "33"
 - LOT2002:
   sigla: "LOT2002"
   nome: " Biologia Celular"
@@ -12723,6 +13092,7 @@ MP: média das provas; ME: média de trabalhos
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
@@ -12732,10 +13102,15 @@ MP: média das provas; ME: média de trabalhos
           prof: "(R) Maria das Graças de Almeida Felipe "
       vagas:
         - Obrigatoria:
-          Vagas: "30"
+          Vagas: "40"
           Inscritos: "30"
           Pendentes: "0"
           Matriculados: "30"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2043:
   sigla: "LOT2043"
   nome: " Introdução à Engenharia Bioquímica"
@@ -12771,16 +13146,22 @@ MP: média das provas; ME: média de trabalhos
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  14:00  16:00 "
           prof: "(R) Valdeir Arantes "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
+          Vagas: "40"
           Inscritos: "29"
           Pendentes: "0"
           Matriculados: "29"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2040:
   sigla: "LOT2040"
   nome: " Engenharia Genética"
@@ -12932,9 +13313,9 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "14"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "14"
+          Matriculados: "41"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
           Inscritos: "13"
@@ -12989,9 +13370,9 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "45"
+          Inscritos: "43"
           Pendentes: "0"
-          Matriculados: "16"
+          Matriculados: "43"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
           Inscritos: "16"
@@ -13113,14 +13494,14 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "17"
+          Inscritos: "18"
           Pendentes: "0"
-          Matriculados: "17"
+          Matriculados: "18"
 - LOQ4087:
   sigla: "LOQ4087"
   nome: " Termodinâmica Química Aplicada I"
@@ -13395,14 +13776,14 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "66"
-          Inscritos: "66"
+          Inscritos: "65"
           Pendentes: "0"
-          Matriculados: "66"
+          Matriculados: "65"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
-          Inscritos: "50"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "49"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "5"
           Inscritos: "5"
@@ -13734,9 +14115,9 @@ Obs: Fica a critério de cada docente a inserção de trabalhos no decorrer do c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "78"
+          Inscritos: "77"
           Pendentes: "0"
-          Matriculados: "57"
+          Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "11"
           Inscritos: "11"
@@ -13749,9 +14130,9 @@ Obs: Fica a critério de cada docente a inserção de trabalhos no decorrer do c
           Matriculados: "43"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "3"
-          Inscritos: "3"
+          Inscritos: "2"
           Pendentes: "0"
-          Matriculados: "3"
+          Matriculados: "2"
 - LOQ4060:
   sigla: "LOQ4060"
   nome: " Laboratório de Engenharia Química I"
@@ -13800,7 +14181,7 @@ Obs: Fica a critério de cada docente a inserção de trabalhos no decorrer do c
       vagas:
         - Obrigatoria:
           Vagas: "48"
-          Inscritos: "56"
+          Inscritos: "48"
           Pendentes: "0"
           Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -13912,9 +14293,9 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "46"
+          Inscritos: "45"
           Pendentes: "0"
-          Matriculados: "46"
+          Matriculados: "45"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "41"
           Inscritos: "40"
@@ -13922,9 +14303,9 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Matriculados: "40"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "4"
-          Inscritos: "4"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "4"
+          Matriculados: "3"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "3"
           Inscritos: "2"
@@ -14146,7 +14527,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           prof: "Geronimo Virginio Tagliaferro "
       vagas:
         - Obrigatoria:
-          Vagas: "61"
+          Vagas: "62"
           Inscritos: "61"
           Pendentes: "0"
           Matriculados: "61"
@@ -14157,9 +14538,9 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Matriculados: "50"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "5"
-          Inscritos: "5"
+          Inscritos: "4"
           Pendentes: "0"
-          Matriculados: "5"
+          Matriculados: "4"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "5"
           Inscritos: "5"
@@ -14217,14 +14598,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "51"
+          Inscritos: "50"
           Pendentes: "0"
           Matriculados: "50"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "33"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "32"
 - LOQ4086:
   sigla: "LOQ4086"
   nome: " Operações Unitárias II"
@@ -14283,14 +14664,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
+          Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "48"
+          Matriculados: "47"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "38"
-          Inscritos: "38"
+          Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "38"
+          Matriculados: "37"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "8"
           Inscritos: "8"
@@ -14369,14 +14750,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "36"
+          Inscritos: "35"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "32"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "27"
-          Inscritos: "27"
+          Inscritos: "26"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "26"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "5"
           Inscritos: "0"
@@ -14503,14 +14884,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "44"
+          Inscritos: "42"
           Pendentes: "0"
-          Matriculados: "44"
+          Matriculados: "42"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "44"
+          Inscritos: "42"
           Pendentes: "0"
-          Matriculados: "44"
+          Matriculados: "42"
 - LOT2013:
   sigla: "LOT2013"
   nome: " Engenharia Bioquímica I"
@@ -14558,14 +14939,14 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
+          Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "35"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "36"
+          Inscritos: "35"
           Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "35"
 - LOT2017:
   sigla: "LOT2017"
   nome: " Enzimologia"
@@ -14621,14 +15002,14 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "48"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "48"
 - LOT2049:
   sigla: "LOT2049"
   nome: " Genética e Biotecnologia Vegetal"
@@ -14719,14 +15100,14 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "36"
+          Inscritos: "35"
           Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "25"
-          Inscritos: "24"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "24"
+          Matriculados: "23"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "7"
           Inscritos: "5"
@@ -14839,14 +15220,14 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "46"
+          Inscritos: "45"
           Pendentes: "0"
-          Matriculados: "35"
+          Matriculados: "34"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "35"
+          Inscritos: "34"
           Pendentes: "0"
-          Matriculados: "35"
+          Matriculados: "34"
     - 20231N3:
       Codigo_da_Turma: "20231N3"
       Inicio: "13/03/2023"
@@ -15107,14 +15488,14 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
   nomeascii: " Tecnologia de Bebidas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2038&codcur=88152&codhab=0"
   requisitos:
-    - LOT2052:
-      sigla: "LOT2052"
-      nome: " Tecnologia de Bebidas Experimental "
-      tipo: "Indicação de Conjunto"
     - LOT2028:
       sigla: "LOT2028"
       nome: " Tecnologia de Processos Fermentativos "
       tipo: "Requisito fraco"
+    - LOT2052:
+      sigla: "LOT2052"
+      nome: " Tecnologia de Bebidas Experimental "
+      tipo: "Indicação de Conjunto"
   tipo: "Obrigatórias"
   semestre:
     EB: "9"
@@ -15165,14 +15546,14 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
   nomeascii: " Tecnologia de Bebidas Experimental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2052&codcur=88152&codhab=0"
   requisitos:
-    - LOT2038:
-      sigla: "LOT2038"
-      nome: " Tecnologia de Bebidas "
-      tipo: "Indicação de Conjunto"
     - LOT2028:
       sigla: "LOT2028"
       nome: " Tecnologia de Processos Fermentativos "
       tipo: "Requisito fraco"
+    - LOT2038:
+      sigla: "LOT2038"
+      nome: " Tecnologia de Bebidas "
+      tipo: "Indicação de Conjunto"
   tipo: "Obrigatórias"
   semestre:
     EB: "9"
@@ -15321,9 +15702,9 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "39"
+          Inscritos: "34"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "34"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
           Inscritos: "33"
@@ -15443,6 +15824,35 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
   bibliografia: "Não será oferecida recuperação."
   docentes: []
   oferecimento:
+    - 20231B1:
+      Codigo_da_Turma: "20231B1"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+      vagas:
+        - Obrigatoria:
+          Vagas: "40"
+          Inscritos: "5"
+          Pendentes: "0"
+          Matriculados: "5"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "40"
+          Inscritos: "4"
+          Pendentes: "0"
+          Matriculados: "4"
+    - 20231B2:
+      Codigo_da_Turma: "20231B2"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2051:
   sigla: "LOT2051"
   nome: " Tecnologia do Cultivo de Células Animais"
@@ -15664,16 +16074,22 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  19:00  21:00 "
           prof: "Messias Borges Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
-          Inscritos: "29"
+          Vagas: "40"
+          Inscritos: "34"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "34"
+        - EEL_-_Engenharia_de_Producao:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4236:
   sigla: "LOQ4236"
   nome: " Projeto Integrado de Engenharia de Produção I"
@@ -15714,16 +16130,22 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  19:00  21:00 "
           prof: "Carlos Alberto Moreira dos Santos "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
-          Inscritos: "29"
+          Vagas: "40"
+          Inscritos: "34"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "34"
+        - EEL_-_Engenharia_de_Producao:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4251:
   sigla: "LOQ4251"
   nome: " Fundamentos de Química"
@@ -15759,16 +16181,22 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  21:00  23:00 "
           prof: "Morun Bernardino Neto "
       vagas:
         - Obrigatoria:
-          Vagas: "29"
-          Inscritos: "29"
+          Vagas: "40"
+          Inscritos: "33"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "33"
+        - EEL_-_Engenharia_de_Producao:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4203:
   sigla: "LOQ4203"
   nome: " Sistemas Produtivos I"
@@ -15874,10 +16302,10 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           prof: "(R) Messias Borges Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "41"
-          Inscritos: "44"
+          Vagas: "42"
+          Inscritos: "45"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "42"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "39"
@@ -15927,12 +16355,17 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Vagas: "60"
           Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "48"
+          Matriculados: "49"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "47"
           Pendentes: "0"
           Matriculados: "47"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1049:
   sigla: "LOB1049"
   nome: " Estatística Multivariada"
@@ -16102,9 +16535,9 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "41"
-          Inscritos: "40"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "41"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "39"
@@ -16220,14 +16653,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "32"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "33"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "32"
 - LOQ4223:
   sigla: "LOQ4223"
   nome: " Modelagem e Simulação de Sistemas"
@@ -16579,12 +17012,17 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Vagas: "60"
           Inscritos: "47"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "42"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "41"
           Pendentes: "0"
           Matriculados: "41"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4260:
   sigla: "LOQ4260"
   nome: " Controle Estatístico da Qualidade"
@@ -17292,6 +17730,28 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
   bibliografia: "Não será oferecida recuperação."
   docentes: []
   oferecimento:
+    - 20231P1:
+      Codigo_da_Turma: "20231P1"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " sex  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Atividades_Didaticas:
+    - 20231P2:
+      Codigo_da_Turma: "20231P2"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " sex  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Atividades_Didaticas:
 - LOQ4265:
   sigla: "LOQ4265"
   nome: " Trabalho de Graduação em Engenharia de Produção II"
@@ -17685,16 +18145,22 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qui  16:00  18:00 "
           prof: "(R) Luis Fernando Figueiredo Faria "
       vagas:
         - Obrigatoria:
-          Vagas: "18"
-          Inscritos: "18"
+          Vagas: "40"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "27"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "40"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N3:
       Codigo_da_Turma: "20231N3"
       Inicio: "13/03/2023"
@@ -17715,16 +18181,22 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       Inicio: "13/03/2023"
       Fim: "15/07/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  21:00  23:00 "
           prof: "(R) Luis Fernando Figueiredo Faria "
       vagas:
         - Obrigatoria:
-          Vagas: "7"
-          Inscritos: "7"
+          Vagas: "20"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "17"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "20"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOQ4037:
   sigla: "LOQ4037"
   nome: " Química Orgânica I"
@@ -17962,9 +18434,9 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "40"
+          Inscritos: "41"
           Pendentes: "1"
-          Matriculados: "37"
+          Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "31"
           Inscritos: "31"
@@ -18126,7 +18598,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "76"
+          Inscritos: "75"
           Pendentes: "0"
           Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -18344,14 +18816,14 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "27"
+          Inscritos: "26"
           Pendentes: "0"
-          Matriculados: "23"
+          Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
-          Inscritos: "20"
+          Inscritos: "19"
           Pendentes: "0"
-          Matriculados: "20"
+          Matriculados: "19"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "10"
           Inscritos: "3"
@@ -18369,7 +18841,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "25"
+          Inscritos: "24"
           Pendentes: "0"
           Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -18459,7 +18931,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "32"
+          Inscritos: "31"
           Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -18532,14 +19004,14 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "57"
+          Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "50"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "49"
 - LOQ4022:
   sigla: "LOQ4022"
   nome: " Processos Químicos Industriais I"
@@ -19159,14 +19631,14 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "59"
+          Inscritos: "58"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "58"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
-          Inscritos: "49"
+          Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "49"
+          Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "10"
           Inscritos: "10"
@@ -19219,19 +19691,45 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "100"
-          Inscritos: "75"
+          Inscritos: "78"
           Pendentes: "0"
-          Matriculados: "74"
+          Matriculados: "71"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "48"
-          Inscritos: "45"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "45"
+          Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
           Inscritos: "20"
           Pendentes: "0"
           Matriculados: "20"
+    - 20231ND:
+      Codigo_da_Turma: "20231ND"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Teórica"
+      Observacoes: ""
+      aulas:
+        - h0:
+          horario: " qua  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Obrigatoria:
+          Vagas: "10"
+          Inscritos: "5"
+          Pendentes: "0"
+          Matriculados: "4"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "5"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "5"
+          Inscritos: "4"
+          Pendentes: "0"
+          Matriculados: "4"
 - LOQ4051:
   sigla: "LOQ4051"
   nome: " Estágio Supervisionado"
@@ -19359,6 +19857,46 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
   bibliografia: "Não será oferecida recuperação."
   docentes: []
   oferecimento:
+    - 20231Q1:
+      Codigo_da_Turma: "20231Q1"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " Patrícia Caroline Molgero Da Rós                                   Supervisão de Estágio     180"
+          prof: " Simone de Fátima Medeiros Sampaio                             "
+      vagas:
+        - Obrigatoria:
+          Vagas: "120"
+          Inscritos: "37"
+          Pendentes: "0"
+          Matriculados: "37"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "60"
+          Inscritos: "18"
+          Pendentes: "0"
+          Matriculados: "18"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "16"
+          Pendentes: "0"
+          Matriculados: "16"
+    - 20231Q2:
+      Codigo_da_Turma: "20231Q2"
+      Inicio: "13/03/2023"
+      Fim: "15/07/2023"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " Patrícia Caroline Molgero Da Rós                                   Supervisão de Estágio     180"
+          prof: " Simone de Fátima Medeiros Sampaio                             "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4091:
   sigla: "LOQ4091"
   nome: " Projeto Integrador em Engenharia Química I"
@@ -19613,6 +20151,11 @@ Média final mínima de aprovação = 5,0"
           prof: "(R) Domingos Savio Giordani "
       vagas:
         - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
           Pendentes: "0"
