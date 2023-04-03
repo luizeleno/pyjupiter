@@ -122,9 +122,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "52"
+          Inscritos: "53"
           Pendentes: "0"
-          Matriculados: "52"
+          Matriculados: "53"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
           Inscritos: "1"
@@ -198,10 +198,15 @@
           Pendentes: "0"
           Matriculados: "51"
         - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "60"
+          Vagas: "59"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
+        - EEL_-_Engenharia_de_Producao:
+          Vagas: "1"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
     - 20231N9:
       Codigo_da_Turma: "20231N9"
       Inicio: "13/03/2023"
@@ -218,9 +223,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "42"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "42"
+          Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
           Inscritos: "3"
@@ -300,9 +305,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
+          Inscritos: "42"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "42"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "0"
@@ -326,14 +331,14 @@
       vagas:
         - Obrigatoria:
           Vagas: "59"
-          Inscritos: "54"
+          Inscritos: "53"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "53"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "37"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "37"
+          Matriculados: "36"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "6"
           Inscritos: "3"
@@ -458,9 +463,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "41"
+          Inscritos: "42"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "42"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "0"
@@ -482,9 +487,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "27"
+          Inscritos: "28"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "28"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
           Inscritos: "1"
@@ -542,9 +547,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "206"
-          Inscritos: "39"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "40"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "0"
@@ -638,9 +643,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "37"
+          Inscritos: "38"
           Pendentes: "0"
-          Matriculados: "37"
+          Matriculados: "38"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
           Inscritos: "0"
@@ -806,9 +811,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
+          Inscritos: "39"
           Pendentes: "0"
-          Matriculados: "38"
+          Matriculados: "39"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
           Inscritos: "1"
@@ -827,9 +832,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "35"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "35"
+          Matriculados: "36"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "0"
@@ -848,9 +853,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "23"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "23"
+          Matriculados: "24"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
           Inscritos: "1"
@@ -899,9 +904,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "37"
+          Inscritos: "38"
           Pendentes: "0"
-          Matriculados: "37"
+          Matriculados: "38"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "0"
@@ -953,9 +958,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "36"
+          Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "37"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
           Inscritos: "0"
@@ -1028,9 +1033,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "41"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "0"
@@ -1124,9 +1129,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "65"
-          Inscritos: "61"
+          Inscritos: "64"
           Pendentes: "0"
-          Matriculados: "61"
+          Matriculados: "64"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "10"
           Inscritos: "8"
@@ -1178,9 +1183,9 @@
       vagas:
         - Obrigatoria:
           Vagas: "65"
-          Inscritos: "49"
+          Inscritos: "50"
           Pendentes: "0"
-          Matriculados: "49"
+          Matriculados: "50"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "3"
           Inscritos: "2"
@@ -1434,7 +1439,7 @@
           Vagas: "65"
           Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "35"
+          Matriculados: "36"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "14"
           Inscritos: "10"
@@ -1565,7 +1570,7 @@
           Vagas: "40"
           Inscritos: "29"
           Pendentes: "0"
-          Matriculados: "21"
+          Matriculados: "29"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
           Inscritos: "16"
@@ -1585,7 +1590,7 @@
           Vagas: "40"
           Inscritos: "20"
           Pendentes: "0"
-          Matriculados: "17"
+          Matriculados: "20"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "16"
@@ -1678,14 +1683,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "23"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "23"
+          Matriculados: "24"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
-          Inscritos: "1"
+          Inscritos: "2"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "2"
 - LOM3240:
   sigla: "LOM3240"
   nome: " Química Inorgânica Fundamental e Aplicada"
@@ -2741,7 +2746,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "27"
+          Inscritos: "23"
           Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Fisica:
@@ -2948,9 +2953,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "59"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "14"
           Inscritos: "14"
@@ -3578,7 +3583,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Vagas: "40"
           Inscritos: "19"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "19"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "0"
@@ -3687,7 +3692,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "21"
+          Inscritos: "20"
           Pendentes: "1"
           Matriculados: "19"
         - EEL_-_Engenharia_Fisica:
@@ -4272,7 +4277,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "25"
+          Inscritos: "23"
           Pendentes: "1"
           Matriculados: "22"
         - EEL_-_Engenharia_Fisica:
@@ -4326,7 +4331,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "21"
+          Inscritos: "20"
           Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Fisica:
@@ -4383,7 +4388,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
+          Inscritos: "28"
           Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Fisica:
@@ -4434,14 +4439,14 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "42"
+          Inscritos: "43"
           Pendentes: "0"
-          Matriculados: "42"
+          Matriculados: "43"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "32"
-          Inscritos: "31"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "32"
         - EEL_-_Engenharia_Fisica:
           Vagas: "2"
           Inscritos: "2"
@@ -4655,7 +4660,7 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
           Vagas: "60"
           Inscritos: "2"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "2"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
           Inscritos: "0"
@@ -4757,9 +4762,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
       vagas:
         - Obrigatoria:
           Vagas: "65"
-          Inscritos: "52"
+          Inscritos: "53"
           Pendentes: "0"
-          Matriculados: "52"
+          Matriculados: "53"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "33"
           Inscritos: "30"
@@ -4934,7 +4939,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "58"
           Inscritos: "43"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "43"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "21"
           Inscritos: "18"
@@ -4978,9 +4983,9 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "57"
-          Inscritos: "48"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "46"
+          Matriculados: "49"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "25"
           Inscritos: "22"
@@ -5026,7 +5031,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "60"
           Inscritos: "44"
           Pendentes: "0"
-          Matriculados: "43"
+          Matriculados: "44"
         - EEL_-_Engenharia_Fisica:
           Vagas: "21"
           Inscritos: "20"
@@ -5104,7 +5109,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "31"
+          Inscritos: "30"
           Pendentes: "1"
           Matriculados: "29"
         - EEL_-_Engenharia_Fisica:
@@ -5163,7 +5168,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "60"
           Inscritos: "30"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "30"
         - EEL_-_Engenharia_Fisica:
           Vagas: "60"
           Inscritos: "26"
@@ -5586,7 +5591,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "60"
           Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "23"
+          Matriculados: "24"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "23"
@@ -5989,9 +5994,9 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "62"
-          Inscritos: "59"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "60"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
           Inscritos: "55"
@@ -6425,7 +6430,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "60"
           Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "37"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "30"
           Inscritos: "13"
@@ -6450,7 +6455,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "60"
           Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "31"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "35"
           Inscritos: "24"
@@ -6495,7 +6500,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "60"
           Inscritos: "46"
           Pendentes: "0"
-          Matriculados: "37"
+          Matriculados: "46"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "11"
           Inscritos: "8"
@@ -6800,7 +6805,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "60"
           Inscritos: "28"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "28"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "27"
@@ -6906,7 +6911,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "22"
+          Inscritos: "20"
           Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_de_Materiais:
@@ -7368,10 +7373,10 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           prof: "(R) Humberto Felipe da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "61"
           Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "33"
           Inscritos: "32"
@@ -7406,7 +7411,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "65"
           Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "62"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "14"
           Inscritos: "13"
@@ -7422,6 +7427,11 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Inscritos: "23"
           Pendentes: "0"
           Matriculados: "23"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N1:
       Codigo_da_Turma: "20231N1"
       Inicio: "13/03/2023"
@@ -7433,10 +7443,10 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           prof: "(R) Humberto Felipe da Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "62"
           Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "55"
+          Matriculados: "62"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "44"
           Inscritos: "44"
@@ -7452,6 +7462,11 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Inscritos: "5"
           Pendentes: "0"
           Matriculados: "5"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N2:
       Codigo_da_Turma: "20231N2"
       Inicio: "13/03/2023"
@@ -7466,7 +7481,7 @@ Motivation : the basic and psychological needs of human beings; motivation and c
           Vagas: "60"
           Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "8"
           Inscritos: "7"
@@ -7930,7 +7945,7 @@ calculada como: MF = (NF + PR)/2"
           Vagas: "60"
           Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "5"
+          Matriculados: "22"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "0"
@@ -7985,7 +8000,7 @@ calculada como: MF = (NF + PR)/2"
           Vagas: "20"
           Inscritos: "9"
           Pendentes: "0"
-          Matriculados: "8"
+          Matriculados: "9"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "20"
           Inscritos: "8"
@@ -8264,7 +8279,7 @@ calculada como: MF = (NF + PR)/2"
           Vagas: "60"
           Inscritos: "29"
           Pendentes: "0"
-          Matriculados: "11"
+          Matriculados: "29"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
           Inscritos: "8"
@@ -8435,10 +8450,10 @@ calculada como: MF = (NF + PR)/2"
       aulas:
       vagas:
         - Obrigatoria:
-          Vagas: "0"
-          Inscritos: "0"
+          Vagas: "1"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
 - LOM3032:
   sigla: "LOM3032"
   nome: " Produtos Cerâmicos"
@@ -9366,6 +9381,11 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N5:
       Codigo_da_Turma: "20231N5"
       Inicio: "13/03/2023"
@@ -9495,14 +9515,14 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "40"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "0"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
 - LOB1206:
   sigla: "LOB1206"
   nome: " Solos I"
@@ -9784,7 +9804,7 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
           Vagas: "65"
           Inscritos: "64"
           Pendentes: "0"
-          Matriculados: "63"
+          Matriculados: "64"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "31"
           Inscritos: "30"
@@ -10121,14 +10141,14 @@ Nota Final mínima para aprovação= 5,0"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "57"
+          Inscritos: "58"
           Pendentes: "0"
-          Matriculados: "57"
+          Matriculados: "58"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "29"
-          Inscritos: "28"
+          Inscritos: "29"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "29"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "2"
           Inscritos: "2"
@@ -10431,7 +10451,7 @@ Nota Final mínima para aprovação= 5,0"
           Vagas: "60"
           Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "25"
+          Matriculados: "27"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "19"
           Inscritos: "17"
@@ -10916,10 +10936,10 @@ Nota Final mínima para aprovação= 5,0"
           prof: "(R) Daniela Helena Pelegrine Guimarães "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
+          Vagas: "61"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
           Inscritos: "45"
@@ -10982,14 +11002,14 @@ Nota Final mínima para aprovação= 5,0"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
-          Pendentes: "0"
-          Matriculados: "33"
-        - EEL_-_Engenharia_Ambiental:
-          Vagas: "60"
           Inscritos: "32"
           Pendentes: "0"
           Matriculados: "32"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "60"
+          Inscritos: "31"
+          Pendentes: "0"
+          Matriculados: "31"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -11287,7 +11307,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
           Vagas: "40"
           Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "16"
+          Matriculados: "17"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "7"
           Inscritos: "6"
@@ -11587,7 +11607,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
           Vagas: "60"
           Inscritos: "19"
           Pendentes: "0"
-          Matriculados: "14"
+          Matriculados: "18"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "14"
@@ -12053,9 +12073,9 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "45"
+          Inscritos: "46"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "46"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "32"
@@ -12255,7 +12275,7 @@ A Nota de Recuperação (NR) será dada pela média aritmética entre a Média d
           Vagas: "60"
           Inscritos: "15"
           Pendentes: "0"
-          Matriculados: "10"
+          Matriculados: "15"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "10"
@@ -13110,6 +13130,11 @@ MP: média das provas; ME: média de trabalhos
           Inscritos: "60"
           Pendentes: "0"
           Matriculados: "60"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
     - 20231N2:
       Codigo_da_Turma: "20231N2"
       Inicio: "13/03/2023"
@@ -13139,9 +13164,9 @@ MP: média das provas; ME: média de trabalhos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "39"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
           Inscritos: "3"
@@ -13572,7 +13597,7 @@ MP: média das provas; ME: média de trabalhos
           Vagas: "40"
           Inscritos: "14"
           Pendentes: "0"
-          Matriculados: "13"
+          Matriculados: "14"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
           Inscritos: "6"
@@ -13679,7 +13704,7 @@ MP: média das provas; ME: média de trabalhos
           Vagas: "60"
           Inscritos: "56"
           Pendentes: "0"
-          Matriculados: "52"
+          Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "31"
           Inscritos: "30"
@@ -13712,7 +13737,7 @@ MP: média das provas; ME: média de trabalhos
           Vagas: "60"
           Inscritos: "42"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "42"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "5"
           Inscritos: "4"
@@ -13861,7 +13886,7 @@ MP: média das provas; ME: média de trabalhos
           Vagas: "60"
           Inscritos: "58"
           Pendentes: "0"
-          Matriculados: "55"
+          Matriculados: "58"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "15"
           Inscritos: "15"
@@ -13958,7 +13983,7 @@ MP: média das provas; ME: média de trabalhos
           Vagas: "20"
           Inscritos: "19"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "19"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
           Inscritos: "17"
@@ -13978,7 +14003,7 @@ MP: média das provas; ME: média de trabalhos
           Vagas: "20"
           Inscritos: "12"
           Pendentes: "0"
-          Matriculados: "11"
+          Matriculados: "12"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
           Inscritos: "11"
@@ -14152,6 +14177,11 @@ MP: média das provas; ME: média de trabalhos
           Inscritos: "26"
           Pendentes: "0"
           Matriculados: "26"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4003:
   sigla: "LOQ4003"
   nome: " Cinética Química Aplicada"
@@ -14200,10 +14230,10 @@ Obs: Fica a critério de cada docente a inserção de trabalhos no decorrer do c
           prof: "Leandro Gonçalves de Aguiar "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "62"
           Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "52"
+          Matriculados: "62"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "35"
           Inscritos: "32"
@@ -14231,10 +14261,10 @@ Obs: Fica a critério de cada docente a inserção de trabalhos no decorrer do c
           prof: "Leandro Gonçalves de Aguiar "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "70"
           Inscritos: "70"
           Pendentes: "0"
-          Matriculados: "57"
+          Matriculados: "70"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "11"
           Inscritos: "11"
@@ -14341,7 +14371,7 @@ Obs: Fica a critério de cada docente a inserção de trabalhos no decorrer do c
           Vagas: "40"
           Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "21"
+          Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "7"
           Inscritos: "7"
@@ -14446,7 +14476,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Vagas: "60"
           Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "21"
+          Matriculados: "22"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "0"
           Inscritos: "0"
@@ -14618,7 +14648,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Vagas: "60"
           Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "37"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "10"
           Inscritos: "10"
@@ -14716,10 +14746,10 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           prof: "Marivone Nunho Sousa "
       vagas:
         - Obrigatoria:
-          Vagas: "50"
+          Vagas: "51"
           Inscritos: "51"
           Pendentes: "0"
-          Matriculados: "50"
+          Matriculados: "51"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
           Inscritos: "32"
@@ -15129,6 +15159,11 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
           Inscritos: "48"
           Pendentes: "0"
           Matriculados: "48"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2049:
   sigla: "LOT2049"
   nome: " Genética e Biotecnologia Vegetal"
@@ -15318,10 +15353,10 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
           prof: "Luiz Claudio Antunes Bastos "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "55"
+          Vagas: "54"
+          Inscritos: "54"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
           Inscritos: "32"
@@ -15338,10 +15373,10 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
           prof: "Luiz Claudio Antunes Bastos "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
+          Vagas: "43"
           Inscritos: "43"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "43"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "38"
           Inscritos: "32"
@@ -15363,10 +15398,10 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
           prof: "Geronimo Virginio Tagliaferro "
       vagas:
         - Obrigatoria:
-          Vagas: "47"
-          Inscritos: "47"
+          Vagas: "50"
+          Inscritos: "50"
           Pendentes: "0"
-          Matriculados: "47"
+          Matriculados: "50"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
           Inscritos: "40"
@@ -15658,12 +15693,17 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
           Vagas: "40"
           Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "31"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
           Inscritos: "30"
           Pendentes: "0"
           Matriculados: "30"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2052:
   sigla: "LOT2052"
   nome: " Tecnologia de Bebidas Experimental"
@@ -15722,6 +15762,11 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
           Inscritos: "30"
           Pendentes: "0"
           Matriculados: "30"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2055:
   sigla: "LOT2055"
   nome: " Estatística em Bioprocessos"
@@ -16060,7 +16105,7 @@ Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
           Vagas: "60"
           Inscritos: "19"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "19"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
           Inscritos: "16"
@@ -16329,9 +16374,9 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "36"
+          Inscritos: "35"
           Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "35"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "0"
@@ -16442,15 +16487,20 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           prof: "(R) Messias Borges Silva "
       vagas:
         - Obrigatoria:
-          Vagas: "44"
+          Vagas: "46"
           Inscritos: "46"
           Pendentes: "0"
-          Matriculados: "44"
+          Matriculados: "46"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "39"
           Pendentes: "0"
           Matriculados: "39"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4240:
   sigla: "LOQ4240"
   nome: " Administração e Organização II"
@@ -16493,14 +16543,14 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "50"
           Pendentes: "0"
-          Matriculados: "48"
+          Matriculados: "50"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "46"
+          Inscritos: "47"
           Pendentes: "0"
-          Matriculados: "46"
+          Matriculados: "47"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -16623,7 +16673,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Vagas: "60"
           Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "36"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "33"
@@ -16679,10 +16729,10 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           prof: "(R) Fabricio Maciel Gomes "
       vagas:
         - Obrigatoria:
-          Vagas: "42"
-          Inscritos: "42"
+          Vagas: "43"
+          Inscritos: "43"
           Pendentes: "0"
-          Matriculados: "42"
+          Matriculados: "43"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "39"
@@ -16747,6 +16797,11 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Inscritos: "59"
           Pendentes: "0"
           Matriculados: "59"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4252:
   sigla: "LOQ4252"
   nome: " Fundamentos de Fenômenos de Transporte"
@@ -17069,7 +17124,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Vagas: "60"
           Inscritos: "35"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "35"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "33"
@@ -17155,9 +17210,9 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "46"
+          Matriculados: "49"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "41"
@@ -17341,9 +17396,9 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
+          Inscritos: "35"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "35"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "32"
@@ -17579,7 +17634,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Vagas: "60"
           Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "47"
+          Matriculados: "48"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "47"
@@ -18407,9 +18462,9 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "54"
+          Inscritos: "55"
           Pendentes: "1"
-          Matriculados: "47"
+          Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "34"
           Inscritos: "31"
@@ -18417,9 +18472,9 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Matriculados: "31"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "19"
-          Inscritos: "15"
+          Inscritos: "16"
           Pendentes: "1"
-          Matriculados: "14"
+          Matriculados: "15"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "2"
           Inscritos: "0"
@@ -18437,9 +18492,9 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
+          Inscritos: "50"
           Pendentes: "1"
-          Matriculados: "46"
+          Matriculados: "49"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "46"
           Inscritos: "34"
@@ -18592,7 +18647,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Vagas: "60"
           Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "38"
+          Matriculados: "40"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "31"
           Inscritos: "30"
@@ -18620,7 +18675,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Vagas: "60"
           Inscritos: "49"
           Pendentes: "0"
-          Matriculados: "48"
+          Matriculados: "49"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "36"
           Inscritos: "34"
@@ -18684,7 +18739,7 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           Vagas: "60"
           Inscritos: "38"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "17"
           Inscritos: "16"
@@ -18753,10 +18808,10 @@ O detalhamento dos pesos para ponderação da média da disciplina será definid
           prof: "(R) Luiz Carlos de Queiroz "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "68"
           Inscritos: "68"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "68"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
           Inscritos: "46"
@@ -18851,7 +18906,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
           Vagas: "60"
           Inscritos: "56"
           Pendentes: "0"
-          Matriculados: "47"
+          Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "30"
           Inscritos: "30"
@@ -18975,7 +19030,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
           Vagas: "60"
           Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "21"
+          Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
           Inscritos: "19"
@@ -19060,7 +19115,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
           Vagas: "60"
           Inscritos: "44"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "44"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "25"
           Inscritos: "23"
@@ -19088,9 +19143,9 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "29"
+          Inscritos: "30"
           Pendentes: "0"
-          Matriculados: "29"
+          Matriculados: "30"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "29"
           Inscritos: "24"
@@ -19254,10 +19309,10 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
           prof: "(R) Amilton Martins dos Santos "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "61"
           Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "55"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "33"
           Inscritos: "32"
@@ -19319,9 +19374,9 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "30"
+          Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "31"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "26"
           Inscritos: "20"
@@ -19639,10 +19694,10 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
           prof: "(R) Domingos Savio Giordani "
       vagas:
         - Obrigatoria:
-          Vagas: "145"
+          Vagas: "147"
           Inscritos: "147"
           Pendentes: "0"
-          Matriculados: "140"
+          Matriculados: "147"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "68"
           Inscritos: "66"
@@ -19851,7 +19906,7 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
           Vagas: "100"
           Inscritos: "84"
           Pendentes: "0"
-          Matriculados: "76"
+          Matriculados: "84"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "48"
           Inscritos: "41"
@@ -19877,7 +19932,7 @@ O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da
           Vagas: "10"
           Inscritos: "5"
           Pendentes: "0"
-          Matriculados: "4"
+          Matriculados: "5"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "5"
           Inscritos: "0"
