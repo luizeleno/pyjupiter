@@ -38,12 +38,15 @@ def scrape_disciplina(URL):
 
         try:  # dados da disciplina em portugues
             if span_tag['class'][0] == 'txt_arial_8pt_gray':
-                dado = span_tag.string.strip()
+                if span_tag('pre'):  # por causa de alguma cagada que fizeram nos Objetivos da disciplina no Jupiter
+                    dado = span_tag('pre')[0].string.strip()
+                else:
+                    dado = span_tag.string.strip()
                 if dado is not None:
                     dados_br.append(dado)
                     ndados_br += 1
-                    # print(dado)
-                    # print('-'*30)
+                    #print(dado)
+                    #print('-'*30)
         except:
             pass
 
@@ -61,8 +64,8 @@ def scrape_disciplina(URL):
         try:  # nome da disciplina em portugues
             if span_tag['class'][0] == 'txt_arial_10pt_black':
                 dado = span_tag('b')[0].string.strip()
-                # if dado is not None:
-                    # print(dado)
+                #if dado is not None:
+                    #print(dado)
         except:
             pass
 
@@ -154,13 +157,16 @@ def raspa_oferecimento(codigo):
       # adicionando turma ao dict oferecimento
       oferecimento[turma['Código da Turma']] = turma
 
-    # print(oferecimento)
+    #print(oferecimento)
+    
     return oferecimento
 
 if __name__ == '__main__':
-    #disciplina = 'https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3231&codcur=88202&codhab=0'
+    disciplina = 'https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3226&codcur=88202&codhab=0'
     #dic = {}
-    #dic = scrape_disciplina(disciplina)
+    dic = scrape_disciplina(disciplina)
+    #print('#'*30)
     #[ print(f'{k}: {v}\n' + '-' * 30) for k, v in dic.items() ]
     disc = 'LOM3226'
-    raspa_oferecimento(disc)
+    #of = raspa_oferecimento(disc)
+    #print(of)
