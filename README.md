@@ -29,13 +29,14 @@ Obs.: é necessário ter conexão com a internet
 
 - rodar `python3 raspa-EEL.py` para gerar os arquivos json (um por curso)
 - rodar `python3 consolidate-disciplinas-database.py` para gerar os arquivos `disciplinas.json`, `disciplinas.yml` e `cursos.yml`
+- rodar `cp *.yml ../_data` para copiar os arquivos gerados para a pasta `_data` na árvore `jekyll` do *website*
 
 ### Geração dos arquivos docx, pdf e xlsx
 
 Obs.: os arquivos aparecerão em `../assets/disciplinas/`
 
 - rodar `python3 gera-doc-pdf-unificado.py`
-- rodar `python3 gera-xlsx-unificado.py`
+- ~~rodar `python3 gera-xlsx-unificado.py`~~ (removido, pois os docentes preferem editar diretamente o arquivo `docx`)
 
 ### Gerar lista de docentes responsáveis
 

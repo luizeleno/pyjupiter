@@ -27,7 +27,7 @@ echo
 # - rodar `python3 gera-xlsx-unificado.py`
 
 python3 gera-doc-pdf-unificado.py
-python3 gera-xlsx-unificado.py
+# python3 gera-xlsx-unificado.py
 
 echo
 
