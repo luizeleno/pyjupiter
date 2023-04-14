@@ -28,12 +28,13 @@ O projeto [PyJupiter](https://github.com/luizeleno/pyjupiter){: target='_blank'}
     - Acessar a página da disciplina no Júpiter
     - Salvar como `pdf`
     - Salvar como `docx`
-    - Salvar um arquivo `xlsx` (planilha eletrônica).
-- Você pode também usar o campo de busca para pesquisar por disciplinas específicas, independentemente do curso.
+    <!-- - Salvar um arquivo `xlsx` (planilha eletrônica). -->
+- Você pode também usar o campo de busca, na parte superior da tela, para pesquisar por disciplinas específicas, independentemente do curso.
   
-:bulb: O arquivo `xlsx` é especial: ele foi criado pensando na reformulação de ementas. O arquivo tem basicamente duas colunas. Na primeira estão os dados atuais. Na segunda, os dados estão repetidos em vermelho. Os dados desta coluna podem ser editados para reformular a ementa e então enviados ao coordenador do curso.
+<!-- :bulb: O arquivo `xlsx` é especial: ele foi criado pensando na reformulação de ementas. O arquivo tem basicamente duas colunas. Na primeira estão os dados atuais. Na segunda, os dados estão repetidos em vermelho. Os dados desta coluna podem ser editados para reformular a ementa e então enviados ao coordenador do curso. -->
+:bulb: O projeto é especialmente útil para os docentes que estão  pensando na reformulação de ementas. O arquivo `docx` pode ser editado diretamente e enviado para a coordenação do curso.
 </div>
 
-Por enquanto, extraímos apenas dados das disciplinas da EEL, ainda sem informações de turmas, horários, número de vagas e professores ministrantes. Mas já conseguimos gerar as ementas de todas as nossas disciplinas em arquivos `pdf`, `docx` e `xlsx`, o que pode auxiliar também na reformulação dessas ementas visando as novas DCNs.
+Por enquanto, extraímos apenas dados das disciplinas da EEL, ainda sem informações de turmas, horários, número de vagas e professores ministrantes. Mas já conseguimos gerar as ementas de todas as nossas disciplinas em arquivos `pdf` e `docx`, o que pode auxiliar também na reformulação dessas ementas visando as novas DCNs.
 
 Para o futuro, o plano é estender a raspagem para mais detalhes dos cursos e disciplinas, além de, ainda mais adiante, montar uma plataforma para a criação de grades horárias pela Comissão de Graduação da EEL. É um plano de longo prazo, com trabalho "da meia-noite às seis" a ser feito pela [equipe]({{site.baseurl}}/equipe/) de voluntários e alunos de conclusão de curso que se interessarem pelo projeto.

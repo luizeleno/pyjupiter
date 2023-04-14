@@ -29,7 +29,7 @@ Mas o trabalho em planilhas eletrônicas --- digamos de maneira clara e sem rode
 </blockquote>
 </div>
 
-O **Projeto PyJupiter** foi criado pensando em facilitar a vida dos docentes e coordenadores de cursos (e também dos alunos, que passam a ter uma plataforma mais amigável de consulta de dados das disciplinas de seus e de outros cursos) da EEL/USP. As disciplinas de todos os cursos estão aqui e seus dados podem ser exportados em formato `pdf`, `docx` e `xlsx`. Com o tempo, acrescentaremos mais funcionalidades ao projeto de modo a torná-lo cada vez mais útil a docentes e alunos da EEL.
+O **Projeto PyJupiter** foi criado pensando em facilitar a vida dos docentes e coordenadores de cursos (e também dos alunos, que passam a ter uma plataforma mais amigável de consulta de dados das disciplinas de seus e de outros cursos) da EEL/USP. As disciplinas de todos os cursos estão aqui e seus dados podem ser exportados em formato `pdf` e `docx`. Com o tempo, acrescentaremos mais funcionalidades ao projeto de modo a torná-lo cada vez mais útil a docentes e alunos da EEL.
 
 :heavy_exclamation_mark: O conteúdo aqui encontrado é independente da Universidade de São Paulo e de responsabilidade exclusiva dos desenvolvedores do **Projeto PyJupiter**. Todos os dados empregados são de acesso público e encontrados no [Portal de Serviços da USP](https://portalservicos.usp.br/){: target='_blank'}.
 {: .alert .alert-warning}
