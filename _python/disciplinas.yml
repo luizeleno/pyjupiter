@@ -445,7 +445,7 @@ Estudos, artigos, notícias e pesquisas via internet."
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
-        - EEL_-_Engenharia_Fisica:
+        - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
           Inscritos: "0"
           Pendentes: "0"
@@ -750,6 +750,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -759,17 +760,17 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "30"
+          Vagas: "25"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "30"
+          Vagas: "25"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -919,6 +920,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
@@ -928,17 +930,17 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "30"
+          Vagas: "25"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "30"
+          Vagas: "25"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -1061,6 +1063,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
@@ -1070,17 +1073,17 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "30"
+          Vagas: "25"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "30"
+          Vagas: "25"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -1375,6 +1378,7 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  14:00  16:00 "
@@ -1384,12 +1388,12 @@ BUCHNER, W.; SCHLIEBS, R.; WINTER, G.; BUCHEL, K. H. Industrial Inorganic Chemis
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -2421,34 +2425,6 @@ RYAN, Thomas. Estatística moderna para engenharia. São Paulo: Ed. Campus, 2009
 RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade para engenheiros. São Paulo: Ed. LTC, 2009."
   docentes: ['4894221 - Mariana Pereira de Melo']
   oferecimento:
-    - 20232FM:
-      Codigo_da_Turma: "20232FM"
-      Inicio: "07/08/2023"
-      Fim: "21/12/2023"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  16:00  18:00 "
-          prof: " "
-        - h1:
-          horario: " qui  16:00  18:00 "
-          prof: " "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Fisica:
-          Vagas: "30"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_de_Materiais:
-          Vagas: "30"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
     - 20232N1:
       Codigo_da_Turma: "20232N1"
       Inicio: "07/08/2023"
@@ -2516,6 +2492,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -2525,12 +2502,12 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -2687,18 +2664,19 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -2790,6 +2768,7 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
@@ -2799,12 +2778,12 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -2849,18 +2828,19 @@ SISSOM, L. E., PITTS, D. R. Fenômenos de Transporte. Ed. Guanabara, 1988."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -2907,6 +2887,7 @@ SISSOM, L. E., PITTS, D. R. Fenômenos de Transporte. Ed. Guanabara, 1988."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  14:00  16:00 "
@@ -2916,12 +2897,12 @@ SISSOM, L. E., PITTS, D. R. Fenômenos de Transporte. Ed. Guanabara, 1988."
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -3002,18 +2983,19 @@ SISSOM, L. E., PITTS, D. R. Fenômenos de Transporte. Ed. Guanabara, 1988."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " sex  08:00  12:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "40"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "40"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -3464,18 +3446,19 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  08:00  12:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -3518,6 +3501,7 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
@@ -3527,12 +3511,12 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -3596,12 +3580,12 @@ HAINES, P. J. Principles of Thermal Analysis and Calorimetry, Royal Society of C
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "40"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "40"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -3709,6 +3693,7 @@ BATEMAN, A.; PATERSON-STEPHENS, I. The DSP Handbook: Algorithms, Applications an
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -3718,12 +3703,12 @@ BATEMAN, A.; PATERSON-STEPHENS, I. The DSP Handbook: Algorithms, Applications an
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -3773,18 +3758,19 @@ ANDRADE, M. M. Introdução à Metodologia do Trabalho Científico São Paulo: A
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  14:00  18:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -3844,18 +3830,19 @@ SCHRAMM, G. Reologia e Reometria. Editora Artliber, 2006."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  18:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -4131,18 +4118,19 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " sex  08:00  12:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -4185,18 +4173,19 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -4239,18 +4228,19 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " sex  14:00  18:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -4364,18 +4354,19 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -4524,18 +4515,19 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -4938,6 +4930,7 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
@@ -4947,12 +4940,12 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -5258,6 +5251,7 @@ Cambridge."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
@@ -5267,12 +5261,12 @@ Cambridge."
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -5453,18 +5447,19 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -5527,18 +5522,19 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -5581,18 +5577,19 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -5709,6 +5706,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
@@ -5718,12 +5716,12 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6048,18 +6046,19 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Prática"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  08:00  12:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6165,6 +6164,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
@@ -6174,12 +6174,12 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6222,18 +6222,19 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qui  10:00  12:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6497,18 +6498,19 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6555,6 +6557,7 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
@@ -6564,12 +6567,12 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6619,18 +6622,19 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qui  08:00  10:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6673,6 +6677,7 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
@@ -6682,12 +6687,12 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6743,18 +6748,19 @@ SZEKELY, J. Fluid Flow Phenomena in Metals Processing. Academic Press, 1979."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6851,18 +6857,19 @@ SZEKELY, J. Fluid Flow Phenomena in Metals Processing. Academic Press, 1979."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  16:00  18:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6905,18 +6912,19 @@ SZEKELY, J. Fluid Flow Phenomena in Metals Processing. Academic Press, 1979."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  14:00  16:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -6979,18 +6987,19 @@ SZEKELY, J. Fluid Flow Phenomena in Metals Processing. Academic Press, 1979."
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qui  14:00  16:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -7284,10 +7293,10 @@ edição, 1993.
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " seg  18:00  19:00 "
+          horario: " ter  18:00  19:00 "
           prof: " "
         - h1:
-          horario: " qua  18:00  19:00 "
+          horario: " qui  18:00  19:00 "
           prof: " "
       vagas:
         - Obrigatoria:
@@ -7563,18 +7572,19 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  16:00  18:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "60"
+          Vagas: "50"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -7793,7 +7803,10 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " seg  10:00  11:00 "
+          horario: " seg  18:00  19:00 "
+          prof: " "
+        - h1:
+          horario: " qua  18:00  19:00 "
           prof: " "
       vagas:
         - Obrigatoria:
@@ -8320,8 +8333,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " qua  14:00  17:00 "
-          prof: " "
+          horario: " sex  08:00  11:00 "
+          prof: "(R) Flávio Teixeira da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -8948,10 +8961,10 @@ MF = Nota baseada em relatório final e no desempenho no estágio, a ser atribu�
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "(R) Maria das Graças de Almeida Felipe "
         - h1:
           horario: " qui  16:00  17:00 "
-          prof: " "
+          prof: "(R) Maria das Graças de Almeida Felipe "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -11068,7 +11081,7 @@ www.aneel.gov.br"
       aulas:
         - h0:
           horario: " qua  14:00  17:00 "
-          prof: " "
+          prof: "(R) Teresa Cristina Brazil de Paiva "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -11088,7 +11101,7 @@ www.aneel.gov.br"
       aulas:
         - h0:
           horario: " ter  08:00  11:00 "
-          prof: " "
+          prof: "(R) Teresa Cristina Brazil de Paiva "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -12428,10 +12441,10 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "(R) Elisson Antônio da Costa Romanel "
         - h1:
           horario: " qui  14:00  15:00 "
-          prof: " "
+          prof: "(R) Elisson Antônio da Costa Romanel "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -12485,10 +12498,10 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
-          prof: " "
+          prof: "(R) Tatiane da Franca Silva "
         - h1:
           horario: " sex  08:00  10:00 "
-          prof: " "
+          prof: "(R) Tatiane da Franca Silva "
       vagas:
         - Obrigatoria:
           Vagas: "20"
@@ -12508,10 +12521,10 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       aulas:
         - h0:
           horario: " qua  10:00  12:00 "
-          prof: " "
+          prof: "(R) Tatiane da Franca Silva "
         - h1:
           horario: " sex  10:00  12:00 "
-          prof: " "
+          prof: "(R) Tatiane da Franca Silva "
       vagas:
         - Obrigatoria:
           Vagas: "20"
@@ -12565,10 +12578,10 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       aulas:
         - h0:
           horario: " seg  08:00  10:00 "
-          prof: " "
+          prof: "(R) Fernando Segato "
         - h1:
           horario: " qui  15:00  16:00 "
-          prof: " "
+          prof: "(R) Fernando Segato "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -12934,7 +12947,7 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
       aulas:
         - h0:
           horario: " seg  16:00  18:00 "
-          prof: " "
+          prof: "(R) Adriane Maria Ferreira Milagres "
       vagas:
         - Obrigatoria:
           Vagas: "20"
@@ -12954,7 +12967,7 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
       aulas:
         - h0:
           horario: " seg  14:00  16:00 "
-          prof: " "
+          prof: "(R) Adriane Maria Ferreira Milagres "
       vagas:
         - Obrigatoria:
           Vagas: "20"
@@ -13012,8 +13025,8 @@ VAN WILEN, J. Sonntag, Richard. E. Fundamentos da Termodinâmica Clássica. 6 ed
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " sex  08:00  11:00 "
-          prof: " "
+          horario: " qua  14:00  17:00 "
+          prof: "(R) Adriane Maria Ferreira Milagres "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -13550,10 +13563,10 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       aulas:
         - h0:
           horario: " ter  10:00  12:00 "
-          prof: " "
+          prof: "(R) Ismael Maciel de Mancilha "
         - h1:
           horario: " qui  11:00  12:00 "
-          prof: " "
+          prof: "(R) Ismael Maciel de Mancilha "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -13607,7 +13620,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       aulas:
         - h0:
           horario: " ter  16:00  18:00 "
-          prof: " "
+          prof: "(R) Tatiane da Franca Silva "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -13661,7 +13674,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       aulas:
         - h0:
           horario: " qui  16:00  18:00 "
-          prof: " "
+          prof: "(R) Valdeir Arantes "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -14218,7 +14231,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       aulas:
         - h0:
           horario: " sex  19:00  22:00 "
-          prof: " "
+          prof: "(R) Elisson Antônio da Costa Romanel "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -14430,7 +14443,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       aulas:
         - h0:
           horario: " seg  14:00  17:00 "
-          prof: " "
+          prof: "(R) Arnaldo Márcio Ramalho Prata "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -14488,7 +14501,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       aulas:
         - h0:
           horario: " seg  19:00  22:00 "
-          prof: " "
+          prof: "(R) Júlio César dos Santos "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -14552,7 +14565,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       aulas:
         - h0:
           horario: " qua  14:00  17:00 "
-          prof: " "
+          prof: "Júlio César dos Santos "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -14610,7 +14623,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       aulas:
         - h0:
           horario: " qui  19:00  22:00 "
-          prof: " "
+          prof: "(R) Inês Conceição Roberto "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -14691,7 +14704,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       aulas:
         - h0:
           horario: " qua  19:00  22:00 "
-          prof: " "
+          prof: "(R) Rita de Cássia Lacerda Brambilla Rodrigues "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -14762,7 +14775,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       aulas:
         - h0:
           horario: " ter  14:00  18:00 "
-          prof: " "
+          prof: "(R) Rita de Cássia Lacerda Brambilla Rodrigues "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -14782,7 +14795,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       aulas:
         - h0:
           horario: " qui  14:00  18:00 "
-          prof: " "
+          prof: "(R) Rita de Cássia Lacerda Brambilla Rodrigues "
       vagas:
         - Obrigatoria:
           Vagas: "40"
@@ -14950,7 +14963,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       aulas:
         - h0:
           horario: " qui  18:00  19:00 "
-          prof: " "
+          prof: "Valdeir Arantes "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -15118,7 +15131,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       aulas:
         - h0:
           horario: " qua  19:00  21:00 "
-          prof: " "
+          prof: "(R) Arnaldo Márcio Ramalho Prata "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -15172,7 +15185,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       aulas:
         - h0:
           horario: " seg  10:00  11:00 "
-          prof: " "
+          prof: "(R) Tatiane da Franca Silva "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -15631,18 +15644,19 @@ TZU, S. A Arte da Guerra (Edição Completa). São Paulo. WMF Martins Fontes, 20
       Inicio: "07/08/2023"
       Fim: "21/12/2023"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  19:00  23:00 "
           prof: " "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
+          Vagas: "40"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
-          Vagas: "60"
+          Vagas: "40"
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
@@ -17861,10 +17875,10 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       aulas:
         - h0:
           horario: " ter  14:00  16:00 "
-          prof: " "
+          prof: "Anuj Kumar "
         - h1:
           horario: " qui  14:00  16:00 "
-          prof: " "
+          prof: "Anuj Kumar "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -18277,26 +18291,6 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
 6) PERRY, Robert H.; GREEN, Don W. Perry's Chemical Engineers' Handbook. 8th.ed. New York: McGraw-Hill, 2008."
   docentes: ['5816812 - João Paulo Alves Silva']
   oferecimento:
-    - 20232D1:
-      Codigo_da_Turma: "20232D1"
-      Inicio: "07/08/2023"
-      Fim: "21/12/2023"
-      Tipo_da_Turma: "Prática"
-      aulas:
-        - h0:
-          horario: " seg  19:00  23:00 "
-          prof: " "
-      vagas:
-        - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "40"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
     - 20232D2:
       Codigo_da_Turma: "20232D2"
       Inicio: "07/08/2023"
@@ -18534,7 +18528,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       aulas:
         - h0:
           horario: " qua  14:00  18:00 "
-          prof: " "
+          prof: "(R) Inês Conceição Roberto "
       vagas:
         - Obrigatoria:
           Vagas: "60"
@@ -18615,52 +18609,6 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   semestre:
     EQD: "9"
     EQN: "11"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Chemical Engineering Final Project I"
-  objectives: "Lead students to develop a course completion project on a specific topic related to chemical engineering."
-  abstract: "1) Scientific Methodology. 2) Monography Project. 3) Research Methods. 4) Guidelines of a research project. 5) Research in Bibliographic Databases. 6) Organization of Bibliographic References."
-  program: "1 - Scientific Methodology: design and definition. 2 - Scientific Monography: What is a research project. The steps of a research project. 3 - Research Methods used in Chemical Engineering. 4 Key points of a Course Conclusion Paper project. 5 - Key points of a Course Conclusion Paper monography. 6 - Standards for preparation of the text and the references. 7 - Search engines in Databases such as Web of Science, Scopus, Science Direct, etc. 8 - The use of the Mendeley application as a way of organizing and formatting the bibliographic references in the monograph."
-  ndoc: "1"
-  CA: "1"
-  CT: "2"
-  CH: "75 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "Conduzir os alunos no desenvolvimento de um projeto de conclusão de curso sobre tema específico relacionado à engenharia química."
-  resumo: "1) Metodologia Cientifica. 2) Projeto de Monografia. 3) Métodos de Pesquisa. 4) Normas de um Projeto de Pesquisa. 5) Pesquisa em Bases de Dados Bibliográficos. 6) Organização de Referências Bibliográficas."
-  programa: "1 – Metodologia Cientifica: Concepção e definição. 2 – Monografia Cientifica: O que é um projeto de pesquisa. As etapas de um projeto de pesquisa. 3 – Métodos de Pesquisa utilizados na Engenharia Química. 4- Pontos essenciais de um projeto de TCC. 5 – Pontos essenciais de uma monografia de TCC. 6 – Normas para elaboração de do texto e das Referências Bibliográficas. 7 – Mecanismos de busca em Bases de Dados tais como Web of Science, Scopus, Science Direct, etc. 8 – O uso do aplicativo Mendeley como forma de organizar e formatar as referências bibliográficas na monografia."
-  metodo: "Preparo e apresentação do Projeto de Trabalho de Conclusão de Curso (TCC 1) a ser desenvolvido na disciplina de Trabalho de Conclusão de Curso II, conforme norma do Departamento de Engenharia Química."
-  criterio: "O aluno deve entregar, através do sistema online disponibilizado, um arquivo em formato pdf contendo o seu projeto de TCC impreterivelmente até a data estabelecida pelo professor na primeira semana de aula. O aluno que não cumprir este prazo fica reprovado na disciplina, por obter nota zero na primeira avaliação. O trabalho é submetido a dois avaliadores, a nota da primeira avaliação será a média das duas avaliações, sendo igual ou superior a 5, o aluno está aprovado, sendo inferior a 5 e igual ou superior a 3, o aluno está de recuperação."
-  exame: "O aluno deverá reapresentar o seu projeto até a data estabelecida pelo professor. O projeto será reavaliado e obtendo nota igual ou superior a 5, está aprovado."
-  bibliografia: "NASCIMENTO, L. P. Elaboração de Projetos de Pesquisa, Cengage Learning, 2012.SANTOS, C. R. Trabalho de Conclusão de Curso – Guia de elaboração passo a passo, Cengage Learning, 2010.BOOTH, W.; COLOMB, G.; WILLIAMS, J. A arte da Pesquisa. 3 ed. Martins Fontes. São Paulo. 2005. GIL, A.C. Como elaborar projetos de pesquisa. 5ed. Atlas, São Paulo, 2010."
-  docentes: ['198273 - Domingos Savio Giordani']
-  oferecimento:
-    - 20232DN:
-      Codigo_da_Turma: "20232DN"
-      Inicio: "07/08/2023"
-      Fim: "21/12/2023"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  18:00  19:00 "
-          prof: " "
-      vagas:
-        - Obrigatoria:
-          Vagas: "140"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "70"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "70"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
 - LOQ4049:
   sigla: "LOQ4049"
   nome: " Projeto na Industria Química"
@@ -18773,7 +18721,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       aulas:
         - h0:
           horario: " qui  19:00  23:00 "
-          prof: " "
+          prof: "André Moreni Lopes "
       vagas:
         - Obrigatoria:
           Vagas: "60"
