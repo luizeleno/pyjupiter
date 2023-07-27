@@ -995,22 +995,6 @@
     } ,
   
     {
-      "title"     : "LOM3032",
-      "url"       : "/pyjupiter/disciplinas/lom3032.html",
-      "nome"      : " Produtos Cerâmicos",
-      "nomeascii" : " Produtos Ceramicos",
-      "docentes"     : "1922320 - Sebastiao Ribeiro"
-    } ,
-  
-    {
-      "title"     : "LOM3033",
-      "url"       : "/pyjupiter/disciplinas/lom3033.html",
-      "nome"      : " Produtos Metálicos",
-      "nomeascii" : " Produtos Metalicos",
-      "docentes"     : "984972 - Hugo Ricardo Zschommler Sandim"
-    } ,
-  
-    {
       "title"     : "LOM3050",
       "url"       : "/pyjupiter/disciplinas/lom3050.html",
       "nome"      : " Tópicos Especiais em Engenharia de Materiais I",
@@ -1024,14 +1008,6 @@
       "nome"      : " Tecnologia de Plásticos",
       "nomeascii" : " Tecnologia de Plasticos",
       "docentes"     : "5840897 - Clodoaldo Saron1033242 - Fábio Herbst Florenzano"
-    } ,
-  
-    {
-      "title"     : "LOM3091",
-      "url"       : "/pyjupiter/disciplinas/lom3091.html",
-      "nome"      : " Microscopia Eletrônica de Varredura",
-      "nomeascii" : " Microscopia Eletronica de Varredura",
-      "docentes"     : "6495737 - Durval Rodrigues Junior"
     } ,
   
     {
@@ -1064,30 +1040,6 @@
       "nome"      : " Estrutura e Química de Materiais Lignocelulósicos",
       "nomeascii" : " Estrutura e Quimica de Materiais Lignocelulosicos",
       "docentes"     : "3380737 - Flávio Teixeira da Silva"
-    } ,
-  
-    {
-      "title"     : "LOM3075",
-      "url"       : "/pyjupiter/disciplinas/lom3075.html",
-      "nome"      : " Cerâmicas Refratárias",
-      "nomeascii" : " Ceramicas Refratarias",
-      "docentes"     : "5983729 - Fernando Vernilli Junior"
-    } ,
-  
-    {
-      "title"     : "LOM3077",
-      "url"       : "/pyjupiter/disciplinas/lom3077.html",
-      "nome"      : " Usinagem de Materiais",
-      "nomeascii" : " Usinagem de Materiais",
-      "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista"
-    } ,
-  
-    {
-      "title"     : "LOM3097",
-      "url"       : "/pyjupiter/disciplinas/lom3097.html",
-      "nome"      : " Estágio Avançado em Engenharia de Materiais",
-      "nomeascii" : " Estagio Avancado em Engenharia de Materiais",
-      "docentes"     : "3577649 - Carlos Angelo Nunes519033 - Carlos Yujiro Shigue"
     } ,
   
     {
@@ -2067,14 +2019,6 @@
     } ,
   
     {
-      "title"     : "LOB1047",
-      "url"       : "/pyjupiter/disciplinas/lob1047.html",
-      "nome"      : " Tópicos Especiais de Produção de Textos Acadêmicos",
-      "nomeascii" : " Topicos Especiais de Producao de Textos Academicos",
-      "docentes"     : "5840514 - Graziela Zamponi"
-    } ,
-  
-    {
       "title"     : "LOQ4052",
       "url"       : "/pyjupiter/disciplinas/loq4052.html",
       "nome"      : " Tópicos Especiais de Gestão e Produção",
@@ -2387,14 +2331,6 @@
     } ,
   
     {
-      "title"     : "LOQ4232",
-      "url"       : "/pyjupiter/disciplinas/loq4232.html",
-      "nome"      : " Processos da Indústria Eletro Eletrônica",
-      "nomeascii" : " Processos da Industria Eletro Eletronica",
-      "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
       "title"     : "LOQ4266",
       "url"       : "/pyjupiter/disciplinas/loq4266.html",
       "nome"      : " Tópicos Especiais em Engenharia de Produção I",
@@ -2411,27 +2347,11 @@
     } ,
   
     {
-      "title"     : "8800006",
-      "url"       : "/pyjupiter/disciplinas/8800006.html",
-      "nome"      : " Projeto de Engenharia I",
-      "nomeascii" : " Projeto de Engenharia I",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
-    } ,
-  
-    {
       "title"     : "LOQ4267",
       "url"       : "/pyjupiter/disciplinas/loq4267.html",
       "nome"      : " Tópicos Especiais em Engenharia de Produção II",
       "nomeascii" : " Topicos Especiais em Engenharia de Producao II",
       "docentes"     : "11079086 - Herlandí de Souza Andrade"
-    } ,
-  
-    {
-      "title"     : "8800007",
-      "url"       : "/pyjupiter/disciplinas/8800007.html",
-      "nome"      : " Projeto de Engenharia II",
-      "nomeascii" : " Projeto de Engenharia II",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
     } ,
   
     {
@@ -2715,38 +2635,6 @@
     } ,
   
     {
-      "title"     : "LOB1013",
-      "url"       : "/pyjupiter/disciplinas/lob1013.html",
-      "nome"      : " Filosofia da Ciência",
-      "nomeascii" : " Filosofia da Ciencia",
-      "docentes"     : "6376612 - Daisy Rafaela da Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4005",
-      "url"       : "/pyjupiter/disciplinas/loq4005.html",
-      "nome"      : " Controle Estatístico de Processos",
-      "nomeascii" : " Controle Estatistico de Processos",
-      "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4008",
-      "url"       : "/pyjupiter/disciplinas/loq4008.html",
-      "nome"      : " Gestão Tecnológica",
-      "nomeascii" : " Gestao Tecnologica",
-      "docentes"     : "849935 - Humberto Felipe da Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4019",
-      "url"       : "/pyjupiter/disciplinas/loq4019.html",
-      "nome"      : " Planejamento de Experimentos",
-      "nomeascii" : " Planejamento de Experimentos",
-      "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
       "title"     : "LOQ4043",
       "url"       : "/pyjupiter/disciplinas/loq4043.html",
       "nome"      : " Tubulações Industriais",
@@ -2755,59 +2643,11 @@
     } ,
   
     {
-      "title"     : "LOQ4066",
-      "url"       : "/pyjupiter/disciplinas/loq4066.html",
-      "nome"      : " Sistemas Particulados",
-      "nomeascii" : " Sistemas Particulados",
-      "docentes"     : "787307 - Luis Fernando Figueiredo Faria"
-    } ,
-  
-    {
-      "title"     : "LOQ4067",
-      "url"       : "/pyjupiter/disciplinas/loq4067.html",
-      "nome"      : " Tópicos Especiais em Engenharia Química I",
-      "nomeascii" : " Topicos Especiais em Engenharia Quimica I",
-      "docentes"     : "5816812 - João Paulo Alves Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4068",
-      "url"       : "/pyjupiter/disciplinas/loq4068.html",
-      "nome"      : " Tópicos Especiais em Engenharia Química II",
-      "nomeascii" : " Topicos Especiais em Engenharia Quimica II",
-      "docentes"     : "5816812 - João Paulo Alves Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4069",
-      "url"       : "/pyjupiter/disciplinas/loq4069.html",
-      "nome"      : " Tópicos Especiais de Operações Unitárias",
-      "nomeascii" : " Topicos Especiais de Operacoes Unitarias",
-      "docentes"     : "8151869 - Livia Chaguri e Carvalho"
-    } ,
-  
-    {
-      "title"     : "LOQ4070",
-      "url"       : "/pyjupiter/disciplinas/loq4070.html",
-      "nome"      : " Tópicos Especiais de Reatores Químicos",
-      "nomeascii" : " Topicos Especiais de Reatores Quimicos",
-      "docentes"     : "5963230 - Leandro Gonçalves de Aguiar"
-    } ,
-  
-    {
       "title"     : "LOQ4071",
       "url"       : "/pyjupiter/disciplinas/loq4071.html",
       "nome"      : " Tópicos Especiais de Gestão da Qualidade",
       "nomeascii" : " Topicos Especiais de Gestao da Qualidade",
       "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4072",
-      "url"       : "/pyjupiter/disciplinas/loq4072.html",
-      "nome"      : " Processos de Separação por Membranas",
-      "nomeascii" : " Processos de Separacao por Membranas",
-      "docentes"     : "787307 - Luis Fernando Figueiredo Faria"
     } ,
   
     {
