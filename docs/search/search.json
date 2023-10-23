@@ -219,27 +219,11 @@
     } ,
   
     {
-      "title"     : "LOM3081",
-      "url"       : "/pyjupiter/disciplinas/lom3081.html",
-      "nome"      : " Introdução à Mecânica dos Sólidos",
-      "nomeascii" : " Introducao a Mecanica dos Solidos",
-      "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista3480026 - João Paulo Pascon5840793 - Sérgio Schneider7797767 - Viktor Pastoukhov"
-    } ,
-  
-    {
       "title"     : "LOM3205",
       "url"       : "/pyjupiter/disciplinas/lom3205.html",
       "nome"      : " Eletromagnetismo",
       "nomeascii" : " Eletromagnetismo",
       "docentes"     : "5840726 - Cristina Bormio Nunes6495737 - Durval Rodrigues Junior1341653 - Maria José Ramos Sandim1643715 - Paulo Atsushi Suzuki"
-    } ,
-  
-    {
-      "title"     : "LOM3212",
-      "url"       : "/pyjupiter/disciplinas/lom3212.html",
-      "nome"      : " Fenômenos de Transporte A",
-      "nomeascii" : " Fenomenos de Transporte A",
-      "docentes"     : "5840730 - Antonio Jefferson da Silva Machado1176388 - Luiz Tadeu Fernandes Eleno"
     } ,
   
     {
@@ -267,11 +251,19 @@
     } ,
   
     {
-      "title"     : "LOM3213",
-      "url"       : "/pyjupiter/disciplinas/lom3213.html",
-      "nome"      : " Fenômenos de Transporte B",
-      "nomeascii" : " Fenomenos de Transporte B",
-      "docentes"     : "1176388 - Luiz Tadeu Fernandes Eleno"
+      "title"     : "LOM3269",
+      "url"       : "/pyjupiter/disciplinas/lom3269.html",
+      "nome"      : " Fenômenos de Transporte",
+      "nomeascii" : " Fenomenos de Transporte",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3081",
+      "url"       : "/pyjupiter/disciplinas/lom3081.html",
+      "nome"      : " Introdução à Mecânica dos Sólidos",
+      "nomeascii" : " Introducao a Mecanica dos Solidos",
+      "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista3480026 - João Paulo Pascon5840793 - Sérgio Schneider7797767 - Viktor Pastoukhov"
     } ,
   
     {
@@ -315,18 +307,10 @@
     } ,
   
     {
-      "title"     : "LOQ4050",
-      "url"       : "/pyjupiter/disciplinas/loq4050.html",
-      "nome"      : " Engenharia Econômica",
-      "nomeascii" : " Engenharia Economica",
-      "docentes"     : "5840671 - Francisco José Moreira Chaves"
-    } ,
-  
-    {
       "title"     : "LOQ4234",
       "url"       : "/pyjupiter/disciplinas/loq4234.html",
-      "nome"      : " Empreendedorismo",
-      "nomeascii" : " Empreendedorismo",
+      "nome"      : " Empreendedorismo e Inovação",
+      "nomeascii" : " Empreendedorismo e Inovacao",
       "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
     } ,
   
@@ -387,14 +371,6 @@
     } ,
   
     {
-      "title"     : "LOM3095",
-      "url"       : "/pyjupiter/disciplinas/lom3095.html",
-      "nome"      : " Tecnologias Limpas para Geração de Energia",
-      "nomeascii" : " Tecnologias Limpas para Geracao de Energia",
-      "docentes"     : "5840521 - Rosa Ana Conte"
-    } ,
-  
-    {
       "title"     : "LOM3223",
       "url"       : "/pyjupiter/disciplinas/lom3223.html",
       "nome"      : " Materiais e Dispositivos Magnéticos e Supercondutores",
@@ -416,6 +392,14 @@
       "nome"      : " Fundamentos de Controle",
       "nomeascii" : " Fundamentos de Controle",
       "docentes"     : "519033 - Carlos Yujiro Shigue7290967 - Emerson Gonçalves de Melo"
+    } ,
+  
+    {
+      "title"     : "LOQ4050",
+      "url"       : "/pyjupiter/disciplinas/loq4050.html",
+      "nome"      : " Engenharia Econômica",
+      "nomeascii" : " Engenharia Economica",
+      "docentes"     : "5840671 - Francisco José Moreira Chaves"
     } ,
   
     {
@@ -560,6 +544,14 @@
       "nome"      : " Ciência dos Materiais Computacional",
       "nomeascii" : " Ciencia dos Materiais Computacional",
       "docentes"     : "3480026 - João Paulo Pascon1176388 - Luiz Tadeu Fernandes Eleno"
+    } ,
+  
+    {
+      "title"     : "LOM3095",
+      "url"       : "/pyjupiter/disciplinas/lom3095.html",
+      "nome"      : " Tecnologias Limpas para Geração de Energia",
+      "nomeascii" : " Tecnologias Limpas para Geracao de Energia",
+      "docentes"     : "5840521 - Rosa Ana Conte"
     } ,
   
     {
@@ -1307,19 +1299,19 @@
     } ,
   
     {
-      "title"     : "LOB1217",
-      "url"       : "/pyjupiter/disciplinas/lob1217.html",
-      "nome"      : " Operações Unitárias e Processos",
-      "nomeascii" : " Operacoes Unitarias e Processos",
-      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
-    } ,
-  
-    {
       "title"     : "LOB1235",
       "url"       : "/pyjupiter/disciplinas/lob1235.html",
       "nome"      : " Avaliação de Impactos Ambientais",
       "nomeascii" : " Avaliacao de Impactos Ambientais",
       "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
+    } ,
+  
+    {
+      "title"     : "LOB1258",
+      "url"       : "/pyjupiter/disciplinas/lob1258.html",
+      "nome"      : " Hidráulica Aplicada",
+      "nomeascii" : " Hidraulica Aplicada",
+      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira7455355 - Robson da Silva Rocha"
     } ,
   
     {
@@ -1355,6 +1347,14 @@
     } ,
   
     {
+      "title"     : "LOB1217",
+      "url"       : "/pyjupiter/disciplinas/lob1217.html",
+      "nome"      : " Operações Unitárias e Processos",
+      "nomeascii" : " Operacoes Unitarias e Processos",
+      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
+    } ,
+  
+    {
       "title"     : "LOB1226",
       "url"       : "/pyjupiter/disciplinas/lob1226.html",
       "nome"      : " Recuperação de Áreas Degradadas",
@@ -1376,14 +1376,6 @@
       "nome"      : " Geotecnia Ambiental",
       "nomeascii" : " Geotecnia Ambiental",
       "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
-    } ,
-  
-    {
-      "title"     : "LOB1258",
-      "url"       : "/pyjupiter/disciplinas/lob1258.html",
-      "nome"      : " Hidráulica Aplicada",
-      "nomeascii" : " Hidraulica Aplicada",
-      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira7455355 - Robson da Silva Rocha"
     } ,
   
     {
@@ -1451,6 +1443,14 @@
     } ,
   
     {
+      "title"     : "LOB1224",
+      "url"       : "/pyjupiter/disciplinas/lob1224.html",
+      "nome"      : " Planejamento Ambiental e Urbanismo",
+      "nomeascii" : " Planejamento Ambiental e Urbanismo",
+      "docentes"     : "9146830 - Danúbia Caporusso Bargos"
+    } ,
+  
+    {
       "title"     : "LOB1231",
       "url"       : "/pyjupiter/disciplinas/lob1231.html",
       "nome"      : " Modelagem Matemática Aplicada",
@@ -1463,14 +1463,6 @@
       "url"       : "/pyjupiter/disciplinas/lob1233.html",
       "nome"      : " Caracterização de Bacias Hidrográficas",
       "nomeascii" : " Caracterizacao de Bacias Hidrograficas",
-      "docentes"     : "9146830 - Danúbia Caporusso Bargos"
-    } ,
-  
-    {
-      "title"     : "LOB1224",
-      "url"       : "/pyjupiter/disciplinas/lob1224.html",
-      "nome"      : " Planejamento Ambiental e Urbanismo",
-      "nomeascii" : " Planejamento Ambiental e Urbanismo",
       "docentes"     : "9146830 - Danúbia Caporusso Bargos"
     } ,
   
@@ -1583,6 +1575,14 @@
       "url"       : "/pyjupiter/disciplinas/lob1263.html",
       "nome"      : " Introdução a Eco-Inovação Tecnológica",
       "nomeascii" : " Introducao a Eco-Inovacao Tecnologica",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1266",
+      "url"       : "/pyjupiter/disciplinas/lob1266.html",
+      "nome"      : " Introdução à Ciência de Dados e Aprendizado de Máquinas",
+      "nomeascii" : " Introducao a Ciencia de Dados e Aprendizado de Maquinas",
       "docentes"     : ""
     } ,
   
@@ -2003,14 +2003,6 @@
     } ,
   
     {
-      "title"     : "LOT2051",
-      "url"       : "/pyjupiter/disciplinas/lot2051.html",
-      "nome"      : " Tecnologia do Cultivo de Células Animais",
-      "nomeascii" : " Tecnologia do Cultivo de Celulas Animais",
-      "docentes"     : "101761 - Arnaldo Márcio Ramalho Prata"
-    } ,
-  
-    {
       "title"     : "LOT2057",
       "url"       : "/pyjupiter/disciplinas/lot2057.html",
       "nome"      : " Trabalho de Conclusão de Curso II",
@@ -2032,6 +2024,14 @@
       "nome"      : " Tecnologia de Alimentos",
       "nomeascii" : " Tecnologia de Alimentos",
       "docentes"     : "3403572 - Ismael Maciel de Mancilha"
+    } ,
+  
+    {
+      "title"     : "LOT2051",
+      "url"       : "/pyjupiter/disciplinas/lot2051.html",
+      "nome"      : " Tecnologia do Cultivo de Células Animais",
+      "nomeascii" : " Tecnologia do Cultivo de Celulas Animais",
+      "docentes"     : "101761 - Arnaldo Márcio Ramalho Prata"
     } ,
   
     {
@@ -2099,19 +2099,19 @@
     } ,
   
     {
-      "title"     : "LOQ4237",
-      "url"       : "/pyjupiter/disciplinas/loq4237.html",
-      "nome"      : " Projeto Integrado de Engenharia de Produção II",
-      "nomeascii" : " Projeto Integrado de Engenharia de Producao II",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
-    } ,
-  
-    {
       "title"     : "LOQ4204",
       "url"       : "/pyjupiter/disciplinas/loq4204.html",
       "nome"      : " Economia Geral",
       "nomeascii" : " Economia Geral",
       "docentes"     : "11079086 - Herlandí de Souza Andrade"
+    } ,
+  
+    {
+      "title"     : "LOQ4237",
+      "url"       : "/pyjupiter/disciplinas/loq4237.html",
+      "nome"      : " Projeto Integrado de Engenharia de Produção II",
+      "nomeascii" : " Projeto Integrado de Engenharia de Producao II",
+      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
     } ,
   
     {
@@ -2123,27 +2123,11 @@
     } ,
   
     {
-      "title"     : "LOQ4238",
-      "url"       : "/pyjupiter/disciplinas/loq4238.html",
-      "nome"      : " Projeto Integrado em Engenharia de Produção III",
-      "nomeascii" : " Projeto Integrado em Engenharia de Producao III",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
-    } ,
-  
-    {
       "title"     : "LOQ4252",
       "url"       : "/pyjupiter/disciplinas/loq4252.html",
       "nome"      : " Fundamentos de Fenômenos de Transporte",
       "nomeascii" : " Fundamentos de Fenomenos de Transporte",
       "docentes"     : "4808662 - Lucrécio Fábio dos Santos"
-    } ,
-  
-    {
-      "title"     : "LOQ4223",
-      "url"       : "/pyjupiter/disciplinas/loq4223.html",
-      "nome"      : " Modelagem e Simulação de Sistemas",
-      "nomeascii" : " Modelagem e Simulacao de Sistemas",
-      "docentes"     : "5840917 - Fabricio Maciel Gomes"
     } ,
   
     {
@@ -2155,6 +2139,14 @@
     } ,
   
     {
+      "title"     : "LOQ4255",
+      "url"       : "/pyjupiter/disciplinas/loq4255.html",
+      "nome"      : " Inovação Tecnológica",
+      "nomeascii" : " Inovacao Tecnologica",
+      "docentes"     : "5701460 - Antonio Iacono"
+    } ,
+  
+    {
       "title"     : "LOQ4258",
       "url"       : "/pyjupiter/disciplinas/loq4258.html",
       "nome"      : " Pesquisa Operacional II",
@@ -2163,11 +2155,27 @@
     } ,
   
     {
+      "title"     : "LOQ4263",
+      "url"       : "/pyjupiter/disciplinas/loq4263.html",
+      "nome"      : " Planejamento e Gestão da Manutenção",
+      "nomeascii" : " Planejamento e Gestao da Manutencao",
+      "docentes"     : "5840535 - Messias Borges Silva"
+    } ,
+  
+    {
       "title"     : "LOQ4213",
       "url"       : "/pyjupiter/disciplinas/loq4213.html",
       "nome"      : " Contabilidade e Custos",
       "nomeascii" : " Contabilidade e Custos",
       "docentes"     : "11079086 - Herlandí de Souza Andrade"
+    } ,
+  
+    {
+      "title"     : "LOQ4238",
+      "url"       : "/pyjupiter/disciplinas/loq4238.html",
+      "nome"      : " Projeto Integrado em Engenharia de Produção III",
+      "nomeascii" : " Projeto Integrado em Engenharia de Producao III",
+      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
     } ,
   
     {
@@ -2187,14 +2195,6 @@
     } ,
   
     {
-      "title"     : "LOQ4256",
-      "url"       : "/pyjupiter/disciplinas/loq4256.html",
-      "nome"      : " Gestão Estratégica de Produção",
-      "nomeascii" : " Gestao Estrategica de Producao",
-      "docentes"     : "5701460 - Antonio Iacono"
-    } ,
-  
-    {
       "title"     : "LOQ4259",
       "url"       : "/pyjupiter/disciplinas/loq4259.html",
       "nome"      : " Processos de Desenvolvimento de Serviços",
@@ -2203,11 +2203,19 @@
     } ,
   
     {
-      "title"     : "LOQ4260",
-      "url"       : "/pyjupiter/disciplinas/loq4260.html",
-      "nome"      : " Controle Estatístico da Qualidade",
-      "nomeascii" : " Controle Estatistico da Qualidade",
-      "docentes"     : "5840917 - Fabricio Maciel Gomes"
+      "title"     : "LOQ4261",
+      "url"       : "/pyjupiter/disciplinas/loq4261.html",
+      "nome"      : " Planejamento, Programação e Controle da Produção I",
+      "nomeascii" : " Planejamento, Programacao e Controle da Producao I",
+      "docentes"     : "5701460 - Antonio Iacono"
+    } ,
+  
+    {
+      "title"     : "LOQ4262",
+      "url"       : "/pyjupiter/disciplinas/loq4262.html",
+      "nome"      : " Automação e Controle",
+      "nomeascii" : " Automacao e Controle",
+      "docentes"     : "8767640 - Eduardo Ferro dos Santos"
     } ,
   
     {
@@ -2219,14 +2227,6 @@
     } ,
   
     {
-      "title"     : "LOQ4216",
-      "url"       : "/pyjupiter/disciplinas/loq4216.html",
-      "nome"      : " Projeto da Fábrica",
-      "nomeascii" : " Projeto da Fabrica",
-      "docentes"     : "5701460 - Antonio Iacono"
-    } ,
-  
-    {
       "title"     : "LOQ4222",
       "url"       : "/pyjupiter/disciplinas/loq4222.html",
       "nome"      : " Engenharia Econômica e Finanças",
@@ -2235,19 +2235,35 @@
     } ,
   
     {
-      "title"     : "LOQ4224",
-      "url"       : "/pyjupiter/disciplinas/loq4224.html",
-      "nome"      : " Planejamento de Experimentos",
-      "nomeascii" : " Planejamento de Experimentos",
-      "docentes"     : "5840535 - Messias Borges Silva"
+      "title"     : "LOQ4260",
+      "url"       : "/pyjupiter/disciplinas/loq4260.html",
+      "nome"      : " Controle Estatístico da Qualidade",
+      "nomeascii" : " Controle Estatistico da Qualidade",
+      "docentes"     : "5840917 - Fabricio Maciel Gomes"
     } ,
   
     {
-      "title"     : "LOQ4261",
-      "url"       : "/pyjupiter/disciplinas/loq4261.html",
-      "nome"      : " Planejamento, Programação e Controle da Produção",
-      "nomeascii" : " Planejamento, Programacao e Controle da Producao",
-      "docentes"     : "5701460 - Antonio Iacono"
+      "title"     : "LOQ4270",
+      "url"       : "/pyjupiter/disciplinas/loq4270.html",
+      "nome"      : " Planejamento, Programação e Controle da Produção II",
+      "nomeascii" : " Planejamento, Programacao e Controle da Producao II",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4271",
+      "url"       : "/pyjupiter/disciplinas/loq4271.html",
+      "nome"      : " Planejamento de Experimentos",
+      "nomeascii" : " Planejamento de Experimentos",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4272",
+      "url"       : "/pyjupiter/disciplinas/loq4272.html",
+      "nome"      : " Projeto da Fabrica",
+      "nomeascii" : " Projeto da Fabrica",
+      "docentes"     : ""
     } ,
   
     {
@@ -2259,11 +2275,11 @@
     } ,
   
     {
-      "title"     : "LOQ4219",
-      "url"       : "/pyjupiter/disciplinas/loq4219.html",
-      "nome"      : " Projeto do Produto e Processo",
-      "nomeascii" : " Projeto do Produto e Processo",
-      "docentes"     : "5701460 - Antonio Iacono"
+      "title"     : "LOQ4223",
+      "url"       : "/pyjupiter/disciplinas/loq4223.html",
+      "nome"      : " Modelagem e Simulação de Sistemas",
+      "nomeascii" : " Modelagem e Simulacao de Sistemas",
+      "docentes"     : "5840917 - Fabricio Maciel Gomes"
     } ,
   
     {
@@ -2283,35 +2299,19 @@
     } ,
   
     {
-      "title"     : "LOQ4255",
-      "url"       : "/pyjupiter/disciplinas/loq4255.html",
-      "nome"      : " Inovação Tecnológica",
-      "nomeascii" : " Inovacao Tecnologica",
-      "docentes"     : "5701460 - Antonio Iacono"
-    } ,
-  
-    {
-      "title"     : "LOQ4262",
-      "url"       : "/pyjupiter/disciplinas/loq4262.html",
-      "nome"      : " Automação e Controle",
-      "nomeascii" : " Automacao e Controle",
-      "docentes"     : "8767640 - Eduardo Ferro dos Santos"
-    } ,
-  
-    {
-      "title"     : "LOQ4263",
-      "url"       : "/pyjupiter/disciplinas/loq4263.html",
-      "nome"      : " Planejamento e Gestão da Manutenção",
-      "nomeascii" : " Planejamento e Gestao da Manutencao",
-      "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
       "title"     : "LOQ4268",
       "url"       : "/pyjupiter/disciplinas/loq4268.html",
       "nome"      : " Gestão da Tecnologia da Informação",
       "nomeascii" : " Gestao da Tecnologia da Informacao",
       "docentes"     : "11079086 - Herlandí de Souza Andrade"
+    } ,
+  
+    {
+      "title"     : "LOQ4273",
+      "url"       : "/pyjupiter/disciplinas/loq4273.html",
+      "nome"      : " Gestão de Novos Produtos",
+      "nomeascii" : " Gestao de Novos Produtos",
+      "docentes"     : ""
     } ,
   
     {
@@ -2323,11 +2323,27 @@
     } ,
   
     {
+      "title"     : "LOQ4256",
+      "url"       : "/pyjupiter/disciplinas/loq4256.html",
+      "nome"      : " Gestão Estratégica de Produção",
+      "nomeascii" : " Gestao Estrategica de Producao",
+      "docentes"     : "5701460 - Antonio Iacono"
+    } ,
+  
+    {
       "title"     : "LOQ4265",
       "url"       : "/pyjupiter/disciplinas/loq4265.html",
       "nome"      : " Trabalho de Graduação em Engenharia de Produção II",
       "nomeascii" : " Trabalho de Graduacao em Engenharia de Producao II",
       "docentes"     : "5840560 - Marco Antonio Carvalho Pereira1285870 - Marcos Villela Barcza"
+    } ,
+  
+    {
+      "title"     : "LOQ4274",
+      "url"       : "/pyjupiter/disciplinas/loq4274.html",
+      "nome"      : " Engenharia de Sistemas",
+      "nomeascii" : " Engenharia de Sistemas",
+      "docentes"     : ""
     } ,
   
     {
