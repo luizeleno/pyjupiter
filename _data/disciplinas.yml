@@ -161,10 +161,10 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
           prof: "(R) Diovana Aparecida dos Santos Napoleão "
       vagas:
         - Obrigatoria:
-          Vagas: "0"
-          Inscritos: "0"
+          Vagas: "1"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
     - 20241D9:
       Codigo_da_Turma: "20241D9"
       Inicio: "26/02/2024"
@@ -222,12 +222,12 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
           prof: "Roberta Veloso Garcia "
       vagas:
         - Obrigatoria:
-          Vagas: "5"
+          Vagas: "4"
           Inscritos: "4"
           Pendentes: "0"
           Matriculados: "4"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "5"
+          Vagas: "4"
           Inscritos: "4"
           Pendentes: "0"
           Matriculados: "4"
@@ -521,12 +521,12 @@ Estudos, artigos, notícias e pesquisas via internet."
           prof: "Carlos José Todero Peixoto "
       vagas:
         - Obrigatoria:
-          Vagas: "5"
+          Vagas: "4"
           Inscritos: "4"
           Pendentes: "0"
           Matriculados: "4"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "5"
+          Vagas: "4"
           Inscritos: "4"
           Pendentes: "0"
           Matriculados: "4"
@@ -1057,12 +1057,12 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           prof: "Eliane Corrêa Pedrozo "
       vagas:
         - Obrigatoria:
-          Vagas: "5"
+          Vagas: "4"
           Inscritos: "4"
           Pendentes: "0"
           Matriculados: "4"
         - EEL_-_Engenharia_de_Materiais:
-          Vagas: "5"
+          Vagas: "4"
           Inscritos: "4"
           Pendentes: "0"
           Matriculados: "4"
@@ -1124,18 +1124,18 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "59"
-          Inscritos: "51"
-          Pendentes: "6"
+          Inscritos: "73"
+          Pendentes: "0"
           Matriculados: "45"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "8"
-          Inscritos: "8"
-          Pendentes: "1"
+          Inscritos: "7"
+          Pendentes: "0"
           Matriculados: "7"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "8"
-          Inscritos: "6"
-          Pendentes: "3"
+          Inscritos: "3"
+          Pendentes: "0"
           Matriculados: "3"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "4"
@@ -1149,8 +1149,8 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           Matriculados: "7"
         - EEL_-_Engenharia_Fisica:
           Vagas: "8"
-          Inscritos: "8"
-          Pendentes: "1"
+          Inscritos: "7"
+          Pendentes: "0"
           Matriculados: "7"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "10"
@@ -1159,8 +1159,8 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           Matriculados: "6"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "13"
-          Inscritos: "13"
-          Pendentes: "1"
+          Inscritos: "12"
+          Pendentes: "0"
           Matriculados: "12"
 - LOB1019:
   sigla: "LOB1019"
@@ -1220,13 +1220,13 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
-          Pendentes: "1"
+          Inscritos: "36"
+          Pendentes: "0"
           Matriculados: "32"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "29"
-          Inscritos: "14"
-          Pendentes: "1"
+          Inscritos: "13"
+          Pendentes: "0"
           Matriculados: "13"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "1"
@@ -1273,7 +1273,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "42"
+          Inscritos: "45"
           Pendentes: "0"
           Matriculados: "42"
         - EEL_-_Engenharia_Bioquimica:
@@ -1326,13 +1326,13 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "28"
-          Pendentes: "3"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "25"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "55"
-          Inscritos: "24"
-          Pendentes: "3"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "21"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "0"
@@ -1379,8 +1379,8 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "37"
-          Pendentes: "2"
+          Inscritos: "45"
+          Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
@@ -1389,8 +1389,8 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           Matriculados: "20"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
-          Inscritos: "17"
-          Pendentes: "2"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "15"
 - LOB1037:
   sigla: "LOB1037"
@@ -1484,13 +1484,13 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "25"
-          Pendentes: "4"
+          Inscritos: "33"
+          Pendentes: "0"
           Matriculados: "21"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "25"
-          Pendentes: "4"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "21"
     - 20241P2:
       Codigo_da_Turma: "20241P2"
@@ -1504,7 +1504,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "31"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "31"
         - EEL_-_Engenharia_de_Producao:
@@ -1852,13 +1852,13 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
   nomeascii: " Calculo IV"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1006&codcur=88301&codhab=0"
   requisitos:
-    - LOB1037:
-      sigla: "LOB1037"
-      nome: " Àlgebra Linear "
-      tipo: "Requisito fraco"
     - LOB1004:
       sigla: "LOB1004"
       nome: " Cálculo II "
+      tipo: "Requisito fraco"
+    - LOB1037:
+      sigla: "LOB1037"
+      nome: " Àlgebra Linear "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -1904,13 +1904,13 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "59"
-          Pendentes: "5"
+          Inscritos: "79"
+          Pendentes: "0"
           Matriculados: "54"
         - EEL_-_Engenharia_Fisica:
           Vagas: "29"
-          Inscritos: "28"
-          Pendentes: "5"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "6"
@@ -1993,7 +1993,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "27"
+          Inscritos: "42"
           Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -2013,14 +2013,14 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "31"
-          Pendentes: "1"
-          Matriculados: "30"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "29"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "31"
-          Pendentes: "1"
-          Matriculados: "30"
+          Inscritos: "29"
+          Pendentes: "0"
+          Matriculados: "29"
     - 20241F1:
       Codigo_da_Turma: "20241F1"
       Inicio: "26/02/2024"
@@ -2033,13 +2033,13 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "23"
-          Pendentes: "3"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "23"
-          Pendentes: "3"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "20"
     - 20241M2:
       Codigo_da_Turma: "20241M2"
@@ -2053,13 +2053,13 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "11"
-          Pendentes: "1"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
-          Inscritos: "11"
-          Pendentes: "1"
+          Inscritos: "10"
+          Pendentes: "0"
           Matriculados: "10"
 - LOB1052:
   sigla: "LOB1052"
@@ -2115,8 +2115,8 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "44"
-          Pendentes: "1"
+          Inscritos: "50"
+          Pendentes: "0"
           Matriculados: "43"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "30"
@@ -2125,8 +2125,8 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
           Matriculados: "21"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "30"
-          Inscritos: "23"
-          Pendentes: "1"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "22"
     - 20241D1:
       Codigo_da_Turma: "20241D1"
@@ -2145,12 +2145,12 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
           Vagas: "60"
           Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "58"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "59"
+          Inscritos: "58"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "58"
     - 20241FM:
       Codigo_da_Turma: "20241FM"
       Inicio: "26/02/2024"
@@ -2167,12 +2167,12 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "58"
-          Pendentes: "4"
-          Matriculados: "54"
+          Pendentes: "0"
+          Matriculados: "53"
         - EEL_-_Engenharia_Fisica:
           Vagas: "24"
-          Inscritos: "23"
-          Pendentes: "4"
+          Inscritos: "19"
+          Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "3"
@@ -2201,9 +2201,9 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
           Matriculados: "8"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "4"
-          Inscritos: "4"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "4"
+          Matriculados: "3"
     - 20241N2:
       Codigo_da_Turma: "20241N2"
       Inicio: "26/02/2024"
@@ -2273,7 +2273,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "42"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "41"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
@@ -2282,8 +2282,8 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
           Matriculados: "23"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
-          Inscritos: "19"
-          Pendentes: "1"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "18"
 - LOB1053:
   sigla: "LOB1053"
@@ -2343,14 +2343,14 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "50"
-          Pendentes: "1"
-          Matriculados: "49"
+          Inscritos: "52"
+          Pendentes: "0"
+          Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "50"
-          Pendentes: "1"
-          Matriculados: "49"
+          Inscritos: "48"
+          Pendentes: "0"
+          Matriculados: "48"
     - 20241FM:
       Codigo_da_Turma: "20241FM"
       Inicio: "26/02/2024"
@@ -2366,13 +2366,13 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "55"
-          Pendentes: "5"
-          Matriculados: "50"
+          Inscritos: "60"
+          Pendentes: "0"
+          Matriculados: "49"
         - EEL_-_Engenharia_Fisica:
           Vagas: "16"
-          Inscritos: "15"
-          Pendentes: "5"
+          Inscritos: "10"
+          Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "4"
@@ -2386,9 +2386,9 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
           Matriculados: "3"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "8"
-          Inscritos: "6"
+          Inscritos: "5"
           Pendentes: "0"
-          Matriculados: "6"
+          Matriculados: "5"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "9"
           Inscritos: "8"
@@ -2461,7 +2461,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "39"
+          Inscritos: "45"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_Ambiental:
@@ -2506,10 +2506,10 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
           prof: "João Paulo Pascon "
       vagas:
         - Obrigatoria:
-          Vagas: "2"
-          Inscritos: "2"
+          Vagas: "3"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "3"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "2"
           Inscritos: "2"
@@ -2527,7 +2527,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "48"
+          Inscritos: "50"
           Pendentes: "0"
           Matriculados: "48"
         - EEL_-_Engenharia_Fisica:
@@ -2722,13 +2722,13 @@ LENG, Y. Materials Characterization: Introduction to Microscopic and Spectroscop
   nomeascii: " Mecanica Classica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3257&codcur=88301&codhab=0"
   requisitos:
-    - LOB1018:
-      sigla: "LOB1018"
-      nome: " Física I "
-      tipo: "Requisito fraco"
     - LOB1004:
       sigla: "LOB1004"
       nome: " Cálculo II "
+      tipo: "Requisito fraco"
+    - LOB1018:
+      sigla: "LOB1018"
+      nome: " Física I "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -2766,13 +2766,13 @@ LENG, Y. Materials Characterization: Introduction to Microscopic and Spectroscop
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "31"
-          Pendentes: "2"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "29"
         - EEL_-_Engenharia_Fisica:
           Vagas: "50"
-          Inscritos: "31"
-          Pendentes: "2"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
 - LOB1012:
   sigla: "LOB1012"
@@ -2840,13 +2840,13 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "34"
-          Pendentes: "1"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "46"
-          Inscritos: "20"
-          Pendentes: "1"
+          Inscritos: "19"
+          Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "0"
@@ -2895,12 +2895,12 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
           Vagas: "60"
           Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "58"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "59"
+          Inscritos: "58"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "58"
     - 20241M2:
       Codigo_da_Turma: "20241M2"
       Inicio: "26/02/2024"
@@ -2916,7 +2916,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "35"
+          Inscritos: "38"
           Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_de_Materiais:
@@ -2969,9 +2969,9 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "57"
+          Inscritos: "72"
           Pendentes: "0"
-          Matriculados: "57"
+          Matriculados: "56"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "30"
           Inscritos: "29"
@@ -2984,9 +2984,9 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
           Matriculados: "4"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "6"
-          Inscritos: "5"
+          Inscritos: "4"
           Pendentes: "0"
-          Matriculados: "5"
+          Matriculados: "4"
         - EEL_-_Engenharia_Fisica:
           Vagas: "2"
           Inscritos: "2"
@@ -3013,13 +3013,13 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   nomeascii: " Fisica IV"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1021&codcur=88301&codhab=0"
   requisitos:
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito fraco"
     - LOB1052:
       sigla: "LOB1052"
       nome: " Cálculo III "
+      tipo: "Requisito fraco"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -3131,7 +3131,7 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "19"
+          Inscritos: "20"
           Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_Ambiental:
@@ -3155,13 +3155,13 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
   nomeascii: " Eletromagnetismo"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3205&codcur=88301&codhab=0"
   requisitos:
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito fraco"
     - LOB1052:
       sigla: "LOB1052"
       nome: " Cálculo III "
+      tipo: "Requisito fraco"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -3198,13 +3198,13 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
   nomeascii: " Fisica Matematica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3253&codcur=88301&codhab=0"
   requisitos:
-    - LOB1006:
-      sigla: "LOB1006"
-      nome: " Cálculo IV "
-      tipo: "Requisito fraco"
     - LOB1003:
       sigla: "LOB1003"
       nome: " Cálculo I "
+      tipo: "Requisito fraco"
+    - LOB1006:
+      sigla: "LOB1006"
+      nome: " Cálculo IV "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -3236,13 +3236,13 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
   nomeascii: " Metodos Numericos e Aplicacoes"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3261&codcur=88301&codhab=0"
   requisitos:
-    - LOM3260:
-      sigla: "LOM3260"
-      nome: " Computação Científica em Python "
-      tipo: "Requisito fraco"
     - LOB1004:
       sigla: "LOB1004"
       nome: " Cálculo II "
+      tipo: "Requisito fraco"
+    - LOM3260:
+      sigla: "LOM3260"
+      nome: " Computação Científica em Python "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -3399,7 +3399,7 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "21"
+          Inscritos: "24"
           Pendentes: "0"
           Matriculados: "21"
         - EEL_-_Engenharia_Fisica:
@@ -3443,13 +3443,13 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
   nomeascii: " Fisica Estatistica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3217&codcur=88301&codhab=0"
   requisitos:
-    - LOB1052:
-      sigla: "LOB1052"
-      nome: " Cálculo III "
-      tipo: "Requisito fraco"
     - LOB1019:
       sigla: "LOB1019"
       nome: " Física II "
+      tipo: "Requisito fraco"
+    - LOB1052:
+      sigla: "LOB1052"
+      nome: " Cálculo III "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -3504,6 +3504,10 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
   nomeascii: " Mecanica Quantica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3226&codcur=88301&codhab=0"
   requisitos:
+    - LOB1021:
+      sigla: "LOB1021"
+      nome: " Física IV "
+      tipo: "Requisito fraco"
     - LOM3253:
       sigla: "LOM3253"
       nome: " Física Matemática "
@@ -3511,10 +3515,6 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
     - LOM3257:
       sigla: "LOM3257"
       nome: " Mecânica Clássica "
-      tipo: "Requisito fraco"
-    - LOB1021:
-      sigla: "LOB1021"
-      nome: " Física IV "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -3569,13 +3569,13 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
   nomeascii: " Metodos Computacionais da Fisica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3227&codcur=88301&codhab=0"
   requisitos:
-    - LOB1006:
-      sigla: "LOB1006"
-      nome: " Cálculo IV "
-      tipo: "Requisito fraco"
     - LOM3260:
       sigla: "LOM3260"
       nome: " Computação Científica em Python "
+      tipo: "Requisito fraco"
+    - LOB1006:
+      sigla: "LOB1006"
+      nome: " Cálculo IV "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -3622,13 +3622,13 @@ KOONIN, S. E. Computational Physics. Benjamin Cummings, 1986."
       vagas:
         - Obrigatoria:
           Vagas: "30"
-          Inscritos: "27"
-          Pendentes: "1"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Fisica:
           Vagas: "30"
-          Inscritos: "27"
-          Pendentes: "1"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
 - LOM3228:
   sigla: "LOM3228"
@@ -3738,12 +3738,12 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
         - Obrigatoria:
           Vagas: "50"
           Inscritos: "21"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Fisica:
           Vagas: "50"
-          Inscritos: "21"
-          Pendentes: "1"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "20"
 - LOQ4234:
   sigla: "LOQ4234"
@@ -3792,7 +3792,7 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "65"
           Pendentes: "0"
           Matriculados: "58"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -3832,9 +3832,9 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
+          Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "60"
+          Matriculados: "58"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "10"
           Inscritos: "10"
@@ -3862,9 +3862,9 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
           Matriculados: "10"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "5"
-          Inscritos: "5"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "5"
+          Matriculados: "3"
 - LOM3049:
   sigla: "LOM3049"
   nome: " Termodinâmica de Máquinas"
@@ -3911,7 +3911,7 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "26"
+          Inscritos: "27"
           Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_de_Materiais:
@@ -3968,13 +3968,13 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       sigla: "LOM3246"
       nome: " Técnicas de Caracterização de Materiais "
       tipo: "Indicação de Conjunto"
-    - LOM3016:
-      sigla: "LOM3016"
-      nome: " Introdução à  Ciência dos Materiais "
-      tipo: "Requisito fraco"
     - LOB1021:
       sigla: "LOB1021"
       nome: " Física IV "
+      tipo: "Requisito fraco"
+    - LOM3016:
+      sigla: "LOM3016"
+      nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -4091,13 +4091,13 @@ BATEMAN, A.; PATERSON-STEPHENS, I. The DSP Handbook: Algorithms, Applications an
   nomeascii: " Projeto Integrado"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3238&codcur=88301&codhab=0"
   requisitos:
-    - LOB1045:
-      sigla: "LOB1045"
-      nome: " Leitura e Produção de Textos Acadêmicos "
-      tipo: "Requisito fraco"
     - LOB1008:
       sigla: "LOB1008"
       nome: " Ciência, Tecnologia e Sociedade "
+      tipo: "Requisito fraco"
+    - LOB1045:
+      sigla: "LOB1045"
+      nome: " Leitura e Produção de Textos Acadêmicos "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -4136,13 +4136,13 @@ ANDRADE, M. M. Introdução à Metodologia do Trabalho Científico São Paulo: A
       sigla: "LOM3229"
       nome: " Métodos Experimentais da Física II "
       tipo: "Indicação de Conjunto"
-    - LOM3016:
-      sigla: "LOM3016"
-      nome: " Introdução à  Ciência dos Materiais "
-      tipo: "Requisito fraco"
     - LOB1021:
       sigla: "LOB1021"
       nome: " Física IV "
+      tipo: "Requisito fraco"
+    - LOM3016:
+      sigla: "LOM3016"
+      nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -4183,13 +4183,13 @@ SCHRAMM, G. Reologia e Reometria. Editora Artliber, 2006."
   nomeascii: " Materiais e Dispositivos Magneticos e Supercondutores"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3223&codcur=88301&codhab=0"
   requisitos:
-    - LOM3263:
-      sigla: "LOM3263"
-      nome: " Eletrônica Fundamental e Aplicada "
-      tipo: "Requisito fraco"
     - LOM3215:
       sigla: "LOM3215"
       nome: " Física do Estado Sólido "
+      tipo: "Requisito fraco"
+    - LOM3263:
+      sigla: "LOM3263"
+      nome: " Eletrônica Fundamental e Aplicada "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -4341,7 +4341,7 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "13"
+          Inscritos: "14"
           Pendentes: "0"
           Matriculados: "13"
         - EEL_-_Engenharia_Fisica:
@@ -4398,7 +4398,7 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "35"
+          Inscritos: "38"
           Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -4428,13 +4428,13 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "49"
-          Pendentes: "3"
+          Inscritos: "48"
+          Pendentes: "0"
           Matriculados: "46"
         - EEL_-_Engenharia_Fisica:
           Vagas: "30"
-          Inscritos: "29"
-          Pendentes: "3"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "10"
@@ -4489,7 +4489,7 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "69"
+          Inscritos: "73"
           Pendentes: "0"
           Matriculados: "69"
         - EEL_-_Engenharia_de_Producao:
@@ -4784,8 +4784,8 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "22"
-          Pendentes: "1"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "21"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "31"
@@ -4809,8 +4809,8 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
           Matriculados: "1"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "8"
-          Inscritos: "7"
-          Pendentes: "1"
+          Inscritos: "6"
+          Pendentes: "0"
           Matriculados: "6"
     - 20241D3:
       Codigo_da_Turma: "20241D3"
@@ -4824,8 +4824,8 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "34"
-          Pendentes: "1"
+          Inscritos: "39"
+          Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "16"
@@ -4839,8 +4839,8 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
           Matriculados: "2"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "10"
-          Inscritos: "10"
-          Pendentes: "1"
+          Inscritos: "9"
+          Pendentes: "0"
           Matriculados: "9"
         - EEL_-_Engenharia_Fisica:
           Vagas: "15"
@@ -4864,7 +4864,7 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "27"
+          Inscritos: "29"
           Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -4884,8 +4884,8 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "61"
-          Pendentes: "2"
+          Inscritos: "62"
+          Pendentes: "0"
           Matriculados: "59"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "38"
@@ -4899,8 +4899,8 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
           Matriculados: "3"
         - EEL_-_Engenharia_Fisica:
           Vagas: "12"
-          Inscritos: "12"
-          Pendentes: "2"
+          Inscritos: "10"
+          Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "11"
@@ -4981,7 +4981,7 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
+          Inscritos: "56"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_Fisica:
@@ -5026,7 +5026,7 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
+          Inscritos: "52"
           Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -5129,7 +5129,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       vagas:
         - Obrigatoria:
           Vagas: "58"
-          Inscritos: "39"
+          Inscritos: "48"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -5175,9 +5175,9 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       vagas:
         - Obrigatoria:
           Vagas: "56"
-          Inscritos: "39"
+          Inscritos: "47"
           Pendentes: "0"
-          Matriculados: "39"
+          Matriculados: "40"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "15"
           Inscritos: "15"
@@ -5221,7 +5221,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       vagas:
         - Obrigatoria:
           Vagas: "59"
-          Inscritos: "57"
+          Inscritos: "61"
           Pendentes: "0"
           Matriculados: "57"
         - EEL_-_Engenharia_Fisica:
@@ -5296,7 +5296,7 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "49"
+          Inscritos: "50"
           Pendentes: "0"
           Matriculados: "49"
         - EEL_-_Engenharia_Fisica:
@@ -5367,65 +5367,25 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
   nomeascii: " Estagio Supervisionado"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3210&codcur=88301&codhab=0"
   requisitos:
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito"
     - LOB1045:
       sigla: "LOB1045"
       nome: " Leitura e Produção de Textos Acadêmicos "
-      tipo: "Requisito"
-    - LOM3261:
-      sigla: "LOM3261"
-      nome: " Métodos Numéricos e Aplicações "
-      tipo: "Requisito"
-    - LOQ4095:
-      sigla: "LOQ4095"
-      nome: " Química Geral Experimental "
-      tipo: "Requisito"
-    - LOQ4100:
-      sigla: "LOQ4100"
-      nome: " Fundamentos de Química para Engenharia I"
-      tipo: "Requisito"
-    - LOB1006:
-      sigla: "LOB1006"
-      nome: " Cálculo IV "
       tipo: "Requisito"
     - LOB1008:
       sigla: "LOB1008"
       nome: " Ciência, Tecnologia e Sociedade "
       tipo: "Requisito"
-    - LOB1037:
-      sigla: "LOB1037"
-      nome: " Àlgebra Linear "
-      tipo: "Requisito"
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
-    - LOM3241:
-      sigla: "LOM3241"
-      nome: " Química de Materiais "
-      tipo: "Requisito"
-    - LOB1003:
-      sigla: "LOB1003"
-      nome: " Cálculo I "
-      tipo: "Requisito"
-    - LOB1012:
-      sigla: "LOB1012"
-      nome: " Estatística "
-      tipo: "Requisito"
-    - LOB1018:
-      sigla: "LOB1018"
-      nome: " Física I "
-      tipo: "Requisito"
     - LOB1036:
       sigla: "LOB1036"
       nome: " Geometria Analítica "
       tipo: "Requisito"
-    - LOB1038:
-      sigla: "LOB1038"
-      nome: " Física Experimental I "
-      tipo: "Requisito"
-    - LOB1039:
-      sigla: "LOB1039"
-      nome: " Física Experimental III "
+    - LOB1037:
+      sigla: "LOB1037"
+      nome: " Àlgebra Linear "
       tipo: "Requisito"
     - LOB1041:
       sigla: "LOB1041"
@@ -5435,41 +5395,81 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       sigla: "LOB1042"
       nome: " Física Experimental IV "
       tipo: "Requisito"
-    - LOB1052:
-      sigla: "LOB1052"
-      nome: " Cálculo III "
+    - LOQ4095:
+      sigla: "LOQ4095"
+      nome: " Química Geral Experimental "
       tipo: "Requisito"
-    - LOM3016:
-      sigla: "LOM3016"
-      nome: " Introdução à  Ciência dos Materiais "
+    - LOB1039:
+      sigla: "LOB1039"
+      nome: " Física Experimental III "
       tipo: "Requisito"
-    - LOM3218:
-      sigla: "LOM3218"
-      nome: " Introdução à Engenharia Física "
+    - LOB1018:
+      sigla: "LOB1018"
+      nome: " Física I "
       tipo: "Requisito"
-    - LOM3260:
-      sigla: "LOM3260"
-      nome: " Computação Científica em Python "
+    - LOQ4100:
+      sigla: "LOQ4100"
+      nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito"
     - LOB1004:
       sigla: "LOB1004"
       nome: " Cálculo II "
       tipo: "Requisito"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
+    - LOB1038:
+      sigla: "LOB1038"
+      nome: " Física Experimental I "
+      tipo: "Requisito"
+    - LOB1052:
+      sigla: "LOB1052"
+      nome: " Cálculo III "
+      tipo: "Requisito"
+    - LOM3236:
+      sigla: "LOM3236"
+      nome: " Processos de Fabricação "
+      tipo: "Requisito"
+    - LOM3261:
+      sigla: "LOM3261"
+      nome: " Métodos Numéricos e Aplicações "
+      tipo: "Requisito"
+    - LOM3218:
+      sigla: "LOM3218"
+      nome: " Introdução à Engenharia Física "
+      tipo: "Requisito"
+    - LOB1003:
+      sigla: "LOB1003"
+      nome: " Cálculo I "
+      tipo: "Requisito"
+    - LOB1006:
+      sigla: "LOB1006"
+      nome: " Cálculo IV "
+      tipo: "Requisito"
+    - LOM3241:
+      sigla: "LOM3241"
+      nome: " Química de Materiais "
       tipo: "Requisito"
     - LOB1021:
       sigla: "LOB1021"
       nome: " Física IV "
       tipo: "Requisito"
+    - LOM3016:
+      sigla: "LOM3016"
+      nome: " Introdução à  Ciência dos Materiais "
+      tipo: "Requisito"
+    - LOM3260:
+      sigla: "LOM3260"
+      nome: " Computação Científica em Python "
+      tipo: "Requisito"
     - LOM3204:
       sigla: "LOM3204"
       nome: " Desenho Técnico e Projeto Assistido por Computador "
       tipo: "Requisito"
-    - LOM3236:
-      sigla: "LOM3236"
-      nome: " Processos de Fabricação "
+    - LOB1012:
+      sigla: "LOB1012"
+      nome: " Estatística "
+      tipo: "Requisito"
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -5615,13 +5615,13 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
   nomeascii: " Termodinamica de Materiais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3015&codcur=88301&codhab=0"
   requisitos:
-    - LOQ4100:
-      sigla: "LOQ4100"
-      nome: " Fundamentos de Química para Engenharia I"
-      tipo: "Requisito fraco"
     - LOB1004:
       sigla: "LOB1004"
       nome: " Cálculo II "
+      tipo: "Requisito fraco"
+    - LOQ4100:
+      sigla: "LOQ4100"
+      nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
@@ -6198,13 +6198,13 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "42"
-          Pendentes: "1"
+          Inscritos: "49"
+          Pendentes: "0"
           Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "42"
-          Pendentes: "1"
+          Inscritos: "41"
+          Pendentes: "0"
           Matriculados: "41"
     - 20241P1:
       Codigo_da_Turma: "20241P1"
@@ -6218,7 +6218,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "62"
           Pendentes: "0"
           Matriculados: "58"
         - EEL_-_Engenharia_de_Producao:
@@ -6606,8 +6606,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "57"
-          Pendentes: "1"
+          Inscritos: "64"
+          Pendentes: "0"
           Matriculados: "56"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "10"
@@ -6616,8 +6616,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
           Matriculados: "10"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "18"
-          Inscritos: "18"
-          Pendentes: "1"
+          Inscritos: "17"
+          Pendentes: "0"
           Matriculados: "17"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "2"
@@ -6651,7 +6651,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "50"
           Pendentes: "0"
           Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -6696,7 +6696,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "20"
+          Inscritos: "21"
           Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -6769,6 +6769,10 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
   nomeascii: " Tecnicas de Analise Quimica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3047&codcur=88202&codhab=0"
   requisitos:
+    - LOB1012:
+      sigla: "LOB1012"
+      nome: " Estatística "
+      tipo: "Requisito fraco"
     - LOQ4095:
       sigla: "LOQ4095"
       nome: " Química Geral Experimental "
@@ -6776,10 +6780,6 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
     - LOQ4098:
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
-      tipo: "Requisito fraco"
-    - LOB1012:
-      sigla: "LOB1012"
-      nome: " Estatística "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -6922,13 +6922,13 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "23"
-          Pendentes: "2"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "21"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "50"
-          Inscritos: "23"
-          Pendentes: "2"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "21"
 - LOM3057:
   sigla: "LOM3057"
@@ -7033,7 +7033,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "19"
+          Inscritos: "20"
           Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_de_Materiais:
@@ -7088,7 +7088,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "30"
-          Inscritos: "4"
+          Inscritos: "5"
           Pendentes: "0"
           Matriculados: "4"
         - EEL_-_Engenharia_de_Materiais:
@@ -7213,7 +7213,7 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "10"
+          Inscritos: "11"
           Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_de_Materiais:
@@ -7227,13 +7227,13 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
   nomeascii: " Ensaios Mecanicos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3011&codcur=88202&codhab=0"
   requisitos:
-    - LOM3107:
-      sigla: "LOM3107"
-      nome: " Mecânica dos Sólidos Deformáveis "
-      tipo: "Requisito fraco"
     - LOM3013:
       sigla: "LOM3013"
       nome: " Ciência dos Materiais "
+      tipo: "Requisito fraco"
+    - LOM3107:
+      sigla: "LOM3107"
+      nome: " Mecânica dos Sólidos Deformáveis "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -7265,13 +7265,13 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
   nomeascii: " Propriedades Mecanicas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3036&codcur=88202&codhab=0"
   requisitos:
-    - LOM3107:
-      sigla: "LOM3107"
-      nome: " Mecânica dos Sólidos Deformáveis "
-      tipo: "Requisito fraco"
     - LOM3013:
       sigla: "LOM3013"
       nome: " Ciência dos Materiais "
+      tipo: "Requisito fraco"
+    - LOM3107:
+      sigla: "LOM3107"
+      nome: " Mecânica dos Sólidos Deformáveis "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -7303,13 +7303,13 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
   nomeascii: " Quimica de Polimeros"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3058&codcur=88202&codhab=0"
   requisitos:
-    - LOM3056:
-      sigla: "LOM3056"
-      nome: " Fundamentos de Química Orgânica "
-      tipo: "Requisito fraco"
     - LOM3057:
       sigla: "LOM3057"
       nome: " Introdução aos Materiais Poliméricos "
+      tipo: "Requisito fraco"
+    - LOM3056:
+      sigla: "LOM3056"
+      nome: " Fundamentos de Química Orgânica "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -7549,7 +7549,7 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "59"
+          Inscritos: "62"
           Pendentes: "0"
           Matriculados: "59"
         - EEL_-_Engenharia_Ambiental:
@@ -7574,9 +7574,9 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "59"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "59"
+          Matriculados: "58"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "42"
           Inscritos: "41"
@@ -7599,9 +7599,9 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
           Matriculados: "6"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "4"
-          Inscritos: "4"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "4"
+          Matriculados: "3"
     - 20241N2:
       Codigo_da_Turma: "20241N2"
       Inicio: "26/02/2024"
@@ -7614,7 +7614,7 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "24"
+          Inscritos: "27"
           Pendentes: "0"
           Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -7691,13 +7691,13 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "20"
-          Pendentes: "7"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "13"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "50"
-          Inscritos: "20"
-          Pendentes: "7"
+          Inscritos: "13"
+          Pendentes: "0"
           Matriculados: "13"
 - LOM3008:
   sigla: "LOM3008"
@@ -7745,13 +7745,13 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "19"
-          Pendentes: "1"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "18"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "50"
-          Inscritos: "19"
-          Pendentes: "1"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "18"
 - LOM3027:
   sigla: "LOM3027"
@@ -7975,13 +7975,13 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
   nomeascii: " Propriedades Eletricas, Magneticas, Termicas e Opticas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3096&codcur=88202&codhab=0"
   requisitos:
-    - LOM3109:
-      sigla: "LOM3109"
-      nome: " Fundamentos da Física Moderna "
-      tipo: "Requisito fraco"
     - LOM3013:
       sigla: "LOM3013"
       nome: " Ciência dos Materiais "
+      tipo: "Requisito fraco"
+    - LOM3109:
+      sigla: "LOM3109"
+      nome: " Fundamentos da Física Moderna "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -8083,7 +8083,7 @@ edição, 1993.
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "3"
+          Inscritos: "5"
           Pendentes: "0"
           Matriculados: "3"
         - EEL_-_Engenharia_de_Materiais:
@@ -8206,13 +8206,13 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   nomeascii: " Degradacao e Protecao de Materiais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3006&codcur=88202&codhab=0"
   requisitos:
-    - LOM3003:
-      sigla: "LOM3003"
-      nome: " Cinética de Transformação em Materiais "
-      tipo: "Requisito fraco"
     - LOM3008:
       sigla: "LOM3008"
       nome: " Eletrometalurgia "
+      tipo: "Requisito fraco"
+    - LOM3003:
+      sigla: "LOM3003"
+      nome: " Cinética de Transformação em Materiais "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -8244,17 +8244,17 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
   nomeascii: " Selecao de Materiais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3043&codcur=88202&codhab=0"
   requisitos:
-    - LOM3057:
-      sigla: "LOM3057"
-      nome: " Introdução aos Materiais Poliméricos "
+    - LOM3036:
+      sigla: "LOM3036"
+      nome: " Propriedades Mecânicas "
       tipo: "Requisito fraco"
     - LOM3082:
       sigla: "LOM3082"
       nome: " Cerâmica Física "
       tipo: "Requisito fraco"
-    - LOM3036:
-      sigla: "LOM3036"
-      nome: " Propriedades Mecânicas "
+    - LOM3057:
+      sigla: "LOM3057"
+      nome: " Introdução aos Materiais Poliméricos "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -8328,13 +8328,13 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
   nomeascii: " Laboratorio de Engenharia de Materiais IV"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3088&codcur=88202&codhab=0"
   requisitos:
-    - LOM3057:
-      sigla: "LOM3057"
-      nome: " Introdução aos Materiais Poliméricos "
-      tipo: "Requisito fraco"
     - LOM3058:
       sigla: "LOM3058"
       nome: " Química de Polímeros "
+      tipo: "Requisito fraco"
+    - LOM3057:
+      sigla: "LOM3057"
+      nome: " Introdução aos Materiais Poliméricos "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -8443,7 +8443,7 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "9"
+          Inscritos: "10"
           Pendentes: "0"
           Matriculados: "8"
         - EEL_-_Engenharia_de_Materiais:
@@ -8457,29 +8457,93 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
   nomeascii: " Estagio Supervisionado"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3070&codcur=88202&codhab=0"
   requisitos:
-    - LOB1045:
-      sigla: "LOB1045"
-      nome: " Leitura e Produção de Textos Acadêmicos "
-      tipo: "Requisito"
-    - LOM3105:
-      sigla: "LOM3105"
-      nome: " Computação e análise de dados em Engenharia "
-      tipo: "Requisito"
-    - LOQ4095:
-      sigla: "LOQ4095"
-      nome: " Química Geral Experimental "
+    - LOQ4100:
+      sigla: "LOQ4100"
+      nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito"
     - LOQ4098:
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito"
-    - LOQ4100:
-      sigla: "LOQ4100"
-      nome: " Fundamentos de Química para Engenharia I"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito"
+    - LOB1038:
+      sigla: "LOB1038"
+      nome: " Física Experimental I "
+      tipo: "Requisito"
+    - LOM3013:
+      sigla: "LOM3013"
+      nome: " Ciência dos Materiais "
+      tipo: "Requisito"
+    - LOB1018:
+      sigla: "LOB1018"
+      nome: " Física I "
+      tipo: "Requisito"
+    - LOB1041:
+      sigla: "LOB1041"
+      nome: " Física Experimental II "
+      tipo: "Requisito"
+    - LOQ4095:
+      sigla: "LOQ4095"
+      nome: " Química Geral Experimental "
+      tipo: "Requisito"
+    - LOB1036:
+      sigla: "LOB1036"
+      nome: " Geometria Analítica "
+      tipo: "Requisito"
+    - LOM3037:
+      sigla: "LOM3037"
+      nome: " Química Inorgânica "
+      tipo: "Requisito"
+    - LOM3099:
+      sigla: "LOM3099"
+      nome: " Estática "
+      tipo: "Requisito"
+    - LOM3204:
+      sigla: "LOM3204"
+      nome: " Desenho Técnico e Projeto Assistido por Computador "
+      tipo: "Requisito"
+    - LOM3056:
+      sigla: "LOM3056"
+      nome: " Fundamentos de Química Orgânica "
       tipo: "Requisito"
     - LOQ4246:
       sigla: "LOQ4246"
       nome: " Engenharia da Sustentabilidade "
+      tipo: "Requisito"
+    - LOM3018:
+      sigla: "LOM3018"
+      nome: " Introdução à Engenharia de Materiais "
+      tipo: "Requisito"
+    - LOB1012:
+      sigla: "LOB1012"
+      nome: " Estatística "
+      tipo: "Requisito"
+    - LOB1004:
+      sigla: "LOB1004"
+      nome: " Cálculo II "
+      tipo: "Requisito"
+    - LOB1046:
+      sigla: "LOB1046"
+      nome: " Engenharia do Meio Ambiente "
+      tipo: "Requisito"
+    - LOB1003:
+      sigla: "LOB1003"
+      nome: " Cálculo I "
+      tipo: "Requisito"
+    - LOB1045:
+      sigla: "LOB1045"
+      nome: " Leitura e Produção de Textos Acadêmicos "
+      tipo: "Requisito"
+    - LOB1052:
+      sigla: "LOB1052"
+      nome: " Cálculo III "
+      tipo: "Requisito"
+    - LOM3104:
+      sigla: "LOM3104"
+      nome: " Projeto Integrado em Engenharia de Materiais I "
       tipo: "Requisito"
     - LOB1008:
       sigla: "LOB1008"
@@ -8489,81 +8553,17 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       sigla: "LOB1037"
       nome: " Àlgebra Linear "
       tipo: "Requisito"
-    - LOB1046:
-      sigla: "LOB1046"
-      nome: " Engenharia do Meio Ambiente "
-      tipo: "Requisito"
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
-    - LOM3104:
-      sigla: "LOM3104"
-      nome: " Projeto Integrado em Engenharia de Materiais I "
-      tipo: "Requisito"
-    - LOB1003:
-      sigla: "LOB1003"
-      nome: " Cálculo I "
-      tipo: "Requisito"
-    - LOB1012:
-      sigla: "LOB1012"
-      nome: " Estatística "
-      tipo: "Requisito"
-    - LOB1018:
-      sigla: "LOB1018"
-      nome: " Física I "
-      tipo: "Requisito"
-    - LOB1036:
-      sigla: "LOB1036"
-      nome: " Geometria Analítica "
-      tipo: "Requisito"
-    - LOB1038:
-      sigla: "LOB1038"
-      nome: " Física Experimental I "
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
       tipo: "Requisito"
     - LOB1039:
       sigla: "LOB1039"
       nome: " Física Experimental III "
       tipo: "Requisito"
-    - LOB1041:
-      sigla: "LOB1041"
-      nome: " Física Experimental II "
-      tipo: "Requisito"
-    - LOB1052:
-      sigla: "LOB1052"
-      nome: " Cálculo III "
-      tipo: "Requisito"
-    - LOM3037:
-      sigla: "LOM3037"
-      nome: " Química Inorgânica "
-      tipo: "Requisito"
-    - LOM3056:
-      sigla: "LOM3056"
-      nome: " Fundamentos de Química Orgânica "
-      tipo: "Requisito"
-    - LOM3099:
-      sigla: "LOM3099"
-      nome: " Estática "
-      tipo: "Requisito"
-    - LOB1004:
-      sigla: "LOB1004"
-      nome: " Cálculo II "
-      tipo: "Requisito"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
-      tipo: "Requisito"
-    - LOM3018:
-      sigla: "LOM3018"
-      nome: " Introdução à Engenharia de Materiais "
-      tipo: "Requisito"
-    - LOM3204:
-      sigla: "LOM3204"
-      nome: " Desenho Técnico e Projeto Assistido por Computador "
-      tipo: "Requisito"
-    - LOM3013:
-      sigla: "LOM3013"
-      nome: " Ciência dos Materiais "
+    - LOM3105:
+      sigla: "LOM3105"
+      nome: " Computação e análise de dados em Engenharia "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -8659,21 +8659,21 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
   nomeascii: " Biomateriais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3092&codcur=88202&codhab=0"
   requisitos:
-    - LOM3011:
-      sigla: "LOM3011"
-      nome: " Ensaios Mecânicos "
-      tipo: "Requisito"
     - LOM3036:
       sigla: "LOM3036"
       nome: " Propriedades Mecânicas "
       tipo: "Requisito"
-    - LOM3046:
-      sigla: "LOM3046"
-      nome: " Técnicas de Análise Microestrutural "
+    - LOM3011:
+      sigla: "LOM3011"
+      nome: " Ensaios Mecânicos "
       tipo: "Requisito"
     - LOM3013:
       sigla: "LOM3013"
       nome: " Ciência dos Materiais "
+      tipo: "Requisito"
+    - LOM3046:
+      sigla: "LOM3046"
+      nome: " Técnicas de Análise Microestrutural "
       tipo: "Requisito"
   tipo: "Optativas"
   semestre:
@@ -9485,13 +9485,13 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Mecanica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1024&codcur=88251&codhab=0"
   requisitos:
-    - LOB1018:
-      sigla: "LOB1018"
-      nome: " Física I "
-      tipo: "Requisito fraco"
     - LOB1004:
       sigla: "LOB1004"
       nome: " Cálculo II "
+      tipo: "Requisito fraco"
+    - LOB1018:
+      sigla: "LOB1018"
+      nome: " Física I "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -9535,18 +9535,18 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "2"
-          Matriculados: "39"
+          Inscritos: "42"
+          Pendentes: "0"
+          Matriculados: "38"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "30"
-          Inscritos: "23"
-          Pendentes: "1"
-          Matriculados: "22"
+          Inscritos: "21"
+          Pendentes: "0"
+          Matriculados: "21"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "30"
-          Inscritos: "18"
-          Pendentes: "1"
+          Inscritos: "17"
+          Pendentes: "0"
           Matriculados: "17"
     - 20241D2:
       Codigo_da_Turma: "20241D2"
@@ -9563,14 +9563,14 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "46"
-          Pendentes: "1"
-          Matriculados: "45"
+          Inscritos: "49"
+          Pendentes: "0"
+          Matriculados: "44"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "46"
-          Pendentes: "1"
-          Matriculados: "45"
+          Inscritos: "44"
+          Pendentes: "0"
+          Matriculados: "44"
     - 20241D3:
       Codigo_da_Turma: "20241D3"
       Inicio: "26/02/2024"
@@ -9629,13 +9629,13 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "58"
-          Pendentes: "4"
+          Inscritos: "66"
+          Pendentes: "0"
           Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "44"
-          Inscritos: "42"
-          Pendentes: "4"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "4"
@@ -9672,7 +9672,7 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "39"
+          Inscritos: "42"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_de_Producao:
@@ -9706,13 +9706,13 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Introducao aos Metodos Numericos e Computacionais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1056&codcur=88251&codhab=0"
   requisitos:
-    - LOB1036:
-      sigla: "LOB1036"
-      nome: " Geometria Analítica "
-      tipo: "Requisito fraco"
     - LOB1004:
       sigla: "LOB1004"
       nome: " Cálculo II "
+      tipo: "Requisito fraco"
+    - LOB1036:
+      sigla: "LOB1036"
+      nome: " Geometria Analítica "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -9753,7 +9753,7 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "16"
+          Inscritos: "30"
           Pendentes: "0"
           Matriculados: "16"
         - EEL_-_Engenharia_Ambiental:
@@ -9773,13 +9773,13 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "14"
-          Pendentes: "1"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "13"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "14"
-          Pendentes: "1"
+          Inscritos: "13"
+          Pendentes: "0"
           Matriculados: "13"
     - 20241D3:
       Codigo_da_Turma: "20241D3"
@@ -9793,7 +9793,7 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
+          Inscritos: "42"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -9834,13 +9834,13 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "18"
-          Pendentes: "2"
+          Inscritos: "16"
+          Pendentes: "0"
           Matriculados: "16"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "18"
-          Pendentes: "2"
+          Inscritos: "16"
+          Pendentes: "0"
           Matriculados: "16"
     - 20241N6:
       Codigo_da_Turma: "20241N6"
@@ -9856,12 +9856,12 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
         - Obrigatoria:
           Vagas: "25"
           Inscritos: "5"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "4"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "25"
-          Inscritos: "5"
-          Pendentes: "1"
+          Inscritos: "4"
+          Pendentes: "0"
           Matriculados: "4"
 - LOB1210:
   sigla: "LOB1210"
@@ -9971,9 +9971,9 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
+          Inscritos: "39"
           Pendentes: "0"
-          Matriculados: "38"
+          Matriculados: "39"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "22"
           Inscritos: "20"
@@ -10006,7 +10006,7 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "33"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Bioquimica:
@@ -10026,9 +10026,9 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "26"
+          Inscritos: "25"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "25"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "34"
           Inscritos: "21"
@@ -10036,9 +10036,9 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
           Matriculados: "21"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "3"
-          Inscritos: "3"
+          Inscritos: "2"
           Pendentes: "0"
-          Matriculados: "3"
+          Matriculados: "2"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "2"
           Inscritos: "2"
@@ -10061,7 +10061,7 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "11"
+          Inscritos: "12"
           Pendentes: "0"
           Matriculados: "11"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -10389,7 +10389,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "24"
+          Inscritos: "28"
           Pendentes: "0"
           Matriculados: "24"
         - EEL_-_Engenharia_Bioquimica:
@@ -10475,13 +10475,13 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "23"
-          Pendentes: "1"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "31"
-          Inscritos: "17"
-          Pendentes: "1"
+          Inscritos: "16"
+          Pendentes: "0"
           Matriculados: "16"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "1"
@@ -10592,7 +10592,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "37"
+          Inscritos: "41"
           Pendentes: "0"
           Matriculados: "37"
         - EEL_-_Engenharia_Bioquimica:
@@ -10634,7 +10634,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
           Vagas: "40"
           Inscritos: "25"
           Pendentes: "0"
-          Matriculados: "25"
+          Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
           Inscritos: "20"
@@ -10649,7 +10649,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
           Vagas: "1"
           Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "4"
           Inscritos: "4"
@@ -10672,7 +10672,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "36"
+          Inscritos: "39"
           Pendentes: "0"
           Matriculados: "36"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -10726,7 +10726,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "16"
+          Inscritos: "17"
           Pendentes: "0"
           Matriculados: "16"
         - EEL_-_Engenharia_Ambiental:
@@ -10759,14 +10759,14 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "52"
-          Inscritos: "50"
-          Pendentes: "1"
-          Matriculados: "49"
+          Inscritos: "48"
+          Pendentes: "0"
+          Matriculados: "48"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "52"
-          Inscritos: "50"
-          Pendentes: "1"
-          Matriculados: "49"
+          Inscritos: "48"
+          Pendentes: "0"
+          Matriculados: "48"
 - LOB1221:
   sigla: "LOB1221"
   nome: " Legislação Ambiental"
@@ -10874,7 +10874,7 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "28"
+          Inscritos: "29"
           Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Ambiental:
@@ -10928,13 +10928,13 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "2"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "2"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "38"
 - LOQ4084:
   sigla: "LOQ4084"
@@ -10942,10 +10942,6 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
   nomeascii: " Fenomenos de Transporte II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4084&codcur=88251&codhab=0"
   requisitos:
-    - LOQ4083:
-      sigla: "LOQ4083"
-      nome: " Fenômenos de Transporte I "
-      tipo: "Requisito fraco"
     - LOB1006:
       sigla: "LOB1006"
       nome: " Cálculo IV "
@@ -10953,6 +10949,10 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
     - LOB1019:
       sigla: "LOB1019"
       nome: " Física II "
+      tipo: "Requisito fraco"
+    - LOQ4083:
+      sigla: "LOQ4083"
+      nome: " Fenômenos de Transporte I "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -10995,8 +10995,8 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "16"
-          Pendentes: "1"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "15"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "4"
@@ -11005,8 +11005,8 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
           Matriculados: "4"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "56"
-          Inscritos: "12"
-          Pendentes: "1"
+          Inscritos: "11"
+          Pendentes: "0"
           Matriculados: "11"
     - 20241D1:
       Codigo_da_Turma: "20241D1"
@@ -11023,13 +11023,13 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "24"
-          Pendentes: "3"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "21"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "20"
-          Inscritos: "17"
-          Pendentes: "3"
+          Inscritos: "14"
+          Pendentes: "0"
           Matriculados: "14"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
@@ -11089,27 +11089,27 @@ SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "31"
+          Inscritos: "30"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "30"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "31"
+          Inscritos: "30"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "30"
 - LOB1202:
   sigla: "LOB1202"
   nome: " Introdução ao Gerenciamento de Projetos Ambientais"
   nomeascii: " Introducao ao Gerenciamento de Projetos Ambientais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1202&codcur=88251&codhab=0"
   requisitos:
-    - LOB1206:
-      sigla: "LOB1206"
-      nome: " Solos I "
-      tipo: "Requisito fraco"
     - LOQ4233:
       sigla: "LOQ4233"
       nome: " Gestão de Negócios "
+      tipo: "Requisito fraco"
+    - LOB1206:
+      sigla: "LOB1206"
+      nome: " Solos I "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -11288,14 +11288,14 @@ Project Management Institute. PMBok, 2013"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "29"
-          Pendentes: "4"
-          Matriculados: "25"
+          Inscritos: "25"
+          Pendentes: "0"
+          Matriculados: "24"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "29"
-          Pendentes: "4"
-          Matriculados: "25"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
 - LOB1265:
   sigla: "LOB1265"
   nome: " Epidemiologia Ambiental"
@@ -11378,7 +11378,7 @@ Project Management Institute. PMBok, 2013"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "23"
+          Inscritos: "26"
           Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Bioquimica:
@@ -11413,13 +11413,13 @@ Project Management Institute. PMBok, 2013"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "23"
-          Pendentes: "1"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "22"
-          Inscritos: "7"
-          Pendentes: "1"
+          Inscritos: "6"
+          Pendentes: "0"
           Matriculados: "6"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "6"
@@ -11480,12 +11480,12 @@ Project Management Institute. PMBok, 2013"
           Vagas: "40"
           Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "31"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "32"
+          Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "31"
 - LOB1215:
   sigla: "LOB1215"
   nome: " Recursos Energéticos"
@@ -11553,14 +11553,14 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "13"
-          Pendentes: "2"
-          Matriculados: "11"
+          Inscritos: "10"
+          Pendentes: "0"
+          Matriculados: "10"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "13"
-          Pendentes: "2"
-          Matriculados: "11"
+          Inscritos: "10"
+          Pendentes: "0"
+          Matriculados: "10"
 - LOB1217:
   sigla: "LOB1217"
   nome: " Operações Unitárias e Processos"
@@ -11611,7 +11611,7 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "1"
+          Inscritos: "5"
           Pendentes: "0"
           Matriculados: "1"
         - EEL_-_Engenharia_Ambiental:
@@ -11719,13 +11719,13 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "31"
-          Pendentes: "3"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "31"
-          Pendentes: "3"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
 - LOB1240:
   sigla: "LOB1240"
@@ -11733,13 +11733,13 @@ www.aneel.gov.br"
   nomeascii: " Geotecnia Ambiental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1240&codcur=88251&codhab=0"
   requisitos:
-    - LOB1256:
-      sigla: "LOB1256"
-      nome: " Cartografia e Topografia Aplicadas à Estudos Ambientais "
-      tipo: "Requisito"
     - LOB1254:
       sigla: "LOB1254"
       nome: " Geologia "
+      tipo: "Requisito"
+    - LOB1256:
+      sigla: "LOB1256"
+      nome: " Cartografia e Topografia Aplicadas à Estudos Ambientais "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -11778,13 +11778,13 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "29"
-          Pendentes: "2"
+          Inscritos: "30"
+          Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "29"
-          Pendentes: "2"
+          Inscritos: "27"
+          Pendentes: "0"
           Matriculados: "27"
 - LOB1057:
   sigla: "LOB1057"
@@ -11823,13 +11823,13 @@ www.aneel.gov.br"
   nomeascii: " Gestao de Residuos Solidos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1209&codcur=88251&codhab=0"
   requisitos:
-    - LOB1232:
-      sigla: "LOB1232"
-      nome: " Licenciamento Ambiental "
-      tipo: "Requisito"
     - LOB1202:
       sigla: "LOB1202"
       nome: " Introdução ao Gerenciamento de Projetos Ambientais "
+      tipo: "Requisito"
+    - LOB1232:
+      sigla: "LOB1232"
+      nome: " Licenciamento Ambiental "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -11921,13 +11921,13 @@ www.aneel.gov.br"
   nomeascii: " Sistema de Abastecimento e Tratamento de Agua"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1257&codcur=88251&codhab=0"
   requisitos:
-    - LOB1212:
-      sigla: "LOB1212"
-      nome: " Química Analítica Ambiental II "
-      tipo: "Requisito fraco"
     - LOB1258:
       sigla: "LOB1258"
       nome: " Hidráulica Aplicada "
+      tipo: "Requisito fraco"
+    - LOB1212:
+      sigla: "LOB1212"
+      nome: " Química Analítica Ambiental II "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -12044,25 +12044,81 @@ www.aneel.gov.br"
   nomeascii: " Trabalho de Graduacao I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1223&codcur=88251&codhab=0"
   requisitos:
-    - LOB1045:
-      sigla: "LOB1045"
-      nome: " Leitura e Produção de Textos Acadêmicos "
+    - LOB1257:
+      sigla: "LOB1257"
+      nome: " Sistema de Abastecimento e Tratamento de Água "
       tipo: "Requisito fraco"
-    - LOB1056:
-      sigla: "LOB1056"
-      nome: " Introdução aos Métodos Numéricos e Computacionais "
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
       tipo: "Requisito fraco"
-    - LOM3081:
-      sigla: "LOM3081"
-      nome: " Introdução à Mecânica dos Sólidos "
+    - LOB1011:
+      sigla: "LOB1011"
+      nome: " Eletricidade Aplicada "
       tipo: "Requisito fraco"
-    - LOQ4095:
-      sigla: "LOQ4095"
-      nome: " Química Geral Experimental "
+    - LOB1037:
+      sigla: "LOB1037"
+      nome: " Àlgebra Linear "
+      tipo: "Requisito fraco"
+    - LOB1232:
+      sigla: "LOB1232"
+      nome: " Licenciamento Ambiental "
+      tipo: "Requisito fraco"
+    - LOB1038:
+      sigla: "LOB1038"
+      nome: " Física Experimental I "
+      tipo: "Requisito fraco"
+    - LOB1052:
+      sigla: "LOB1052"
+      nome: " Cálculo III "
+      tipo: "Requisito fraco"
+    - LOQ4233:
+      sigla: "LOQ4233"
+      nome: " Gestão de Negócios "
+      tipo: "Requisito fraco"
+    - LOB1042:
+      sigla: "LOB1042"
+      nome: " Física Experimental IV "
+      tipo: "Requisito fraco"
+    - LOB1039:
+      sigla: "LOB1039"
+      nome: " Física Experimental III "
       tipo: "Requisito fraco"
     - LOQ4097:
       sigla: "LOQ4097"
       nome: " Fundamentos de Química para Engenharia I"
+      tipo: "Requisito fraco"
+    - LOB1024:
+      sigla: "LOB1024"
+      nome: " Mecânica "
+      tipo: "Requisito fraco"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito fraco"
+    - LOB1041:
+      sigla: "LOB1041"
+      nome: " Física Experimental II "
+      tipo: "Requisito fraco"
+    - LOB1012:
+      sigla: "LOB1012"
+      nome: " Estatística "
+      tipo: "Requisito fraco"
+    - LOB1003:
+      sigla: "LOB1003"
+      nome: " Cálculo I "
+      tipo: "Requisito fraco"
+    - LOB1004:
+      sigla: "LOB1004"
+      nome: " Cálculo II "
+      tipo: "Requisito fraco"
+    - LOB1045:
+      sigla: "LOB1045"
+      nome: " Leitura e Produção de Textos Acadêmicos "
+      tipo: "Requisito fraco"
+    - LOB1006:
+      sigla: "LOB1006"
+      nome: " Cálculo IV "
       tipo: "Requisito fraco"
     - LOQ4098:
       sigla: "LOQ4098"
@@ -12072,89 +12128,33 @@ www.aneel.gov.br"
       sigla: "LOQ4247"
       nome: " Desenho Assistido por Computador "
       tipo: "Requisito fraco"
-    - LOB1006:
-      sigla: "LOB1006"
-      nome: " Cálculo IV "
-      tipo: "Requisito fraco"
-    - LOB1037:
-      sigla: "LOB1037"
-      nome: " Àlgebra Linear "
-      tipo: "Requisito fraco"
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito fraco"
-    - LOB1003:
-      sigla: "LOB1003"
-      nome: " Cálculo I "
-      tipo: "Requisito fraco"
-    - LOB1011:
-      sigla: "LOB1011"
-      nome: " Eletricidade Aplicada "
-      tipo: "Requisito fraco"
-    - LOB1012:
-      sigla: "LOB1012"
-      nome: " Estatística "
-      tipo: "Requisito fraco"
-    - LOB1018:
-      sigla: "LOB1018"
-      nome: " Física I "
-      tipo: "Requisito fraco"
-    - LOB1024:
-      sigla: "LOB1024"
-      nome: " Mecânica "
-      tipo: "Requisito fraco"
-    - LOB1036:
-      sigla: "LOB1036"
-      nome: " Geometria Analítica "
-      tipo: "Requisito fraco"
-    - LOB1038:
-      sigla: "LOB1038"
-      nome: " Física Experimental I "
-      tipo: "Requisito fraco"
-    - LOB1039:
-      sigla: "LOB1039"
-      nome: " Física Experimental III "
-      tipo: "Requisito fraco"
-    - LOB1041:
-      sigla: "LOB1041"
-      nome: " Física Experimental II "
-      tipo: "Requisito fraco"
-    - LOB1042:
-      sigla: "LOB1042"
-      nome: " Física Experimental IV "
-      tipo: "Requisito fraco"
-    - LOB1052:
-      sigla: "LOB1052"
-      nome: " Cálculo III "
-      tipo: "Requisito fraco"
-    - LOB1232:
-      sigla: "LOB1232"
-      nome: " Licenciamento Ambiental "
-      tipo: "Requisito fraco"
-    - LOB1257:
-      sigla: "LOB1257"
-      nome: " Sistema de Abastecimento e Tratamento de Água "
-      tipo: "Requisito fraco"
-    - LOM3016:
-      sigla: "LOM3016"
-      nome: " Introdução à  Ciência dos Materiais "
-      tipo: "Requisito fraco"
-    - LOB1004:
-      sigla: "LOB1004"
-      nome: " Cálculo II "
-      tipo: "Requisito fraco"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
+    - LOB1056:
+      sigla: "LOB1056"
+      nome: " Introdução aos Métodos Numéricos e Computacionais "
       tipo: "Requisito fraco"
     - LOB1021:
       sigla: "LOB1021"
       nome: " Física IV "
       tipo: "Requisito fraco"
-    - LOQ4233:
-      sigla: "LOQ4233"
-      nome: " Gestão de Negócios "
+    - LOM3081:
+      sigla: "LOM3081"
+      nome: " Introdução à Mecânica dos Sólidos "
+      tipo: "Requisito fraco"
+    - LOB1036:
+      sigla: "LOB1036"
+      nome: " Geometria Analítica "
+      tipo: "Requisito fraco"
+    - LOB1018:
+      sigla: "LOB1018"
+      nome: " Física I "
+      tipo: "Requisito fraco"
+    - LOM3016:
+      sigla: "LOM3016"
+      nome: " Introdução à  Ciência dos Materiais "
+      tipo: "Requisito fraco"
+    - LOQ4095:
+      sigla: "LOQ4095"
+      nome: " Química Geral Experimental "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -12192,7 +12192,7 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "12"
+          Inscritos: "18"
           Pendentes: "0"
           Matriculados: "12"
         - EEL_-_Engenharia_Ambiental:
@@ -12248,12 +12248,12 @@ www.aneel.gov.br"
           Vagas: "40"
           Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "30"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "31"
+          Inscritos: "30"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "30"
 - LOB1231:
   sigla: "LOB1231"
   nome: " Modelagem Matemática Aplicada"
@@ -12304,7 +12304,7 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "24"
+          Inscritos: "26"
           Pendentes: "0"
           Matriculados: "24"
         - EEL_-_Engenharia_Ambiental:
@@ -12362,14 +12362,14 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "22"
-          Pendentes: "1"
-          Matriculados: "21"
+          Inscritos: "21"
+          Pendentes: "0"
+          Matriculados: "20"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "22"
-          Pendentes: "1"
-          Matriculados: "21"
+          Inscritos: "20"
+          Pendentes: "0"
+          Matriculados: "20"
 - LOB1229:
   sigla: "LOB1229"
   nome: " Trabalho de Graduação II"
@@ -12416,13 +12416,13 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "14"
-          Pendentes: "3"
+          Inscritos: "15"
+          Pendentes: "0"
           Matriculados: "11"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "14"
-          Pendentes: "3"
+          Inscritos: "11"
+          Pendentes: "0"
           Matriculados: "11"
 - LOB1237:
   sigla: "LOB1237"
@@ -12430,13 +12430,89 @@ www.aneel.gov.br"
   nomeascii: " Estagio Supervisionado em Engenharia Ambiental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1237&codcur=88251&codhab=0"
   requisitos:
+    - LOB1003:
+      sigla: "LOB1003"
+      nome: " Cálculo I "
+      tipo: "Requisito"
+    - LOB1004:
+      sigla: "LOB1004"
+      nome: " Cálculo II "
+      tipo: "Requisito"
+    - LOB1006:
+      sigla: "LOB1006"
+      nome: " Cálculo IV "
+      tipo: "Requisito"
+    - LOB1011:
+      sigla: "LOB1011"
+      nome: " Eletricidade Aplicada "
+      tipo: "Requisito"
+    - LOB1012:
+      sigla: "LOB1012"
+      nome: " Estatística "
+      tipo: "Requisito"
+    - LOB1018:
+      sigla: "LOB1018"
+      nome: " Física I "
+      tipo: "Requisito"
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
+      tipo: "Requisito"
+    - LOB1021:
+      sigla: "LOB1021"
+      nome: " Física IV "
+      tipo: "Requisito"
+    - LOB1024:
+      sigla: "LOB1024"
+      nome: " Mecânica "
+      tipo: "Requisito"
+    - LOB1036:
+      sigla: "LOB1036"
+      nome: " Geometria Analítica "
+      tipo: "Requisito"
+    - LOB1037:
+      sigla: "LOB1037"
+      nome: " Àlgebra Linear "
+      tipo: "Requisito"
+    - LOB1038:
+      sigla: "LOB1038"
+      nome: " Física Experimental I "
+      tipo: "Requisito"
+    - LOB1039:
+      sigla: "LOB1039"
+      nome: " Física Experimental III "
+      tipo: "Requisito"
+    - LOB1040:
+      sigla: "LOB1040"
+      nome: " Laboratório de Eletricidade "
+      tipo: "Requisito"
+    - LOB1041:
+      sigla: "LOB1041"
+      nome: " Física Experimental II "
+      tipo: "Requisito"
+    - LOB1042:
+      sigla: "LOB1042"
+      nome: " Física Experimental IV "
+      tipo: "Requisito"
     - LOB1045:
       sigla: "LOB1045"
       nome: " Leitura e Produção de Textos Acadêmicos "
       tipo: "Requisito"
+    - LOB1052:
+      sigla: "LOB1052"
+      nome: " Cálculo III "
+      tipo: "Requisito"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito"
     - LOB1056:
       sigla: "LOB1056"
       nome: " Introdução aos Métodos Numéricos e Computacionais "
+      tipo: "Requisito"
+    - LOM3016:
+      sigla: "LOM3016"
+      nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito"
     - LOM3081:
       sigla: "LOM3081"
@@ -12457,82 +12533,6 @@ www.aneel.gov.br"
     - LOQ4247:
       sigla: "LOQ4247"
       nome: " Desenho Assistido por Computador "
-      tipo: "Requisito"
-    - LOB1006:
-      sigla: "LOB1006"
-      nome: " Cálculo IV "
-      tipo: "Requisito"
-    - LOB1037:
-      sigla: "LOB1037"
-      nome: " Àlgebra Linear "
-      tipo: "Requisito"
-    - LOB1040:
-      sigla: "LOB1040"
-      nome: " Laboratório de Eletricidade "
-      tipo: "Requisito"
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
-    - LOB1003:
-      sigla: "LOB1003"
-      nome: " Cálculo I "
-      tipo: "Requisito"
-    - LOB1011:
-      sigla: "LOB1011"
-      nome: " Eletricidade Aplicada "
-      tipo: "Requisito"
-    - LOB1012:
-      sigla: "LOB1012"
-      nome: " Estatística "
-      tipo: "Requisito"
-    - LOB1018:
-      sigla: "LOB1018"
-      nome: " Física I "
-      tipo: "Requisito"
-    - LOB1024:
-      sigla: "LOB1024"
-      nome: " Mecânica "
-      tipo: "Requisito"
-    - LOB1036:
-      sigla: "LOB1036"
-      nome: " Geometria Analítica "
-      tipo: "Requisito"
-    - LOB1038:
-      sigla: "LOB1038"
-      nome: " Física Experimental I "
-      tipo: "Requisito"
-    - LOB1039:
-      sigla: "LOB1039"
-      nome: " Física Experimental III "
-      tipo: "Requisito"
-    - LOB1041:
-      sigla: "LOB1041"
-      nome: " Física Experimental II "
-      tipo: "Requisito"
-    - LOB1042:
-      sigla: "LOB1042"
-      nome: " Física Experimental IV "
-      tipo: "Requisito"
-    - LOB1052:
-      sigla: "LOB1052"
-      nome: " Cálculo III "
-      tipo: "Requisito"
-    - LOM3016:
-      sigla: "LOM3016"
-      nome: " Introdução à  Ciência dos Materiais "
-      tipo: "Requisito"
-    - LOB1004:
-      sigla: "LOB1004"
-      nome: " Cálculo II "
-      tipo: "Requisito"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
-      tipo: "Requisito"
-    - LOB1021:
-      sigla: "LOB1021"
-      nome: " Física IV "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -13714,13 +13714,13 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "36"
-          Pendentes: "2"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "36"
-          Pendentes: "2"
+          Inscritos: "34"
+          Pendentes: "0"
           Matriculados: "34"
 - LOT2059:
   sigla: "LOT2059"
@@ -13771,13 +13771,13 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "39"
-          Pendentes: "2"
+          Inscritos: "38"
+          Pendentes: "0"
           Matriculados: "37"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "39"
-          Pendentes: "2"
+          Inscritos: "37"
+          Pendentes: "0"
           Matriculados: "37"
 - LOQ4056:
   sigla: "LOQ4056"
@@ -13785,6 +13785,10 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
   nomeascii: " Quimica Analitica para Engenharia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4056&codcur=88152&codhab=0"
   requisitos:
+    - LOB1012:
+      sigla: "LOB1012"
+      nome: " Estatística "
+      tipo: "Requisito fraco"
     - LOQ4095:
       sigla: "LOQ4095"
       nome: " Química Geral Experimental "
@@ -13792,10 +13796,6 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
     - LOQ4098:
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
-      tipo: "Requisito fraco"
-    - LOB1012:
-      sigla: "LOB1012"
-      nome: " Estatística "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -13849,8 +13849,8 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
-          Pendentes: "1"
+          Inscritos: "37"
+          Pendentes: "0"
           Matriculados: "37"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "22"
@@ -13859,8 +13859,8 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
           Matriculados: "21"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "15"
-          Inscritos: "14"
-          Pendentes: "1"
+          Inscritos: "13"
+          Pendentes: "0"
           Matriculados: "13"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "3"
@@ -13899,13 +13899,13 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "1"
+          Inscritos: "37"
+          Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "1"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "35"
     - 20241N4:
       Codigo_da_Turma: "20241N4"
@@ -13919,7 +13919,7 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
+          Inscritos: "40"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -13943,6 +13943,10 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
   nomeascii: " Termodinamica Quimica Aplicada I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4087&codcur=88152&codhab=0"
   requisitos:
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
+      tipo: "Requisito fraco"
     - LOQ4053:
       sigla: "LOQ4053"
       nome: " Balanços de Massa e Energia "
@@ -13950,10 +13954,6 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
     - LOB1004:
       sigla: "LOB1004"
       nome: " Cálculo II "
-      tipo: "Requisito fraco"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -13995,9 +13995,9 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "41"
+          Inscritos: "45"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "40"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "25"
           Inscritos: "17"
@@ -14005,9 +14005,9 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
           Matriculados: "17"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "8"
-          Inscritos: "7"
+          Inscritos: "6"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "6"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "17"
           Inscritos: "17"
@@ -14105,13 +14105,13 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
   nomeascii: " Bioquimica I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2007&codcur=88152&codhab=0"
   requisitos:
-    - LOT2059:
-      sigla: "LOT2059"
-      nome: " Química Orgânica Fundamental "
-      tipo: "Requisito fraco"
     - LOT2002:
       sigla: "LOT2002"
       nome: " Biologia Celular "
+      tipo: "Requisito fraco"
+    - LOT2059:
+      sigla: "LOT2059"
+      nome: " Química Orgânica Fundamental "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -14213,8 +14213,8 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "52"
-          Pendentes: "2"
+          Inscritos: "51"
+          Pendentes: "0"
           Matriculados: "50"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "25"
@@ -14228,8 +14228,8 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
           Matriculados: "19"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "15"
-          Inscritos: "13"
-          Pendentes: "2"
+          Inscritos: "11"
+          Pendentes: "0"
           Matriculados: "11"
     - 20241D2:
       Codigo_da_Turma: "20241D2"
@@ -14246,7 +14246,7 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "35"
+          Inscritos: "47"
           Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -14300,14 +14300,14 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "20"
-          Inscritos: "19"
+          Inscritos: "18"
           Pendentes: "0"
-          Matriculados: "19"
+          Matriculados: "18"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
-          Inscritos: "19"
+          Inscritos: "18"
           Pendentes: "0"
-          Matriculados: "19"
+          Matriculados: "18"
     - 20241B2:
       Codigo_da_Turma: "20241B2"
       Inicio: "26/02/2024"
@@ -14379,12 +14379,12 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
           Vagas: "60"
           Inscritos: "33"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "32"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "33"
+          Inscritos: "32"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "32"
 - LOT2030:
   sigla: "LOT2030"
   nome: " Tecnologia de Conversão de Biomassa Vegetal"
@@ -14436,14 +14436,14 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "1"
-          Matriculados: "40"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "1"
-          Matriculados: "40"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
 - LOT2060:
   sigla: "LOT2060"
   nome: " Tecnologia de Biopolímeros"
@@ -14490,14 +14490,14 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "28"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "27"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "28"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "27"
 - LOQ4003:
   sigla: "LOQ4003"
   nome: " Cinética Química Aplicada"
@@ -14575,7 +14575,7 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
+          Inscritos: "64"
           Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -14630,7 +14630,7 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "35"
+          Inscritos: "40"
           Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -14774,7 +14774,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "38"
+          Inscritos: "39"
           Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -14798,13 +14798,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   nomeascii: " Tecnologia de Processos Fermentativos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2028&codcur=88152&codhab=0"
   requisitos:
-    - LOT2008:
-      sigla: "LOT2008"
-      nome: " Bioquímica II "
-      tipo: "Requisito fraco"
     - LOT2053:
       sigla: "LOT2053"
       nome: " Microbiologia "
+      tipo: "Requisito fraco"
+    - LOT2008:
+      sigla: "LOT2008"
+      nome: " Bioquímica II "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -14845,7 +14845,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "1"
+          Inscritos: "7"
           Pendentes: "0"
           Matriculados: "1"
         - EEL_-_Engenharia_Bioquimica:
@@ -14968,7 +14968,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "26"
+          Inscritos: "29"
           Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Bioquimica:
@@ -15067,7 +15067,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "28"
+          Inscritos: "31"
           Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Bioquimica:
@@ -15160,13 +15160,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "10"
-          Pendentes: "1"
+          Inscritos: "11"
+          Pendentes: "0"
           Matriculados: "9"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "32"
-          Inscritos: "2"
-          Pendentes: "1"
+          Inscritos: "1"
+          Pendentes: "0"
           Matriculados: "1"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "3"
@@ -15220,7 +15220,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "18"
+          Inscritos: "19"
           Pendentes: "0"
           Matriculados: "18"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -15285,7 +15285,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "35"
+          Inscritos: "36"
           Pendentes: "1"
           Matriculados: "34"
         - EEL_-_Engenharia_Bioquimica:
@@ -15315,7 +15315,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "30"
+          Inscritos: "38"
           Pendentes: "0"
           Matriculados: "30"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -15335,7 +15335,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "28"
+          Inscritos: "29"
           Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -15399,7 +15399,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "19"
+          Inscritos: "20"
           Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_Bioquimica:
@@ -15454,13 +15454,13 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "37"
-          Pendentes: "5"
+          Inscritos: "34"
+          Pendentes: "0"
           Matriculados: "32"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "37"
-          Pendentes: "5"
+          Inscritos: "32"
+          Pendentes: "0"
           Matriculados: "32"
 - LOT2017:
   sigla: "LOT2017"
@@ -15468,10 +15468,6 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
   nomeascii: " Enzimologia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2017&codcur=88152&codhab=0"
   requisitos:
-    - LOT2053:
-      sigla: "LOT2053"
-      nome: " Microbiologia "
-      tipo: "Requisito fraco"
     - LOT2007:
       sigla: "LOT2007"
       nome: " Bioquímica I "
@@ -15479,6 +15475,10 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
     - LOT2040:
       sigla: "LOT2040"
       nome: " Engenharia Genética "
+      tipo: "Requisito fraco"
+    - LOT2053:
+      sigla: "LOT2053"
+      nome: " Microbiologia "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -15522,7 +15522,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "28"
+          Inscritos: "29"
           Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Bioquimica:
@@ -15540,13 +15540,13 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOT2008"
       nome: " Bioquímica II "
       tipo: "Requisito fraco"
-    - LOT2053:
-      sigla: "LOT2053"
-      nome: " Microbiologia "
-      tipo: "Requisito fraco"
     - LOT2040:
       sigla: "LOT2040"
       nome: " Engenharia Genética "
+      tipo: "Requisito fraco"
+    - LOT2053:
+      sigla: "LOT2053"
+      nome: " Microbiologia "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -15584,7 +15584,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "16"
+          Inscritos: "17"
           Pendentes: "0"
           Matriculados: "16"
         - EEL_-_Engenharia_Bioquimica:
@@ -15640,7 +15640,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "22"
+          Inscritos: "23"
           Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -15670,7 +15670,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "33"
+          Inscritos: "34"
           Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -15694,13 +15694,13 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
   nomeascii: " Laboratorio de Engenharia Quimica III"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4062&codcur=88152&codhab=0"
   requisitos:
-    - LOQ4086:
-      sigla: "LOQ4086"
-      nome: " Operações Unitárias II "
-      tipo: "Requisito fraco"
     - LOQ4085:
       sigla: "LOQ4085"
       nome: " Operações Unitárias I "
+      tipo: "Requisito fraco"
+    - LOQ4086:
+      sigla: "LOQ4086"
+      nome: " Operações Unitárias II "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -15739,7 +15739,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "15"
+          Inscritos: "21"
           Pendentes: "0"
           Matriculados: "15"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -15769,7 +15769,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
+          Inscritos: "40"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -15933,13 +15933,13 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
   nomeascii: " Reatores Bioquimicos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2025&codcur=88152&codhab=0"
   requisitos:
-    - LOQ4003:
-      sigla: "LOQ4003"
-      nome: " Cinética Química Aplicada "
-      tipo: "Requisito fraco"
     - LOT2013:
       sigla: "LOT2013"
       nome: " Engenharia Bioquímica I "
+      tipo: "Requisito fraco"
+    - LOQ4003:
+      sigla: "LOQ4003"
+      nome: " Cinética Química Aplicada "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -15971,13 +15971,13 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
   nomeascii: " Instrumentacao e Controle de Bioprocessos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2037&codcur=88152&codhab=0"
   requisitos:
-    - LOQ4084:
-      sigla: "LOQ4084"
-      nome: " Fenômenos de Transporte II "
-      tipo: "Requisito fraco"
     - LOB1011:
       sigla: "LOB1011"
       nome: " Eletricidade Aplicada "
+      tipo: "Requisito fraco"
+    - LOQ4084:
+      sigla: "LOQ4084"
+      nome: " Fenômenos de Transporte II "
       tipo: "Requisito fraco"
     - LOT2028:
       sigla: "LOT2028"
@@ -16126,13 +16126,13 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "3"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "3"
+          Inscritos: "33"
+          Pendentes: "0"
           Matriculados: "33"
 - LOT2052:
   sigla: "LOT2052"
@@ -16140,14 +16140,14 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
   nomeascii: " Tecnologia de Bebidas Experimental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2052&codcur=88152&codhab=0"
   requisitos:
-    - LOT2028:
-      sigla: "LOT2028"
-      nome: " Tecnologia de Processos Fermentativos "
-      tipo: "Requisito fraco"
     - LOT2038:
       sigla: "LOT2038"
       nome: " Tecnologia de Bebidas "
       tipo: "Indicação de Conjunto"
+    - LOT2028:
+      sigla: "LOT2028"
+      nome: " Tecnologia de Processos Fermentativos "
+      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
     EB: "9"
@@ -16184,13 +16184,13 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "3"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "3"
+          Inscritos: "33"
+          Pendentes: "0"
           Matriculados: "33"
 - LOT2055:
   sigla: "LOT2055"
@@ -16242,13 +16242,13 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "20"
-          Pendentes: "1"
+          Inscritos: "21"
+          Pendentes: "0"
           Matriculados: "19"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "20"
-          Pendentes: "1"
+          Inscritos: "19"
+          Pendentes: "0"
           Matriculados: "19"
 - LOT2056:
   sigla: "LOT2056"
@@ -16296,7 +16296,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "34"
+          Inscritos: "36"
           Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Bioquimica:
@@ -16310,45 +16310,17 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
   nomeascii: " Estagio Supervisionado"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2044&codcur=88152&codhab=0"
   requisitos:
-    - LOB1045:
-      sigla: "LOB1045"
-      nome: " Leitura e Produção de Textos Acadêmicos "
+    - LOB1003:
+      sigla: "LOB1003"
+      nome: " Cálculo I "
       tipo: "Requisito"
-    - LOB1056:
-      sigla: "LOB1056"
-      nome: " Introdução aos Métodos Numéricos e Computacionais "
-      tipo: "Requisito"
-    - LOQ4095:
-      sigla: "LOQ4095"
-      nome: " Química Geral Experimental "
-      tipo: "Requisito"
-    - LOQ4098:
-      sigla: "LOQ4098"
-      nome: " Fundamentos de Química para Engenharia II"
-      tipo: "Requisito"
-    - LOQ4100:
-      sigla: "LOQ4100"
-      nome: " Fundamentos de Química para Engenharia I"
+    - LOB1004:
+      sigla: "LOB1004"
+      nome: " Cálculo II "
       tipo: "Requisito"
     - LOB1006:
       sigla: "LOB1006"
       nome: " Cálculo IV "
-      tipo: "Requisito"
-    - LOB1037:
-      sigla: "LOB1037"
-      nome: " Àlgebra Linear "
-      tipo: "Requisito"
-    - LOB1040:
-      sigla: "LOB1040"
-      nome: " Laboratório de Eletricidade "
-      tipo: "Requisito"
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
-    - LOB1003:
-      sigla: "LOB1003"
-      nome: " Cálculo I "
       tipo: "Requisito"
     - LOB1009:
       sigla: "LOB1009"
@@ -16362,6 +16334,10 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       sigla: "LOB1018"
       nome: " Física I "
       tipo: "Requisito"
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
+      tipo: "Requisito"
     - LOB1024:
       sigla: "LOB1024"
       nome: " Mecânica "
@@ -16369,6 +16345,10 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
     - LOB1036:
       sigla: "LOB1036"
       nome: " Geometria Analítica "
+      tipo: "Requisito"
+    - LOB1037:
+      sigla: "LOB1037"
+      nome: " Àlgebra Linear "
       tipo: "Requisito"
     - LOB1038:
       sigla: "LOB1038"
@@ -16378,21 +16358,41 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       sigla: "LOB1039"
       nome: " Física Experimental III "
       tipo: "Requisito"
+    - LOB1040:
+      sigla: "LOB1040"
+      nome: " Laboratório de Eletricidade "
+      tipo: "Requisito"
+    - LOB1045:
+      sigla: "LOB1045"
+      nome: " Leitura e Produção de Textos Acadêmicos "
+      tipo: "Requisito"
     - LOB1052:
       sigla: "LOB1052"
       nome: " Cálculo III "
+      tipo: "Requisito"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito"
+    - LOB1056:
+      sigla: "LOB1056"
+      nome: " Introdução aos Métodos Numéricos e Computacionais "
       tipo: "Requisito"
     - LOM3016:
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito"
-    - LOB1004:
-      sigla: "LOB1004"
-      nome: " Cálculo II "
+    - LOQ4095:
+      sigla: "LOQ4095"
+      nome: " Química Geral Experimental "
       tipo: "Requisito"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
+    - LOQ4098:
+      sigla: "LOQ4098"
+      nome: " Fundamentos de Química para Engenharia II"
+      tipo: "Requisito"
+    - LOQ4100:
+      sigla: "LOQ4100"
+      nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -16464,13 +16464,13 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "22"
-          Pendentes: "5"
+          Inscritos: "18"
+          Pendentes: "0"
           Matriculados: "16"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "21"
-          Pendentes: "5"
+          Inscritos: "16"
+          Pendentes: "0"
           Matriculados: "16"
 - LOQ4052:
   sigla: "LOQ4052"
@@ -16839,7 +16839,7 @@ Textos complementares serão usados durante o curso."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "44"
+          Inscritos: "45"
           Pendentes: "0"
           Matriculados: "44"
         - EEL_-_Engenharia_de_Producao:
@@ -16977,7 +16977,7 @@ Textos complementares serão usados durante o curso."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "31"
+          Inscritos: "32"
           Pendentes: "0"
           Matriculados: "31"
         - EEL_-_Engenharia_de_Producao:
@@ -17148,7 +17148,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "36"
+          Inscritos: "37"
           Pendentes: "0"
           Matriculados: "36"
         - EEL_-_Engenharia_de_Producao:
@@ -17446,7 +17446,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "13"
+          Inscritos: "14"
           Pendentes: "0"
           Matriculados: "13"
         - EEL_-_Engenharia_de_Producao:
@@ -17496,7 +17496,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
+          Inscritos: "42"
           Pendentes: "0"
           Matriculados: "39"
         - EEL_-_Engenharia_de_Producao:
@@ -17550,7 +17550,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "47"
+          Inscritos: "49"
           Pendentes: "0"
           Matriculados: "47"
         - EEL_-_Engenharia_de_Producao:
@@ -17604,7 +17604,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
+          Inscritos: "39"
           Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_de_Producao:
@@ -17692,7 +17692,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
+          Inscritos: "41"
           Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_de_Producao:
@@ -18150,7 +18150,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "25"
+          Inscritos: "26"
           Pendentes: "0"
           Matriculados: "25"
         - EEL_-_Engenharia_de_Producao:
@@ -18164,33 +18164,17 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Estagio em Engenharia de Producao"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4230&codcur=88352&codhab=4"
   requisitos:
-    - LOB1045:
-      sigla: "LOB1045"
-      nome: " Leitura e Produção de Textos Acadêmicos "
+    - LOB1003:
+      sigla: "LOB1003"
+      nome: " Cálculo I "
       tipo: "Requisito"
-    - LOB1056:
-      sigla: "LOB1056"
-      nome: " Introdução aos Métodos Numéricos e Computacionais "
-      tipo: "Requisito"
-    - LOQ4251:
-      sigla: "LOQ4251"
-      nome: " Fundamentos de Química "
+    - LOB1004:
+      sigla: "LOB1004"
+      nome: " Cálculo II "
       tipo: "Requisito"
     - LOB1006:
       sigla: "LOB1006"
       nome: " Cálculo IV "
-      tipo: "Requisito"
-    - LOB1037:
-      sigla: "LOB1037"
-      nome: " Àlgebra Linear "
-      tipo: "Requisito"
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
-    - LOB1003:
-      sigla: "LOB1003"
-      nome: " Cálculo I "
       tipo: "Requisito"
     - LOB1009:
       sigla: "LOB1009"
@@ -18204,6 +18188,10 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOB1018"
       nome: " Física I "
       tipo: "Requisito"
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
+      tipo: "Requisito"
     - LOB1024:
       sigla: "LOB1024"
       nome: " Mecânica "
@@ -18211,6 +18199,10 @@ Livros e Artigos científicos relacionados com o tema do projeto."
     - LOB1036:
       sigla: "LOB1036"
       nome: " Geometria Analítica "
+      tipo: "Requisito"
+    - LOB1037:
+      sigla: "LOB1037"
+      nome: " Àlgebra Linear "
       tipo: "Requisito"
     - LOB1038:
       sigla: "LOB1038"
@@ -18224,21 +18216,29 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOB1041"
       nome: " Física Experimental II "
       tipo: "Requisito"
+    - LOB1045:
+      sigla: "LOB1045"
+      nome: " Leitura e Produção de Textos Acadêmicos "
+      tipo: "Requisito"
     - LOB1052:
       sigla: "LOB1052"
       nome: " Cálculo III "
+      tipo: "Requisito"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito"
+    - LOB1056:
+      sigla: "LOB1056"
+      nome: " Introdução aos Métodos Numéricos e Computacionais "
       tipo: "Requisito"
     - LOM3016:
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito"
-    - LOB1004:
-      sigla: "LOB1004"
-      nome: " Cálculo II "
-      tipo: "Requisito"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
+    - LOQ4251:
+      sigla: "LOQ4251"
+      nome: " Fundamentos de Química "
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -18310,7 +18310,7 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "1"
+          Inscritos: "6"
           Pendentes: "0"
           Matriculados: "1"
         - EEL_-_Engenharia_de_Producao:
@@ -18619,10 +18619,10 @@ Livros e Artigos científicos relacionados com o tema do projeto."
           prof: "(R) Luis Fernando Figueiredo Faria "
       vagas:
         - Obrigatoria:
-          Vagas: "0"
-          Inscritos: "0"
+          Vagas: "1"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
     - 20241D2:
       Codigo_da_Turma: "20241D2"
       Inicio: "26/02/2024"
@@ -18732,13 +18732,13 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
         - Obrigatoria:
           Vagas: "50"
           Inscritos: "48"
-          Pendentes: "1"
-          Matriculados: "47"
+          Pendentes: "0"
+          Matriculados: "46"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
-          Inscritos: "48"
-          Pendentes: "1"
-          Matriculados: "47"
+          Inscritos: "46"
+          Pendentes: "0"
+          Matriculados: "46"
     - 20241D2:
       Codigo_da_Turma: "20241D2"
       Inicio: "26/02/2024"
@@ -18754,13 +18754,13 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "44"
-          Pendentes: "1"
+          Inscritos: "43"
+          Pendentes: "0"
           Matriculados: "43"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "18"
-          Inscritos: "15"
-          Pendentes: "1"
+          Inscritos: "14"
+          Pendentes: "0"
           Matriculados: "14"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "32"
@@ -18813,14 +18813,14 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "54"
+          Inscritos: "60"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "53"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "54"
+          Inscritos: "53"
           Pendentes: "0"
-          Matriculados: "54"
+          Matriculados: "53"
     - 20241D2:
       Codigo_da_Turma: "20241D2"
       Inicio: "26/02/2024"
@@ -18833,7 +18833,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
+          Inscritos: "41"
           Pendentes: "0"
           Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -18895,7 +18895,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "20"
+          Inscritos: "22"
           Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -19036,19 +19036,19 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "38"
-          Pendentes: "2"
-          Matriculados: "36"
+          Inscritos: "41"
+          Pendentes: "0"
+          Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "49"
           Inscritos: "27"
-          Pendentes: "1"
-          Matriculados: "26"
+          Pendentes: "0"
+          Matriculados: "27"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "11"
           Inscritos: "11"
-          Pendentes: "1"
-          Matriculados: "10"
+          Pendentes: "0"
+          Matriculados: "11"
     - 20241D2:
       Codigo_da_Turma: "20241D2"
       Inicio: "26/02/2024"
@@ -19061,7 +19061,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "27"
+          Inscritos: "28"
           Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -19080,13 +19080,13 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
   nomeascii: " Engenharia de Processos Quimicos I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4064&codcur=88052&codhab=4"
   requisitos:
-    - LOQ4086:
-      sigla: "LOQ4086"
-      nome: " Operações Unitárias II "
-      tipo: "Requisito fraco"
     - LOQ4054:
       sigla: "LOQ4054"
       nome: " Fenômenos de Transporte III "
+      tipo: "Requisito fraco"
+    - LOQ4086:
+      sigla: "LOQ4086"
+      nome: " Operações Unitárias II "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -19154,13 +19154,13 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
   nomeascii: " Instrumentacao na Industria Quimica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4009&codcur=88052&codhab=4"
   requisitos:
-    - LOQ4083:
-      sigla: "LOQ4083"
-      nome: " Fenômenos de Transporte I "
-      tipo: "Requisito fraco"
     - LOB1006:
       sigla: "LOB1006"
       nome: " Cálculo IV "
+      tipo: "Requisito fraco"
+    - LOQ4083:
+      sigla: "LOQ4083"
+      nome: " Fenômenos de Transporte I "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -19218,13 +19218,13 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
-          Pendentes: "5"
+          Inscritos: "48"
+          Pendentes: "0"
           Matriculados: "44"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "49"
-          Pendentes: "5"
+          Inscritos: "44"
+          Pendentes: "0"
           Matriculados: "44"
     - 20241N2:
       Codigo_da_Turma: "20241N2"
@@ -19238,7 +19238,7 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "57"
+          Inscritos: "58"
           Pendentes: "0"
           Matriculados: "57"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -19296,7 +19296,7 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "27"
+          Inscritos: "29"
           Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -19376,13 +19376,13 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
   nomeascii: " Corrosao"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4082&codcur=88052&codhab=4"
   requisitos:
-    - LOQ4098:
-      sigla: "LOQ4098"
-      nome: " Fundamentos de Química para Engenharia II"
-      tipo: "Requisito fraco"
     - LOB1053:
       sigla: "LOB1053"
       nome: " Física III "
+      tipo: "Requisito fraco"
+    - LOQ4098:
+      sigla: "LOQ4098"
+      nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -19428,12 +19428,12 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
         - Obrigatoria:
           Vagas: "70"
           Inscritos: "55"
-          Pendentes: "1"
+          Pendentes: "0"
           Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "36"
-          Inscritos: "23"
-          Pendentes: "1"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "34"
@@ -19506,13 +19506,13 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
   nomeascii: " Controle de Processos Quimicos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4004&codcur=88052&codhab=4"
   requisitos:
-    - LOB1056:
-      sigla: "LOB1056"
-      nome: " Introdução aos Métodos Numéricos e Computacionais "
-      tipo: "Requisito fraco"
     - LOB1006:
       sigla: "LOB1006"
       nome: " Cálculo IV "
+      tipo: "Requisito fraco"
+    - LOB1056:
+      sigla: "LOB1056"
+      nome: " Introdução aos Métodos Numéricos e Computacionais "
       tipo: "Requisito fraco"
     - LOQ4009:
       sigla: "LOQ4009"
@@ -19568,7 +19568,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "18"
+          Inscritos: "24"
           Pendentes: "0"
           Matriculados: "18"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -19631,7 +19631,7 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "66"
+          Inscritos: "67"
           Pendentes: "0"
           Matriculados: "66"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -19748,13 +19748,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "34"
-          Pendentes: "1"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "27"
-          Inscritos: "23"
-          Pendentes: "1"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "13"
@@ -19826,13 +19826,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   nomeascii: " Materiais para a  Industria Quimica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3022&codcur=88052&codhab=4"
   requisitos:
-    - LOQ4082:
-      sigla: "LOQ4082"
-      nome: " Corrosão "
-      tipo: "Requisito fraco"
     - LOM3016:
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
+      tipo: "Requisito fraco"
+    - LOQ4082:
+      sigla: "LOQ4082"
+      nome: " Corrosão "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -19895,7 +19895,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "25"
+          Inscritos: "26"
           Pendentes: "0"
           Matriculados: "25"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -19945,7 +19945,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "24"
+          Inscritos: "25"
           Pendentes: "0"
           Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Noturno:
@@ -20000,7 +20000,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "140"
-          Inscritos: "133"
+          Inscritos: "134"
           Pendentes: "0"
           Matriculados: "133"
         - EEL_-_Engenharia_Quimica_-_Diurno:
@@ -20019,13 +20019,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   nomeascii: " Projeto na Industria Quimica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4049&codcur=88052&codhab=4"
   requisitos:
-    - LOQ4086:
-      sigla: "LOQ4086"
-      nome: " Operações Unitárias II "
-      tipo: "Requisito fraco"
     - LOQ4002:
       sigla: "LOQ4002"
       nome: " Reatores Quimicos "
+      tipo: "Requisito fraco"
+    - LOQ4086:
+      sigla: "LOQ4086"
+      nome: " Operações Unitárias II "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
@@ -20068,13 +20068,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "31"
-          Pendentes: "1"
+          Inscritos: "32"
+          Pendentes: "0"
           Matriculados: "30"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "62"
-          Inscritos: "23"
-          Pendentes: "1"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "8"
@@ -20093,13 +20093,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "27"
-          Pendentes: "1"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "68"
-          Inscritos: "27"
-          Pendentes: "1"
+          Inscritos: "26"
+          Pendentes: "0"
           Matriculados: "26"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "2"
@@ -20165,13 +20165,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "37"
-          Pendentes: "2"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "28"
-          Inscritos: "25"
-          Pendentes: "2"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "12"
@@ -20190,13 +20190,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "5"
+          Inscritos: "35"
+          Pendentes: "0"
           Matriculados: "31"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "31"
-          Inscritos: "30"
-          Pendentes: "5"
+          Inscritos: "25"
+          Pendentes: "0"
           Matriculados: "25"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "9"
@@ -20250,7 +20250,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
         - Obrigatoria:
           Vagas: "140"
           Inscritos: "46"
-          Pendentes: "2"
+          Pendentes: "1"
           Matriculados: "44"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "70"
@@ -20259,8 +20259,8 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
           Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "70"
-          Inscritos: "23"
-          Pendentes: "1"
+          Inscritos: "22"
+          Pendentes: "0"
           Matriculados: "22"
 - LOQ4051:
   sigla: "LOQ4051"
@@ -20268,49 +20268,17 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   nomeascii: " Estagio Supervisionado"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4051&codcur=88052&codhab=4"
   requisitos:
-    - LOB1045:
-      sigla: "LOB1045"
-      nome: " Leitura e Produção de Textos Acadêmicos "
+    - LOB1003:
+      sigla: "LOB1003"
+      nome: " Cálculo I "
       tipo: "Requisito"
-    - LOB1056:
-      sigla: "LOB1056"
-      nome: " Introdução aos Métodos Numéricos e Computacionais "
-      tipo: "Requisito"
-    - LOM3081:
-      sigla: "LOM3081"
-      nome: " Introdução à Mecânica dos Sólidos "
-      tipo: "Requisito"
-    - LOQ4095:
-      sigla: "LOQ4095"
-      nome: " Química Geral Experimental "
-      tipo: "Requisito"
-    - LOQ4097:
-      sigla: "LOQ4097"
-      nome: " Fundamentos de Química para Engenharia I"
-      tipo: "Requisito"
-    - LOQ4098:
-      sigla: "LOQ4098"
-      nome: " Fundamentos de Química para Engenharia II"
+    - LOB1004:
+      sigla: "LOB1004"
+      nome: " Cálculo II "
       tipo: "Requisito"
     - LOB1006:
       sigla: "LOB1006"
       nome: " Cálculo IV "
-      tipo: "Requisito"
-    - LOB1037:
-      sigla: "LOB1037"
-      nome: " Àlgebra Linear "
-      tipo: "Requisito"
-    - LOB1040:
-      sigla: "LOB1040"
-      nome: " Laboratório de Eletricidade "
-      tipo: "Requisito"
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito"
-    - LOB1003:
-      sigla: "LOB1003"
-      nome: " Cálculo I "
       tipo: "Requisito"
     - LOB1009:
       sigla: "LOB1009"
@@ -20328,6 +20296,10 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOB1018"
       nome: " Física I "
       tipo: "Requisito"
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
+      tipo: "Requisito"
     - LOB1024:
       sigla: "LOB1024"
       nome: " Mecânica "
@@ -20335,6 +20307,10 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
     - LOB1036:
       sigla: "LOB1036"
       nome: " Geometria Analítica "
+      tipo: "Requisito"
+    - LOB1037:
+      sigla: "LOB1037"
+      nome: " Àlgebra Linear "
       tipo: "Requisito"
     - LOB1038:
       sigla: "LOB1038"
@@ -20344,25 +20320,49 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOB1039"
       nome: " Física Experimental III "
       tipo: "Requisito"
+    - LOB1040:
+      sigla: "LOB1040"
+      nome: " Laboratório de Eletricidade "
+      tipo: "Requisito"
+    - LOB1045:
+      sigla: "LOB1045"
+      nome: " Leitura e Produção de Textos Acadêmicos "
+      tipo: "Requisito"
     - LOB1052:
       sigla: "LOB1052"
       nome: " Cálculo III "
+      tipo: "Requisito"
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito"
+    - LOB1056:
+      sigla: "LOB1056"
+      nome: " Introdução aos Métodos Numéricos e Computacionais "
       tipo: "Requisito"
     - LOM3016:
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito"
+    - LOM3081:
+      sigla: "LOM3081"
+      nome: " Introdução à Mecânica dos Sólidos "
+      tipo: "Requisito"
     - LOQ4010:
       sigla: "LOQ4010"
       nome: " Introdução à  Engenharia  Química "
       tipo: "Requisito"
-    - LOB1004:
-      sigla: "LOB1004"
-      nome: " Cálculo II "
+    - LOQ4095:
+      sigla: "LOQ4095"
+      nome: " Química Geral Experimental "
       tipo: "Requisito"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
+    - LOQ4097:
+      sigla: "LOQ4097"
+      nome: " Fundamentos de Química para Engenharia I"
+      tipo: "Requisito"
+    - LOQ4098:
+      sigla: "LOQ4098"
+      nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
@@ -20665,6 +20665,10 @@ f)Revista Petro & Química."
   nomeascii: " Tubulacoes Industriais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4043&codcur=88052&codhab=4"
   requisitos:
+    - LOB1009:
+      sigla: "LOB1009"
+      nome: " Leitura e Interpretação de Desenho Técnico "
+      tipo: "Requisito fraco"
     - LOM3022:
       sigla: "LOM3022"
       nome: " Materiais para a  Indústria Química "
@@ -20672,10 +20676,6 @@ f)Revista Petro & Química."
     - LOQ4084:
       sigla: "LOQ4084"
       nome: " Fenômenos de Transporte II "
-      tipo: "Requisito fraco"
-    - LOB1009:
-      sigla: "LOB1009"
-      nome: " Leitura e Interpretação de Desenho Técnico "
       tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
