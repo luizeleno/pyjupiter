@@ -2427,11 +2427,43 @@
     } ,
   
     {
+      "title"     : "LOQ4082",
+      "url"       : "/pyjupiter/disciplinas/loq4082.html",
+      "nome"      : " Corrosão",
+      "nomeascii" : " Corrosao",
+      "docentes"     : "5817344 - Livia Melo Carneiro"
+    } ,
+  
+    {
+      "title"     : "LOQ4009",
+      "url"       : "/pyjupiter/disciplinas/loq4009.html",
+      "nome"      : " Instrumentação na Industria Química",
+      "nomeascii" : " Instrumentacao na Industria Quimica",
+      "docentes"     : "5840643 - Luiz Carlos de Queiroz"
+    } ,
+  
+    {
+      "title"     : "LOQ4004",
+      "url"       : "/pyjupiter/disciplinas/loq4004.html",
+      "nome"      : " Controle de Processos Químicos",
+      "nomeascii" : " Controle de Processos Quimicos",
+      "docentes"     : "8643537 - Fabio Rodolfo Miguel Batista"
+    } ,
+  
+    {
       "title"     : "LOT2004",
       "url"       : "/pyjupiter/disciplinas/lot2004.html",
       "nome"      : " Bioquímica",
       "nomeascii" : " Bioquimica",
       "docentes"     : "8711290 - Elisson Antônio da Costa Romanel5111420 - Talita Martins Lacerda"
+    } ,
+  
+    {
+      "title"     : "LOM3022",
+      "url"       : "/pyjupiter/disciplinas/lom3022.html",
+      "nome"      : " Materiais para a  Indústria Química",
+      "nomeascii" : " Materiais para a  Industria Quimica",
+      "docentes"     : "5840963 - Daniela Camargo Vernilli5840820 - Gustavo Aristides Santana Martinez"
     } ,
   
     {
@@ -2451,14 +2483,6 @@
     } ,
   
     {
-      "title"     : "LOQ4009",
-      "url"       : "/pyjupiter/disciplinas/loq4009.html",
-      "nome"      : " Instrumentação na Industria Química",
-      "nomeascii" : " Instrumentacao na Industria Quimica",
-      "docentes"     : "5840643 - Luiz Carlos de Queiroz"
-    } ,
-  
-    {
       "title"     : "LOQ4022",
       "url"       : "/pyjupiter/disciplinas/loq4022.html",
       "nome"      : " Processos Químicos Industriais I",
@@ -2475,35 +2499,11 @@
     } ,
   
     {
-      "title"     : "LOQ4082",
-      "url"       : "/pyjupiter/disciplinas/loq4082.html",
-      "nome"      : " Corrosão",
-      "nomeascii" : " Corrosao",
-      "docentes"     : "5817344 - Livia Melo Carneiro"
-    } ,
-  
-    {
-      "title"     : "LOT2041",
-      "url"       : "/pyjupiter/disciplinas/lot2041.html",
-      "nome"      : " Engenharia Bioquímica",
-      "nomeascii" : " Engenharia Bioquimica",
-      "docentes"     : "1112574 - Inês Conceição Roberto1097178 - João Batista de Almeida e Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4004",
-      "url"       : "/pyjupiter/disciplinas/loq4004.html",
-      "nome"      : " Controle de Processos Químicos",
-      "nomeascii" : " Controle de Processos Quimicos",
-      "docentes"     : "8643537 - Fabio Rodolfo Miguel Batista"
-    } ,
-  
-    {
-      "title"     : "LOQ4023",
-      "url"       : "/pyjupiter/disciplinas/loq4023.html",
-      "nome"      : " Processos Químicos Industriais II",
-      "nomeascii" : " Processos Quimicos Industriais II",
-      "docentes"     : "1285870 - Marcos Villela Barcza"
+      "title"     : "LOQ4063",
+      "url"       : "/pyjupiter/disciplinas/loq4063.html",
+      "nome"      : " Laboratório de Engenharia Química IV",
+      "nomeascii" : " Laboratorio de Engenharia Quimica IV",
+      "docentes"     : "5816812 - João Paulo Alves Silva"
     } ,
   
     {
@@ -2523,19 +2523,19 @@
     } ,
   
     {
-      "title"     : "LOT2042",
-      "url"       : "/pyjupiter/disciplinas/lot2042.html",
-      "nome"      : " Processos Bioquímicos",
-      "nomeascii" : " Processos Bioquimicos",
-      "docentes"     : "1814052 - Silvio Silverio da Silva"
+      "title"     : "LOT2041",
+      "url"       : "/pyjupiter/disciplinas/lot2041.html",
+      "nome"      : " Engenharia Bioquímica",
+      "nomeascii" : " Engenharia Bioquimica",
+      "docentes"     : "1112574 - Inês Conceição Roberto1097178 - João Batista de Almeida e Silva"
     } ,
   
     {
-      "title"     : "LOM3022",
-      "url"       : "/pyjupiter/disciplinas/lom3022.html",
-      "nome"      : " Materiais para a  Indústria Química",
-      "nomeascii" : " Materiais para a  Industria Quimica",
-      "docentes"     : "5840963 - Daniela Camargo Vernilli5840820 - Gustavo Aristides Santana Martinez"
+      "title"     : "LOQ4023",
+      "url"       : "/pyjupiter/disciplinas/loq4023.html",
+      "nome"      : " Processos Químicos Industriais II",
+      "nomeascii" : " Processos Quimicos Industriais II",
+      "docentes"     : "1285870 - Marcos Villela Barcza"
     } ,
   
     {
@@ -2555,11 +2555,11 @@
     } ,
   
     {
-      "title"     : "LOQ4063",
-      "url"       : "/pyjupiter/disciplinas/loq4063.html",
-      "nome"      : " Laboratório de Engenharia Química IV",
-      "nomeascii" : " Laboratorio de Engenharia Quimica IV",
-      "docentes"     : "5816812 - João Paulo Alves Silva"
+      "title"     : "LOT2042",
+      "url"       : "/pyjupiter/disciplinas/lot2042.html",
+      "nome"      : " Processos Bioquímicos",
+      "nomeascii" : " Processos Bioquimicos",
+      "docentes"     : "1814052 - Silvio Silverio da Silva"
     } ,
   
     {
@@ -2595,6 +2595,14 @@
     } ,
   
     {
+      "title"     : "LOQ4058",
+      "url"       : "/pyjupiter/disciplinas/loq4058.html",
+      "nome"      : " Fenômenos de Superfície e Eletroquímica",
+      "nomeascii" : " Fenomenos de Superficie e Eletroquimica",
+      "docentes"     : "1488970 - Marivone Nunho Sousa"
+    } ,
+  
+    {
       "title"     : "LOQ4096",
       "url"       : "/pyjupiter/disciplinas/loq4096.html",
       "nome"      : " Moléculas Funcionais e Dispositivos Tecnologicos",
@@ -2611,11 +2619,27 @@
     } ,
   
     {
-      "title"     : "LOQ4058",
-      "url"       : "/pyjupiter/disciplinas/loq4058.html",
-      "nome"      : " Fenômenos de Superfície e Eletroquímica",
-      "nomeascii" : " Fenomenos de Superficie e Eletroquimica",
-      "docentes"     : "1488970 - Marivone Nunho Sousa"
+      "title"     : "8800008",
+      "url"       : "/pyjupiter/disciplinas/8800008.html",
+      "nome"      : " Projetos Especiais em Engenharia I",
+      "nomeascii" : " Projetos Especiais em Engenharia I",
+      "docentes"     : "198273 - Domingos Savio Giordani"
+    } ,
+  
+    {
+      "title"     : "8800014",
+      "url"       : "/pyjupiter/disciplinas/8800014.html",
+      "nome"      : " Projetos Especiais em Gestão da Inovação",
+      "nomeascii" : " Projetos Especiais em Gestao da Inovacao",
+      "docentes"     : "849935 - Humberto Felipe da Silva"
+    } ,
+  
+    {
+      "title"     : "8800013",
+      "url"       : "/pyjupiter/disciplinas/8800013.html",
+      "nome"      : " Projetos Especiais em Engenharia II",
+      "nomeascii" : " Projetos Especiais em Engenharia II",
+      "docentes"     : "198273 - Domingos Savio Giordani"
     } ,
   
     {

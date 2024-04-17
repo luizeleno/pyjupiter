@@ -11,6 +11,7 @@
     EA: "1"
     EB: "1"
     EP: "1"
+    EQD: "1"
     EQN: "1"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -328,6 +329,7 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
     EA: "8"
     EB: "8"
     EP: "10"
+    EQD: "2"
     EQN: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -463,6 +465,7 @@ Estudos, artigos, notícias e pesquisas via internet."
     EA: "2"
     EB: "2"
     EP: "2"
+    EQD: "1"
     EQN: "2"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -584,6 +587,7 @@ Estudos, artigos, notícias e pesquisas via internet."
     EA: "1"
     EB: "1"
     EP: "1"
+    EQD: "1"
     EQN: "1"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -810,6 +814,7 @@ Estudos, artigos, notícias e pesquisas via internet."
     EA: "2"
     EB: "2"
     EP: "2"
+    EQD: "1"
     EQN: "2"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -1180,6 +1185,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
     EA: "2"
     EB: "2"
     EP: "2"
+    EQD: "2"
     EQN: "2"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -1276,6 +1282,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
     EA: "3"
     EB: "3"
     EP: "3"
+    EQD: "2"
     EQN: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -1502,6 +1509,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
     EA: "2"
     EB: "2"
     EP: "2"
+    EQD: "2"
     EQN: "2"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -1646,6 +1654,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
     EA: "1"
     EB: "1"
     EP: "1"
+    EQD: "1"
     EQN: "1"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -1798,6 +1807,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
     EA: "2"
     EB: "2"
     EP: "1"
+    EQD: "2"
     EQN: "2"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -1857,6 +1867,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
     EA: "4"
     EB: "4"
     EP: "4"
+    EQD: "4"
     EQN: "4"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -1949,6 +1960,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
     EA: "4"
     EB: "4"
     EP: "4"
+    EQD: "3"
     EQN: "4"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -2068,6 +2080,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
     EA: "3"
     EB: "3"
     EP: "3"
+    EQD: "3"
     EQN: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -2296,6 +2309,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
     EA: "4"
     EB: "4"
     EP: "4"
+    EQD: "3"
     EQN: "4"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -2411,6 +2425,7 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
     EA: "3"
     EB: "1"
     EP: "2"
+    EQD: "2"
     EQN: "1"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
@@ -2791,6 +2806,7 @@ LENG, Y. Materials Characterization: Introduction to Microscopic and Spectroscop
     EA: "4"
     EB: "3"
     EP: "3"
+    EQD: "3"
     EQN: "4"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -3365,6 +3381,7 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
     EF: "5"
     EA: "4"
     EP: "6"
+    EQD: "4"
     EQN: "6"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
@@ -3769,6 +3786,7 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
     EA: "2"
     EB: "8"
     EP: "6"
+    EQD: "5"
     EQN: "8"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -4375,6 +4393,7 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
   tipo: "Obrigatórias"
   semestre:
     EF: "7"
+    EQD: "9"
     EQN: "10"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -4751,6 +4770,7 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
     EM: "9"
     EB: "5"
     EP: "5"
+    EQD: "7"
     EQN: "8"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -4947,6 +4967,7 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
     EM: "8"
     EB: "8"
     EP: "10"
+    EQD: "8"
     EQN: "11"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -5091,6 +5112,7 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
     EM: "8"
     EB: "8"
     EP: "10"
+    EQD: "9"
     EQN: "10"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -6170,6 +6192,7 @@ CREATH, H.; WYANT, J. Measurement of ultraprecision components using non-contact
   semestre:
     EM: "2"
     EP: "5"
+    EQD: "7"
     EQN: "8"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -6344,6 +6367,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
     EM: "2"
     EA: "2"
     EB: "2"
+    EQD: "2"
     EQN: "2"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -6605,6 +6629,7 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
     EA: "5"
     EB: "5"
     EP: "6"
+    EQD: "4"
     EQN: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -7558,6 +7583,7 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
     EM: "6"
     EA: "5"
     EB: "4"
+    EQD: "7"
     EQN: "11"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -8096,6 +8122,7 @@ edição, 1993.
   tipo: "Obrigatórias"
   semestre:
     EM: "8"
+    EQD: "4"
     EQN: "6"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -8740,6 +8767,7 @@ MF = (Rec+NF)/2"
   semestre:
     EM: "9"
     EB: "10"
+    EQD: "10"
     EQN: "12"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -9198,6 +9226,7 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   tipo: "Obrigatórias"
   semestre:
     EA: "1"
+    EQD: "1"
     EQN: "1"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -9542,6 +9571,7 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
     EA: "3"
     EB: "3"
     EP: "5"
+    EQD: "3"
     EQN: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -9773,6 +9803,7 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
     EA: "3"
     EB: "3"
     EP: "5"
+    EQD: "3"
     EQN: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -9866,6 +9897,7 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   semestre:
     EA: "3"
     EB: "3"
+    EQD: "2"
     EQN: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -10267,6 +10299,7 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
   semestre:
     EA: "4"
     EB: "5"
+    EQD: "4"
     EQN: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -10446,6 +10479,7 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
     EA: "5"
     EB: "5"
     EP: "6"
+    EQD: "4"
     EQN: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -10896,6 +10930,7 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
   semestre:
     EA: "5"
     EB: "6"
+    EQD: "5"
     EQN: "6"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -11288,6 +11323,7 @@ Project Management Institute. PMBok, 2013"
   semestre:
     EA: "6"
     EB: "5"
+    EQD: "6"
     EQN: "6"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -13367,6 +13403,7 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
   semestre:
     EB: "1"
     EP: "1"
+    EQD: "1"
     EQN: "1"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Ciências Básicas e Ambientais"
@@ -13815,6 +13852,7 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
   tipo: "Obrigatórias"
   semestre:
     EB: "4"
+    EQD: "5"
     EQN: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -13973,6 +14011,7 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
   tipo: "Obrigatórias"
   semestre:
     EB: "4"
+    EQD: "4"
     EQN: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -14166,6 +14205,7 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
   tipo: "Obrigatórias"
   semestre:
     EB: "5"
+    EQD: "5"
     EQN: "6"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -14542,6 +14582,7 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
   tipo: "Obrigatórias"
   semestre:
     EB: "6"
+    EQD: "6"
     EQN: "7"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -14628,6 +14669,7 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
   tipo: "Obrigatórias"
   semestre:
     EB: "6"
+    EQD: "5"
     EQN: "7"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -14733,6 +14775,7 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
   tipo: "Obrigatórias"
   semestre:
     EB: "6"
+    EQD: "5"
     EQN: "6"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -14976,6 +15019,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   tipo: "Obrigatórias"
   semestre:
     EB: "7"
+    EQD: "6"
     EQN: "7"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -15081,6 +15125,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   tipo: "Obrigatórias"
   semestre:
     EB: "7"
+    EQD: "6"
     EQN: "8"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -15146,6 +15191,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   tipo: "Obrigatórias"
   semestre:
     EB: "7"
+    EQD: "6"
     EQN: "7"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -15208,6 +15254,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   tipo: "Obrigatórias"
   semestre:
     EB: "7"
+    EQD: "9"
     EQN: "12"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -15481,6 +15528,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
   tipo: "Obrigatórias"
   semestre:
     EB: "8"
+    EQD: "7"
     EQN: "8"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -15581,6 +15629,7 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
   tipo: "Obrigatórias"
   semestre:
     EB: "8"
+    EQD: "7"
     EQN: "9"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -16407,6 +16456,7 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
   tipo: "Optativas"
   semestre:
     EB: "8"
+    EQD: "10"
     EQN: "12"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -18582,10 +18632,11 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   sigla: "LOQ4010"
   nome: " Introdução à  Engenharia  Química"
   nomeascii: " Introducao a  Engenharia  Quimica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4010&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4010&codcur=88052&codhab=0"
   requisitos:
   tipo: "Obrigatórias"
   semestre:
+    EQD: "1"
     EQN: "1"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -18679,18 +18730,19 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   sigla: "LOQ4037"
   nome: " Química Orgânica I"
   nomeascii: " Quimica Organica I"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4037&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4037&codcur=88052&codhab=0"
   requisitos:
-    - LOQ4097:
-      sigla: "LOQ4097"
-      nome: " Fundamentos de Química para Engenharia I"
-      tipo: "Requisito fraco"
     - LOQ4098:
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
+    - LOQ4097:
+      sigla: "LOQ4097"
+      nome: " Fundamentos de Química para Engenharia I"
+      tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
+    EQD: "3"
     EQN: "4"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -18778,7 +18830,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
   sigla: "LOQ4055"
   nome: " Quimica Inorgânica"
   nomeascii: " Quimica Inorganica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4055&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4055&codcur=88052&codhab=0"
   requisitos:
     - LOQ4097:
       sigla: "LOQ4097"
@@ -18786,6 +18838,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
+    EQD: "3"
     EQN: "4"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -18857,7 +18910,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
   sigla: "LOQ4038"
   nome: " Química Orgânica II"
   nomeascii: " Quimica Organica II"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4038&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4038&codcur=88052&codhab=0"
   requisitos:
     - LOQ4037:
       sigla: "LOQ4037"
@@ -18865,6 +18918,7 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
+    EQD: "4"
     EQN: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -18938,39 +18992,51 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
           Inscritos: "49"
           Pendentes: "0"
           Matriculados: "49"
-- LOT2004:
-  sigla: "LOT2004"
-  nome: " Bioquímica"
-  nomeascii: " Bioquimica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2004&codcur=88052&codhab=4"
+- LOQ4082:
+  sigla: "LOQ4082"
+  nome: " Corrosão"
+  nomeascii: " Corrosao"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4082&codcur=88052&codhab=0"
   requisitos:
-    - LOQ4038:
-      sigla: "LOQ4038"
-      nome: " Química Orgânica II "
+    - LOB1053:
+      sigla: "LOB1053"
+      nome: " Física III "
+      tipo: "Requisito fraco"
+    - LOQ4098:
+      sigla: "LOQ4098"
+      nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
-    EQN: "7"
+    EQD: "4"
+    EQN: "9"
   unidade: "Escola de Engenharia de Lorena"
-  departamento: "Biotecnologia"
-  nome_en: "Biochemistry"
-  objectives: "The course aims to cover the concepts of biochemistry, cell structural organization and molecular composition; to understand the importance of organic compounds and cellular metabolism; and to enable students to acquire a specialised knowledge for further disciplines of the undergraduate program in Chemical Engineering and Industrial Chemical."
-  abstract: "Physical and chemical properties of biomolecules and their levels of organization. Overview of DNA-based information technologies and protein metabolism, overview of glucose metabolism, anaerobic metabolism, oxidative metabolism of electron-transfer reaction, oxidative phosphorylation, photosynthesis."
-  program: "Basic biochemistry: Solvent properties of water, acids and bases, titration curves, buffer solutions. Aminoacids: three-dimensional structure, structure-property relationship, isoelectric point, electrophoresis, peptide bond, small peptides with physiological activity. Proteins: structure levels, structural irregularities, denaturation and renaturation, isolation, characterization and quantification. Enzymes: general concepts and mechanisms of action, cofactors and coenzymes, kinetics of michaelian enzymes, equilibrium and reaction rate, kinetic parameters and their applications, allosteric enzymes, regulation and inhibition of enzymes, general mechanisms of enzymatic reactions. Carbohydrates: classification of monosaccharides, cyclic structure and isomerism, chemical properties, disaccharides, homopolysaccharides and their structural and energy storage functions, heteropolysaccharides, glycoproteins and glycolipids. Lipids: fatty acids, triacylglycerides, phospholipids, sphingolipids and cholesterol. Biological membranes: fluid mosaic model, transport, selective permeability, passive process and active transport of biomolecules and/or ions. Molecular Biochemistry: nucleic acid structure and chemistry, denaturation of DNA, purification and detection of DNA, DNA electrophoresis, restriction endonucleases, DNA cloning, cloning vectors, genetic engineering, polymerase chain reaction, DNA sequencing, protein synthesis, the genetic code. Metabolic Biochemistry: bioenergetics and biochemical reaction types, anabolism, catabolism, glycolysis, fermentation, gluconeogenesis, the pentose phosphate pathway, the citric acid cycle, electron-transfer reaction, oxidative phosphorylation, photophosphorylation, photosynthesis."
-  ndoc: "2"
-  CA: "4"
+  departamento: "Engenharia Química"
+  nome_en: "Corrosion"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "1"
+  CA: "2"
   CT: "0"
-  CH: "60 h"
+  CH: "30 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2019"
-  objetivos: "Capacitar o aluno para aplicar os conceitos de Engenharia aos Processos Biológicos e para identificar a relevância dos processos microbianos em escala industrial. Fornecer conhecimentos, técnicas e métodos de base científica ou prática para uma melhor compreensão dos aspectos cinéticos de um bioprocesso em suas diferentes formas de condução (regime descontínuo, descontinuo- alimentado e contínuo), assim como dos conceitos fundamentais para o desenvolvimento da etapa de esterilização de um bioprocesso. Promover o conhecimento da Bioquímica abrangendo a organização estrutural e molecular da célula. Compreender a importância dos compostos orgânicos e do metabolismo celular. Utilizar os conhecimentos como pré-requisitos para as disciplinas do Curso de Engenharia Química e Engenharia Industrial Química"
-  resumo: "Propriedades físicas e químicas das biomoléculas e seus níveis de organização. Visão geral da tecnologia da informação baseadas no DNA e metabolismo de proteínas, visão geral do metabolismo de glicose, metabolismo anaeróbico, metabolismo oxidativo da cadeia de transporte de elétrons e fosforilação oxidativa, fotossíntese."
-  programa: "Bioquímica básica: propriedades solventes da água, ácidos e bases, curvas de titulação, soluções-tampão. Aminoácidos: estrutura tridimensional, relação-propriedade, ponto isoelétrico, eletroforese, ligação peptídica, peptídeos pequenos com atividade fisiológica. Proteínas: níveis de estrutura, irregularidades estruturais, desnaturação e renaturação, isolamento, caracterização e quantificação. Enzimas: conceito geral e mecanismos de ação, cofatores e coenzimas, cinética de enzimas Michaelianas, equilíbrio e velocidade de reação, parâmetros cinéticos e suas aplicações, enzimas alostéricas, regulação e conceitos de inibição de enzimas, mecanismos gerais de reações enzimáticas. Carboidratos: classificação de monossacarídeos, estrutura cíclica e isomeria, propriedades químicas, dissacarídeos, homopolissacarídeos e suas funções estruturais e de armazenamento energético, heteropolissacarídeos, glicoproteínas e glicolipídeos. Lipídeos: ácidos graxos, triacilglicerídeos, fosfolipídeos, esfingolipídeos e colesterol. Membranas biológicas: modelo mosaico fluído, transporte, permeabilidade seletiva, processo passivo e ativo de transporte de biomoléculas e/ou íons. Bioquímica Molecular: estrutura e tipos de ácido nucléico, desnaturação do DNA, detecção dos ácidos nucléicos, eletroforese, endonucleases de restrição, clonagem, engenharia genética, reação em cadeia da polimerase, sequenciamento de DNA, síntese de proteínas, código genético. Bioquímica Metabólica: Bioenergética e Tipos de Reações Bioquímicas, anabolismo, catabolismo, glicólise, fermentação, gliconeogênese, via das pentoses-fosfato, ciclo do ácido cítrico, cadeia transportadora de elétrons, fosforilação oxidativa, fotofosforilação, fotossíntese."
-  metodo: "Notas N distribuído no semestre. A composição das N fica critério do docente."
-  criterio: "MF = média aritmética ou ponderada das notas das avaliações (a critério do docente)"
-  exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação.Prova de Recuperação (PR) para alunos com Média Final (MF) maior ou igual a 3,0 e menor doque 5,0. Será considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maiordo que 5,0."
-  bibliografia: "1. Campbell, M.K.; Farrell, S.O. Bioquímica. Quinta edição. Editora Thomson Learning, São Paulo, 2008.2.Nelson, D.L.; Cox, M.M. Princípios de Bioquímica de Lehninger. Quinta Edition, Editora Artmed, Porto Alegre, 2011 3.Voet, D.; Voet, J.; Pratt, C.W. Bioquímica. Quarta Edição. Editora ARTMED, Porto Alegre, 2013 4.Berg, J.M., Tymoczko, J.L., Stryer, L. Bioquímica. Sétima edição. Editora Guanabara Koogan, Rio de Janeiro, 2014"
-  docentes: ['8711290 - Elisson Antônio da Costa Romanel', '5111420 - Talita Martins Lacerda']
+  ativacao: "01/01/2012"
+  objetivos: "Propiciar aos alunos os conhecimentos básicos de corrosão, nos aspectos termodinâmicos e cinéticos, e descrever as principais formas de ataque e as técnicas de proteção contra a corrosão e a oxidação metálica."
+  resumo: "1. Princípios da corrosão. 2. Cinética da corrosão. 3. Formas de corrosão. 4. Proteção contra a corrosão. 5. Oxidação em temperaturas elevadas."
+  programa: "1. Princípios da corrosão: Reações de oxi-redução. Potenciais de eletrodo - Sistema redox em estado de equilíbrio - Diagrama de Pourbaix
+2. Cinética da corrosão: - Sistema redox em estado de não equilíbrio - Teoria do potencial misto  Passivação.
+3. Formas de corrosão: - Corrosão galvânica - Corrosão por pites e frestas - Corrosão intergranular - Corrosão sob tensão - Danos causados pelo hidrogênio.
+4. Proteção contra a corrosão: - Proteção catódica e anódica - Inibidores  Revestimentos.
+5. Oxidação em temperaturas elevadas - Fundamentos termodinâmicos - Mecanismos de transporte - Velocidade de oxidação - Oxidação de metais puros - Oxidação de ligas."
+  metodo: "O aluno será avaliado através de duas provas escritas P1 e P2."
+  criterio: "A nota final NF será (P1 + P2)/2 ."
+  exame: "Prova escrita sobre toda matéria. A média final MF será a média da nota final NF e da nota obtida na recuperação NR: MF = (NF + NR)/2 ."
+  bibliografia: "V.GENTIL, Corrosão, Ed. Guanabara Dois, 1982
+L.V. RAMANATHAN, Corrosão e seu controle, Ed. Hermes
+L.L. SHREIR, Corrosion, Newnes Butterworths, 2 vol., 1976
+N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Edward Arnold, 1983"
+  docentes: ['5817344 - Livia Melo Carneiro']
   oferecimento:
     - 20241N1:
       Codigo_da_Turma: "20241N1"
@@ -18979,187 +19045,29 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " qua  19:00  23:00 "
-          prof: "Anuj Kumar "
-      vagas:
-        - Obrigatoria:
-          Vagas: "61"
-          Inscritos: "61"
-          Pendentes: "0"
-          Matriculados: "61"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "59"
-          Inscritos: "59"
-          Pendentes: "0"
-          Matriculados: "59"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "1"
-          Inscritos: "1"
-          Pendentes: "0"
-          Matriculados: "1"
-- LOQ4002:
-  sigla: "LOQ4002"
-  nome: " Reatores Quimicos"
-  nomeascii: " Reatores Quimicos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4002&codcur=88052&codhab=4"
-  requisitos:
-    - LOQ4003:
-      sigla: "LOQ4003"
-      nome: " Cinética Química Aplicada "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "8"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Chemical Reactors"
-  objectives: "Enable students to calculate the project parameters of ideal reactors, distinguish between an ideal and a real reactor, and understand the influence of temperature and pressure on the design of chemical reactors."
-  abstract: "1. Introduction to Reactors, 2. Ideal Models of Isothermal Chemical Reactors - Simple Reactions, 3. Multiple Reactions in Ideal Reactors, 4. Thermal Effects in Ideal Reactors, 5. Heterogeneous Catalytic Reactors, 6. Non-Ideal Reactors."
-  program: "1. Introduction to Reactors: Basic concepts.2.Ideal Models of Isothermal Chemical Reactors - Simple Reactions: 2.1) Fundamental equations for reactor design. 2.2) Batch reactor (BSTR). 2.3) Continuous stirred-tank reactor (CSTR). 2.4) Plug-flow reactor (PFR). 2.5) Performance comparison of CSTR and PFR. 2.6) Cascade CSTR reactors. 2.7) Mixed association of reactors in series: CSTR and PFR. 2.8) Reactors with recycle. 2.9) Auto-catalytic reactions. 2.10) Semi-continuous reactors.3.Multiple Reactions in Ideal Reactors: 3.1) General concepts: optimization, yield, and selectivity. 3.2) Parallel reactions and series reactions.3.3) Systems with series-parallel reactions: multiple substitution reactions and polymerization reactions.3.4) Simple optimization problems.4.Thermal Effects in Ideal Reactors: 4.1) Energy balance equation. 4.2) Energy balance applied to BSTR. 4.3) Energy balance applied to CSTR. 4.4) Energy balance applied to PFR.5.Heterogeneous Catalytic Reactors: 5.1) Introduction. 5.2) Effect of physical processes on reaction rate:5.2.1 - Interfacial phenomena. 5.2.2 - Intraparticle phenomena. 5.2.3 - Diffusion and reaction in porous catalysts. 5.3) Calculation of fixed-bed reactors. 5.4) Three-phase reactors.6.Non-Ideal Reactors: 6.1) Residence time distribution. 6.2) Model for continuous stirred-tanks in series. 6.3) Axial dispersion model."
-  ndoc: "2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2024"
-  objetivos: "Capacitar os alunos a calcular os parâmetros de projeto de reatores ideais, a distinguir entre um reator ideal e um real, e a compreender a influência da temperatura e pressão no projeto de reatores químicos."
-  resumo: "1. Introdução a Reatores. 2. Modelos Ideais de Reatores Químicos Isotérmicos  Reações Simples. 3. Reações Múltiplas em Reatores Ideais. 4. Efeitos Térmicos em Reatores Ideais. 5. Reatores Catalíticos Heterogêneos. 6. Reatores Não-Ideais"
-  programa: "1. Introdução a Reatores: Conceitos básicos2. Modelos Ideais de Reatores Químicos Isotérmicos  Reações Simples: 2.1) Equações fundamentais de projeto de reatores2.2) Reator tanque descontínuo (BSTR)2.3) Reator tanque de mistura contínuo (CSTR)2.4) Reator tubular de fluxo pistonado (PFR)2.5) Comparação de desempenho de reatores CSTR e PFR2.6) Reatores CSTR em cascata2.7) Associação mista de reatores em série: CSTR e PFR2.8) Reatores com reciclo2.9) Reações auto-catalíticas2.10) Reatores semi-contínuos3. Reações Múltiplas em Reatores Ideais3.1) Noções gerais: otimização, rendimento e seletividade3.2) Reações paralelas e reações em série3.3) Sistemas com reações série-paralelo: reações de múltipla substituição e reações poliméricas3.4) Problemas simples de otimização4. Efeitos Térmicos em Reatores Ideais4.1) Equação do balanço de energia4.2) Balanço de energia aplicado ao BSTR4.3) Balanço de energia aplicado ao CSTR4.4) Balanço de energia aplicado ao PFR5. Reatores Catalíticos Heterogêneos5.1) Introdução5.2) Efeito dos processos físicos sobre a taxa de reação5.2.1  Fenômenos interfases5.2.2  Fenômenos intrapartícula5.2.3  Difusão e reação em catalisadores porosos5.3) Cálculo de reatores de leito fixo5.4) Reatores trifásicos6. Reatores Não-Ideais6.1) A distribuição dos tempos de residência6.2) Modelos dos tanques contínuos em série6.3) Modelo da dispersão axial"
-  metodo: "Duas provas escritas e eventual apresentação de trabalho."
-  criterio: "Nota(N) = 50% Prova P1 + 50% Prova P2. Os pesos poderão ser redefinidos caso seja incorporada nota de trabalho."
-  exame: "Média Final = (N + Prova Recuperação)/2"
-  bibliografia: "Bibliografia Básica :FOGLER, H. S. Elementos de Engenharia das Reações Químicas. 3. ed. Rio de Janeiro: LTC Editora, 2002.LEVENSPIEL, O. Chemical Reaction Engineering. 3. ed. New York: John Wiley & Sons, 1998.HILL, C.G. An Introduction to Chemical Engineering Kinetics and Reactor Design. New York: John Wiley&Sons, 1977.Bibliografia Complementar:SMITH, J.M. Chemical Engineering Kinetics. 3rd. ed. New York :  McGraw-Hill, 1981.DENBIGH, K.; TURNER, R. Introduction to Chemical Reaction Design. Cambridge: Cambridge University Press, 1970.FROMENT, G.F.; BISCHOFF, K.B. Chemical Reactor Analysis And Design. 2nd ed.  New York: John Wiley & Sons, 1990.AGUIAR, L. G. Problemas de cinética e reatores químicos. Curitiba: Appris Editora, 2023.VAN SANTEN, R.A.; Niemantsverdriet, J.W. Chemical kinetics and catalysis. New York: Plenum Press, 1995.Missen, R.W.; Mims, C.A.; Saville, B.A. Introduction to chemical reaction engineering and kinetics. New York: J. Wiley, 1999.Rothenberg, G. Catalysis: concepts and green applications. Weinheim: Wiley-VCH, 2008 Chichester.Salmi, T.O.; Mikkola, J.; Warna, J.P. Chemical reaction engineering and reactor technology. Boca Raton: CRC Press/Taylor & Francis, 2011."
-  docentes: ['5963230 - Leandro Gonçalves de Aguiar', '6310316 - Liana Alvares Rodrigues']
-  oferecimento:
-    - 20241D1:
-      Codigo_da_Turma: "20241D1"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  14:00  18:00 "
-          prof: "(R) Liana Alvares Rodrigues "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "40"
-          Pendentes: "0"
-          Matriculados: "40"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "49"
-          Inscritos: "26"
-          Pendentes: "0"
-          Matriculados: "26"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "11"
-          Inscritos: "10"
-          Pendentes: "0"
-          Matriculados: "10"
-    - 20241D2:
-      Codigo_da_Turma: "20241D2"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  19:00  23:00 "
-          prof: "(R) Liana Alvares Rodrigues "
-      vagas:
-        - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "0"
-          Matriculados: "30"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "45"
-          Inscritos: "13"
-          Pendentes: "0"
-          Matriculados: "13"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "15"
-          Inscritos: "15"
-          Pendentes: "0"
-          Matriculados: "15"
-- LOQ4064:
-  sigla: "LOQ4064"
-  nome: " Engenharia de Processos Quimicos I"
-  nomeascii: " Engenharia de Processos Quimicos I"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4064&codcur=88052&codhab=4"
-  requisitos:
-    - LOQ4054:
-      sigla: "LOQ4054"
-      nome: " Fenômenos de Transporte III "
-      tipo: "Requisito fraco"
-    - LOQ4086:
-      sigla: "LOQ4086"
-      nome: " Operações Unitárias II "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "8"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Chemical Process Engineering I"
-  objectives: "1 - Consolidation and application of knowledge acquired in each of the specific areas of the Chemical Engineering degree. 
-2 - Integration of knowledge of Chemical Engineering"
-  abstract: "1 - Diagrams for Understanding Chemical Processes. 2 - The Structure and Synthesis of Process Flow Diagrams. 3 - Analysis of process performance. 4 - Industrial chemical plant study"
-  program: "1 - Diagrams for Understanding Chemical Processes: Block Flow Diagrams; Process Flow Diagram (PFD); Piping and Instrumentation Diagram (P&ID).
-2 - The Structure and Synthesis of Process Flow Diagrams:  Hierarchy of Process Design; Step 1 - Batch versus Continuous Process; Step 2 - The Input/Output Structure of the Process; Step 3 - The Recycle Structure of the Process
-3 - Analysis of process performance: Process Input/Output Models; Tools for evaluating process performance.
-4 - Industrial chemical plant study."
-  ndoc: "1"
-  CA: "2"
-  CT: "4"
-  CH: "150 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2016"
-  objetivos: "1 - Consolidação e aplicação dos conhecimentos adquiridos em cada uma das áreas específicas do curso de Engenharia Química.  2  Integração dos conhecimentos da Engenharia Química."
-  resumo: "Diagramas para estudos de processos químicos. 2  Estrutura e síntese de processos químicos industriais. 3  Análise de desempenho de processos químicos. 4  Estudo de planta química industrial"
-  programa: "1 - Diagramas para estudos de processos químicos: diagramas de bloco; Fluxogramas de processo (PFD); Fluxogramas de instrumentação e tubulação (P&ID).
-2  Estrutura e síntese de processos químicos industriais: Hierarquia no planejamento de processos; Etapa 1- Descontínuo ou contínuo; Etapa 2 - Estrutura de entrada/saída de processo; Etapa 3- Estrutura de reciclo; 
-3  Análise de desempenho de processos químicos: Modelo de entrada e saída; Ferramentas para a avaliação de processos.
-4  Estudo de planta química industrial."
-  metodo: "Provas escritas e Apresentação de Trabalhos"
-  criterio: "A nota será composta por ao menos uma prova escrita e trabalhos realizados e apresentados durante o semestre. O peso de cada atividade será definido segundo critérios do professor."
-  exame: "Média Final = (N + Prova Recuperação)/2"
-  bibliografia: "PERLINGEIRO, Carlos A. G. Engenharia de processos: análise, simulação, otimização e síntese de processos químicos.  Editora Blucher, 2005.
-TURTON, BAILIE; WHITING; SHAEIWITZ  Analysis, Synthesis, and Design of Chemical Processes. 3. Ed. LTC Editora, 2005.
-COULSON, J. M.; RICHARDSON, J.F. Chemical Engineering Design: Chemical Engineering Volume 6. Editora Fourth, 2005.
-HIMMELBLAU, David M. Engenharia química princípios e cálculos. LTC Editora, 2006.
-FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC Editora, 2005."
-  docentes: ['5816812 - João Paulo Alves Silva']
-  oferecimento:
-    - 20241D1:
-      Codigo_da_Turma: "20241D1"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " qua  08:00  10:00 "
-          prof: "(R) João Paulo Alves Silva "
+          horario: " ter  19:00  21:00 "
+          prof: "Eduardo Rezende Triboni "
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "48"
+          Inscritos: "54"
           Pendentes: "0"
-          Matriculados: "48"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "60"
-          Inscritos: "38"
-          Pendentes: "0"
-          Matriculados: "38"
+          Matriculados: "54"
         - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "10"
-          Inscritos: "8"
+          Vagas: "36"
+          Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "8"
+          Matriculados: "22"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "34"
+          Inscritos: "32"
+          Pendentes: "0"
+          Matriculados: "32"
 - LOQ4009:
   sigla: "LOQ4009"
   nome: " Instrumentação na Industria Química"
   nomeascii: " Instrumentacao na Industria Quimica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4009&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4009&codcur=88052&codhab=0"
   requisitos:
     - LOB1006:
       sigla: "LOB1006"
@@ -19171,6 +19079,7 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
+    EQD: "5"
     EQN: "9"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -19258,270 +19167,11 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
           Inscritos: "0"
           Pendentes: "0"
           Matriculados: "0"
-- LOQ4022:
-  sigla: "LOQ4022"
-  nome: " Processos Químicos Industriais I"
-  nomeascii: " Processos Quimicos Industriais I"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4022&codcur=88052&codhab=4"
-  requisitos:
-    - LOQ4002:
-      sigla: "LOQ4002"
-      nome: " Reatores Quimicos "
-      tipo: "Requisito fraco"
-    - LOQ4055:
-      sigla: "LOQ4055"
-      nome: " Quimica Inorgânica "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "9"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Industrial Chemical Processes I"
-  objectives: "Provide students with a current view of industrial processes that use chemical conversion as a route to transform raw material into product. The processes of the basic chemical and transformation industries will be studied."
-  abstract: "Introduction to Industrial Chemical Processes; NPK / Fertilizers; Sulfuric Acid; Chlorine Alkali; Paper and Cellulose; Sugar and alcohol; Biotechnological Processes."
-  program: "1. Introduction to Industrial Chemical Processes;2. NPK / Fertilizers3. Sulfuric Acid;4. Chlorine Alkali;5. Paper and Cellulose;6. Sugar and alcohol;7. Biotechnological Processes;"
-  ndoc: "1"
-  CA: "2"
-  CT: "0"
-  CH: "30 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2022"
-  objetivos: "Proporcionar aos alunos uma visão atual dos processos industriais que utilizam a conversão química como rota de transformação da matéria prima em produto. Serão estudados os processos das indústrias de química de base e de transformação."
-  resumo: "Introdução aos Processos Químicos Industriais; NPK / Fertilizantes; Ácido Sulfúrico; Cloro Álcalis; Papel e Celulose; Açúcar e álcool;  Processos Biotecnológicos;"
-  programa: ".Introdução aos Processos Químicos Industriais; 2.NPK / Fertilizantes3.Ácido Sulfúrico; 4.Cloro Álcalis; 5.Papel e Celulose; 6.Açúcar e álcool; 7.Processos Biotecnológicos."
-  metodo: "Aulas expositivas, desenvolvimento de trabalhos e exercícios em sala e fora de sala de aula, discussão de casos práticos."
-  criterio: "Provas em sala, entrega de trabalhos e exercícios ou casos práticos elaborados fora de sala de aula."
-  exame: "Frequência mínima de 70% e nota igual ou superior a 3,00 e inferior a 5,00 possibilita prova de recuperação."
-  bibliografia: "Ullmann’s encyclopedia of industrial chemistry; Editorial advisory board, Giuseppe Bellussi et al.; 7th, completely revised edition; Weinheim ; New York : WileyVCH, 2011.Encyclopedia of Chemical Processing; Edited by Sunggyu Lee; New York : Taylor & Francis, 2006.Kirk, Raymond Eller. Encyclopedia of chemical technology / Herman F.Mark et al. New York: John Wiley, 1984.Manual econômico da indústria química - MEIQ / Centro de Pesquisas e Desenvolvimento; 8ed; Camaçari: CEPED, 2007.Shreve, R. Norris; BRINK JR., J. A. Indústrias de processos químicos. Tradução de Horácio Macedo; 4.ed. Rio de Janeiro: Editora Guanabara Koogan, 2008, c1997.T.W. Graham Solomons, Craig B. Fryhle Hoboken, NJ. Organic chemistry; John Wiley, 9th ed; c2008.Revistas:Brazilian Journal of Chemical Engineering, São Paulo, SP: Brazilian Society of Chemical Engineering, v. 11, n. 1, 1995-;"
-  docentes: ['4808662 - Lucrécio Fábio dos Santos']
-  oferecimento:
-    - 20241N1:
-      Codigo_da_Turma: "20241N1"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  21:00  23:00 "
-          prof: "Marcos Villela Barcza "
-      vagas:
-        - Obrigatoria:
-          Vagas: "70"
-          Inscritos: "27"
-          Pendentes: "0"
-          Matriculados: "27"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "67"
-          Inscritos: "24"
-          Pendentes: "0"
-          Matriculados: "24"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "3"
-          Inscritos: "2"
-          Pendentes: "0"
-          Matriculados: "2"
-- LOQ4059:
-  sigla: "LOQ4059"
-  nome: " Polímeros"
-  nomeascii: " Polimeros"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4059&codcur=88052&codhab=4"
-  requisitos:
-    - LOQ4038:
-      sigla: "LOQ4038"
-      nome: " Química Orgânica II "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "9"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Polymers"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "1"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "Levar ao aluno uma visão relativamente aprofundada sobre a ciência dos polímeros. Apresentar os conceitos fundamentais, os mecanismos envolvidos nas sínteses dos polímeros, os diferentes processos de polimerização e finalmente as propriedades mais marcantes dos materiais obtidos. Mostrar para o aluno a importância do conhecimento destes materiais na sua carreira profissional."
-  resumo: "Introdução a polímeros; Mecanismos de polimerização; Técnicas de polimerização; Processos de polimerização; Caracterização de polímeros; Propriedades de polímeros."
-  programa: "Introdução a polímeros: História, Conceitos fundamentais, Classificação dos Polímeros, Nomenclatura de polímeros. Mecanismos de polimerização: Definições de poliadição e policondensação, policondensação (poliésteres, poliamidas, policarbonatos, poliuretanos), poliadição (polimerização via radical livre). Técnicas de polimerização (Massa, solução, suspensão, emulsão e miniemulsão). Processos de polimerização (Batelada, batelada alimentada/semi-contínuo, processo contínuo, processo shot). Noções sobre a caracterização de polímeros (GPC/SEC, DSC e TGA). Definição das propriedades mais importantes dos polímeros (Tg e TM, outras propriedades de engenharia)."
-  metodo: "2 Provas escritas + Trabalho de conclusão de curso."
-  criterio: "A nota final (NF) será calculada de seguinte maneira: NF = (P1+P2)/2
-O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da P2."
-  exame: "A recuperação será feita por meio de uma prova escrita (PR) e a média de recuperação (MR) calculada pela fórmula MR = (NF+PR)/2."
-  bibliografia: "MANO E. B. Introdução a Polímeros. Editora Edgard Blücher Ltda, 1a Ed., São Paulo, 1988; MANO E. B. Polímeros como Materiais de Engenharia. Editora Edgard Blücher Ltda, 1a Ed., São Paulo, 1991
-CANNEVALORO S. V. Ciência dos Polímeros. Editora Artliber  Ltda, 1a Ed., São Paulo, 2004
-COUTINHO F. M. B.; OLIVEIRA C. M. F. Reações de Polimerização em Cadeia. Editora Interciência Ltda, 1ª Ed., Rio de Janeiro, 2006
-BILMEYER Jr., F. W. Textbook of Polymer Science. John Wiley & Sons, 3rd Ed., New York, 1984
-ODIAN G. Principles of Polymerization, John Wiley & Sons, 3rd Ed., New York, 1991
-RODRIGUEZ, FERDINAND. Princípios de Sistemas de Polímeros, Editorial El Manual Moderno S.A., 1st Ed., México, D.F., 1984
-VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with chemical structure. Elsevier, 1st Ed., Amsterdam, 1972."
-  docentes: ['5840772 - Amilton Martins dos Santos']
-  oferecimento:
-    - 20241N1:
-      Codigo_da_Turma: "20241N1"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " qua  19:00  23:00 "
-          prof: "(R) Amilton Martins dos Santos "
-      vagas:
-        - Obrigatoria:
-          Vagas: "64"
-          Inscritos: "63"
-          Pendentes: "0"
-          Matriculados: "63"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "60"
-          Inscritos: "57"
-          Pendentes: "0"
-          Matriculados: "57"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "1"
-          Inscritos: "1"
-          Pendentes: "0"
-          Matriculados: "1"
-- LOQ4082:
-  sigla: "LOQ4082"
-  nome: " Corrosão"
-  nomeascii: " Corrosao"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4082&codcur=88052&codhab=4"
-  requisitos:
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito fraco"
-    - LOQ4098:
-      sigla: "LOQ4098"
-      nome: " Fundamentos de Química para Engenharia II"
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "9"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Corrosion"
-  objectives: ""
-  abstract: ""
-  program: ""
-  ndoc: "1"
-  CA: "2"
-  CT: "0"
-  CH: "30 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2012"
-  objetivos: "Propiciar aos alunos os conhecimentos básicos de corrosão, nos aspectos termodinâmicos e cinéticos, e descrever as principais formas de ataque e as técnicas de proteção contra a corrosão e a oxidação metálica."
-  resumo: "1. Princípios da corrosão. 2. Cinética da corrosão. 3. Formas de corrosão. 4. Proteção contra a corrosão. 5. Oxidação em temperaturas elevadas."
-  programa: "1. Princípios da corrosão: Reações de oxi-redução. Potenciais de eletrodo - Sistema redox em estado de equilíbrio - Diagrama de Pourbaix
-2. Cinética da corrosão: - Sistema redox em estado de não equilíbrio - Teoria do potencial misto  Passivação.
-3. Formas de corrosão: - Corrosão galvânica - Corrosão por pites e frestas - Corrosão intergranular - Corrosão sob tensão - Danos causados pelo hidrogênio.
-4. Proteção contra a corrosão: - Proteção catódica e anódica - Inibidores  Revestimentos.
-5. Oxidação em temperaturas elevadas - Fundamentos termodinâmicos - Mecanismos de transporte - Velocidade de oxidação - Oxidação de metais puros - Oxidação de ligas."
-  metodo: "O aluno será avaliado através de duas provas escritas P1 e P2."
-  criterio: "A nota final NF será (P1 + P2)/2 ."
-  exame: "Prova escrita sobre toda matéria. A média final MF será a média da nota final NF e da nota obtida na recuperação NR: MF = (NF + NR)/2 ."
-  bibliografia: "V.GENTIL, Corrosão, Ed. Guanabara Dois, 1982
-L.V. RAMANATHAN, Corrosão e seu controle, Ed. Hermes
-L.L. SHREIR, Corrosion, Newnes Butterworths, 2 vol., 1976
-N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Edward Arnold, 1983"
-  docentes: ['5817344 - Livia Melo Carneiro']
-  oferecimento:
-    - 20241N1:
-      Codigo_da_Turma: "20241N1"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  19:00  21:00 "
-          prof: "Eduardo Rezende Triboni "
-      vagas:
-        - Obrigatoria:
-          Vagas: "70"
-          Inscritos: "54"
-          Pendentes: "0"
-          Matriculados: "54"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "36"
-          Inscritos: "22"
-          Pendentes: "0"
-          Matriculados: "22"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "34"
-          Inscritos: "32"
-          Pendentes: "0"
-          Matriculados: "32"
-- LOT2041:
-  sigla: "LOT2041"
-  nome: " Engenharia Bioquímica"
-  nomeascii: " Engenharia Bioquimica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2041&codcur=88052&codhab=4"
-  requisitos:
-    - LOT2004:
-      sigla: "LOT2004"
-      nome: " Bioquímica "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "9"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Biotecnologia"
-  nome_en: "Biochemical Engineering"
-  objectives: ""
-  abstract: "Characteristics of biological material; Kinetics of fermentative processes; Operation modes of fermentative processes; Sterilization in bioprocess."
-  program: "Characteristics of biological material - Types of microorganisms, cell structure and morphology, nutrition and microbial growth. Kinetics of fermentative processes - Evaluation of kinetic profile of batch cultures, definition and calculation of fermentative parameters (rates and yields), kinetic models for cell growth (MONOD) and product formation (GADEN). Operation modes of fermentative processes. Major configurations of bioreactors, characteristics and mathematical equations for batch, fed-batch and continuous operations. Sterilization in fermentation process – general aspects on sterilization and disinfection in bioprocess, methods for medium and air sterilization, kinetics of thermal death of microorganisms, calculation of sterilization time for batch and continuous process."
-  ndoc: "2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2019"
-  objetivos: "Capacitar o aluno para aplicar os conceitos de Engenharia aos Processos Biológicos e para identificar a relevância dos processos microbianos em escala industrial. Fornecer conhecimentos, técnicas e métodos de base científica ou prática para uma melhor compreensão dos aspectos cinéticos de um bioprocesso em suas diferentes formas de condução (regime descontínuo, descontinuo- alimentado e contínuo), assim como dos conceitos fundamentais para o desenvolvimento da etapa de esterilização de um bioprocesso."
-  resumo: "Características do material biológico; Cinética de processos fermentativos, Formas decondução dos processos fermentativos, esterilização em bioprocessos."
-  programa: "Características do material biológico – Tipos de microrganismos, morfologia e estrutura celular, nutrição e crescimento microbiano. Cinética de processos fermentativos – Avaliação do perfil cinético dos cultivos por batelada, definição e cálculo dos parâmetros fermentativos (velocidades e rendimentos), modelos cinéticos para o crescimento celular (MONOD) e formação de produtos (GADEN). Formas de condução dos processos fermentativos - Principais configurações dos biorreatores, características e equacionamento dos processos descontínuos, contínuos e descontínuos- alimentado. Esterilização em processos fermentativos – Aspectos gerais sobre esterilização e desinfecção em bioprocessos, esterilização de meios de cultura, esterilização do ar, cinética da destruição térmica dos microrganismos, cálculo do tempo de esterilização por processo descontínuo e cálculo do tempo de esterilização por processo contínuo."
-  metodo: "Os alunos serão avaliados formalmente por duas provas teóricas (P1 e P2). A ponderação das notas será de 50% para cada avaliação, ou seja: Média do período letivo normal = (P1+ P2)/2."
-  criterio: "Serão aprovados os alunos que obtiverem média do período letivo normal igual ou maior que 5."
-  exame: "Aos alunos que não obtiverem média igual ou maior que 5,0 será oferecido um programa de recuperação, que será avaliado por uma prova final (PF). Neste caso, a média final do aluno será: Média Final = (Média do período letivo normal + nota prova final) / 2. Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
-  bibliografia: "1.Schmidell, W.; Lima, U. A.; Aquarone, E.; Borzani, W. Biotecnologia Industrial – Engenharia Bioquímica, vol. 2, São Paulo: Edgard Blücher, 2001. 2. Borzani, W.; Schmidell, W.; Lima, U. A.; Aquarone, E. Biotecnologia Industrial. Fundamentos Vol. 1. São Paulo: Ed. Edgard Blücher, 2001. 3. Pauline M. Doran ed. Bioprocess Engineering Principles (Second Edition), Elsevier Ltd. 2013."
-  docentes: ['1112574 - Inês Conceição Roberto', '1097178 - João Batista de Almeida e Silva']
-  oferecimento:
-    - 20241N1:
-      Codigo_da_Turma: "20241N1"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Teórica"
-      Observacoes: ""
-      aulas:
-        - h0:
-          horario: " qui  19:00  23:00 "
-          prof: "(R) Inês Conceição Roberto "
-      vagas:
-        - Obrigatoria:
-          Vagas: "64"
-          Inscritos: "64"
-          Pendentes: "0"
-          Matriculados: "64"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "57"
-          Inscritos: "57"
-          Pendentes: "0"
-          Matriculados: "57"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "6"
-          Inscritos: "6"
-          Pendentes: "0"
-          Matriculados: "6"
 - LOQ4004:
   sigla: "LOQ4004"
   nome: " Controle de Processos Químicos"
   nomeascii: " Controle de Processos Quimicos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4004&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4004&codcur=88052&codhab=0"
   requisitos:
     - LOB1006:
       sigla: "LOB1006"
@@ -19537,6 +19187,7 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
+    EQD: "6"
     EQN: "10"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -19598,250 +19249,71 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
           Inscritos: "10"
           Pendentes: "0"
           Matriculados: "10"
-- LOQ4023:
-  sigla: "LOQ4023"
-  nome: " Processos Químicos Industriais II"
-  nomeascii: " Processos Quimicos Industriais II"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4023&codcur=88052&codhab=4"
+- LOT2004:
+  sigla: "LOT2004"
+  nome: " Bioquímica"
+  nomeascii: " Bioquimica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2004&codcur=88052&codhab=0"
   requisitos:
-    - LOQ4057:
-      sigla: "LOQ4057"
-      nome: " Operações Unitárias III "
-      tipo: "Requisito fraco"
     - LOQ4038:
       sigla: "LOQ4038"
       nome: " Química Orgânica II "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
-    EQN: "10"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Industrial Chemical Processes II"
-  objectives: "Check the students students with applications on an industrial scale of processes and products studied in organic chemistry disciplines and an overview of the most important raw materials in the chemical industry of organic base."
-  abstract: "Fine Chemistry,Oil, Natural Gas and Petrochemicals; Organic Unit Processes: Alkylation and Acylation; Hydrogenation,Halogenation, Esterification; Sulphonation/Sulfation; Oxidation."
-  program: "1- Fine Chemicals: 1.1- Characteristics, 1.2- Main Segments (Agricultural Defensives, Pharmaceuticals, Catalysts, Dyes and Pigments, Specialties), 1.3- Fine Chemicals X Basic Chemicals, 2- Oil, Natural Gas and Petrochemicals; 3- Unitary Processes Organic: 3.1- Alkylation and Acylation; 3.2- Hydrogenation and Dehydrogenation; 3.2.1 Oxo processes, 3.2.2- Amino; 3.3- Halogenation; 3.4- Esterification; 3.5- Sulfonation/Sulfation; 3.6- Oxidation."
-  ndoc: "1"
-  CA: "2"
-  CT: "0"
-  CH: "30 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2024"
-  objetivos: "Conferir aos alunos aplicações em escala industrial, de processos e produtos estudados em disciplinas de química orgânica e uma visão global das matérias primas mais importantes na área da indústria química de base orgânica."
-  resumo: "Química Fina,Petróleo, Gás Natural e Petroquímica; Processos Unitários Orgânicos:Alquilação e Acilação; Hidrogenação e Desidrogenação,Halogenação, Esterificação; Sulfonação/Sulfatação; Oxidação."
-  programa: "1-Química Fina: 1.1- Características, 1.2- Principais Segmentos (Defensivos Agrícolas, Fármacos, Catalisadores, Corantes e Pigmentos, Especialidades), 1.3- Química Fina X Química de Base, 2- Petróleo, Gás Natural e Petroquímica; 3- Processos Unitários Orgânicos: 3.1- Alquilação e Acilação; 3.2- Hidrogenação e Desidogenação;3.2.1 Processos Oxo, 3.2.2- Amino;3.3- Halogenação; 3.4- Esterificação; 3.5- Sulfonação/Sulfatação; 3.6- Oxidação."
-  metodo: "Aulas expositivas, desenvolvimento de exercícios em sala e fora de sala de aula, discussão de casos práticos."
-  criterio: "A nota (NOTA) será composta por uma destas opções: prova em sala, apresentações em sala, entrega de exercícios ou casos práticos elaborados fora de sala de aula. A estas opções será incorporado,para cada aluno, seu respectivo percentual defrequência no cálculo da nota final (NF), conforme a fórmula explicitada abaixo:NF = NOTA x %FREQ."
-  exame: "Frequência mínima de 70% e nota igual ou superior a 3,00 e inferior a 5,00 possibilita aplicação de prova escrita de recuperação valendo 10,00 pontos."
-  bibliografia: "Livros:Ullmann’s encyclopedia of industrial chemistry; Editorial advisory board, Giuseppe Bellussi et al.; 7th, completely revised edition; Weinheim ; New York : WileyVCH, 2011.Encyclopedia of Chemical Processing; Edited by Sunggyu Lee; New York : Taylor & Francis, 2006.Kirk, Raymond Eller. Encyclopedia of chemical technology / Herman F.Mark et al. New York: John Wiley, 1984.Manual Econômico da Indústria Química - MEIQ / Centro de Pesquisas e Desenvolvimento; 8ed; Camaçari: CEPED, 2007.Shreve, R. Norris; BRINK JR., J. A. Indústrias de processos químicos. Tradução de Horácio Macedo; 4.ed. Rio de Janeiro: Editora Guanabara Koogan, 2008, c1997.Revistas:Brazilian Journal of Chemical Engineering, São Paulo, SP: Brazilian Society of Chemical Engineering, v. 11, n. 1, 1995-;Química & Derivados, São Paulo, SP: QD, v. 1, n. 1, nov. 1965-; Disponível em: http://www.quimica.com.br/pquimica/category/revista/Petróleo & Energia, São Paulo, SP, v. 1, n. 1, ; Disponível em: http://www.petroleoenergia.com.br/petroleo/category/revista-petroleo-e-energia/Revista FACTO, Publicação da Associação Brasileira das Indústrias de Química Fina, Biotecnologia e suas Especialidades, Rio de Janeiro, RJ, v. 1, n. 1; Disponível em: http://www.abifina.org.br/facto/"
-  docentes: ['1285870 - Marcos Villela Barcza']
-  oferecimento:
-    - 20241D1:
-      Codigo_da_Turma: "20241D1"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " ter  19:00  21:00 "
-          prof: "(R) Marcos Villela Barcza "
-      vagas:
-        - Obrigatoria:
-          Vagas: "70"
-          Inscritos: "65"
-          Pendentes: "0"
-          Matriculados: "65"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "50"
-          Inscritos: "50"
-          Pendentes: "0"
-          Matriculados: "50"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "16"
-          Inscritos: "15"
-          Pendentes: "0"
-          Matriculados: "15"
-- LOQ4065:
-  sigla: "LOQ4065"
-  nome: " Engenharia de Processos Químicos II"
-  nomeascii: " Engenharia de Processos Quimicos II"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4065&codcur=88052&codhab=4"
-  requisitos:
-    - LOQ4064:
-      sigla: "LOQ4064"
-      nome: " Engenharia de Processos Quimicos I "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "10"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Chemical Process Engineering II"
-  objectives: "1 - Stimulate the student to look for solutions for the development of a chemical process, by integrating the knowledge acquired in each of the specific areas of Chemical Engineering. 
-2 - Promote the teamwork and the interaction between groups"
-  abstract: "1 - Integrated Vision of Chemical Engineering. 2 - Multidisciplinary Project Studies aiming at integrating their knowledge in engineering. 3 - Development of multidisciplinary projects about Chemical Industry.
-4 - Seminars: Presentation and discussion of the study results. 5. Final Report."
-  program: "1 - Integrating Vision Engineering Chemistry: Analysis and optimization of equipment set of process conditions such as reactors, heat exchangers, separation systems, among others.
-2 - Multidisciplinary Projects Knowledge integrators Engineering: Analysis and optimization of industrial plants.
-3 - Development of multidisciplinary projects Chemical Industry: Development of projects aimed at designing an industrial installation of a chemical plant; Project development aimed at data collection and optimize a chemical process.
-4 - Seminars: Presentation and discussion of results.
-5 - Final Report"
-  ndoc: "1"
-  CA: "2"
-  CT: "4"
-  CH: "150 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2016"
-  objetivos: "1 - Estimular no aluno a capacidade de atuar como engenheiro, no sentido de buscar soluções para o desenvolvimento de um processo químico, através da integração dos conhecimentos adquiridos em cada uma das áreas específicas da Engenharia Química. 2  Estimular o trabalho em equipe e a interação entre grupos"
-  resumo: "1 - Visão Integradora da Engenharia Química. 2  Projetos Multidisciplinares integradores do Conhecimento em Engenharia. 3 - Desenvolvimento de projetos multidisciplinares da Indústria Química. 4 - Seminários: Apresentação e discussão dos resultados. 5. Relatório Final."
-  programa: "1 - Visão Integradora da Engenharia Química: Análise e otimização de condições de processo de conjunto de equipamentos como reatores, trocadores de calor, sistemas de separação, entre outros.
-2 - Projetos Multidisciplinares integradores do Conhecimento em Engenharia: Análise e otimização de instalações industriais.
-3 - Desenvolvimento de projetos multidisciplinares da Indústria Química: Desenvolvimento de projetos visando a concepção de uma instalação industrial de uma planta química; Desenvolvimento de projetos visando o levantamento de dados e a otimização de um processo químico.   
-4 - Seminários: Apresentação e discussão dos resultados. 
-5 - Relatório Final"
-  metodo: "Provas escritas e Apresentação de Trabalhos"
-  criterio: "A nota será composta por ao menos uma prova escrita e trabalhos realizados e apresentados durante o semestre. O peso de cada atividade será definido segundo critérios do professor."
-  exame: "Média Final = (N + Prova Recuperação)/2"
-  bibliografia: "PERLINGEIRO, Carlos A. G. Engenharia de processos: análise, simulação, otimização e síntese de processos químicos.  Editora Blucher, 2005.
-TURTON, BAILIE; WHITING; SHAEIWITZ  Analysis, Synthesis, and Design of Chemical Processes. 3. Ed. LTC Editora, 2005.
-COULSON, J. M.; RICHARDSON, J.F. Chemical Engineering Design: Chemical Engineering Volume 6. Editora Fourth, 2005.
-HIMMELBLAU, David M. Engenharia química princípios e cálculos. LTC Editora, 2006.
-FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC Editora, 2005.
-HOUGEN, O.A.; WATSON, K. M.; RAGATZ, R.A. Princípios dos processos químicos. Lopes da Silva Editora, 2005. v. 1 
-CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering with POLYMATHTM, Excel and MATLAB®. Prentice-Hall, 2008."
-  docentes: ['5816812 - João Paulo Alves Silva']
-  oferecimento:
-- LOQ4078:
-  sigla: "LOQ4078"
-  nome: " Modelagem e Simulação de Processos"
-  nomeascii: " Modelagem e Simulacao de Processos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4078&codcur=88052&codhab=4"
-  requisitos:
-    - LOB1056:
-      sigla: "LOB1056"
-      nome: " Introdução aos Métodos Numéricos e Computacionais "
-      tipo: "Requisito fraco"
-    - LOQ4002:
-      sigla: "LOQ4002"
-      nome: " Reatores Quimicos "
-      tipo: "Requisito fraco"
-    - LOQ4057:
-      sigla: "LOQ4057"
-      nome: " Operações Unitárias III "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "10"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Process Modeling and Simulation"
-  objectives: "This course aims to introduce the students the modeling and simulation tools present in the work environment of the chemical engineer. These tools aids to design, operation and optimization of industrial processes."
-  abstract: "Issues of interest and concern of Chemical Engineers will be addressed with an emphasis on advances and innovations of basic aspects of the Chemical Engineering program."
-  program: "1. Introduction to process modeling and simulation. Problem solutions in chemical engineering with: systems of algebraic linear equations, systems of non-linear algebraic equations, systems of first-order differential equations (initial value problems), second order differential equations (boundary value problems), partial differential equations, process optimization, Non-linear regression and statistical analysis.2. Introduction to process simulators: logical operations, unit operations, chemical reaction units, process flowchart."
-  ndoc: "1"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "Este curso visa apresentar aos alunos as ferramentas de modelagem e simulação presentes no ambiente de trabalho do engenheiro químico. Essas ferramentas auxiliam no projeto, operação e otimização de processos industriais."
-  resumo: "Serão abordados assuntos de interesse e preocupação dos Engenheiros Químicos com ênfase em avanços e inovações de aspectos básicos relativos ao programa de Engenharia Química."
-  programa: "1. Introdução a modelagem, simulação e otimização de processos. Resolução de problemas em Engenharia Química envolvendo: sistemas de equações lineares, sistemas de equações não lineares, sistemas de equações diferenciais de primeira ordem (problemas de valor inicial), equações diferenciais de segunda ordem (problemas de valor de contorno), equações diferenciais parciais, otimização de processos, regressão não linear e análise estatística. 2. Introdução aos simuladores de processo: operações lógicas, operações unitárias, diagramas de fluxo em processos."
-  metodo: "A avaliação do aprendizado será realizada por meio da resolução de problemas de engenharia química propostos aos alunos. A média final será calculada pela média aritmética entre a nota obtida na resolução de problemas relativos aos itens 1 e 2 do programa do curso."
-  criterio: "MF = (P1 + P2)/2 Onde: P1 é a nota obtida pela avaliação da resolução de problemas referentes ao item 1 do Programa do curso;P2 é a nota obtida pela avaliação da resolução de problemas referentes ao item 2 do Programa do curso;MF é a média final do período."
-  exame: "A recuperação será feita por meio de uma prova (PR) para alunos que tenham MF maior ou igual a 3,0 e menor do que 5,0 e pelo menos 70% de frequência. A nota de recuperação (NR) será a média simples entre a média final (MF) e a prova de recuperação (PR). Será considerado aprovado o aluno com NR maior ou igual a 5,0."
-  bibliografia: "1) HIMMELBLAU, D.M.; BISCHOFF, K.B. Process analysis and simulation-deterministic systems. New York: John Wiley, 1968.2) FINLAYSON, B. A.. Non-linear analysis in chemical engineering. New York: McGraw-Hill, 19803) CONSTANTINIDES, A.; MOSTOUFI, N. Numerical methods for chemical engineers with MATLAB applications. Prentice-Hall, 1999.4) CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering with POLYMATHTM, Excel and MATLAB®– 2nd ed. Upper Saddle River, NJ: Prentice-Hall, 2008.5) DYMENT, J.; MANTRALA, V. Jump Start: Getting Started with Aspen Plus® V8 - A Brief Tutorial (and supplement to training and online documentation), ASPENTECH, 2015.6) FARES, A.D. Process Simulation Using Aspen HYSYS V8, Ahmed Deyab Fares, 2016."
-  docentes: ['5817066 - Félix Monteiro Pereira']
-  oferecimento:
-    - 20241D1:
-      Codigo_da_Turma: "20241D1"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Prática"
-      aulas:
-        - h0:
-          horario: " qui  14:00  18:00 "
-          prof: "Fabio Rodolfo Miguel Batista "
-      vagas:
-        - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "0"
-          Matriculados: "36"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "27"
-          Inscritos: "22"
-          Pendentes: "0"
-          Matriculados: "22"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "13"
-          Inscritos: "13"
-          Pendentes: "0"
-          Matriculados: "13"
-- LOT2042:
-  sigla: "LOT2042"
-  nome: " Processos Bioquímicos"
-  nomeascii: " Processos Bioquimicos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2042&codcur=88052&codhab=4"
-  requisitos:
-    - LOT2041:
-      sigla: "LOT2041"
-      nome: " Engenharia Bioquímica "
-      tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "10"
+    EQD: "6"
+    EQN: "7"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Biotecnologia"
-  nome_en: "Biochemical Processes"
-  objectives: ""
-  abstract: "Introduction. Fermentative and enzymatic processes. Biochemical processes applied to food industry. Biochemical processes of industrial Importance. Enzymatic technology in different industrial sectors. Fundamentals of bioprocess engineering applied to biochemical processes. Variation of scale in bioprocesses. Introduction to techniques of separation/purification of biotechnological products."
-  program: "Introduction: importance of bioprocesses and industrial applications.Fermentative and enzymatic processes: types of fermentative processes, raw materials, products obtainment.Biochemical processes applied to food industry: food processing, phases of food products processing, biochemical alterations in food, lipids oxidation, enzymatic and not enzymatic darkness, industrial controls of biochemical alterations.Biotechnological processes of industrial importance: description and study of cases of some biotechnological processes.Enzymatic technology in different industrial sectors. Fundamentals of bioprocess engineering applied to biochemical processes: transfer of oxygen and microbial respiration: transfer of mass (convection transfer in gas-liquid system, microbial respiration, transfer of oxygen from the gas bubble to the cell); Transfer of O2 in the bioreactor (Effects of sizing and operating aspects of the bioreactor - bubbles, aeration, agitation and medium properties, antifoaming agents, temperature, gas pressure and oxygen partial pressure). Transfer of power and oxygen in agitated and aerated bioreactor. Scale variation in bioprocesses.Introduction to separation/purification of biotechnological products"
-  ndoc: "1"
+  nome_en: "Biochemistry"
+  objectives: "The course aims to cover the concepts of biochemistry, cell structural organization and molecular composition; to understand the importance of organic compounds and cellular metabolism; and to enable students to acquire a specialised knowledge for further disciplines of the undergraduate program in Chemical Engineering and Industrial Chemical."
+  abstract: "Physical and chemical properties of biomolecules and their levels of organization. Overview of DNA-based information technologies and protein metabolism, overview of glucose metabolism, anaerobic metabolism, oxidative metabolism of electron-transfer reaction, oxidative phosphorylation, photosynthesis."
+  program: "Basic biochemistry: Solvent properties of water, acids and bases, titration curves, buffer solutions. Aminoacids: three-dimensional structure, structure-property relationship, isoelectric point, electrophoresis, peptide bond, small peptides with physiological activity. Proteins: structure levels, structural irregularities, denaturation and renaturation, isolation, characterization and quantification. Enzymes: general concepts and mechanisms of action, cofactors and coenzymes, kinetics of michaelian enzymes, equilibrium and reaction rate, kinetic parameters and their applications, allosteric enzymes, regulation and inhibition of enzymes, general mechanisms of enzymatic reactions. Carbohydrates: classification of monosaccharides, cyclic structure and isomerism, chemical properties, disaccharides, homopolysaccharides and their structural and energy storage functions, heteropolysaccharides, glycoproteins and glycolipids. Lipids: fatty acids, triacylglycerides, phospholipids, sphingolipids and cholesterol. Biological membranes: fluid mosaic model, transport, selective permeability, passive process and active transport of biomolecules and/or ions. Molecular Biochemistry: nucleic acid structure and chemistry, denaturation of DNA, purification and detection of DNA, DNA electrophoresis, restriction endonucleases, DNA cloning, cloning vectors, genetic engineering, polymerase chain reaction, DNA sequencing, protein synthesis, the genetic code. Metabolic Biochemistry: bioenergetics and biochemical reaction types, anabolism, catabolism, glycolysis, fermentation, gluconeogenesis, the pentose phosphate pathway, the citric acid cycle, electron-transfer reaction, oxidative phosphorylation, photophosphorylation, photosynthesis."
+  ndoc: "2"
   CA: "4"
   CT: "0"
   CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "Transmitir aos alunos os conceitos básicos e fundamentais no estudo de processos biotecnológicos. - Demonstrar as principais etapas no desenvolvimento dos processos bioquímicos industriais e os principais fatores que influenciam no desenvolvimento e otimização destes processos. - Apresentar aos alunos uma visão das aplicações potenciais e estratégicas da biotecnologia moderna - Aprimorar o raciocínio e despertar o espírito crítico e a criatividade dos alunos"
-  resumo: "Introdução. Processos fermentativos e enzimáticos. Processos bioquímicos aplicados à indústria de alimentos. Processos biotecnológicos de importância industrial. Tecnologia enzimática em diferentes setores industriais. Fundamentos de engenharia de bioprocessos aplicados a processos bioquímicos. Variação de escala em bioprocessos. Introdução às técnicas de separação/purificação de produtos biotecnológicos."
-  programa: "Introdução: importância dos bioprocessos e aplicações industriais.Processos fermentativos e enzimáticos: tipos de processos fermentativos, matérias primas, obtenção de produtos.Processos bioquímicos aplicados à indústria de alimentos: processamento de alimentos, fases do processamento de produtos alimentícios, alterações bioquímicas em alimentos, oxidação de lipídeos, escurecimento enzimático e não enzimático, controles industriais das alterações bioquímicas.Processos biotecnológicos de importância industrial: descrição e estudo de casos de alguns processos biotecnológicos.Tecnologia enzimática em diferentes setores industriais. Fundamentos de engenharia de bioprocessos aplicados a processos bioquímicos: transferência de oxigênio e respiração microbiana: transferência de massa (transferência por convecção em sistema gás-líquido; respiração microbiana; transferência de O2 da bolha de gás para a célula); transferência de O2 em biorreator (efeitos dos aspectos do dimensionamento e operacionais do biorreator - bolhas, aeração, agitação e propriedades do meio, agentes antiespumantes, temperatura, pressão do gás e pressão parcial de oxigênio). Transferência de potência e oxigênio em biorreator agitado e aerado. Ampliação de escala em bioprocessos.Introdução às técnicas de separação/purificação de produtos biotecnológicos."
-  metodo: "Os alunos serão avaliados formalmente por uma prova teórica (P) e trabalhos (T). A ponderação das notas será de 70% para a prova teórica (P) e 30% para a média aritmética das notas dos trabalhos (T), ou seja: Média Final do período letivo normal (MF) = (0,7xP +0,3xT)."
-  criterio: "Serão aprovados os alunos que obtiverem média do período letivo normal igual ou maior que 5."
-  exame: "A recuperação será feita por meio de uma prova (PR) para alunos que tenham MF maior ou igual a 3,0 e menor do que 5,0 e pelo menos 70% de frequência. A nota de recuperação (NR) será a média simples entre a média final (MF) e a prova de recuperação (PR). Será considerado aprovado o aluno com NR maior ou igual a 5,0."
-  bibliografia: "1.Schmidell, W.; Lima, U. A.; Aquarone, E.; Borzani, W. Biotecnologia Industrial  Engenharia Bioquímica, vol. 2, São Paulo: Edgard Blücher, 2001. 2. Borzani, W.; Schmidell, W.; Lima, U. A.; Aquarone, E. Biotecnologia Industrial. Fundamentos Vol. 1. São Paulo: Ed. Edgard Blücher,  2001. 3. Manual of industrial microbiology and biotechnology - Demain, A. L.; Solomon, N.A. Eds.Washington, American Society for Microbiology, 1986. 4. Fermentation and Enzyme Technology - Wang, D.C. et al. New York, Wiley-Interscience, 1979. 5. Princípios de Tecnologia de Alimentos - Gava, A.J. São Paulo, Nobel, 1983. 6. LIMA , U. A et al. Biotecnología Industrial, Biotecnologia na produção de alimentos - Série Biotecnología, vol4. Ed. Edgard Blucher,Ltda , 2001. 7. Tecnologia de Alimentos - José Evangelista -Livraria"
-  docentes: ['1814052 - Silvio Silverio da Silva']
+  ativacao: "01/01/2019"
+  objetivos: "Capacitar o aluno para aplicar os conceitos de Engenharia aos Processos Biológicos e para identificar a relevância dos processos microbianos em escala industrial. Fornecer conhecimentos, técnicas e métodos de base científica ou prática para uma melhor compreensão dos aspectos cinéticos de um bioprocesso em suas diferentes formas de condução (regime descontínuo, descontinuo- alimentado e contínuo), assim como dos conceitos fundamentais para o desenvolvimento da etapa de esterilização de um bioprocesso. Promover o conhecimento da Bioquímica abrangendo a organização estrutural e molecular da célula. Compreender a importância dos compostos orgânicos e do metabolismo celular. Utilizar os conhecimentos como pré-requisitos para as disciplinas do Curso de Engenharia Química e Engenharia Industrial Química"
+  resumo: "Propriedades físicas e químicas das biomoléculas e seus níveis de organização. Visão geral da tecnologia da informação baseadas no DNA e metabolismo de proteínas, visão geral do metabolismo de glicose, metabolismo anaeróbico, metabolismo oxidativo da cadeia de transporte de elétrons e fosforilação oxidativa, fotossíntese."
+  programa: "Bioquímica básica: propriedades solventes da água, ácidos e bases, curvas de titulação, soluções-tampão. Aminoácidos: estrutura tridimensional, relação-propriedade, ponto isoelétrico, eletroforese, ligação peptídica, peptídeos pequenos com atividade fisiológica. Proteínas: níveis de estrutura, irregularidades estruturais, desnaturação e renaturação, isolamento, caracterização e quantificação. Enzimas: conceito geral e mecanismos de ação, cofatores e coenzimas, cinética de enzimas Michaelianas, equilíbrio e velocidade de reação, parâmetros cinéticos e suas aplicações, enzimas alostéricas, regulação e conceitos de inibição de enzimas, mecanismos gerais de reações enzimáticas. Carboidratos: classificação de monossacarídeos, estrutura cíclica e isomeria, propriedades químicas, dissacarídeos, homopolissacarídeos e suas funções estruturais e de armazenamento energético, heteropolissacarídeos, glicoproteínas e glicolipídeos. Lipídeos: ácidos graxos, triacilglicerídeos, fosfolipídeos, esfingolipídeos e colesterol. Membranas biológicas: modelo mosaico fluído, transporte, permeabilidade seletiva, processo passivo e ativo de transporte de biomoléculas e/ou íons. Bioquímica Molecular: estrutura e tipos de ácido nucléico, desnaturação do DNA, detecção dos ácidos nucléicos, eletroforese, endonucleases de restrição, clonagem, engenharia genética, reação em cadeia da polimerase, sequenciamento de DNA, síntese de proteínas, código genético. Bioquímica Metabólica: Bioenergética e Tipos de Reações Bioquímicas, anabolismo, catabolismo, glicólise, fermentação, gliconeogênese, via das pentoses-fosfato, ciclo do ácido cítrico, cadeia transportadora de elétrons, fosforilação oxidativa, fotofosforilação, fotossíntese."
+  metodo: "Notas N distribuído no semestre. A composição das N fica critério do docente."
+  criterio: "MF = média aritmética ou ponderada das notas das avaliações (a critério do docente)"
+  exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação.Prova de Recuperação (PR) para alunos com Média Final (MF) maior ou igual a 3,0 e menor doque 5,0. Será considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maiordo que 5,0."
+  bibliografia: "1. Campbell, M.K.; Farrell, S.O. Bioquímica. Quinta edição. Editora Thomson Learning, São Paulo, 2008.2.Nelson, D.L.; Cox, M.M. Princípios de Bioquímica de Lehninger. Quinta Edition, Editora Artmed, Porto Alegre, 2011 3.Voet, D.; Voet, J.; Pratt, C.W. Bioquímica. Quarta Edição. Editora ARTMED, Porto Alegre, 2013 4.Berg, J.M., Tymoczko, J.L., Stryer, L. Bioquímica. Sétima edição. Editora Guanabara Koogan, Rio de Janeiro, 2014"
+  docentes: ['8711290 - Elisson Antônio da Costa Romanel', '5111420 - Talita Martins Lacerda']
   oferecimento:
-    - 20241D1:
-      Codigo_da_Turma: "20241D1"
+    - 20241N1:
+      Codigo_da_Turma: "20241N1"
       Inicio: "26/02/2024"
       Fim: "02/07/2024"
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " qua  14:00  18:00 "
-          prof: "André Moreni Lopes "
+          horario: " qua  19:00  23:00 "
+          prof: "Anuj Kumar "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "51"
+          Vagas: "61"
+          Inscritos: "61"
           Pendentes: "0"
-          Matriculados: "51"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "46"
-          Inscritos: "36"
-          Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "61"
         - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "14"
-          Inscritos: "13"
+          Vagas: "59"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "13"
+          Matriculados: "59"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "1"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOM3022:
   sigla: "LOM3022"
   nome: " Materiais para a  Indústria Química"
   nomeascii: " Materiais para a  Industria Quimica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3022&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3022&codcur=88052&codhab=0"
   requisitos:
     - LOM3016:
       sigla: "LOM3016"
@@ -19853,6 +19325,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
+    EQD: "7"
     EQN: "11"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia de Materiais"
@@ -19975,103 +19448,40 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
           Inscritos: "2"
           Pendentes: "0"
           Matriculados: "2"
-- LOQ4047:
-  sigla: "LOQ4047"
-  nome: " Trabalho de Conclusão de Curso I"
-  nomeascii: " Trabalho de Conclusao de Curso I"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4047&codcur=88052&codhab=4"
+- LOQ4002:
+  sigla: "LOQ4002"
+  nome: " Reatores Quimicos"
+  nomeascii: " Reatores Quimicos"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4002&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
-  semestre:
-    EQN: "11"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Chemical Engineering Final Project I"
-  objectives: "Lead students to develop a course completion project on a specific topic related to chemical engineering."
-  abstract: "1) Scientific Methodology. 2) Monography Project. 3) Research Methods. 4) Guidelines of a research project. 5) Research in Bibliographic Databases. 6) Organization of Bibliographic References."
-  program: "1 - Scientific Methodology: design and definition. 2 - Scientific Monography: What is a research project. The steps of a research project. 3 - Research Methods used in Chemical Engineering. 4 Key points of a Course Conclusion Paper project. 5 - Key points of a Course Conclusion Paper monography. 6 - Standards for preparation of the text and the references. 7 - Search engines in Databases such as Web of Science, Scopus, Science Direct, etc. 8 - The use of the Mendeley application as a way of organizing and formatting the bibliographic references in the monograph."
-  ndoc: "1"
-  CA: "1"
-  CT: "2"
-  CH: "75 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "Conduzir os alunos no desenvolvimento de um projeto de conclusão de curso sobre tema específico relacionado à engenharia química."
-  resumo: "1) Metodologia Cientifica. 2) Projeto de Monografia. 3) Métodos de Pesquisa. 4) Normas de um Projeto de Pesquisa. 5) Pesquisa em Bases de Dados Bibliográficos. 6) Organização de Referências Bibliográficas."
-  programa: "1 – Metodologia Cientifica: Concepção e definição. 2 – Monografia Cientifica: O que é um projeto de pesquisa. As etapas de um projeto de pesquisa. 3 – Métodos de Pesquisa utilizados na Engenharia Química. 4- Pontos essenciais de um projeto de TCC. 5 – Pontos essenciais de uma monografia de TCC. 6 – Normas para elaboração de do texto e das Referências Bibliográficas. 7 – Mecanismos de busca em Bases de Dados tais como Web of Science, Scopus, Science Direct, etc. 8 – O uso do aplicativo Mendeley como forma de organizar e formatar as referências bibliográficas na monografia."
-  metodo: "Preparo e apresentação do Projeto de Trabalho de Conclusão de Curso (TCC 1) a ser desenvolvido na disciplina de Trabalho de Conclusão de Curso II, conforme norma do Departamento de Engenharia Química."
-  criterio: "O aluno deve entregar, através do sistema online disponibilizado, um arquivo em formato pdf contendo o seu projeto de TCC impreterivelmente até a data estabelecida pelo professor na primeira semana de aula. O aluno que não cumprir este prazo fica reprovado na disciplina, por obter nota zero na primeira avaliação. O trabalho é submetido a dois avaliadores, a nota da primeira avaliação será a média das duas avaliações, sendo igual ou superior a 5, o aluno está aprovado, sendo inferior a 5 e igual ou superior a 3, o aluno está de recuperação."
-  exame: "O aluno deverá reapresentar o seu projeto até a data estabelecida pelo professor. O projeto será reavaliado e obtendo nota igual ou superior a 5, está aprovado."
-  bibliografia: "NASCIMENTO, L. P. Elaboração de Projetos de Pesquisa, Cengage Learning, 2012.SANTOS, C. R. Trabalho de Conclusão de Curso – Guia de elaboração passo a passo, Cengage Learning, 2010.BOOTH, W.; COLOMB, G.; WILLIAMS, J. A arte da Pesquisa. 3 ed. Martins Fontes. São Paulo. 2005. GIL, A.C. Como elaborar projetos de pesquisa. 5ed. Atlas, São Paulo, 2010."
-  docentes: ['198273 - Domingos Savio Giordani']
-  oferecimento:
-    - 20241DN:
-      Codigo_da_Turma: "20241DN"
-      Inicio: "26/02/2024"
-      Fim: "02/07/2024"
-      Tipo_da_Turma: "Teórica"
-      aulas:
-        - h0:
-          horario: " seg  18:00  19:00 "
-          prof: "(R) Domingos Savio Giordani "
-      vagas:
-        - Obrigatoria:
-          Vagas: "140"
-          Inscritos: "132"
-          Pendentes: "1"
-          Matriculados: "131"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "68"
-          Inscritos: "57"
-          Pendentes: "1"
-          Matriculados: "56"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "72"
-          Inscritos: "71"
-          Pendentes: "0"
-          Matriculados: "71"
-- LOQ4049:
-  sigla: "LOQ4049"
-  nome: " Projeto na Industria Química"
-  nomeascii: " Projeto na Industria Quimica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4049&codcur=88052&codhab=4"
-  requisitos:
-    - LOQ4002:
-      sigla: "LOQ4002"
-      nome: " Reatores Quimicos "
-      tipo: "Requisito fraco"
-    - LOQ4086:
-      sigla: "LOQ4086"
-      nome: " Operações Unitárias II "
+    - LOQ4003:
+      sigla: "LOQ4003"
+      nome: " Cinética Química Aplicada "
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
-    EQN: "11"
+    EQD: "7"
+    EQN: "8"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
-  nome_en: "Chemical Industry Design"
-  objectives: "1) Formative: Provide students with basic and necessary conditions for them professional qualification.2) Informational: Give to students basic concepts for them uptake, assistance and monitoring in Chemical Industry Design following a specifies methodology.3) Automated: Develop in students the reasoning analytical, following the systematic methodology applied in projects."
-  abstract: "Projects: Life cycle of Project. Feasibility Economic. Flowchart.  PMBOX. Complementary aspects of the preparation of a project."
-  program: "1. Introduction: Concepts of Project Management2. Aspects of Implementation of Projects: Fundamental steps and Partial Forms3. The Life cycle of Project4. Aspects of Feasibility of Project: Revenue, Costs, Point of Leveling, Estimates5. PMBOK Guide: Main areas of knowledge6. Plan of Project 7. The Manager of Project and Interfaces: Team of Project8. Legalization of Project: Aspects about the Licensing 9. Techniques of risk analysis operational10. Aspects about Audits and Integrated Audits11. Work Presentation."
-  ndoc: "1"
-  CA: "2"
+  nome_en: "Chemical Reactors"
+  objectives: "Enable students to calculate the project parameters of ideal reactors, distinguish between an ideal and a real reactor, and understand the influence of temperature and pressure on the design of chemical reactors."
+  abstract: "1. Introduction to Reactors, 2. Ideal Models of Isothermal Chemical Reactors - Simple Reactions, 3. Multiple Reactions in Ideal Reactors, 4. Thermal Effects in Ideal Reactors, 5. Heterogeneous Catalytic Reactors, 6. Non-Ideal Reactors."
+  program: "1. Introduction to Reactors: Basic concepts.2.Ideal Models of Isothermal Chemical Reactors - Simple Reactions: 2.1) Fundamental equations for reactor design. 2.2) Batch reactor (BSTR). 2.3) Continuous stirred-tank reactor (CSTR). 2.4) Plug-flow reactor (PFR). 2.5) Performance comparison of CSTR and PFR. 2.6) Cascade CSTR reactors. 2.7) Mixed association of reactors in series: CSTR and PFR. 2.8) Reactors with recycle. 2.9) Auto-catalytic reactions. 2.10) Semi-continuous reactors.3.Multiple Reactions in Ideal Reactors: 3.1) General concepts: optimization, yield, and selectivity. 3.2) Parallel reactions and series reactions.3.3) Systems with series-parallel reactions: multiple substitution reactions and polymerization reactions.3.4) Simple optimization problems.4.Thermal Effects in Ideal Reactors: 4.1) Energy balance equation. 4.2) Energy balance applied to BSTR. 4.3) Energy balance applied to CSTR. 4.4) Energy balance applied to PFR.5.Heterogeneous Catalytic Reactors: 5.1) Introduction. 5.2) Effect of physical processes on reaction rate:5.2.1 - Interfacial phenomena. 5.2.2 - Intraparticle phenomena. 5.2.3 - Diffusion and reaction in porous catalysts. 5.3) Calculation of fixed-bed reactors. 5.4) Three-phase reactors.6.Non-Ideal Reactors: 6.1) Residence time distribution. 6.2) Model for continuous stirred-tanks in series. 6.3) Axial dispersion model."
+  ndoc: "2"
+  CA: "4"
   CT: "0"
-  CH: "30 h"
+  CH: "60 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "1) Formativos: Propiciar ao educando as condições básicas e necessárias para a sua formação profissional. 2) Informativos: fornecer ao educando os conceitos básicos para o entendimento, assessoramento e acompanhamento de Projetos na Indústria Química seguindo metodologia especifica.3) Automatizantes: desenvolver no educando o raciocínio analítico, obedecendo metodologia sistemática aplicada em projetos."
-  resumo: "Projetos: Conceituação e Viabilidade, Ponto Nivelamento, Legalização Industrial."
-  programa: "1.Introdução: Conceitos de Gestão de Projetos2.Aspectos da Implantação de Projetos: Etapas Fundamentais e Formas Parciais3.O Ciclo de Vida do Projeto4.Aspectos da Viabilidade de Projetos: Receitas, Custos, Ponto de Nivelamento, Estimativas5.Guia PMBOK: Principais Áreas de Conhecimento6.Plano de Projeto7.O Gerente de Projeto e as Interfaces: Equipes de Projeto8.Legalização de Projetos: Aspectos sobre o Licenciamento9.Técnicas de Análise de Riscos Operacionais10.Aspectos sobre Auditorias e Auditorias Integradas11.Apresentação de Trabalhos."
-  metodo: "Por meio de aulas presenciais, com apresentação dos fundamentos e exemplos ou casos, e também pela apresentação de trabalhos em equipes.Justificativa: adequação do método de avaliação."
-  criterio: "A Avaliação será: MF = (P1 + P2)/2; Onde: P1: Trabalho; P2: Trabalho. Poderá haver também prova individual sobre os fundamentos."
-  exame: "Prova de exame."
-  bibliografia: "1) Chemical Engineering Plant Design (Vilbrandt e Bryden)
-2) Project Engineering of Process Plants Rose e Barrow (2ª impressão - 1968)
-3) Elaboração e Análise de Projetos Simonsen, M.H. e H. Flanger
-4) Implantação de Indústrias. Valle, E.C. Livros Técnicos e Científicos Editores S/A, Rio de Janeiro. 
-5) Introdução ao Projeto de Engenharia. Asimov, Morris. Editora Mestre Jou-São Paulo, 1968.
-6) IBGR  Instituto Brasileiro de Gerenciamento de Riscos, 2000."
-  docentes: ['5840671 - Francisco José Moreira Chaves']
+  ativacao: "01/01/2024"
+  objetivos: "Capacitar os alunos a calcular os parâmetros de projeto de reatores ideais, a distinguir entre um reator ideal e um real, e a compreender a influência da temperatura e pressão no projeto de reatores químicos."
+  resumo: "1. Introdução a Reatores. 2. Modelos Ideais de Reatores Químicos Isotérmicos  Reações Simples. 3. Reações Múltiplas em Reatores Ideais. 4. Efeitos Térmicos em Reatores Ideais. 5. Reatores Catalíticos Heterogêneos. 6. Reatores Não-Ideais"
+  programa: "1. Introdução a Reatores: Conceitos básicos2. Modelos Ideais de Reatores Químicos Isotérmicos  Reações Simples: 2.1) Equações fundamentais de projeto de reatores2.2) Reator tanque descontínuo (BSTR)2.3) Reator tanque de mistura contínuo (CSTR)2.4) Reator tubular de fluxo pistonado (PFR)2.5) Comparação de desempenho de reatores CSTR e PFR2.6) Reatores CSTR em cascata2.7) Associação mista de reatores em série: CSTR e PFR2.8) Reatores com reciclo2.9) Reações auto-catalíticas2.10) Reatores semi-contínuos3. Reações Múltiplas em Reatores Ideais3.1) Noções gerais: otimização, rendimento e seletividade3.2) Reações paralelas e reações em série3.3) Sistemas com reações série-paralelo: reações de múltipla substituição e reações poliméricas3.4) Problemas simples de otimização4. Efeitos Térmicos em Reatores Ideais4.1) Equação do balanço de energia4.2) Balanço de energia aplicado ao BSTR4.3) Balanço de energia aplicado ao CSTR4.4) Balanço de energia aplicado ao PFR5. Reatores Catalíticos Heterogêneos5.1) Introdução5.2) Efeito dos processos físicos sobre a taxa de reação5.2.1  Fenômenos interfases5.2.2  Fenômenos intrapartícula5.2.3  Difusão e reação em catalisadores porosos5.3) Cálculo de reatores de leito fixo5.4) Reatores trifásicos6. Reatores Não-Ideais6.1) A distribuição dos tempos de residência6.2) Modelos dos tanques contínuos em série6.3) Modelo da dispersão axial"
+  metodo: "Duas provas escritas e eventual apresentação de trabalho."
+  criterio: "Nota(N) = 50% Prova P1 + 50% Prova P2. Os pesos poderão ser redefinidos caso seja incorporada nota de trabalho."
+  exame: "Média Final = (N + Prova Recuperação)/2"
+  bibliografia: "Bibliografia Básica :FOGLER, H. S. Elementos de Engenharia das Reações Químicas. 3. ed. Rio de Janeiro: LTC Editora, 2002.LEVENSPIEL, O. Chemical Reaction Engineering. 3. ed. New York: John Wiley & Sons, 1998.HILL, C.G. An Introduction to Chemical Engineering Kinetics and Reactor Design. New York: John Wiley&Sons, 1977.Bibliografia Complementar:SMITH, J.M. Chemical Engineering Kinetics. 3rd. ed. New York :  McGraw-Hill, 1981.DENBIGH, K.; TURNER, R. Introduction to Chemical Reaction Design. Cambridge: Cambridge University Press, 1970.FROMENT, G.F.; BISCHOFF, K.B. Chemical Reactor Analysis And Design. 2nd ed.  New York: John Wiley & Sons, 1990.AGUIAR, L. G. Problemas de cinética e reatores químicos. Curitiba: Appris Editora, 2023.VAN SANTEN, R.A.; Niemantsverdriet, J.W. Chemical kinetics and catalysis. New York: Plenum Press, 1995.Missen, R.W.; Mims, C.A.; Saville, B.A. Introduction to chemical reaction engineering and kinetics. New York: J. Wiley, 1999.Rothenberg, G. Catalysis: concepts and green applications. Weinheim: Wiley-VCH, 2008 Chichester.Salmi, T.O.; Mikkola, J.; Warna, J.P. Chemical reaction engineering and reactor technology. Boca Raton: CRC Press/Taylor & Francis, 2011."
+  docentes: ['5963230 - Leandro Gonçalves de Aguiar', '6310316 - Liana Alvares Rodrigues']
   oferecimento:
     - 20241D1:
       Codigo_da_Turma: "20241D1"
@@ -20080,24 +19490,163 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " ter  16:00  18:00 "
-          prof: "(R) Francisco José Moreira Chaves "
+          horario: " ter  14:00  18:00 "
+          prof: "(R) Liana Alvares Rodrigues "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "40"
+          Pendentes: "0"
+          Matriculados: "40"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "49"
+          Inscritos: "26"
+          Pendentes: "0"
+          Matriculados: "26"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "11"
+          Inscritos: "10"
+          Pendentes: "0"
+          Matriculados: "10"
+    - 20241D2:
+      Codigo_da_Turma: "20241D2"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  19:00  23:00 "
+          prof: "(R) Liana Alvares Rodrigues "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "30"
+          Pendentes: "0"
+          Matriculados: "30"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "45"
+          Inscritos: "13"
+          Pendentes: "0"
+          Matriculados: "13"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "15"
+          Inscritos: "15"
+          Pendentes: "0"
+          Matriculados: "15"
+- LOQ4064:
+  sigla: "LOQ4064"
+  nome: " Engenharia de Processos Quimicos I"
+  nomeascii: " Engenharia de Processos Quimicos I"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4064&codcur=88052&codhab=0"
+  requisitos:
+    - LOQ4054:
+      sigla: "LOQ4054"
+      nome: " Fenômenos de Transporte III "
+      tipo: "Requisito fraco"
+    - LOQ4086:
+      sigla: "LOQ4086"
+      nome: " Operações Unitárias II "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "7"
+    EQN: "8"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Chemical Process Engineering I"
+  objectives: "1 - Consolidation and application of knowledge acquired in each of the specific areas of the Chemical Engineering degree. 
+2 - Integration of knowledge of Chemical Engineering"
+  abstract: "1 - Diagrams for Understanding Chemical Processes. 2 - The Structure and Synthesis of Process Flow Diagrams. 3 - Analysis of process performance. 4 - Industrial chemical plant study"
+  program: "1 - Diagrams for Understanding Chemical Processes: Block Flow Diagrams; Process Flow Diagram (PFD); Piping and Instrumentation Diagram (P&ID).
+2 - The Structure and Synthesis of Process Flow Diagrams:  Hierarchy of Process Design; Step 1 - Batch versus Continuous Process; Step 2 - The Input/Output Structure of the Process; Step 3 - The Recycle Structure of the Process
+3 - Analysis of process performance: Process Input/Output Models; Tools for evaluating process performance.
+4 - Industrial chemical plant study."
+  ndoc: "1"
+  CA: "2"
+  CT: "4"
+  CH: "150 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2016"
+  objetivos: "1 - Consolidação e aplicação dos conhecimentos adquiridos em cada uma das áreas específicas do curso de Engenharia Química.  2  Integração dos conhecimentos da Engenharia Química."
+  resumo: "Diagramas para estudos de processos químicos. 2  Estrutura e síntese de processos químicos industriais. 3  Análise de desempenho de processos químicos. 4  Estudo de planta química industrial"
+  programa: "1 - Diagramas para estudos de processos químicos: diagramas de bloco; Fluxogramas de processo (PFD); Fluxogramas de instrumentação e tubulação (P&ID).
+2  Estrutura e síntese de processos químicos industriais: Hierarquia no planejamento de processos; Etapa 1- Descontínuo ou contínuo; Etapa 2 - Estrutura de entrada/saída de processo; Etapa 3- Estrutura de reciclo; 
+3  Análise de desempenho de processos químicos: Modelo de entrada e saída; Ferramentas para a avaliação de processos.
+4  Estudo de planta química industrial."
+  metodo: "Provas escritas e Apresentação de Trabalhos"
+  criterio: "A nota será composta por ao menos uma prova escrita e trabalhos realizados e apresentados durante o semestre. O peso de cada atividade será definido segundo critérios do professor."
+  exame: "Média Final = (N + Prova Recuperação)/2"
+  bibliografia: "PERLINGEIRO, Carlos A. G. Engenharia de processos: análise, simulação, otimização e síntese de processos químicos.  Editora Blucher, 2005.
+TURTON, BAILIE; WHITING; SHAEIWITZ  Analysis, Synthesis, and Design of Chemical Processes. 3. Ed. LTC Editora, 2005.
+COULSON, J. M.; RICHARDSON, J.F. Chemical Engineering Design: Chemical Engineering Volume 6. Editora Fourth, 2005.
+HIMMELBLAU, David M. Engenharia química princípios e cálculos. LTC Editora, 2006.
+FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC Editora, 2005."
+  docentes: ['5816812 - João Paulo Alves Silva']
+  oferecimento:
+    - 20241D1:
+      Codigo_da_Turma: "20241D1"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " qua  08:00  10:00 "
+          prof: "(R) João Paulo Alves Silva "
       vagas:
         - Obrigatoria:
           Vagas: "70"
-          Inscritos: "31"
+          Inscritos: "48"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "62"
-          Inscritos: "22"
+          Vagas: "60"
+          Inscritos: "38"
           Pendentes: "0"
-          Matriculados: "22"
+          Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "8"
+          Vagas: "10"
           Inscritos: "8"
           Pendentes: "0"
           Matriculados: "8"
+- LOQ4022:
+  sigla: "LOQ4022"
+  nome: " Processos Químicos Industriais I"
+  nomeascii: " Processos Quimicos Industriais I"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4022&codcur=88052&codhab=0"
+  requisitos:
+    - LOQ4002:
+      sigla: "LOQ4002"
+      nome: " Reatores Quimicos "
+      tipo: "Requisito fraco"
+    - LOQ4055:
+      sigla: "LOQ4055"
+      nome: " Quimica Inorgânica "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "8"
+    EQN: "9"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Industrial Chemical Processes I"
+  objectives: "Provide students with a current view of industrial processes that use chemical conversion as a route to transform raw material into product. The processes of the basic chemical and transformation industries will be studied."
+  abstract: "Introduction to Industrial Chemical Processes; NPK / Fertilizers; Sulfuric Acid; Chlorine Alkali; Paper and Cellulose; Sugar and alcohol; Biotechnological Processes."
+  program: "1. Introduction to Industrial Chemical Processes;2. NPK / Fertilizers3. Sulfuric Acid;4. Chlorine Alkali;5. Paper and Cellulose;6. Sugar and alcohol;7. Biotechnological Processes;"
+  ndoc: "1"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2022"
+  objetivos: "Proporcionar aos alunos uma visão atual dos processos industriais que utilizam a conversão química como rota de transformação da matéria prima em produto. Serão estudados os processos das indústrias de química de base e de transformação."
+  resumo: "Introdução aos Processos Químicos Industriais; NPK / Fertilizantes; Ácido Sulfúrico; Cloro Álcalis; Papel e Celulose; Açúcar e álcool;  Processos Biotecnológicos;"
+  programa: ".Introdução aos Processos Químicos Industriais; 2.NPK / Fertilizantes3.Ácido Sulfúrico; 4.Cloro Álcalis; 5.Papel e Celulose; 6.Açúcar e álcool; 7.Processos Biotecnológicos."
+  metodo: "Aulas expositivas, desenvolvimento de trabalhos e exercícios em sala e fora de sala de aula, discussão de casos práticos."
+  criterio: "Provas em sala, entrega de trabalhos e exercícios ou casos práticos elaborados fora de sala de aula."
+  exame: "Frequência mínima de 70% e nota igual ou superior a 3,00 e inferior a 5,00 possibilita prova de recuperação."
+  bibliografia: "Ullmann’s encyclopedia of industrial chemistry; Editorial advisory board, Giuseppe Bellussi et al.; 7th, completely revised edition; Weinheim ; New York : WileyVCH, 2011.Encyclopedia of Chemical Processing; Edited by Sunggyu Lee; New York : Taylor & Francis, 2006.Kirk, Raymond Eller. Encyclopedia of chemical technology / Herman F.Mark et al. New York: John Wiley, 1984.Manual econômico da indústria química - MEIQ / Centro de Pesquisas e Desenvolvimento; 8ed; Camaçari: CEPED, 2007.Shreve, R. Norris; BRINK JR., J. A. Indústrias de processos químicos. Tradução de Horácio Macedo; 4.ed. Rio de Janeiro: Editora Guanabara Koogan, 2008, c1997.T.W. Graham Solomons, Craig B. Fryhle Hoboken, NJ. Organic chemistry; John Wiley, 9th ed; c2008.Revistas:Brazilian Journal of Chemical Engineering, São Paulo, SP: Brazilian Society of Chemical Engineering, v. 11, n. 1, 1995-;"
+  docentes: ['4808662 - Lucrécio Fábio dos Santos']
+  oferecimento:
     - 20241N1:
       Codigo_da_Turma: "20241N1"
       Inicio: "26/02/2024"
@@ -20105,8 +19654,8 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       Tipo_da_Turma: "Teórica"
       aulas:
         - h0:
-          horario: " ter  19:00  21:00 "
-          prof: "(R) Francisco José Moreira Chaves "
+          horario: " ter  21:00  23:00 "
+          prof: "Marcos Villela Barcza "
       vagas:
         - Obrigatoria:
           Vagas: "70"
@@ -20114,20 +19663,87 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
           Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "68"
-          Inscritos: "26"
+          Vagas: "67"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "2"
-          Inscritos: "0"
+          Vagas: "3"
+          Inscritos: "2"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "2"
+- LOQ4059:
+  sigla: "LOQ4059"
+  nome: " Polímeros"
+  nomeascii: " Polimeros"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4059&codcur=88052&codhab=0"
+  requisitos:
+    - LOQ4038:
+      sigla: "LOQ4038"
+      nome: " Química Orgânica II "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "8"
+    EQN: "9"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Polymers"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "1"
+  CA: "4"
+  CT: "0"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2012"
+  objetivos: "Levar ao aluno uma visão relativamente aprofundada sobre a ciência dos polímeros. Apresentar os conceitos fundamentais, os mecanismos envolvidos nas sínteses dos polímeros, os diferentes processos de polimerização e finalmente as propriedades mais marcantes dos materiais obtidos. Mostrar para o aluno a importância do conhecimento destes materiais na sua carreira profissional."
+  resumo: "Introdução a polímeros; Mecanismos de polimerização; Técnicas de polimerização; Processos de polimerização; Caracterização de polímeros; Propriedades de polímeros."
+  programa: "Introdução a polímeros: História, Conceitos fundamentais, Classificação dos Polímeros, Nomenclatura de polímeros. Mecanismos de polimerização: Definições de poliadição e policondensação, policondensação (poliésteres, poliamidas, policarbonatos, poliuretanos), poliadição (polimerização via radical livre). Técnicas de polimerização (Massa, solução, suspensão, emulsão e miniemulsão). Processos de polimerização (Batelada, batelada alimentada/semi-contínuo, processo contínuo, processo shot). Noções sobre a caracterização de polímeros (GPC/SEC, DSC e TGA). Definição das propriedades mais importantes dos polímeros (Tg e TM, outras propriedades de engenharia)."
+  metodo: "2 Provas escritas + Trabalho de conclusão de curso."
+  criterio: "A nota final (NF) será calculada de seguinte maneira: NF = (P1+P2)/2
+O trabalho poderá valer até 2 pontos, que serão somados nas notas da P1 ou da P2."
+  exame: "A recuperação será feita por meio de uma prova escrita (PR) e a média de recuperação (MR) calculada pela fórmula MR = (NF+PR)/2."
+  bibliografia: "MANO E. B. Introdução a Polímeros. Editora Edgard Blücher Ltda, 1a Ed., São Paulo, 1988; MANO E. B. Polímeros como Materiais de Engenharia. Editora Edgard Blücher Ltda, 1a Ed., São Paulo, 1991
+CANNEVALORO S. V. Ciência dos Polímeros. Editora Artliber  Ltda, 1a Ed., São Paulo, 2004
+COUTINHO F. M. B.; OLIVEIRA C. M. F. Reações de Polimerização em Cadeia. Editora Interciência Ltda, 1ª Ed., Rio de Janeiro, 2006
+BILMEYER Jr., F. W. Textbook of Polymer Science. John Wiley & Sons, 3rd Ed., New York, 1984
+ODIAN G. Principles of Polymerization, John Wiley & Sons, 3rd Ed., New York, 1991
+RODRIGUEZ, FERDINAND. Princípios de Sistemas de Polímeros, Editorial El Manual Moderno S.A., 1st Ed., México, D.F., 1984
+VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with chemical structure. Elsevier, 1st Ed., Amsterdam, 1972."
+  docentes: ['5840772 - Amilton Martins dos Santos']
+  oferecimento:
+    - 20241N1:
+      Codigo_da_Turma: "20241N1"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " qua  19:00  23:00 "
+          prof: "(R) Amilton Martins dos Santos "
+      vagas:
+        - Obrigatoria:
+          Vagas: "64"
+          Inscritos: "63"
+          Pendentes: "0"
+          Matriculados: "63"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "60"
+          Inscritos: "57"
+          Pendentes: "0"
+          Matriculados: "57"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "1"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOQ4063:
   sigla: "LOQ4063"
   nome: " Laboratório de Engenharia Química IV"
   nomeascii: " Laboratorio de Engenharia Quimica IV"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4063&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4063&codcur=88052&codhab=0"
   requisitos:
     - LOQ4002:
       sigla: "LOQ4002"
@@ -20139,6 +19755,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       tipo: "Requisito fraco"
   tipo: "Obrigatórias"
   semestre:
+    EQD: "8"
     EQN: "11"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20225,11 +19842,465 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
           Inscritos: "6"
           Pendentes: "0"
           Matriculados: "6"
+- LOQ4065:
+  sigla: "LOQ4065"
+  nome: " Engenharia de Processos Químicos II"
+  nomeascii: " Engenharia de Processos Quimicos II"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4065&codcur=88052&codhab=0"
+  requisitos:
+    - LOQ4064:
+      sigla: "LOQ4064"
+      nome: " Engenharia de Processos Quimicos I "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "8"
+    EQN: "10"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Chemical Process Engineering II"
+  objectives: "1 - Stimulate the student to look for solutions for the development of a chemical process, by integrating the knowledge acquired in each of the specific areas of Chemical Engineering. 
+2 - Promote the teamwork and the interaction between groups"
+  abstract: "1 - Integrated Vision of Chemical Engineering. 2 - Multidisciplinary Project Studies aiming at integrating their knowledge in engineering. 3 - Development of multidisciplinary projects about Chemical Industry.
+4 - Seminars: Presentation and discussion of the study results. 5. Final Report."
+  program: "1 - Integrating Vision Engineering Chemistry: Analysis and optimization of equipment set of process conditions such as reactors, heat exchangers, separation systems, among others.
+2 - Multidisciplinary Projects Knowledge integrators Engineering: Analysis and optimization of industrial plants.
+3 - Development of multidisciplinary projects Chemical Industry: Development of projects aimed at designing an industrial installation of a chemical plant; Project development aimed at data collection and optimize a chemical process.
+4 - Seminars: Presentation and discussion of results.
+5 - Final Report"
+  ndoc: "1"
+  CA: "2"
+  CT: "4"
+  CH: "150 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2016"
+  objetivos: "1 - Estimular no aluno a capacidade de atuar como engenheiro, no sentido de buscar soluções para o desenvolvimento de um processo químico, através da integração dos conhecimentos adquiridos em cada uma das áreas específicas da Engenharia Química. 2  Estimular o trabalho em equipe e a interação entre grupos"
+  resumo: "1 - Visão Integradora da Engenharia Química. 2  Projetos Multidisciplinares integradores do Conhecimento em Engenharia. 3 - Desenvolvimento de projetos multidisciplinares da Indústria Química. 4 - Seminários: Apresentação e discussão dos resultados. 5. Relatório Final."
+  programa: "1 - Visão Integradora da Engenharia Química: Análise e otimização de condições de processo de conjunto de equipamentos como reatores, trocadores de calor, sistemas de separação, entre outros.
+2 - Projetos Multidisciplinares integradores do Conhecimento em Engenharia: Análise e otimização de instalações industriais.
+3 - Desenvolvimento de projetos multidisciplinares da Indústria Química: Desenvolvimento de projetos visando a concepção de uma instalação industrial de uma planta química; Desenvolvimento de projetos visando o levantamento de dados e a otimização de um processo químico.   
+4 - Seminários: Apresentação e discussão dos resultados. 
+5 - Relatório Final"
+  metodo: "Provas escritas e Apresentação de Trabalhos"
+  criterio: "A nota será composta por ao menos uma prova escrita e trabalhos realizados e apresentados durante o semestre. O peso de cada atividade será definido segundo critérios do professor."
+  exame: "Média Final = (N + Prova Recuperação)/2"
+  bibliografia: "PERLINGEIRO, Carlos A. G. Engenharia de processos: análise, simulação, otimização e síntese de processos químicos.  Editora Blucher, 2005.
+TURTON, BAILIE; WHITING; SHAEIWITZ  Analysis, Synthesis, and Design of Chemical Processes. 3. Ed. LTC Editora, 2005.
+COULSON, J. M.; RICHARDSON, J.F. Chemical Engineering Design: Chemical Engineering Volume 6. Editora Fourth, 2005.
+HIMMELBLAU, David M. Engenharia química princípios e cálculos. LTC Editora, 2006.
+FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC Editora, 2005.
+HOUGEN, O.A.; WATSON, K. M.; RAGATZ, R.A. Princípios dos processos químicos. Lopes da Silva Editora, 2005. v. 1 
+CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering with POLYMATHTM, Excel and MATLAB®. Prentice-Hall, 2008."
+  docentes: ['5816812 - João Paulo Alves Silva']
+  oferecimento:
+- LOQ4078:
+  sigla: "LOQ4078"
+  nome: " Modelagem e Simulação de Processos"
+  nomeascii: " Modelagem e Simulacao de Processos"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4078&codcur=88052&codhab=0"
+  requisitos:
+    - LOB1056:
+      sigla: "LOB1056"
+      nome: " Introdução aos Métodos Numéricos e Computacionais "
+      tipo: "Requisito fraco"
+    - LOQ4002:
+      sigla: "LOQ4002"
+      nome: " Reatores Quimicos "
+      tipo: "Requisito fraco"
+    - LOQ4057:
+      sigla: "LOQ4057"
+      nome: " Operações Unitárias III "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "8"
+    EQN: "10"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Process Modeling and Simulation"
+  objectives: "This course aims to introduce the students the modeling and simulation tools present in the work environment of the chemical engineer. These tools aids to design, operation and optimization of industrial processes."
+  abstract: "Issues of interest and concern of Chemical Engineers will be addressed with an emphasis on advances and innovations of basic aspects of the Chemical Engineering program."
+  program: "1. Introduction to process modeling and simulation. Problem solutions in chemical engineering with: systems of algebraic linear equations, systems of non-linear algebraic equations, systems of first-order differential equations (initial value problems), second order differential equations (boundary value problems), partial differential equations, process optimization, Non-linear regression and statistical analysis.2. Introduction to process simulators: logical operations, unit operations, chemical reaction units, process flowchart."
+  ndoc: "1"
+  CA: "4"
+  CT: "0"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2018"
+  objetivos: "Este curso visa apresentar aos alunos as ferramentas de modelagem e simulação presentes no ambiente de trabalho do engenheiro químico. Essas ferramentas auxiliam no projeto, operação e otimização de processos industriais."
+  resumo: "Serão abordados assuntos de interesse e preocupação dos Engenheiros Químicos com ênfase em avanços e inovações de aspectos básicos relativos ao programa de Engenharia Química."
+  programa: "1. Introdução a modelagem, simulação e otimização de processos. Resolução de problemas em Engenharia Química envolvendo: sistemas de equações lineares, sistemas de equações não lineares, sistemas de equações diferenciais de primeira ordem (problemas de valor inicial), equações diferenciais de segunda ordem (problemas de valor de contorno), equações diferenciais parciais, otimização de processos, regressão não linear e análise estatística. 2. Introdução aos simuladores de processo: operações lógicas, operações unitárias, diagramas de fluxo em processos."
+  metodo: "A avaliação do aprendizado será realizada por meio da resolução de problemas de engenharia química propostos aos alunos. A média final será calculada pela média aritmética entre a nota obtida na resolução de problemas relativos aos itens 1 e 2 do programa do curso."
+  criterio: "MF = (P1 + P2)/2 Onde: P1 é a nota obtida pela avaliação da resolução de problemas referentes ao item 1 do Programa do curso;P2 é a nota obtida pela avaliação da resolução de problemas referentes ao item 2 do Programa do curso;MF é a média final do período."
+  exame: "A recuperação será feita por meio de uma prova (PR) para alunos que tenham MF maior ou igual a 3,0 e menor do que 5,0 e pelo menos 70% de frequência. A nota de recuperação (NR) será a média simples entre a média final (MF) e a prova de recuperação (PR). Será considerado aprovado o aluno com NR maior ou igual a 5,0."
+  bibliografia: "1) HIMMELBLAU, D.M.; BISCHOFF, K.B. Process analysis and simulation-deterministic systems. New York: John Wiley, 1968.2) FINLAYSON, B. A.. Non-linear analysis in chemical engineering. New York: McGraw-Hill, 19803) CONSTANTINIDES, A.; MOSTOUFI, N. Numerical methods for chemical engineers with MATLAB applications. Prentice-Hall, 1999.4) CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering with POLYMATHTM, Excel and MATLAB®– 2nd ed. Upper Saddle River, NJ: Prentice-Hall, 2008.5) DYMENT, J.; MANTRALA, V. Jump Start: Getting Started with Aspen Plus® V8 - A Brief Tutorial (and supplement to training and online documentation), ASPENTECH, 2015.6) FARES, A.D. Process Simulation Using Aspen HYSYS V8, Ahmed Deyab Fares, 2016."
+  docentes: ['5817066 - Félix Monteiro Pereira']
+  oferecimento:
+    - 20241D1:
+      Codigo_da_Turma: "20241D1"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " qui  14:00  18:00 "
+          prof: "Fabio Rodolfo Miguel Batista "
+      vagas:
+        - Obrigatoria:
+          Vagas: "40"
+          Inscritos: "36"
+          Pendentes: "0"
+          Matriculados: "36"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "27"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "13"
+          Inscritos: "13"
+          Pendentes: "0"
+          Matriculados: "13"
+- LOT2041:
+  sigla: "LOT2041"
+  nome: " Engenharia Bioquímica"
+  nomeascii: " Engenharia Bioquimica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2041&codcur=88052&codhab=0"
+  requisitos:
+    - LOT2004:
+      sigla: "LOT2004"
+      nome: " Bioquímica "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "8"
+    EQN: "9"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Biotecnologia"
+  nome_en: "Biochemical Engineering"
+  objectives: ""
+  abstract: "Characteristics of biological material; Kinetics of fermentative processes; Operation modes of fermentative processes; Sterilization in bioprocess."
+  program: "Characteristics of biological material - Types of microorganisms, cell structure and morphology, nutrition and microbial growth. Kinetics of fermentative processes - Evaluation of kinetic profile of batch cultures, definition and calculation of fermentative parameters (rates and yields), kinetic models for cell growth (MONOD) and product formation (GADEN). Operation modes of fermentative processes. Major configurations of bioreactors, characteristics and mathematical equations for batch, fed-batch and continuous operations. Sterilization in fermentation process – general aspects on sterilization and disinfection in bioprocess, methods for medium and air sterilization, kinetics of thermal death of microorganisms, calculation of sterilization time for batch and continuous process."
+  ndoc: "2"
+  CA: "4"
+  CT: "0"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2019"
+  objetivos: "Capacitar o aluno para aplicar os conceitos de Engenharia aos Processos Biológicos e para identificar a relevância dos processos microbianos em escala industrial. Fornecer conhecimentos, técnicas e métodos de base científica ou prática para uma melhor compreensão dos aspectos cinéticos de um bioprocesso em suas diferentes formas de condução (regime descontínuo, descontinuo- alimentado e contínuo), assim como dos conceitos fundamentais para o desenvolvimento da etapa de esterilização de um bioprocesso."
+  resumo: "Características do material biológico; Cinética de processos fermentativos, Formas decondução dos processos fermentativos, esterilização em bioprocessos."
+  programa: "Características do material biológico – Tipos de microrganismos, morfologia e estrutura celular, nutrição e crescimento microbiano. Cinética de processos fermentativos – Avaliação do perfil cinético dos cultivos por batelada, definição e cálculo dos parâmetros fermentativos (velocidades e rendimentos), modelos cinéticos para o crescimento celular (MONOD) e formação de produtos (GADEN). Formas de condução dos processos fermentativos - Principais configurações dos biorreatores, características e equacionamento dos processos descontínuos, contínuos e descontínuos- alimentado. Esterilização em processos fermentativos – Aspectos gerais sobre esterilização e desinfecção em bioprocessos, esterilização de meios de cultura, esterilização do ar, cinética da destruição térmica dos microrganismos, cálculo do tempo de esterilização por processo descontínuo e cálculo do tempo de esterilização por processo contínuo."
+  metodo: "Os alunos serão avaliados formalmente por duas provas teóricas (P1 e P2). A ponderação das notas será de 50% para cada avaliação, ou seja: Média do período letivo normal = (P1+ P2)/2."
+  criterio: "Serão aprovados os alunos que obtiverem média do período letivo normal igual ou maior que 5."
+  exame: "Aos alunos que não obtiverem média igual ou maior que 5,0 será oferecido um programa de recuperação, que será avaliado por uma prova final (PF). Neste caso, a média final do aluno será: Média Final = (Média do período letivo normal + nota prova final) / 2. Serão aprovados os alunos que obtiverem média final igual ou maior que 5,0."
+  bibliografia: "1.Schmidell, W.; Lima, U. A.; Aquarone, E.; Borzani, W. Biotecnologia Industrial – Engenharia Bioquímica, vol. 2, São Paulo: Edgard Blücher, 2001. 2. Borzani, W.; Schmidell, W.; Lima, U. A.; Aquarone, E. Biotecnologia Industrial. Fundamentos Vol. 1. São Paulo: Ed. Edgard Blücher, 2001. 3. Pauline M. Doran ed. Bioprocess Engineering Principles (Second Edition), Elsevier Ltd. 2013."
+  docentes: ['1112574 - Inês Conceição Roberto', '1097178 - João Batista de Almeida e Silva']
+  oferecimento:
+    - 20241N1:
+      Codigo_da_Turma: "20241N1"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Teórica"
+      Observacoes: ""
+      aulas:
+        - h0:
+          horario: " qui  19:00  23:00 "
+          prof: "(R) Inês Conceição Roberto "
+      vagas:
+        - Obrigatoria:
+          Vagas: "64"
+          Inscritos: "64"
+          Pendentes: "0"
+          Matriculados: "64"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "57"
+          Inscritos: "57"
+          Pendentes: "0"
+          Matriculados: "57"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "6"
+          Inscritos: "6"
+          Pendentes: "0"
+          Matriculados: "6"
+- LOQ4023:
+  sigla: "LOQ4023"
+  nome: " Processos Químicos Industriais II"
+  nomeascii: " Processos Quimicos Industriais II"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4023&codcur=88052&codhab=0"
+  requisitos:
+    - LOQ4057:
+      sigla: "LOQ4057"
+      nome: " Operações Unitárias III "
+      tipo: "Requisito fraco"
+    - LOQ4038:
+      sigla: "LOQ4038"
+      nome: " Química Orgânica II "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "9"
+    EQN: "10"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Industrial Chemical Processes II"
+  objectives: "Check the students students with applications on an industrial scale of processes and products studied in organic chemistry disciplines and an overview of the most important raw materials in the chemical industry of organic base."
+  abstract: "Fine Chemistry,Oil, Natural Gas and Petrochemicals; Organic Unit Processes: Alkylation and Acylation; Hydrogenation,Halogenation, Esterification; Sulphonation/Sulfation; Oxidation."
+  program: "1- Fine Chemicals: 1.1- Characteristics, 1.2- Main Segments (Agricultural Defensives, Pharmaceuticals, Catalysts, Dyes and Pigments, Specialties), 1.3- Fine Chemicals X Basic Chemicals, 2- Oil, Natural Gas and Petrochemicals; 3- Unitary Processes Organic: 3.1- Alkylation and Acylation; 3.2- Hydrogenation and Dehydrogenation; 3.2.1 Oxo processes, 3.2.2- Amino; 3.3- Halogenation; 3.4- Esterification; 3.5- Sulfonation/Sulfation; 3.6- Oxidation."
+  ndoc: "1"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2024"
+  objetivos: "Conferir aos alunos aplicações em escala industrial, de processos e produtos estudados em disciplinas de química orgânica e uma visão global das matérias primas mais importantes na área da indústria química de base orgânica."
+  resumo: "Química Fina,Petróleo, Gás Natural e Petroquímica; Processos Unitários Orgânicos:Alquilação e Acilação; Hidrogenação e Desidrogenação,Halogenação, Esterificação; Sulfonação/Sulfatação; Oxidação."
+  programa: "1-Química Fina: 1.1- Características, 1.2- Principais Segmentos (Defensivos Agrícolas, Fármacos, Catalisadores, Corantes e Pigmentos, Especialidades), 1.3- Química Fina X Química de Base, 2- Petróleo, Gás Natural e Petroquímica; 3- Processos Unitários Orgânicos: 3.1- Alquilação e Acilação; 3.2- Hidrogenação e Desidogenação;3.2.1 Processos Oxo, 3.2.2- Amino;3.3- Halogenação; 3.4- Esterificação; 3.5- Sulfonação/Sulfatação; 3.6- Oxidação."
+  metodo: "Aulas expositivas, desenvolvimento de exercícios em sala e fora de sala de aula, discussão de casos práticos."
+  criterio: "A nota (NOTA) será composta por uma destas opções: prova em sala, apresentações em sala, entrega de exercícios ou casos práticos elaborados fora de sala de aula. A estas opções será incorporado,para cada aluno, seu respectivo percentual defrequência no cálculo da nota final (NF), conforme a fórmula explicitada abaixo:NF = NOTA x %FREQ."
+  exame: "Frequência mínima de 70% e nota igual ou superior a 3,00 e inferior a 5,00 possibilita aplicação de prova escrita de recuperação valendo 10,00 pontos."
+  bibliografia: "Livros:Ullmann’s encyclopedia of industrial chemistry; Editorial advisory board, Giuseppe Bellussi et al.; 7th, completely revised edition; Weinheim ; New York : WileyVCH, 2011.Encyclopedia of Chemical Processing; Edited by Sunggyu Lee; New York : Taylor & Francis, 2006.Kirk, Raymond Eller. Encyclopedia of chemical technology / Herman F.Mark et al. New York: John Wiley, 1984.Manual Econômico da Indústria Química - MEIQ / Centro de Pesquisas e Desenvolvimento; 8ed; Camaçari: CEPED, 2007.Shreve, R. Norris; BRINK JR., J. A. Indústrias de processos químicos. Tradução de Horácio Macedo; 4.ed. Rio de Janeiro: Editora Guanabara Koogan, 2008, c1997.Revistas:Brazilian Journal of Chemical Engineering, São Paulo, SP: Brazilian Society of Chemical Engineering, v. 11, n. 1, 1995-;Química & Derivados, São Paulo, SP: QD, v. 1, n. 1, nov. 1965-; Disponível em: http://www.quimica.com.br/pquimica/category/revista/Petróleo & Energia, São Paulo, SP, v. 1, n. 1, ; Disponível em: http://www.petroleoenergia.com.br/petroleo/category/revista-petroleo-e-energia/Revista FACTO, Publicação da Associação Brasileira das Indústrias de Química Fina, Biotecnologia e suas Especialidades, Rio de Janeiro, RJ, v. 1, n. 1; Disponível em: http://www.abifina.org.br/facto/"
+  docentes: ['1285870 - Marcos Villela Barcza']
+  oferecimento:
+    - 20241D1:
+      Codigo_da_Turma: "20241D1"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  19:00  21:00 "
+          prof: "(R) Marcos Villela Barcza "
+      vagas:
+        - Obrigatoria:
+          Vagas: "70"
+          Inscritos: "65"
+          Pendentes: "0"
+          Matriculados: "65"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "50"
+          Inscritos: "50"
+          Pendentes: "0"
+          Matriculados: "50"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "16"
+          Inscritos: "15"
+          Pendentes: "0"
+          Matriculados: "15"
+- LOQ4047:
+  sigla: "LOQ4047"
+  nome: " Trabalho de Conclusão de Curso I"
+  nomeascii: " Trabalho de Conclusao de Curso I"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4047&codcur=88052&codhab=0"
+  requisitos:
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "9"
+    EQN: "11"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Chemical Engineering Final Project I"
+  objectives: "Lead students to develop a course completion project on a specific topic related to chemical engineering."
+  abstract: "1) Scientific Methodology. 2) Monography Project. 3) Research Methods. 4) Guidelines of a research project. 5) Research in Bibliographic Databases. 6) Organization of Bibliographic References."
+  program: "1 - Scientific Methodology: design and definition. 2 - Scientific Monography: What is a research project. The steps of a research project. 3 - Research Methods used in Chemical Engineering. 4 Key points of a Course Conclusion Paper project. 5 - Key points of a Course Conclusion Paper monography. 6 - Standards for preparation of the text and the references. 7 - Search engines in Databases such as Web of Science, Scopus, Science Direct, etc. 8 - The use of the Mendeley application as a way of organizing and formatting the bibliographic references in the monograph."
+  ndoc: "1"
+  CA: "1"
+  CT: "2"
+  CH: "75 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2018"
+  objetivos: "Conduzir os alunos no desenvolvimento de um projeto de conclusão de curso sobre tema específico relacionado à engenharia química."
+  resumo: "1) Metodologia Cientifica. 2) Projeto de Monografia. 3) Métodos de Pesquisa. 4) Normas de um Projeto de Pesquisa. 5) Pesquisa em Bases de Dados Bibliográficos. 6) Organização de Referências Bibliográficas."
+  programa: "1 – Metodologia Cientifica: Concepção e definição. 2 – Monografia Cientifica: O que é um projeto de pesquisa. As etapas de um projeto de pesquisa. 3 – Métodos de Pesquisa utilizados na Engenharia Química. 4- Pontos essenciais de um projeto de TCC. 5 – Pontos essenciais de uma monografia de TCC. 6 – Normas para elaboração de do texto e das Referências Bibliográficas. 7 – Mecanismos de busca em Bases de Dados tais como Web of Science, Scopus, Science Direct, etc. 8 – O uso do aplicativo Mendeley como forma de organizar e formatar as referências bibliográficas na monografia."
+  metodo: "Preparo e apresentação do Projeto de Trabalho de Conclusão de Curso (TCC 1) a ser desenvolvido na disciplina de Trabalho de Conclusão de Curso II, conforme norma do Departamento de Engenharia Química."
+  criterio: "O aluno deve entregar, através do sistema online disponibilizado, um arquivo em formato pdf contendo o seu projeto de TCC impreterivelmente até a data estabelecida pelo professor na primeira semana de aula. O aluno que não cumprir este prazo fica reprovado na disciplina, por obter nota zero na primeira avaliação. O trabalho é submetido a dois avaliadores, a nota da primeira avaliação será a média das duas avaliações, sendo igual ou superior a 5, o aluno está aprovado, sendo inferior a 5 e igual ou superior a 3, o aluno está de recuperação."
+  exame: "O aluno deverá reapresentar o seu projeto até a data estabelecida pelo professor. O projeto será reavaliado e obtendo nota igual ou superior a 5, está aprovado."
+  bibliografia: "NASCIMENTO, L. P. Elaboração de Projetos de Pesquisa, Cengage Learning, 2012.SANTOS, C. R. Trabalho de Conclusão de Curso – Guia de elaboração passo a passo, Cengage Learning, 2010.BOOTH, W.; COLOMB, G.; WILLIAMS, J. A arte da Pesquisa. 3 ed. Martins Fontes. São Paulo. 2005. GIL, A.C. Como elaborar projetos de pesquisa. 5ed. Atlas, São Paulo, 2010."
+  docentes: ['198273 - Domingos Savio Giordani']
+  oferecimento:
+    - 20241DN:
+      Codigo_da_Turma: "20241DN"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " seg  18:00  19:00 "
+          prof: "(R) Domingos Savio Giordani "
+      vagas:
+        - Obrigatoria:
+          Vagas: "140"
+          Inscritos: "132"
+          Pendentes: "1"
+          Matriculados: "131"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "68"
+          Inscritos: "57"
+          Pendentes: "1"
+          Matriculados: "56"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "72"
+          Inscritos: "71"
+          Pendentes: "0"
+          Matriculados: "71"
+- LOQ4049:
+  sigla: "LOQ4049"
+  nome: " Projeto na Industria Química"
+  nomeascii: " Projeto na Industria Quimica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4049&codcur=88052&codhab=0"
+  requisitos:
+    - LOQ4002:
+      sigla: "LOQ4002"
+      nome: " Reatores Quimicos "
+      tipo: "Requisito fraco"
+    - LOQ4086:
+      sigla: "LOQ4086"
+      nome: " Operações Unitárias II "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "9"
+    EQN: "11"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Chemical Industry Design"
+  objectives: "1) Formative: Provide students with basic and necessary conditions for them professional qualification.2) Informational: Give to students basic concepts for them uptake, assistance and monitoring in Chemical Industry Design following a specifies methodology.3) Automated: Develop in students the reasoning analytical, following the systematic methodology applied in projects."
+  abstract: "Projects: Life cycle of Project. Feasibility Economic. Flowchart.  PMBOX. Complementary aspects of the preparation of a project."
+  program: "1. Introduction: Concepts of Project Management2. Aspects of Implementation of Projects: Fundamental steps and Partial Forms3. The Life cycle of Project4. Aspects of Feasibility of Project: Revenue, Costs, Point of Leveling, Estimates5. PMBOK Guide: Main areas of knowledge6. Plan of Project 7. The Manager of Project and Interfaces: Team of Project8. Legalization of Project: Aspects about the Licensing 9. Techniques of risk analysis operational10. Aspects about Audits and Integrated Audits11. Work Presentation."
+  ndoc: "1"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2018"
+  objetivos: "1) Formativos: Propiciar ao educando as condições básicas e necessárias para a sua formação profissional. 2) Informativos: fornecer ao educando os conceitos básicos para o entendimento, assessoramento e acompanhamento de Projetos na Indústria Química seguindo metodologia especifica.3) Automatizantes: desenvolver no educando o raciocínio analítico, obedecendo metodologia sistemática aplicada em projetos."
+  resumo: "Projetos: Conceituação e Viabilidade, Ponto Nivelamento, Legalização Industrial."
+  programa: "1.Introdução: Conceitos de Gestão de Projetos2.Aspectos da Implantação de Projetos: Etapas Fundamentais e Formas Parciais3.O Ciclo de Vida do Projeto4.Aspectos da Viabilidade de Projetos: Receitas, Custos, Ponto de Nivelamento, Estimativas5.Guia PMBOK: Principais Áreas de Conhecimento6.Plano de Projeto7.O Gerente de Projeto e as Interfaces: Equipes de Projeto8.Legalização de Projetos: Aspectos sobre o Licenciamento9.Técnicas de Análise de Riscos Operacionais10.Aspectos sobre Auditorias e Auditorias Integradas11.Apresentação de Trabalhos."
+  metodo: "Por meio de aulas presenciais, com apresentação dos fundamentos e exemplos ou casos, e também pela apresentação de trabalhos em equipes.Justificativa: adequação do método de avaliação."
+  criterio: "A Avaliação será: MF = (P1 + P2)/2; Onde: P1: Trabalho; P2: Trabalho. Poderá haver também prova individual sobre os fundamentos."
+  exame: "Prova de exame."
+  bibliografia: "1) Chemical Engineering Plant Design (Vilbrandt e Bryden)
+2) Project Engineering of Process Plants Rose e Barrow (2ª impressão - 1968)
+3) Elaboração e Análise de Projetos Simonsen, M.H. e H. Flanger
+4) Implantação de Indústrias. Valle, E.C. Livros Técnicos e Científicos Editores S/A, Rio de Janeiro. 
+5) Introdução ao Projeto de Engenharia. Asimov, Morris. Editora Mestre Jou-São Paulo, 1968.
+6) IBGR  Instituto Brasileiro de Gerenciamento de Riscos, 2000."
+  docentes: ['5840671 - Francisco José Moreira Chaves']
+  oferecimento:
+    - 20241D1:
+      Codigo_da_Turma: "20241D1"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  16:00  18:00 "
+          prof: "(R) Francisco José Moreira Chaves "
+      vagas:
+        - Obrigatoria:
+          Vagas: "70"
+          Inscritos: "31"
+          Pendentes: "0"
+          Matriculados: "31"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "62"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "8"
+          Inscritos: "8"
+          Pendentes: "0"
+          Matriculados: "8"
+    - 20241N1:
+      Codigo_da_Turma: "20241N1"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " ter  19:00  21:00 "
+          prof: "(R) Francisco José Moreira Chaves "
+      vagas:
+        - Obrigatoria:
+          Vagas: "70"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "68"
+          Inscritos: "26"
+          Pendentes: "0"
+          Matriculados: "26"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "2"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+- LOT2042:
+  sigla: "LOT2042"
+  nome: " Processos Bioquímicos"
+  nomeascii: " Processos Bioquimicos"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2042&codcur=88052&codhab=0"
+  requisitos:
+    - LOT2041:
+      sigla: "LOT2041"
+      nome: " Engenharia Bioquímica "
+      tipo: "Requisito fraco"
+  tipo: "Obrigatórias"
+  semestre:
+    EQD: "9"
+    EQN: "10"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Biotecnologia"
+  nome_en: "Biochemical Processes"
+  objectives: ""
+  abstract: "Introduction. Fermentative and enzymatic processes. Biochemical processes applied to food industry. Biochemical processes of industrial Importance. Enzymatic technology in different industrial sectors. Fundamentals of bioprocess engineering applied to biochemical processes. Variation of scale in bioprocesses. Introduction to techniques of separation/purification of biotechnological products."
+  program: "Introduction: importance of bioprocesses and industrial applications.Fermentative and enzymatic processes: types of fermentative processes, raw materials, products obtainment.Biochemical processes applied to food industry: food processing, phases of food products processing, biochemical alterations in food, lipids oxidation, enzymatic and not enzymatic darkness, industrial controls of biochemical alterations.Biotechnological processes of industrial importance: description and study of cases of some biotechnological processes.Enzymatic technology in different industrial sectors. Fundamentals of bioprocess engineering applied to biochemical processes: transfer of oxygen and microbial respiration: transfer of mass (convection transfer in gas-liquid system, microbial respiration, transfer of oxygen from the gas bubble to the cell); Transfer of O2 in the bioreactor (Effects of sizing and operating aspects of the bioreactor - bubbles, aeration, agitation and medium properties, antifoaming agents, temperature, gas pressure and oxygen partial pressure). Transfer of power and oxygen in agitated and aerated bioreactor. Scale variation in bioprocesses.Introduction to separation/purification of biotechnological products"
+  ndoc: "1"
+  CA: "4"
+  CT: "0"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2018"
+  objetivos: "Transmitir aos alunos os conceitos básicos e fundamentais no estudo de processos biotecnológicos. - Demonstrar as principais etapas no desenvolvimento dos processos bioquímicos industriais e os principais fatores que influenciam no desenvolvimento e otimização destes processos. - Apresentar aos alunos uma visão das aplicações potenciais e estratégicas da biotecnologia moderna - Aprimorar o raciocínio e despertar o espírito crítico e a criatividade dos alunos"
+  resumo: "Introdução. Processos fermentativos e enzimáticos. Processos bioquímicos aplicados à indústria de alimentos. Processos biotecnológicos de importância industrial. Tecnologia enzimática em diferentes setores industriais. Fundamentos de engenharia de bioprocessos aplicados a processos bioquímicos. Variação de escala em bioprocessos. Introdução às técnicas de separação/purificação de produtos biotecnológicos."
+  programa: "Introdução: importância dos bioprocessos e aplicações industriais.Processos fermentativos e enzimáticos: tipos de processos fermentativos, matérias primas, obtenção de produtos.Processos bioquímicos aplicados à indústria de alimentos: processamento de alimentos, fases do processamento de produtos alimentícios, alterações bioquímicas em alimentos, oxidação de lipídeos, escurecimento enzimático e não enzimático, controles industriais das alterações bioquímicas.Processos biotecnológicos de importância industrial: descrição e estudo de casos de alguns processos biotecnológicos.Tecnologia enzimática em diferentes setores industriais. Fundamentos de engenharia de bioprocessos aplicados a processos bioquímicos: transferência de oxigênio e respiração microbiana: transferência de massa (transferência por convecção em sistema gás-líquido; respiração microbiana; transferência de O2 da bolha de gás para a célula); transferência de O2 em biorreator (efeitos dos aspectos do dimensionamento e operacionais do biorreator - bolhas, aeração, agitação e propriedades do meio, agentes antiespumantes, temperatura, pressão do gás e pressão parcial de oxigênio). Transferência de potência e oxigênio em biorreator agitado e aerado. Ampliação de escala em bioprocessos.Introdução às técnicas de separação/purificação de produtos biotecnológicos."
+  metodo: "Os alunos serão avaliados formalmente por uma prova teórica (P) e trabalhos (T). A ponderação das notas será de 70% para a prova teórica (P) e 30% para a média aritmética das notas dos trabalhos (T), ou seja: Média Final do período letivo normal (MF) = (0,7xP +0,3xT)."
+  criterio: "Serão aprovados os alunos que obtiverem média do período letivo normal igual ou maior que 5."
+  exame: "A recuperação será feita por meio de uma prova (PR) para alunos que tenham MF maior ou igual a 3,0 e menor do que 5,0 e pelo menos 70% de frequência. A nota de recuperação (NR) será a média simples entre a média final (MF) e a prova de recuperação (PR). Será considerado aprovado o aluno com NR maior ou igual a 5,0."
+  bibliografia: "1.Schmidell, W.; Lima, U. A.; Aquarone, E.; Borzani, W. Biotecnologia Industrial  Engenharia Bioquímica, vol. 2, São Paulo: Edgard Blücher, 2001. 2. Borzani, W.; Schmidell, W.; Lima, U. A.; Aquarone, E. Biotecnologia Industrial. Fundamentos Vol. 1. São Paulo: Ed. Edgard Blücher,  2001. 3. Manual of industrial microbiology and biotechnology - Demain, A. L.; Solomon, N.A. Eds.Washington, American Society for Microbiology, 1986. 4. Fermentation and Enzyme Technology - Wang, D.C. et al. New York, Wiley-Interscience, 1979. 5. Princípios de Tecnologia de Alimentos - Gava, A.J. São Paulo, Nobel, 1983. 6. LIMA , U. A et al. Biotecnología Industrial, Biotecnologia na produção de alimentos - Série Biotecnología, vol4. Ed. Edgard Blucher,Ltda , 2001. 7. Tecnologia de Alimentos - José Evangelista -Livraria"
+  docentes: ['1814052 - Silvio Silverio da Silva']
+  oferecimento:
+    - 20241D1:
+      Codigo_da_Turma: "20241D1"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Teórica"
+      aulas:
+        - h0:
+          horario: " qua  14:00  18:00 "
+          prof: "André Moreni Lopes "
+      vagas:
+        - Obrigatoria:
+          Vagas: "60"
+          Inscritos: "51"
+          Pendentes: "0"
+          Matriculados: "51"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "46"
+          Inscritos: "36"
+          Pendentes: "0"
+          Matriculados: "36"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "14"
+          Inscritos: "13"
+          Pendentes: "0"
+          Matriculados: "13"
 - LOQ4048:
   sigla: "LOQ4048"
   nome: " Trabalho de  Conclusão do Curso II"
   nomeascii: " Trabalho de  Conclusao do Curso II"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4048&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4048&codcur=88052&codhab=0"
   requisitos:
     - LOQ4047:
       sigla: "LOQ4047"
@@ -20237,6 +20308,7 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
+    EQD: "10"
     EQN: "12"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20288,11 +20360,11 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   sigla: "LOQ4051"
   nome: " Estágio Supervisionado"
   nomeascii: " Estagio Supervisionado"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4051&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4051&codcur=88052&codhab=0"
   requisitos:
-    - LOB1003:
-      sigla: "LOB1003"
-      nome: " Cálculo I "
+    - LOM3081:
+      sigla: "LOM3081"
+      nome: " Introdução à Mecânica dos Sólidos "
       tipo: "Requisito"
     - LOB1004:
       sigla: "LOB1004"
@@ -20318,25 +20390,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOB1018"
       nome: " Física I "
       tipo: "Requisito"
-    - LOB1019:
-      sigla: "LOB1019"
-      nome: " Física II "
+    - LOB1045:
+      sigla: "LOB1045"
+      nome: " Leitura e Produção de Textos Acadêmicos "
       tipo: "Requisito"
-    - LOB1024:
-      sigla: "LOB1024"
-      nome: " Mecânica "
-      tipo: "Requisito"
-    - LOB1036:
-      sigla: "LOB1036"
-      nome: " Geometria Analítica "
-      tipo: "Requisito"
-    - LOB1037:
-      sigla: "LOB1037"
-      nome: " Àlgebra Linear "
-      tipo: "Requisito"
-    - LOB1038:
-      sigla: "LOB1038"
-      nome: " Física Experimental I "
+    - LOQ4010:
+      sigla: "LOQ4010"
+      nome: " Introdução à  Engenharia  Química "
       tipo: "Requisito"
     - LOB1039:
       sigla: "LOB1039"
@@ -20345,10 +20405,6 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
     - LOB1040:
       sigla: "LOB1040"
       nome: " Laboratório de Eletricidade "
-      tipo: "Requisito"
-    - LOB1045:
-      sigla: "LOB1045"
-      nome: " Leitura e Produção de Textos Acadêmicos "
       tipo: "Requisito"
     - LOB1052:
       sigla: "LOB1052"
@@ -20366,28 +20422,45 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito"
-    - LOM3081:
-      sigla: "LOM3081"
-      nome: " Introdução à Mecânica dos Sólidos "
-      tipo: "Requisito"
-    - LOQ4010:
-      sigla: "LOQ4010"
-      nome: " Introdução à  Engenharia  Química "
-      tipo: "Requisito"
     - LOQ4095:
       sigla: "LOQ4095"
       nome: " Química Geral Experimental "
       tipo: "Requisito"
-    - LOQ4097:
-      sigla: "LOQ4097"
-      nome: " Fundamentos de Química para Engenharia I"
+    - LOB1019:
+      sigla: "LOB1019"
+      nome: " Física II "
+      tipo: "Requisito"
+    - LOB1024:
+      sigla: "LOB1024"
+      nome: " Mecânica "
+      tipo: "Requisito"
+    - LOB1036:
+      sigla: "LOB1036"
+      nome: " Geometria Analítica "
+      tipo: "Requisito"
+    - LOB1038:
+      sigla: "LOB1038"
+      nome: " Física Experimental I "
+      tipo: "Requisito"
+    - LOB1037:
+      sigla: "LOB1037"
+      nome: " Àlgebra Linear "
       tipo: "Requisito"
     - LOQ4098:
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito"
+    - LOB1003:
+      sigla: "LOB1003"
+      nome: " Cálculo I "
+      tipo: "Requisito"
+    - LOQ4097:
+      sigla: "LOQ4097"
+      nome: " Fundamentos de Química para Engenharia I"
+      tipo: "Requisito"
   tipo: "Obrigatórias"
   semestre:
+    EQD: "10"
     EQN: "12"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20450,18 +20523,11 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   sigla: "LOQ4091"
   nome: " Projeto Integrador em Engenharia Química I"
   nomeascii: " Projeto Integrador em Engenharia Quimica I"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4091&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4091&codcur=88052&codhab=0"
   requisitos:
-    - LOQ4010:
-      sigla: "LOQ4010"
-      nome: " Introdução à  Engenharia  Química "
-      tipo: "Requisito fraco"
-    - LOQ4031:
-      sigla: "LOQ4031"
-      nome: " Química Geral I "
-      tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
+    EQD: "2"
     EQN: "2"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20510,14 +20576,11 @@ CREMASCO, Marco Aurélio. Engenharia química. Ed. Edgard Blucher, 2005."
   sigla: "LOQ4092"
   nome: " Ecoeficiência na Indústria"
   nomeascii: " Ecoeficiencia na Industria"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4092&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4092&codcur=88052&codhab=0"
   requisitos:
-    - LOQ4073:
-      sigla: "LOQ4073"
-      nome: " Química Geral II "
-      tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
+    EQD: "3"
     EQN: "3"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20552,18 +20615,55 @@ Nota Final Mínima para Aprovação = 5,0"
 7)Piotto, Z. C. Eco-eficiência na Indústria de Celulose e Papel - Estudo de Caso. 2003. 379 p. Tese (Doutorado) - Escola Politécnica, Universidade de São Paulo, São Paulo, 2003."
   docentes: ['2346890 - Eliane Corrêa Pedrozo']
   oferecimento:
+- LOQ4058:
+  sigla: "LOQ4058"
+  nome: " Fenômenos de Superfície e Eletroquímica"
+  nomeascii: " Fenomenos de Superficie e Eletroquimica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4058&codcur=88052&codhab=0"
+  requisitos:
+  tipo: "Optativas"
+  semestre:
+    EQD: "5"
+    EQN: "8"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Engenharia Química"
+  nome_en: "Surface Phenomena and Electrochemistry"
+  objectives: ""
+  abstract: ""
+  program: ""
+  ndoc: "1"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2018"
+  objetivos: "O principal objetivo é permitir ao aluno conhecer os princípios fundamentais das interfaces líquido/gás/sólido e aprender sobre os conceitos de adsorção em sólidos, a caracterização de superfícies porosas, tensão superficial e propriedades de sistemas coloidais e emulsões. Além disso, identificar e explorar as aplicações destes conceitos em diferentes processos da indústria química."
+  resumo: "Descrição de superfície e interface, termodinâmica das superfícies. Superfícies e forças. Sólidos iônicos e covalentes. Forças físicas e químicas de adsorção. Interface gás-solido e líquido-sólido. Caracterização de superfícies."
+  programa: "1)Isotermas de adsorção: Isotermas de Langmuir. Isotermas de Brunauer, Emmett e Teller. Métodos de determinação da área superficial de sólidos. Classificação quanto à porosidade. Métodos de determinação da porosidade de sólidos.2)Catálise de superfície. Interface sólido‐líquido. Mecanismos de catálise.3)Tensão superficial e interfacial. Equação de Laplace. Ângulo de contato. Ascensão e depressão capilar. Aplicações.4)Classificação das dispersões coloidais. Dupla camada elétrica: equação de Lippman e apresentação de modelos. Estabilidade e coagulação de dispersões coloidais. 5)Interações intermoleculares, dipolo-dipolo e de Van-der-Waals, ligação de hidrogênio e interações estabilizadoras em macromoléculas. 6)Estado coloidal. Colóides liofílicos e liofóbicos, hdrofílicos e hidrofóbicos. Obtenção de colóides. Propriedades cinéticas difusão, sedimentação, convecção. Propriedades óticas: espalhamento estático de luz, turbidez, espalhamento dinâmico da luz.Coagulação. Aplicações.7)Termodinâmica dos processos de transporte: difusão sedimentação e transporte através de membranas."
+  metodo: "Participação em sala de aula, preparação e apresentação de trabalhos e provas escritas."
+  criterio: "Média Final = (Prova1 + Prova2 + Nota de Trabalho) /3
+Média final mínima de aprovação = 5,0"
+  exame: "(Prova escrita + Média Final)/2         Nota Final mínima para aprovação= 5,0"
+  bibliografia: "1)MYERS, D. Surfaces, interfaces, and colloids: Principles and Applications, Second edition, Wiley-VCH, New York, 19982) BIRDI, K. S.; Surface and Colloid Chemistry, 1a ed., CRC Press LLC, New York, 1997.3) OSHIMA, H., Theory of colloid and interfacial electric phenomena. Interface Science and Technology Series, v. 12, Academic Press, Oxford, 2006.4) JACOB N. ISRAELCHVILI; Intermolecular and Surface Forces, 3r d Edition, New York, Academic, 2010.5) ADAMIAN, R. E ALMENDRA E.; Físico-Química – Uma Aplicação aos Materiais, 2002. 6) ADAMSON, A. Physical Chemistry of Surfaces (5th ed.). New York: John Wiley, 1990.7) SHAW, D. J. Introdução à Química dos Coloides e de Superfícies. São Paulo: Edgard Blücher, 1975. 185 pp.8)  REGALBUTO, J. Handbook of catalyst preparation. Taylor & Francis,2007"
+  docentes: ['1488970 - Marivone Nunho Sousa']
+  oferecimento:
 - LOQ4096:
   sigla: "LOQ4096"
   nome: " Moléculas Funcionais e Dispositivos Tecnologicos"
   nomeascii: " Moleculas Funcionais e Dispositivos Tecnologicos"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4096&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4096&codcur=88052&codhab=0"
   requisitos:
+    - LOQ4037:
+      sigla: "LOQ4037"
+      nome: " Química Orgânica I "
+      tipo: "Requisito fraco"
     - LOB1018:
       sigla: "LOB1018"
       nome: " Física I "
       tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
+    EQD: "5"
     EQN: "5"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20590,7 +20690,7 @@ Nota Final Mínima para Aprovação = 5,0"
   sigla: "LOQ4099"
   nome: " Engenharia de Cristais Moleculares"
   nomeascii: " Engenharia de Cristais Moleculares"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4099&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4099&codcur=88052&codhab=0"
   requisitos:
     - LOQ4055:
       sigla: "LOQ4055"
@@ -20598,6 +20698,7 @@ Nota Final Mínima para Aprovação = 5,0"
       tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
+    EQD: "6"
     EQN: "6"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20620,50 +20721,164 @@ Nota Final Mínima para Aprovação = 5,0"
   bibliografia: "Desiraju, G. R., Vittal, J. J., & Ramanan, A. (2011). Crystal engineering: a textbook. World Scientific. Lehn, J.-M. (1995) Supramolecular Chemistry. Wiley-VCH. ISBN 978-3-527-29311-7Steed, J. W., & Atwood, J. L. (2013). Supramolecular chemistry. John Wiley & Sons.Silverstein, Robert M.; Webster Francis X.; Kiemle David J. Identificação Espectrométrica de Compostos Orgânicos, 7ª edição LTC.Kumar, D. K., & Steed, J. W. (2014). Supramolecular gel phase crystallization: orthogonal self-assembly under non-equilibrium conditions. Chemical Society Reviews, 43(7), 2080-2088.Desiraju, G. R. (2007). Crystal engineering: a holistic view. Angewandte Chemie International Edition, 46(44), 8342-8356.Williams, J. H. (2017). Crystal Engineering. Morgan & Claypool Publishers"
   docentes: ['210064 - Eduardo Rezende Triboni']
   oferecimento:
-- LOQ4058:
-  sigla: "LOQ4058"
-  nome: " Fenômenos de Superfície e Eletroquímica"
-  nomeascii: " Fenomenos de Superficie e Eletroquimica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4058&codcur=88052&codhab=4"
+- 8800008:
+  sigla: "8800008"
+  nome: " Projetos Especiais em Engenharia I"
+  nomeascii: " Projetos Especiais em Engenharia I"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=8800008&codcur=88052&codhab=0"
   requisitos:
-    - LOB1053:
-      sigla: "LOB1053"
-      nome: " Física III "
-      tipo: "Requisito fraco"
-    - LOQ4073:
-      sigla: "LOQ4073"
-      nome: " Química Geral II "
-      tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
-    EQN: "8"
+    EQD: "7"
   unidade: "Escola de Engenharia de Lorena"
-  departamento: "Engenharia Química"
-  nome_en: "Surface Phenomena and Electrochemistry"
+  departamento: "Disciplinas Interdepartamentais dea EEL"
+  nome_en: "Special Projects in Engineering"
   objectives: ""
   abstract: ""
   program: ""
   ndoc: "1"
   CA: "2"
-  CT: "0"
-  CH: "30 h"
+  CT: "2"
+  CH: "90 h"
   periodicidade: "Semestral"
-  ativacao: "01/01/2018"
-  objetivos: "O principal objetivo é permitir ao aluno conhecer os princípios fundamentais das interfaces líquido/gás/sólido e aprender sobre os conceitos de adsorção em sólidos, a caracterização de superfícies porosas, tensão superficial e propriedades de sistemas coloidais e emulsões. Além disso, identificar e explorar as aplicações destes conceitos em diferentes processos da indústria química."
-  resumo: "Descrição de superfície e interface, termodinâmica das superfícies. Superfícies e forças. Sólidos iônicos e covalentes. Forças físicas e químicas de adsorção. Interface gás-solido e líquido-sólido. Caracterização de superfícies."
-  programa: "1)Isotermas de adsorção: Isotermas de Langmuir. Isotermas de Brunauer, Emmett e Teller. Métodos de determinação da área superficial de sólidos. Classificação quanto à porosidade. Métodos de determinação da porosidade de sólidos.2)Catálise de superfície. Interface sólido‐líquido. Mecanismos de catálise.3)Tensão superficial e interfacial. Equação de Laplace. Ângulo de contato. Ascensão e depressão capilar. Aplicações.4)Classificação das dispersões coloidais. Dupla camada elétrica: equação de Lippman e apresentação de modelos. Estabilidade e coagulação de dispersões coloidais. 5)Interações intermoleculares, dipolo-dipolo e de Van-der-Waals, ligação de hidrogênio e interações estabilizadoras em macromoléculas. 6)Estado coloidal. Colóides liofílicos e liofóbicos, hdrofílicos e hidrofóbicos. Obtenção de colóides. Propriedades cinéticas difusão, sedimentação, convecção. Propriedades óticas: espalhamento estático de luz, turbidez, espalhamento dinâmico da luz.Coagulação. Aplicações.7)Termodinâmica dos processos de transporte: difusão sedimentação e transporte através de membranas."
-  metodo: "Participação em sala de aula, preparação e apresentação de trabalhos e provas escritas."
-  criterio: "Média Final = (Prova1 + Prova2 + Nota de Trabalho) /3
-Média final mínima de aprovação = 5,0"
-  exame: "(Prova escrita + Média Final)/2         Nota Final mínima para aprovação= 5,0"
-  bibliografia: "1)MYERS, D. Surfaces, interfaces, and colloids: Principles and Applications, Second edition, Wiley-VCH, New York, 19982) BIRDI, K. S.; Surface and Colloid Chemistry, 1a ed., CRC Press LLC, New York, 1997.3) OSHIMA, H., Theory of colloid and interfacial electric phenomena. Interface Science and Technology Series, v. 12, Academic Press, Oxford, 2006.4) JACOB N. ISRAELCHVILI; Intermolecular and Surface Forces, 3r d Edition, New York, Academic, 2010.5) ADAMIAN, R. E ALMENDRA E.; Físico-Química – Uma Aplicação aos Materiais, 2002. 6) ADAMSON, A. Physical Chemistry of Surfaces (5th ed.). New York: John Wiley, 1990.7) SHAW, D. J. Introdução à Química dos Coloides e de Superfícies. São Paulo: Edgard Blücher, 1975. 185 pp.8)  REGALBUTO, J. Handbook of catalyst preparation. Taylor & Francis,2007"
-  docentes: ['1488970 - Marivone Nunho Sousa']
+  ativacao: "01/01/2020"
+  objetivos: "Levar os alunos a vivenciarem problemas reais da indústria para, em equipes, apresentarem as possíveis soluções, de forma que, com isso, desenvolvam habilidades transversais fundamentais para sua vida profissional, tais como trabalho em equipe, gerenciamento de projetos, pro atividade, ao mesmo tempo em que consolidam o conhecimento adquirido durante o curso."
+  resumo: "Formação e trabalho em equipes, Comunicação, Inovação Sistemática, Legislação, Gerenciamento de Projetos. Identificação de Problemas, Formulação do Projeto, Especificação de Problemas, Análise do Conhecimento disponível, Avaliação e Tomada de Decisão, Cronograma, Elaboração de relatórios, Apresentação de Projetos"
+  programa: "Formação e trabalho em equipes e Comunicação  o desenvolvimento das habilidades essenciais para o trabalho em equipes;Inovação Sistemática  desenvolvimento de soluções inovadoras, sistematização e características;Legislação - noções da legislação aplicada à ação empresarial;Gerenciamento de Projetos e Cronograma  Metodologias e esquematizações necessárias com os elementos gerenciais;Identificação de Problemas  sistematização de ações para a localização de causas;Formulação do Projeto  apresentação dos aspectos gerenciais necessários ao desenvolvimento do projeto, Plano de gestão, Estrutura Analítica do Projeto (EAP) etc;Especificação de Problemas  sistematização dos problemas dentro das áreas de conhecimento;Análise do Conhecimento disponível, Avaliação e Tomada de Decisão;Elaboração de relatórios  formatação dentro das normas ABNT;Apresentação de Projetos."
+  metodo: "Seminários e Estudos de Casos."
+  criterio: "Serão feitas duas avaliações por uma banca de professores que assistirão aos seminários apresentados, as notas serão as médias das notas dadas pelos professores."
+  exame: "Reapresentação do último seminário, cuja nota constituirá a nota final da disciplina."
+  bibliografia: "Gestão de Negócios: Visões e dimensões empresariais da o Organização. 
+Autores: Cruz Jr, J.B., Rocha, J.A.O. e Tachizawa, T.
+Editora: ATLAS
+
+Gestão Empresarial - de Taylor aos nossos dias
+Autores: Pereira, M. I. , Autor: Ferreira, A. A. e Reis, A.C. F 
+Editora: THOMSON PIONEIRA
+
+Baron e Shane: Empreendedorismo: uma visão do processo (EVP), Ed. Thomson, 2006
+
+Textos fornecidos pelo professor da disciplina
+Artigos extraídos de revistas especializadas na área de gestão e produção."
+  docentes: ['198273 - Domingos Savio Giordani']
   oferecimento:
+    - 20241T1:
+      Codigo_da_Turma: "20241T1"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Prática"
+      Observacoes: "Empresa BAYER"
+      aulas:
+        - h0:
+          horario: " qui  14:00  16:00 "
+          prof: "(R) Domingos Savio Giordani "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_para_toda_a_Unidade:
+          Vagas: "18"
+          Inscritos: "17"
+          Pendentes: "0"
+          Matriculados: "17"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+- 8800014:
+  sigla: "8800014"
+  nome: " Projetos Especiais em Gestão da Inovação"
+  nomeascii: " Projetos Especiais em Gestao da Inovacao"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=8800014&codcur=88052&codhab=0"
+  requisitos:
+  tipo: "Optativas"
+  semestre:
+    EQD: "7"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Disciplinas Interdepartamentais dea EEL"
+  nome_en: "Special Projects in Innovation Management"
+  objectives: "Lead students to understand the key innovation management issues, their characteristics and critical points for success, through real business problems. The activities will be carried out as a team and will focus on the development of the necessary skills to successfully manage the entire innovation process, from its conception to placing the product on the market"
+  abstract: "Innovation management. Costs of innovation. Innovation implementation process. Transforming ideation into business. The Innovation Market"
+  program: "Which leads some organizations to have the necessity to manage the innovation; what are the main factors driving innovation and how does the diffusion process occur. What are the main types of innovation that need to be considered; What are the main strategies to implement one of innovation in the market; what and how companies seek innovative ideas; What and how different factors influence the way managers to prioritize innovation choices; What are the key challenges in putting innovations into practice? How managers can build an organization focused on innovation as a market strategy; what are the main success evaluation systems of an innovative idea; Resource management and innovative programs in a company."
+  ndoc: "1"
+  CA: "2"
+  CT: "2"
+  CH: "90 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2020"
+  objetivos: "Levar os alunos a entender as principais questões da gestão da inovação, suas características e pontos críticos para obter o sucesso, por meio de problemas reais de empresas. As atividades serão realizadas em equipe e serão focadas no desenvolvimento das competências necessárias para gerenciar com sucesso todo o processo de inovação, de sua concepção até colocar o produto no mercado."
+  resumo: "Gestão da inovação. Custos da inovação. Processo de implementação da inovação. Transformando a ideação em negócio. O Mercado de inovação."
+  programa: "ProgramaO que leva algumas organizações a terem necessidade de gerenciar a inovação; quais são os principais fatores que impulsionam a inovação e como ocorre o processo de difusão. Quais são os principais tipos de inovação que precisam ser considerados; Quais são as principais estratégias para implantar uma de inovação no mercado; Como e de que maneira as empresas procuram obter ideias inovadoras; Quais e como diferentes fatores influenciam a maneira como os gerentes priorizam as escolhas de inovação; Quais os principais desafios para colocar as inovações em prática; De que forma os gestores podem construir uma organização focada na inovação como estratégia de mercado; quais os principais sistemas de avaliação de sucessos de uma ideia inovadora; Gestão de recursos e programas de inovação em uma empresa."
+  metodo: "Seminários e Estudos de Casos, aplicação de “Pitchs” (breve apresentação oral de uma ideia, produto ou oportunidade de negócio) e outras formas de apresentação de ideias em empresas"
+  criterio: "As avaliações serão: a) contínuas considerando a participação dos alunos nas atividades; b) avaliação das apresentações parciais dos trabalhos; e c) apresentação final dos trabalhos."
+  exame: "Reapresentação do último seminário, cuja nota constituirá a nota final da disciplina."
+  bibliografia: "Gestão de Negócios: Visões e dimensões empresariais da Organização. Autores: Cruz Jr, J.B., Rocha, J.A.O. e Tachizawa, T.Editora: ATLASGestão Empresarial - de Taylor aos nossos diasAutores: Pereira, M. I.  Autor: Ferreira, A. A. e Reis, A.C. F Editora: THOMSON PIONEIRAGestão da inovação: a economia da tecnologia no BrasilAutor: Tigre, P. B.Editora: ElsevierTextos disponibilizados pelo professor da disciplinaArtigos extraídos de revistas especializadas na área de gestão e inovação."
+  docentes: ['849935 - Humberto Felipe da Silva']
+  oferecimento:
+- 8800013:
+  sigla: "8800013"
+  nome: " Projetos Especiais em Engenharia II"
+  nomeascii: " Projetos Especiais em Engenharia II"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=8800013&codcur=88052&codhab=0"
+  requisitos:
+  tipo: "Optativas"
+  semestre:
+    EQD: "8"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Disciplinas Interdepartamentais dea EEL"
+  nome_en: "Speciais Engeneering Projects II"
+  objectives: "To lead students to experience in-depth real problems of the industry in order to present the possible solutions in teams, so that they develop transversal skills that are fundamental to their professional life, such as teamwork, project management, pro activity, at the same time in which they consolidate the knowledge acquired during the course."
+  abstract: "Training and team work, Communication, Systematic Innovation, Legislation, Project Management. Problem Identification, Project Formulation, Problem Specification, Available Knowledge Analysis, Evaluation and Decision Making, Timeline, Reporting, Project Submission"
+  program: "Training and work in teams and communication - the development of skills essential to work in teams; Systematic Innovation - development of innovative solutions, systematization and characteristics; Legislation - notions of legislation applied to corporate action; Project Management and Schedule - Methodologies and necessary schematizations with the management elements; Problem Identification - systematization of actions to locate causes; Formulation of the Project - presentation of the managerial aspects necessary for the development of the project, Management Plan, Project Analytical Structure (EAP) etc; Specification of Problems - systematization of problems within the areas of knowledge; Analysis of Available Knowledge, Evaluation and Decision Making; Reporting - formatting within ABNT standards; Presentation of Projects."
+  ndoc: "1"
+  CA: "2"
+  CT: "2"
+  CH: "90 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2020"
+  objetivos: "Levar os alunos a vivenciarem de forma mais aprofundada problemas reais da indústria para, em equipes, apresentarem as possíveis soluções, de forma que, com isso, desenvolvam habilidades transversais fundamentais para sua vida profissional, tais como trabalho em equipe, gerenciamento de projetos, pro atividade, ao mesmo tempo em que consolidam o conhecimento adquirido durante o curso."
+  resumo: "Formação e trabalho em equipes, Comunicação, Inovação Sistemática, Legislação, Gerenciamento de Projetos. Identificação de Problemas, Formulação do Projeto, Especificação de Problemas, Análise do Conhecimento disponível, Avaliação e Tomada de Decisão, Cronograma, Elaboração de relatórios, Apresentação de Projetos"
+  programa: "Formação e trabalho em equipes e Comunicação – o desenvolvimento das habilidades essenciais para o trabalho em equipes; Inovação Sistemática – desenvolvimento de soluções inovadoras, sistematização e características; Legislação - noções da legislação aplicada à ação empresarial; Gerenciamento de Projetos e Cronograma – Metodologias e esquematizações necessárias com os elementos gerenciais; Identificação de Problemas – sistematização de ações para a localização de causas; Formulação do Projeto – apresentação dos aspectos gerenciais necessários ao desenvolvimento do projeto, Plano de gestão, Estrutura Analítica do Projeto (EAP) etc; Especificação de Problemas – sistematização dos problemas dentro das áreas de conhecimento; Análise do Conhecimento disponível, Avaliação e Tomada de Decisão; Elaboração de relatórios – formatação dentro das normas ABNT; Apresentação de Projetos."
+  metodo: "Apresentações intermediárias e finais."
+  criterio: "Serão feitas duas avaliações por uma banca de professores que assistirão às apresentações, as notas serão as médias das notas dadas pelos professores."
+  exame: "Reapresentação do último seminário, cuja nota constituirá a nota final da disciplina."
+  bibliografia: "Gestão de Negócios: Visões e dimensões empresariais da o Organização. Autores: Cruz Jr, J.B., Rocha, J.A.O. e Tachizawa, T.Editora: ATLASGestão Empresarial - de Taylor aos nossos diasAutores: Pereira, M. I. , Autor: Ferreira, A. A. e Reis, A.C. F Editora: THOMSON PIONEIRABaron e Shane: Empreendedorismo: uma visão do processo (EVP), Ed. Thomson, 2006Textos fornecidos pelo professor da disciplinaArtigos extraídos de revistas especializadas na área de gestão e produção."
+  docentes: ['198273 - Domingos Savio Giordani']
+  oferecimento:
+    - 20241T2:
+      Codigo_da_Turma: "20241T2"
+      Inicio: "26/02/2024"
+      Fim: "02/07/2024"
+      Tipo_da_Turma: "Prática"
+      Observacoes: "Empresa ZARAPLAST"
+      aulas:
+        - h0:
+          horario: " sex  10:00  12:00 "
+          prof: "(R) Domingos Savio Giordani "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_para_toda_a_Unidade:
+          Vagas: "10"
+          Inscritos: "10"
+          Pendentes: "0"
+          Matriculados: "10"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4093:
   sigla: "LOQ4093"
   nome: " Petróleo e Gás Natural"
   nomeascii: " Petroleo e Gas Natural"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4093&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4093&codcur=88052&codhab=0"
   requisitos:
     - LOQ4057:
       sigla: "LOQ4057"
@@ -20671,6 +20886,7 @@ Média final mínima de aprovação = 5,0"
       tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
+    EQD: "9"
     EQN: "11"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20721,7 +20937,7 @@ f)Revista Petro & Química."
   sigla: "LOQ4043"
   nome: " Tubulações Industriais"
   nomeascii: " Tubulacoes Industriais"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4043&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4043&codcur=88052&codhab=0"
   requisitos:
     - LOB1009:
       sigla: "LOB1009"
@@ -20737,6 +20953,7 @@ f)Revista Petro & Química."
       tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
+    EQD: "10"
     EQN: "12"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20763,14 +20980,11 @@ f)Revista Petro & Química."
   sigla: "LOQ4071"
   nome: " Tópicos Especiais de Gestão da Qualidade"
   nomeascii: " Topicos Especiais de Gestao da Qualidade"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4071&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4071&codcur=88052&codhab=0"
   requisitos:
-    - LOQ4044:
-      sigla: "LOQ4044"
-      nome: " Introdução à Engenharia da Qualidade "
-      tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
+    EQD: "10"
     EQN: "12"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -20798,7 +21012,7 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
   sigla: "LOQ4094"
   nome: " Petroquímica"
   nomeascii: " Petroquimica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4094&codcur=88052&codhab=4"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4094&codcur=88052&codhab=0"
   requisitos:
     - LOQ4057:
       sigla: "LOQ4057"
@@ -20806,6 +21020,7 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
       tipo: "Requisito fraco"
   tipo: "Optativas"
   semestre:
+    EQD: "12"
     EQN: "12"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
