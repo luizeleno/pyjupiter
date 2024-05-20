@@ -299,6 +299,14 @@
     } ,
   
     {
+      "title"     : "LOM3243",
+      "url"       : "/pyjupiter/disciplinas/lom3243.html",
+      "nome"      : " Seminários em Engenharia Física",
+      "nomeascii" : " Seminarios em Engenharia Fisica",
+      "docentes"     : "3577649 - Carlos Angelo Nunes1176388 - Luiz Tadeu Fernandes Eleno"
+    } ,
+  
+    {
       "title"     : "LOM3263",
       "url"       : "/pyjupiter/disciplinas/lom3263.html",
       "nome"      : " Eletrônica Fundamental e Aplicada",
@@ -472,14 +480,6 @@
       "nome"      : " Psicologia Organizacional e do Trabalho",
       "nomeascii" : " Psicologia Organizacional e do Trabalho",
       "docentes"     : "8188658 - Maria Auxiliadora Motta Barreto"
-    } ,
-  
-    {
-      "title"     : "LOM3243",
-      "url"       : "/pyjupiter/disciplinas/lom3243.html",
-      "nome"      : " Seminários em Engenharia Física",
-      "nomeascii" : " Seminarios em Engenharia Fisica",
-      "docentes"     : "3577649 - Carlos Angelo Nunes1176388 - Luiz Tadeu Fernandes Eleno"
     } ,
   
     {
@@ -1715,14 +1715,6 @@
     } ,
   
     {
-      "title"     : "LOQ4056",
-      "url"       : "/pyjupiter/disciplinas/loq4056.html",
-      "nome"      : " Química Analítica para Engenharia",
-      "nomeascii" : " Quimica Analitica para Engenharia",
-      "docentes"     : "5840601 - Hélcio José Izário Filho"
-    } ,
-  
-    {
       "title"     : "LOQ4087",
       "url"       : "/pyjupiter/disciplinas/loq4087.html",
       "nome"      : " Termodinâmica Química Aplicada I",
@@ -1787,19 +1779,11 @@
     } ,
   
     {
-      "title"     : "LOQ4003",
-      "url"       : "/pyjupiter/disciplinas/loq4003.html",
-      "nome"      : " Cinética Química Aplicada",
-      "nomeascii" : " Cinetica Quimica Aplicada",
-      "docentes"     : "5963230 - Leandro Gonçalves de Aguiar6310316 - Liana Alvares Rodrigues"
-    } ,
-  
-    {
-      "title"     : "LOQ4060",
-      "url"       : "/pyjupiter/disciplinas/loq4060.html",
-      "nome"      : " Laboratório de Engenharia Química I",
-      "nomeascii" : " Laboratorio de Engenharia Quimica I",
-      "docentes"     : "4808662 - Lucrécio Fábio dos Santos"
+      "title"     : "LOT2061",
+      "url"       : "/pyjupiter/disciplinas/lot2061.html",
+      "nome"      : " Química Analítica Aplicada a Bioprocessos",
+      "nomeascii" : " Quimica Analitica Aplicada a Bioprocessos",
+      "docentes"     : ""
     } ,
   
     {
@@ -1843,14 +1827,6 @@
     } ,
   
     {
-      "title"     : "LOQ4061",
-      "url"       : "/pyjupiter/disciplinas/loq4061.html",
-      "nome"      : " Laboratório de Engenharia Química II",
-      "nomeascii" : " Laboratorio de Engenharia Quimica II",
-      "docentes"     : "6666306 - Daniela Helena Pelegrine Guimarães"
-    } ,
-  
-    {
       "title"     : "LOQ4086",
       "url"       : "/pyjupiter/disciplinas/loq4086.html",
       "nome"      : " Operações Unitárias II",
@@ -1864,14 +1840,6 @@
       "nome"      : " Fundamentos de Administração da Produção",
       "nomeascii" : " Fundamentos de Administracao da Producao",
       "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
-    } ,
-  
-    {
-      "title"     : "LOT2012",
-      "url"       : "/pyjupiter/disciplinas/lot2012.html",
-      "nome"      : " Engenharia Ambiental",
-      "nomeascii" : " Engenharia Ambiental",
-      "docentes"     : "1720367 - Teresa Cristina Brazil de Paiva"
     } ,
   
     {
@@ -1896,6 +1864,14 @@
       "nome"      : " Genética e Biotecnologia Vegetal",
       "nomeascii" : " Genetica e Biotecnologia Vegetal",
       "docentes"     : "8711290 - Elisson Antônio da Costa Romanel"
+    } ,
+  
+    {
+      "title"     : "LOT2062",
+      "url"       : "/pyjupiter/disciplinas/lot2062.html",
+      "nome"      : " Solução de Problemas de Engenharia",
+      "nomeascii" : " Solucao de Problemas de Engenharia",
+      "docentes"     : ""
     } ,
   
     {
@@ -1963,22 +1939,6 @@
     } ,
   
     {
-      "title"     : "LOT2038",
-      "url"       : "/pyjupiter/disciplinas/lot2038.html",
-      "nome"      : " Tecnologia de Bebidas",
-      "nomeascii" : " Tecnologia de Bebidas",
-      "docentes"     : "1097178 - João Batista de Almeida e Silva"
-    } ,
-  
-    {
-      "title"     : "LOT2052",
-      "url"       : "/pyjupiter/disciplinas/lot2052.html",
-      "nome"      : " Tecnologia de Bebidas Experimental",
-      "nomeascii" : " Tecnologia de Bebidas Experimental",
-      "docentes"     : "1097178 - João Batista de Almeida e Silva"
-    } ,
-  
-    {
       "title"     : "LOT2055",
       "url"       : "/pyjupiter/disciplinas/lot2055.html",
       "nome"      : " Estatística em Bioprocessos",
@@ -2024,6 +1984,22 @@
       "nome"      : " Tecnologia de Alimentos",
       "nomeascii" : " Tecnologia de Alimentos",
       "docentes"     : "3403572 - Ismael Maciel de Mancilha"
+    } ,
+  
+    {
+      "title"     : "LOT2038",
+      "url"       : "/pyjupiter/disciplinas/lot2038.html",
+      "nome"      : " Tecnologia de Bebidas",
+      "nomeascii" : " Tecnologia de Bebidas",
+      "docentes"     : "1097178 - João Batista de Almeida e Silva"
+    } ,
+  
+    {
+      "title"     : "LOT2052",
+      "url"       : "/pyjupiter/disciplinas/lot2052.html",
+      "nome"      : " Tecnologia de Bebidas Experimental",
+      "nomeascii" : " Tecnologia de Bebidas Experimental",
+      "docentes"     : "1097178 - João Batista de Almeida e Silva"
     } ,
   
     {
@@ -2443,11 +2419,43 @@
     } ,
   
     {
+      "title"     : "LOQ4056",
+      "url"       : "/pyjupiter/disciplinas/loq4056.html",
+      "nome"      : " Química Analítica para Engenharia",
+      "nomeascii" : " Quimica Analitica para Engenharia",
+      "docentes"     : "5840601 - Hélcio José Izário Filho"
+    } ,
+  
+    {
+      "title"     : "LOQ4060",
+      "url"       : "/pyjupiter/disciplinas/loq4060.html",
+      "nome"      : " Laboratório de Engenharia Química I",
+      "nomeascii" : " Laboratorio de Engenharia Quimica I",
+      "docentes"     : "4808662 - Lucrécio Fábio dos Santos"
+    } ,
+  
+    {
+      "title"     : "LOQ4003",
+      "url"       : "/pyjupiter/disciplinas/loq4003.html",
+      "nome"      : " Cinética Química Aplicada",
+      "nomeascii" : " Cinetica Quimica Aplicada",
+      "docentes"     : "5963230 - Leandro Gonçalves de Aguiar6310316 - Liana Alvares Rodrigues"
+    } ,
+  
+    {
       "title"     : "LOQ4004",
       "url"       : "/pyjupiter/disciplinas/loq4004.html",
       "nome"      : " Controle de Processos Químicos",
       "nomeascii" : " Controle de Processos Quimicos",
       "docentes"     : "8643537 - Fabio Rodolfo Miguel Batista"
+    } ,
+  
+    {
+      "title"     : "LOQ4061",
+      "url"       : "/pyjupiter/disciplinas/loq4061.html",
+      "nome"      : " Laboratório de Engenharia Química II",
+      "nomeascii" : " Laboratorio de Engenharia Quimica II",
+      "docentes"     : "6666306 - Daniela Helena Pelegrine Guimarães"
     } ,
   
     {
