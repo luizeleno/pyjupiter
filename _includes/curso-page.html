@@ -1,26 +1,32 @@
-{% assign lista = '' %}
+{% assign disciplinas = '' %}
+{% assign obrigatorias = '' %}
+{% assign optativas = '' %}
 {% for curso in include.curso %}
     {% assign disc = site.data.disciplinas | where: 'sigla', curso %}
-    {% assign lista = lista | concat: disc %}
+    {% assign disciplinas = disciplinas | concat: disc %}
+    {% assign tipo = disc[0].tipo | map: include.label %}
+    {% if tipo contains "Obrigatórias" %}
+      {% assign obrigatorias = obrigatorias | concat: disc %}
+    {% endif %}
+    {% if tipo contains "Optativas" %}
+      {% assign optativas = optativas | concat: disc %}
+    {% endif %}
 {% endfor %}
 
 ## Disciplinas obrigatórias
 {: .alert .alert-dark}
-
-{% assign disciplinas = lista | where: 'tipo', 'Obrigatórias' %}
 
 {% for n in (1..include.nsem) %}
 
 {% assign CA=0 %}
 {% assign CT=0 %}
 
-
 ### {{n}}º semestre
 {: .alert .alert-secondary}
 
 {% assign ns = n | downcase %}
 
-{% assign sem = disciplinas | where: include.curso_sem, ns %}
+{% assign sem = obrigatorias | where: include.curso_sem, ns %}
 
 <table class="table table-hover">
 <thead>
@@ -39,9 +45,7 @@
 <td>
 {% include disciplina-modal.html disciplina=disc curso=include.label %}
 </td>
-<td>
-{{disc.nome}}
-</td>
+<td>{{disc.nome}}</td>
 <td>{{disc.CA}}</td>
 <td>{{disc.CT}}</td>
 <td>{{disc.CH}}</td>
@@ -71,11 +75,9 @@
 ## Disciplinas eletivas
 {: .alert .alert-dark}
 
-{% assign disciplinas = lista | where: 'tipo', 'Optativas' %}
-
 {% for n in (1..include.nsem) %}
 
-{% assign sem = disciplinas | where: include.curso_sem, n %}
+{% assign sem = optativas | where: include.curso_sem, n %}
 
 {% if sem.size > 0 %}
 
@@ -92,13 +94,15 @@
       <th scope="col">CH</th>
     </tr>
 </thead>
+
 {% for disc in sem %}
+
 <tr>
 <td>
 {% include disciplina-modal.html disciplina=disc curso=include.label %}
 </td>
 <td>
-{{disc.nome}}
+{{disc.nome}}  {{tipo}}
 </td>
 <td>{{disc.CA}}</td>
 <td>{{disc.CT}}</td>

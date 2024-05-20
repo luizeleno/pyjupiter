@@ -4,7 +4,14 @@
   nomeascii: " Calculo I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1003&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "1"
     EM: "1"
@@ -322,7 +329,14 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
   nomeascii: " Ciencia, Tecnologia e Sociedade"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1008&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Optativas"
+    EP: "Obrigatórias"
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EF: "1"
     EM: "2"
@@ -458,7 +472,14 @@ Estudos, artigos, notícias e pesquisas via internet."
   nomeascii: " Fisica I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1018&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "1"
     EM: "1"
@@ -580,7 +601,14 @@ Estudos, artigos, notícias e pesquisas via internet."
   nomeascii: " Geometria Analitica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1036&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "1"
     EM: "1"
@@ -807,7 +835,14 @@ Estudos, artigos, notícias e pesquisas via internet."
   nomeascii: " Fisica Experimental I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1038&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "1"
     EM: "1"
@@ -936,7 +971,8 @@ Estudos, artigos, notícias e pesquisas via internet."
   nomeascii: " Introducao a Engenharia Fisica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3218&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -997,7 +1033,8 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
   nomeascii: " Computacao Cientifica em Python"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3260&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -1056,7 +1093,10 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
   nomeascii: " Fundamentos de Quimica para Engenharia I-B"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4100&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EB: "Obrigatórias"
   semestre:
     EF: "1"
     EM: "1"
@@ -1178,7 +1218,14 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       sigla: "LOB1036"
       nome: " Geometria Analítica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "2"
     EM: "2"
@@ -1275,7 +1322,14 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       sigla: "LOB1018"
       nome: " Física I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "2"
     EM: "2"
@@ -1502,7 +1556,14 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       sigla: "LOB1036"
       nome: " Geometria Analítica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "2"
     EM: "2"
@@ -1569,7 +1630,11 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       sigla: "LOB1038"
       nome: " Física Experimental I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EP: "Obrigatórias"
   semestre:
     EF: "2"
     EM: "2"
@@ -1647,7 +1712,13 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
   nomeascii: " Leitura e Producao de Textos Academicos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1045&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "2"
     EM: "1"
@@ -1700,7 +1771,9 @@ N 2 = 1ª NP + 2ª NP  (ver abaixo)"
   nomeascii: " Desenho Tecnico e Projeto Assistido por Computador"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3204&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
   semestre:
     EF: "2"
     EM: "1"
@@ -1765,7 +1838,8 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       sigla: "LOQ4100"
       nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -1799,7 +1873,14 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       sigla: "LOQ4100"
       nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "2"
     EM: "2"
@@ -1859,7 +1940,14 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       sigla: "LOB1037"
       nome: " Àlgebra Linear "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "3"
     EM: "4"
@@ -1952,7 +2040,14 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       sigla: "LOB1038"
       nome: " Física Experimental I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "3"
     EM: "3"
@@ -2072,7 +2167,14 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       sigla: "LOB1004"
       nome: " Cálculo II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "3"
     EM: "3"
@@ -2301,7 +2403,14 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       sigla: "LOB1019"
       nome: " Física II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "3"
     EM: "3"
@@ -2418,7 +2527,13 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
   nomeascii: " Introducao a  Ciencia dos Materiais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3016&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "3"
     EA: "3"
@@ -2614,7 +2729,8 @@ PROVENZA, F. Projetista de Máquinas . Editora Protec, 1991."
       sigla: "LOM3204"
       nome: " Desenho Técnico e Projeto Assistido por Computador "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -2680,7 +2796,8 @@ SWIFT, K.G.; BOOKER, P.D. Seleção de processos de manufatura, Campus-Elsevier,
       sigla: "LOM3240"
       nome: " Química Inorgânica Fundamental e Aplicada "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -2744,7 +2861,8 @@ LENG, Y. Materials Characterization: Introduction to Microscopic and Spectroscop
       sigla: "LOB1018"
       nome: " Física I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -2798,7 +2916,14 @@ LENG, Y. Materials Characterization: Introduction to Microscopic and Spectroscop
       sigla: "LOB1004"
       nome: " Cálculo II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "4"
     EM: "3"
@@ -3041,7 +3166,9 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       sigla: "LOB1053"
       nome: " Física III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EA: "Obrigatórias"
   semestre:
     EF: "4"
     EA: "5"
@@ -3114,7 +3241,9 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       sigla: "LOB1039"
       nome: " Física Experimental III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EA: "Obrigatórias"
   semestre:
     EF: "4"
     EA: "5"
@@ -3188,7 +3317,8 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       sigla: "LOB1053"
       nome: " Física III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -3231,7 +3361,8 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       sigla: "LOB1006"
       nome: " Cálculo IV "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -3269,7 +3400,8 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       sigla: "LOM3260"
       nome: " Computação Científica em Python "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -3303,7 +3435,8 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       sigla: "LOB1006"
       nome: " Cálculo IV "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -3341,7 +3474,8 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       sigla: "LOB1019"
       nome: " Física II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -3375,7 +3509,12 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       sigla: "LOM3257"
       nome: " Mecânica Clássica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EA: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "5"
     EA: "4"
@@ -3477,7 +3616,8 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       sigla: "LOB1052"
       nome: " Cálculo III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -3542,7 +3682,8 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       sigla: "LOM3257"
       nome: " Mecânica Clássica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -3603,7 +3744,8 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       sigla: "LOB1006"
       nome: " Cálculo IV "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -3666,7 +3808,8 @@ KOONIN, S. E. Computational Physics. Benjamin Cummings, 1986."
       sigla: "LOB1019"
       nome: " Física II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -3720,7 +3863,8 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
   nomeascii: " Seminarios em Engenharia Fisica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3243&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -3774,7 +3918,8 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       sigla: "LOM3262"
       nome: " Circuitos Elétricos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -3828,7 +3973,14 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
   nomeascii: " Empreendedorismo e Inovacao"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4234&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Optativas"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "5"
     EM: "4"
@@ -3949,7 +4101,9 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
   nomeascii: " Termodinamica de Maquinas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3049&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
   semestre:
     EF: "6"
     EM: "5"
@@ -4013,7 +4167,8 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       sigla: "LOM3226"
       nome: " Mecânica Quântica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -4055,7 +4210,8 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -4095,7 +4251,8 @@ HAINES, P. J. Principles of Thermal Analysis and Calorimetry, Royal Society of C
       sigla: "LOM3263"
       nome: " Eletrônica Fundamental e Aplicada "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -4140,7 +4297,8 @@ BATEMAN, A.; PATERSON-STEPHENS, I. The DSP Handbook: Algorithms, Applications an
       sigla: "LOM3205"
       nome: " Eletromagnetismo "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -4178,7 +4336,8 @@ BATEMAN, A.; PATERSON-STEPHENS, I. The DSP Handbook: Algorithms, Applications an
       sigla: "LOB1045"
       nome: " Leitura e Produção de Textos Acadêmicos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -4223,7 +4382,8 @@ ANDRADE, M. M. Introdução à Metodologia do Trabalho Científico São Paulo: A
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -4270,7 +4430,8 @@ SCHRAMM, G. Reologia e Reometria. Editora Artliber, 2006."
       sigla: "LOM3263"
       nome: " Eletrônica Fundamental e Aplicada "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -4330,7 +4491,8 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       sigla: "LOM3215"
       nome: " Física do Estado Sólido "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -4384,7 +4546,8 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       sigla: "LOM3227"
       nome: " Métodos Computacionais da Física "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -4439,7 +4602,10 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       sigla: "LOB1012"
       nome: " Estatística "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "7"
     EQD: "9"
@@ -4534,7 +4700,9 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
   nomeascii: " Gestao de Projetos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4257&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EP: "Obrigatórias"
   semestre:
     EF: "7"
     EP: "3"
@@ -4602,7 +4770,8 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       sigla: "LOM3246"
       nome: " Técnicas de Caracterização de Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -4644,7 +4813,8 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       sigla: "LOM3234"
       nome: " Óptica Física "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -4688,7 +4858,8 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
       sigla: "LOM3264"
       nome: " Fundamentos de Controle "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -4722,7 +4893,8 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
       sigla: "LOB1053"
       nome: " Física III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -4756,7 +4928,8 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
       sigla: "LOM3238"
       nome: " Projeto Integrado "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -4813,7 +4986,13 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
       sigla: "LOB1012"
       nome: " Estatística "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Optativas"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "8"
     EM: "9"
@@ -5010,7 +5189,13 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       sigla: "LOB1008"
       nome: " Ciência, Tecnologia e Sociedade "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EB: "Optativas"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "9"
     EM: "8"
@@ -5155,7 +5340,13 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
       sigla: "LOB1008"
       nome: " Ciência, Tecnologia e Sociedade "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
+    EM: "Obrigatórias"
+    EB: "Optativas"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EF: "9"
     EM: "8"
@@ -5361,7 +5552,8 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       sigla: "LOM3267"
       nome: " Trabalho de Graduação I "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -5514,7 +5706,8 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
       sigla: "LOB1019"
       nome: " Física II "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EF: "Obrigatórias"
   semestre:
     EF: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -5567,7 +5760,9 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
   nomeascii: " Computacao e analise de dados em Engenharia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3105&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
+    EM: "Obrigatórias"
   semestre:
     EF: "3"
     EM: "3"
@@ -5626,7 +5821,8 @@ TOLEDO, F.  O que são Recursos Humanos- Primeiros Passos. São Paulo: Brasilien
   nomeascii: " Introducao a Eletronica e Computacao Fisica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3258&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -5667,7 +5863,9 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
       sigla: "LOQ4100"
       nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
+    EM: "Obrigatórias"
   semestre:
     EF: "4"
     EM: "4"
@@ -5702,7 +5900,8 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
       sigla: "LOM3260"
       nome: " Computação Científica em Python "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -5732,7 +5931,9 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
   nomeascii: " Diagrama de Fases"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3005&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
+    EM: "Obrigatórias"
   semestre:
     EF: "5"
     EM: "5"
@@ -5795,7 +5996,9 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
       sigla: "LOM3016"
       nome: " Introdução à  Ciência dos Materiais "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
+    EM: "Obrigatórias"
   semestre:
     EF: "6"
     EM: "4"
@@ -5826,7 +6029,8 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
   nomeascii: " Tecnologias Limpas para Geracao de Energia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3095&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -5860,7 +6064,8 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
       sigla: "LOM3240"
       nome: " Química Inorgânica Fundamental e Aplicada "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -5890,7 +6095,8 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
   nomeascii: " Reologia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3242&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -5923,7 +6129,8 @@ WHITE, J. L. Principles of Polymer Engineering Rheology, New York: John Wiley, 1
   nomeascii: " Topicos Especiais em Engenharia Fisica I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3248&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -5957,7 +6164,8 @@ WHITE, J. L. Principles of Polymer Engineering Rheology, New York: John Wiley, 1
       sigla: "LOM3226"
       nome: " Mecânica Quântica "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -5998,7 +6206,9 @@ Cambridge."
   nomeascii: " Materiais Compositos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3066&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
+    EM: "Obrigatórias"
   semestre:
     EF: "8"
     EM: "8"
@@ -6029,7 +6239,8 @@ Cambridge."
   nomeascii: " Topicos Especiais em Engenharia Fisica II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3249&codcur=88301&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -6063,7 +6274,8 @@ Cambridge."
       sigla: "LOM3223"
       nome: " Materiais e Dispositivos Magnéticos e Supercondutores "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -6099,7 +6311,8 @@ LO, H. K.; POPESCU, S.; SPILLER, T. Introduction to Quantum Computation and Info
       sigla: "LOM3234"
       nome: " Óptica Física "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EF: "Optativas"
   semestre:
     EF: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -6132,7 +6345,8 @@ CREATH, H.; WYANT, J. Measurement of ultraprecision components using non-contact
   nomeascii: " Introducao a Engenharia de Materiais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3018&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -6183,7 +6397,11 @@ CREATH, H.; WYANT, J. Measurement of ultraprecision components using non-contact
   nomeascii: " Engenharia do Meio Ambiente"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1046&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EM: "2"
     EP: "5"
@@ -6297,7 +6515,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOB1036"
       nome: " Geometria Analítica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -6327,7 +6546,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
   nomeascii: " Projeto Integrado em Engenharia de Materiais I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3104&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -6357,7 +6577,12 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
   nomeascii: " Fundamentos de Quimica para Engenharia II-A"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4098&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EM: "2"
     EA: "2"
@@ -6395,7 +6620,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOM3018"
       nome: " Introdução à Engenharia de Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -6452,7 +6678,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOQ4100"
       nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -6511,7 +6738,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOQ4100"
       nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -6564,7 +6792,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
   nomeascii: " Engenharia da Sustentabilidade"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4246&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -6618,7 +6847,13 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOB1053"
       nome: " Física III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EM: "4"
     EA: "5"
@@ -6797,7 +7032,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOM3013"
       nome: " Ciência dos Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -6839,7 +7075,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -6873,7 +7110,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOM3099"
       nome: " Estática "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -6907,7 +7145,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOM3104"
       nome: " Projeto Integrado em Engenharia de Materiais I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -6941,7 +7180,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOM3015"
       nome: " Termodinâmica de Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -6998,7 +7238,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOM3013"
       nome: " Ciência dos Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -7055,7 +7296,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOM3013"
       nome: " Ciência dos Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -7109,7 +7351,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOB1012"
       nome: " Estatística "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -7169,7 +7412,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       sigla: "LOB1019"
       nome: " Física II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -7237,7 +7481,8 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       sigla: "LOM3037"
       nome: " Química Inorgânica "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -7298,7 +7543,8 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       sigla: "LOM3107"
       nome: " Mecânica dos Sólidos Deformáveis "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -7336,7 +7582,8 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       sigla: "LOM3107"
       nome: " Mecânica dos Sólidos Deformáveis "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -7374,7 +7621,8 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       sigla: "LOM3056"
       nome: " Fundamentos de Química Orgânica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -7411,7 +7659,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3113"
       nome: " Tratamentos de Minérios e Hidrometalurgia "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -7441,7 +7690,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
   nomeascii: " Fenomenos de Transporte em Engenharia de Materiais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3083&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -7475,7 +7725,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3081"
       nome: " Introdução à Mecânica dos Sólidos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -7509,7 +7760,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3005"
       nome: " Diagrama de Fases "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -7543,7 +7795,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3013"
       nome: " Ciência dos Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -7573,7 +7826,12 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
   nomeascii: " Gestao de Negocios"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4233&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EM: "6"
     EA: "5"
@@ -7610,7 +7868,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3036"
       nome: " Propriedades Mecânicas "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -7667,7 +7926,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -7721,7 +7981,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3015"
       nome: " Termodinâmica de Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -7775,7 +8036,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3005"
       nome: " Diagrama de Fases "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -7829,7 +8091,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3057"
       nome: " Introdução aos Materiais Poliméricos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -7883,7 +8146,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3085"
       nome: " Laboratório de Engenharia de Materiais I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -7941,7 +8205,8 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       sigla: "LOM3109"
       nome: " Fundamentos da Física Moderna "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -8007,7 +8272,8 @@ edição, 1993.
       sigla: "LOM3108"
       nome: " Projeto Integrado em Engenharia de Materiais II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -8064,7 +8330,8 @@ edição, 1993.
       sigla: "LOM3073"
       nome: " Processamento de Cerâmicas "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -8114,7 +8381,10 @@ edição, 1993.
   nomeascii: " Fundamentos de Engenharia de Seguranca no Trabalho"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1055&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EM: "8"
     EQD: "4"
@@ -8178,7 +8448,8 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       sigla: "LOM3003"
       nome: " Cinética de Transformação em Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -8220,7 +8491,8 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       sigla: "LOM3057"
       nome: " Introdução aos Materiais Poliméricos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -8258,7 +8530,8 @@ Vincoli, J. W.; Risk management for hazardous chemicals. CRC Press  USA:1997. 30
       sigla: "LOM3109"
       nome: " Fundamentos da Física Moderna "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -8300,7 +8573,8 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       sigla: "LOM3057"
       nome: " Introdução aos Materiais Poliméricos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -8334,7 +8608,8 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       sigla: "LOM3003"
       nome: " Cinética de Transformação em Materiais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -8368,7 +8643,8 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       sigla: "LOM3110"
       nome: " Projeto Integrado em Engenharia de Materiais III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -8529,7 +8805,8 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       sigla: "LOM3105"
       nome: " Computação e análise de dados em Engenharia "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EM: "Obrigatórias"
   semestre:
     EM: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -8590,7 +8867,8 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
   nomeascii: " Topicos Especiais em Engenharia de Materiais I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3050&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -8624,7 +8902,8 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       sigla: "LOM3057"
       nome: " Introdução aos Materiais Poliméricos "
       tipo: "Requisito"
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -8670,7 +8949,8 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       sigla: "LOM3046"
       nome: " Técnicas de Análise Microestrutural "
       tipo: "Requisito"
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -8728,7 +9008,8 @@ MF = (Rec+NF)/2"
       sigla: "LOM3107"
       nome: " Mecânica dos Sólidos Deformáveis "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -8758,7 +9039,11 @@ MF = (Rec+NF)/2"
   nomeascii: " Topicos Especiais de Gestao de Negocios"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4235&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
+    EB: "Optativas"
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EM: "9"
     EB: "10"
@@ -8792,7 +9077,9 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
   nomeascii: " Estrutura e Quimica de Materiais Lignocelulosicos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2039&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
+    EB: "Obrigatórias"
   semestre:
     EM: "9"
     EB: "4"
@@ -8834,7 +9121,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       sigla: "LOM3011"
       nome: " Ensaios Mecânicos "
       tipo: "Requisito"
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -8868,7 +9156,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       sigla: "LOM3099"
       nome: " Estática "
       tipo: "Requisito"
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -8902,7 +9191,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       sigla: "LOB1012"
       nome: " Estatística "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -8932,7 +9222,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Aplicacoes Tecnologicas Avancadas de Materiais Polimericos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3115&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -8962,7 +9253,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Analise de Falhas de Materiais e Componentes"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3116&codcur=88202&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -9022,7 +9314,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       sigla: "LOQ4209"
       nome: " Engenharia da Qualidade "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EM: "Optativas"
   semestre:
     EM: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -9055,7 +9348,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Introducao a Engenharia Ambiental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1201&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -9106,7 +9400,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Ecologia Basica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1205&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -9162,7 +9457,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Geologia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1254&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -9218,7 +9514,10 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Fundamentos de Quimica para Engenharia I-A"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4097&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EA: "1"
     EQD: "1"
@@ -9365,7 +9664,9 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Desenho Assistido por Computador"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4247&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EP: "Obrigatórias"
   semestre:
     EA: "1"
     EP: "1"
@@ -9433,7 +9734,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Biologia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2045&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -9489,7 +9791,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Solos I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1206&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -9523,7 +9826,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       sigla: "LOT2045"
       nome: " Biologia "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -9561,7 +9865,12 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       sigla: "LOB1018"
       nome: " Física I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EA: "3"
     EB: "3"
@@ -9793,7 +10102,12 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       sigla: "LOB1036"
       nome: " Geometria Analítica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EA: "3"
     EB: "3"
@@ -9830,7 +10144,8 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       sigla: "LOB1206"
       nome: " Solos I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -9888,7 +10203,11 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
   nomeascii: " Balancos de Massa e Energia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4053&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EA: "3"
     EB: "3"
@@ -10057,7 +10376,8 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -10114,7 +10434,8 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -10152,7 +10473,8 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       sigla: "LOT2046"
       nome: " Microbiologia e Bioquimica Aplicadas "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -10186,7 +10508,9 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       sigla: "LOQ4053"
       nome: " Balanços de Massa e Energia "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EP: "Obrigatórias"
   semestre:
     EA: "4"
     EP: "6"
@@ -10290,7 +10614,11 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       sigla: "LOB1052"
       nome: " Cálculo III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EA: "4"
     EB: "5"
@@ -10469,7 +10797,12 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       sigla: "LOB1039"
       nome: " Física Experimental III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EP: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EA: "5"
     EB: "5"
@@ -10652,7 +10985,8 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       sigla: "LOB1208"
       nome: " Química Analítica Ambiental I "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -10735,7 +11069,8 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
   nomeascii: " Legislacao Ambiental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1221&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -10802,7 +11137,8 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
   nomeascii: " Cartografia e Topografia Aplicadas a Estudos Ambientais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1256&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -10859,7 +11195,8 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       sigla: "LOQ4076"
       nome: " Termodinâmica Aplicada "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -10921,7 +11258,11 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       sigla: "LOQ4083"
       nome: " Fenômenos de Transporte I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EA: "5"
     EB: "6"
@@ -11010,7 +11351,8 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
   nomeascii: " Introducao a Economia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4231&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -11085,7 +11427,8 @@ SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
       sigla: "LOB1206"
       nome: " Solos I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -11124,7 +11467,8 @@ Project Management Institute. PMBok, 2013"
   nomeascii: " Climatologia Aplicada"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1213&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -11158,7 +11502,8 @@ Project Management Institute. PMBok, 2013"
       sigla: "LOB1256"
       nome: " Cartografia e Topografia Aplicadas à Estudos Ambientais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -11192,7 +11537,8 @@ Project Management Institute. PMBok, 2013"
       sigla: "LOB1221"
       nome: " Legislação Ambiental "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -11226,7 +11572,8 @@ Project Management Institute. PMBok, 2013"
       sigla: "LOQ4084"
       nome: " Fenômenos de Transporte II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -11280,7 +11627,8 @@ Project Management Institute. PMBok, 2013"
       sigla: "LOB1012"
       nome: " Estatística "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -11314,7 +11662,10 @@ Project Management Institute. PMBok, 2013"
       sigla: "LOB1212"
       nome: " Química Analítica Ambiental II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EA: "6"
     EQD: "6"
@@ -11421,7 +11772,8 @@ Project Management Institute. PMBok, 2013"
   nomeascii: " Poluicao Atmosferica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1211&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -11480,7 +11832,8 @@ Project Management Institute. PMBok, 2013"
       sigla: "LOB1021"
       nome: " Física IV "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -11564,7 +11917,8 @@ www.aneel.gov.br"
       sigla: "LOB1258"
       nome: " Hidráulica Aplicada "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -11618,7 +11972,8 @@ www.aneel.gov.br"
       sigla: "LOB1210"
       nome: " Solos II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -11677,7 +12032,8 @@ www.aneel.gov.br"
       sigla: "LOB1235"
       nome: " Avaliação de Impactos Ambientais "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -11740,7 +12096,8 @@ www.aneel.gov.br"
       sigla: "LOB1256"
       nome: " Cartografia e Topografia Aplicadas à Estudos Ambientais "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -11791,7 +12148,9 @@ www.aneel.gov.br"
   nomeascii: " Engenharia de Fatores Humanos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1057&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EP: "Obrigatórias"
   semestre:
     EA: "8"
     EP: "8"
@@ -11830,7 +12189,8 @@ www.aneel.gov.br"
       sigla: "LOB1232"
       nome: " Licenciamento Ambiental "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -11860,7 +12220,8 @@ www.aneel.gov.br"
   nomeascii: " Gestao Ambiental na Empresa"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1228&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -11890,7 +12251,8 @@ www.aneel.gov.br"
   nomeascii: " Hidrologia Aplicada"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1255&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -11928,7 +12290,8 @@ www.aneel.gov.br"
       sigla: "LOB1212"
       nome: " Química Analítica Ambiental II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -11962,7 +12325,9 @@ www.aneel.gov.br"
       sigla: "LOT2046"
       nome: " Microbiologia e Bioquimica Aplicadas "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
+    EB: "Obrigatórias"
   semestre:
     EA: "8"
     EB: "6"
@@ -11993,7 +12358,8 @@ www.aneel.gov.br"
   nomeascii: " Recursos Hidricos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1218&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -12160,7 +12526,8 @@ www.aneel.gov.br"
       sigla: "LOQ4095"
       nome: " Química Geral Experimental "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -12214,7 +12581,8 @@ www.aneel.gov.br"
       sigla: "LOB1235"
       nome: " Avaliação de Impactos Ambientais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -12272,7 +12640,8 @@ www.aneel.gov.br"
       sigla: "LOT2035"
       nome: " Tratamento Biológico de Efluentes "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -12330,7 +12699,8 @@ www.aneel.gov.br"
       sigla: "LOB1214"
       nome: " Sistemas de Informações Geográficas "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -12384,7 +12754,8 @@ www.aneel.gov.br"
       sigla: "LOB1223"
       nome: " Trabalho de Graduação I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -12538,7 +12909,8 @@ www.aneel.gov.br"
       sigla: "LOQ4247"
       nome: " Desenho Assistido por Computador "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EA: "Obrigatórias"
   semestre:
     EA: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -12591,7 +12963,8 @@ www.aneel.gov.br"
   nomeascii: " Canto Coral I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=8800009&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -12625,7 +12998,8 @@ www.aneel.gov.br"
       sigla: "8800009"
       nome: " Canto Coral I "
       tipo: "Requisito"
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -12655,7 +13029,8 @@ www.aneel.gov.br"
   nomeascii: " Tecnologia de Mitigacao de CO2"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1252&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -12695,7 +13070,8 @@ Burattini, M. P. T. C., Energia uma abordagem multidisciplinar. Edta LTF, 2009.
       sigla: "8800010"
       nome: " Canto Coral II "
       tipo: "Requisito"
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -12729,7 +13105,8 @@ Burattini, M. P. T. C., Energia uma abordagem multidisciplinar. Edta LTF, 2009.
       sigla: "8800011"
       nome: " Canto Coral III "
       tipo: "Requisito"
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -12759,7 +13136,8 @@ Burattini, M. P. T. C., Energia uma abordagem multidisciplinar. Edta LTF, 2009.
   nomeascii: " Introducao a Inovacao Sistematica com TRIZ"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1251&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -12827,7 +13205,8 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   nomeascii: " Introducao a Ecotoxicologia Aquatica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1259&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -12857,7 +13236,8 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   nomeascii: " Topicos Especiais em Engenharia Ambiental I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1260&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -12887,7 +13267,8 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   nomeascii: " Filosofia da Ciencia e da Tecnologia"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1203&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -12917,7 +13298,8 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   nomeascii: " Topicos Especiais em Engenharia Ambiental II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1261&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -12947,7 +13329,8 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   nomeascii: " Educacao Ambiental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1262&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -12977,7 +13360,8 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   nomeascii: " Introducao a Eco-Inovacao Tecnologica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1263&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -13011,7 +13395,8 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
       sigla: "LOB1056"
       nome: " Introdução aos Métodos Numéricos e Computacionais "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -13041,7 +13426,8 @@ Wu, Tzann-Dwo, The Study of Problem Solving by TRIZ and Taguchi Methodology in A
   nomeascii: " Adequacao Ambiental em Areas Urbanas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1238&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -13074,7 +13460,8 @@ Tucci, C.E., Porto, R.M., L.L. e Barros, M.T. org.. Drenagem Urbana. Ed. da Univ
   nomeascii: " Concepcao e Projeto de Sistemas de Tratamento de Agua"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1239&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -13110,7 +13497,8 @@ PROGRAMA DE PESQUISA EM SANEAMENTO BÁSICO Tratamento de Água de Abastecimento 
   nomeascii: " Estudo de Casos em Impacto Ambiental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1241&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -13140,7 +13528,8 @@ PROGRAMA DE PESQUISA EM SANEAMENTO BÁSICO Tratamento de Água de Abastecimento 
   nomeascii: " Metodos de Investigacao Geologico-geotecnica em Estudos Ambientais"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1243&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -13175,7 +13564,8 @@ VOGELSAND, D. - 1995 - Environmental Geophysics. Springer - Verlag, Berlin, 171p
   nomeascii: " Projeto de Sistemas de Tratamento de Aguas Residuarias"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1245&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -13208,7 +13598,8 @@ Catálogos de fornecedores de materiais e de equipamentos utilizados em sistemas
   nomeascii: " Geossinteticos em Obras de Protecao e Recuperacao Ambiental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1242&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -13243,7 +13634,8 @@ VAN ZATEN, R.V. (1986) Geotextiles and Geomembranes in Civil Engineering. A.A. B
   nomeascii: " Monitoramento Ambiental"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1244&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -13319,7 +13711,8 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
   nomeascii: " Tratamento Avancado e Reuso de Aguas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1246&codcur=88251&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EA: "Optativas"
   semestre:
     EA: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -13393,7 +13786,11 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
   nomeascii: " Leitura e Interpretacao de Desenho Tecnico"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1009&codcur=88152&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
+    EP: "Optativas"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EB: "1"
     EP: "1"
@@ -13510,7 +13907,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
   nomeascii: " Biologia Celular"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2002&codcur=88152&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -13564,7 +13962,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
   nomeascii: " Introducao a Engenharia Bioquimica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2043&codcur=88152&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -13619,7 +14018,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2002"
       nome: " Biologia Celular "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -13653,7 +14053,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2053"
       nome: " Microbiologia "
       tipo: "Indicação de Conjunto"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -13687,7 +14088,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2002"
       nome: " Biologia Celular "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -13721,7 +14123,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -13778,7 +14181,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -13843,7 +14247,10 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOB1004"
       nome: " Cálculo II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EB: "4"
     EQD: "4"
@@ -13945,7 +14352,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2007"
       nome: " Bioquímica I "
       tipo: "Indicação de Conjunto"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -14002,7 +14410,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2059"
       nome: " Química Orgânica Fundamental "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -14037,7 +14446,10 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOQ4087"
       nome: " Termodinâmica Química Aplicada I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EB: "5"
     EQD: "5"
@@ -14165,7 +14577,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2008"
       nome: " Bioquímica II "
       tipo: "Indicação de Conjunto"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -14239,7 +14652,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2007"
       nome: " Bioquímica I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -14296,7 +14710,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2039"
       nome: " Estrutura e Química de Materiais Lignocelulósicos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -14355,7 +14770,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2059"
       nome: " Química Orgânica Fundamental "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -14422,7 +14838,8 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOT2005"
       nome: " Bioquímica Experimental I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -14456,7 +14873,10 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
       sigla: "LOQ4083"
       nome: " Fenômenos de Transporte I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EB: "6"
     EQD: "5"
@@ -14570,7 +14990,8 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       sigla: "LOT2008"
       nome: " Bioquímica II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -14632,7 +15053,8 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       sigla: "LOT2040"
       nome: " Engenharia Genética "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -14666,7 +15088,8 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       sigla: "LOB1012"
       nome: " Estatística "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -14700,7 +15123,10 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       sigla: "LOQ4084"
       nome: " Fenômenos de Transporte II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EB: "7"
     EQD: "6"
@@ -14802,7 +15228,10 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       sigla: "LOQ4084"
       nome: " Fenômenos de Transporte II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EB: "7"
     EQD: "6"
@@ -14865,7 +15294,10 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       sigla: "LOQ4233"
       nome: " Gestão de Negócios "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EB: "7"
     EQD: "9"
@@ -14900,7 +15332,8 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       sigla: "LOT2028"
       nome: " Tecnologia de Processos Fermentativos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -14963,7 +15396,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOT2053"
       nome: " Microbiologia "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -15031,7 +15465,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOT2053"
       nome: " Microbiologia "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -15093,7 +15528,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOT2030"
       nome: " Tecnologia de Conversão de Biomassa Vegetal "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -15127,7 +15563,10 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOQ4054"
       nome: " Fenômenos de Transporte III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EB: "8"
     EQD: "7"
@@ -15228,7 +15667,10 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOQ4086"
       nome: " Operações Unitárias II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EB: "8"
     EQD: "7"
@@ -15349,7 +15791,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOT2013"
       nome: " Engenharia Bioquímica I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -15391,7 +15834,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOQ4086"
       nome: " Operações Unitárias II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -15429,7 +15873,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOT2028"
       nome: " Tecnologia de Processos Fermentativos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -15469,7 +15914,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOT2013"
       nome: " Engenharia Bioquímica I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -15511,7 +15957,8 @@ A média de recuperação (MR) será calculada como: MR=(NF+PR)/2. Serão aprova
       sigla: "LOT2028"
       nome: " Tecnologia de Processos Fermentativos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -15568,7 +16015,8 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       sigla: "LOT2017"
       nome: " Enzimologia "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -15618,7 +16066,8 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       sigla: "LOT2023"
       nome: " Processos Bioquímicos Industriais "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -15673,7 +16122,8 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       sigla: "LOT2013"
       nome: " Engenharia Bioquímica I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -15807,7 +16257,8 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       sigla: "LOQ4100"
       nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -15871,7 +16322,8 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       sigla: "LOT2056"
       nome: " Trabalho de Conclusão de Curso I "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EB: "Obrigatórias"
   semestre:
     EB: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -15925,7 +16377,10 @@ and Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.
       sigla: "LOQ4046"
       nome: " Gestão da Produção e Logística"
       tipo: "Indicação de Conjunto"
-  tipo: "Optativas"
+  tipo:
+    EB: "Optativas"
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EB: "8"
     EQD: "10"
@@ -15958,7 +16413,8 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
   nomeascii: " Tecnologia de Alimentos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2026&codcur=88152&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EB: "Optativas"
   semestre:
     EB: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -15996,7 +16452,8 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
       sigla: "LOT2028"
       nome: " Tecnologia de Processos Fermentativos"
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EB: "Optativas"
   semestre:
     EB: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -16059,7 +16516,8 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
       sigla: "LOT2028"
       nome: " Tecnologia de Processos Fermentativos"
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EB: "Optativas"
   semestre:
     EB: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -16118,7 +16576,8 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
       sigla: "LOT2013"
       nome: " Engenharia Bioquímica I"
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EB: "Optativas"
   semestre:
     EB: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -16148,7 +16607,8 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
   nomeascii: " Introducao a Engenharia de Producao"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4201&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -16207,7 +16667,8 @@ BATALHA, M.O. et al , Introdução à Engenharia de Produção, Rio de Janeiro, 
   nomeascii: " Projeto Integrado de Engenharia de Producao I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4236&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -16269,7 +16730,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Fundamentos de Quimica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4251&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "1"
   unidade: "Escola de Engenharia de Lorena"
@@ -16324,7 +16786,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4201"
       nome: " Introdução à Engenharia de Produção "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -16356,7 +16819,8 @@ Textos complementares serão usados durante o curso."
   nomeascii: " Administracao e Organizacao I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4239&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "2"
   unidade: "Escola de Engenharia de Lorena"
@@ -16386,7 +16850,8 @@ Textos complementares serão usados durante o curso."
   nomeascii: " Sistemas Produtivos II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4205&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -16441,7 +16906,8 @@ Textos complementares serão usados durante o curso."
   nomeascii: " Administracao e Organizacao II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4240&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "3"
   unidade: "Escola de Engenharia de Lorena"
@@ -16500,7 +16966,8 @@ Textos complementares serão usados durante o curso."
       sigla: "LOB1012"
       nome: " Estatística "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -16534,7 +17001,8 @@ Textos complementares serão usados durante o curso."
       sigla: "LOB1003"
       nome: " Cálculo I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -16593,7 +17061,8 @@ Textos complementares serão usados durante o curso."
       sigla: "LOQ4236"
       nome: " Projeto Integrado de Engenharia de Produção I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "4"
   unidade: "Escola de Engenharia de Lorena"
@@ -16647,7 +17116,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOB1012"
       nome: " Estatística "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -16710,7 +17180,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOB1019"
       nome: " Física II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "5"
   unidade: "Escola de Engenharia de Lorena"
@@ -16765,7 +17236,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Processos Industriais I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4253&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -16795,7 +17267,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Inovacao Tecnologica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4255&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -16829,7 +17302,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4206"
       nome: " Pesquisa Operacional I "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -16863,7 +17337,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOB1012"
       nome: " Estatística "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "6"
   unidade: "Escola de Engenharia de Lorena"
@@ -16917,7 +17392,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4204"
       nome: " Economia Geral "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -16971,7 +17447,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4237"
       nome: " Projeto Integrado de Engenharia de Produção II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -17013,7 +17490,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4206"
       nome: " Pesquisa Operacional I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -17068,7 +17546,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Processos Industriais II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4254&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -17101,7 +17580,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4239"
       nome: " Administração e Organização I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -17160,7 +17640,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4258"
       nome: " Pesquisa Operacional II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -17218,7 +17699,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOB1011"
       nome: " Eletricidade Aplicada "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -17248,7 +17730,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Engenharia da Sustentabilidade"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4264&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -17303,7 +17786,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Engenharia Economica e Financas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4222&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -17357,7 +17841,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOB1049"
       nome: " Estatística Multivariada "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -17391,7 +17876,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4261"
       nome: " Planejamento, Programação e Controle da Produção I "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -17425,7 +17911,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOB1049"
       nome: " Estatística Multivariada "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -17455,7 +17942,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Projeto da Fabrica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4272&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -17514,7 +18002,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4206"
       nome: " Pesquisa Operacional I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -17573,7 +18062,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4258"
       nome: " Pesquisa Operacional II "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -17603,7 +18093,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Trabalho de Graduacao em Engenharia de Producao I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4228&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -17657,7 +18148,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4260"
       nome: " Controle Estatístico da Qualidade "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -17687,7 +18179,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Gestao da Tecnologia da Informacao"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4268&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -17721,7 +18214,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4255"
       nome: " Inovação Tecnológica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -17853,7 +18347,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4251"
       nome: " Fundamentos de Química "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -17911,7 +18406,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4261"
       nome: " Planejamento, Programação e Controle da Produção I "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -17976,7 +18472,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4228"
       nome: " Trabalho de Graduação em Engenharia de Produção I "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EP: "Obrigatórias"
   semestre:
     EP: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -18006,7 +18503,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Engenharia de Sistemas"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4274&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EP: "Optativas"
   semestre:
     EP: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -18036,7 +18534,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Topicos Especiais em Engenharia de Producao I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4266&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EP: "Optativas"
   semestre:
     EP: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -18074,7 +18573,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4240"
       nome: " Administração e Organização II "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EP: "Optativas"
   semestre:
     EP: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -18104,7 +18604,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Topicos Especiais em Engenharia de Producao II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4267&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EP: "Optativas"
   semestre:
     EP: "9"
   unidade: "Escola de Engenharia de Lorena"
@@ -18142,7 +18643,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOB1011"
       nome: " Eletricidade Aplicada "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EP: "Optativas"
   semestre:
     EP: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -18172,7 +18674,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Marketing Estrategico"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4248&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EP: "Optativas"
   semestre:
     EP: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -18202,7 +18705,8 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Oficina de Inovacao"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4249&codcur=88352&codhab=4"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EP: "Optativas"
   semestre:
     EP: "10"
   unidade: "Escola de Engenharia de Lorena"
@@ -18232,7 +18736,9 @@ Livros e Artigos científicos relacionados com o tema do projeto."
   nomeascii: " Introducao a  Engenharia  Quimica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4010&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "1"
     EQN: "1"
@@ -18338,7 +18844,9 @@ Livros e Artigos científicos relacionados com o tema do projeto."
       sigla: "LOQ4097"
       nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "3"
     EQN: "4"
@@ -18434,7 +18942,9 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       sigla: "LOQ4097"
       nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "3"
     EQN: "4"
@@ -18514,7 +19024,9 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       sigla: "LOQ4037"
       nome: " Química Orgânica I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "4"
     EQN: "5"
@@ -18604,7 +19116,9 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       sigla: "LOQ4098"
       nome: " Fundamentos de Química para Engenharia II"
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "4"
     EQN: "9"
@@ -18675,7 +19189,9 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
       sigla: "LOQ4083"
       nome: " Fenômenos de Transporte I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "5"
     EQN: "9"
@@ -18783,7 +19299,9 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
       sigla: "LOQ4095"
       nome: " Química Geral Experimental "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "5"
     EQN: "5"
@@ -18933,7 +19451,9 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       sigla: "LOQ4083"
       nome: " Fenômenos de Transporte I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "5"
     EQN: "7"
@@ -19038,7 +19558,9 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       sigla: "LOQ4088"
       nome: " Termodinâmica Química Aplicada II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "6"
     EQN: "7"
@@ -19132,7 +19654,9 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       sigla: "LOQ4009"
       nome: " Instrumentação na Industria Química "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "6"
     EQN: "10"
@@ -19210,7 +19734,9 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       sigla: "LOQ4084"
       nome: " Fenômenos de Transporte II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "6"
     EQN: "8"
@@ -19275,7 +19801,9 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       sigla: "LOQ4038"
       nome: " Química Orgânica II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "6"
     EQN: "7"
@@ -19339,7 +19867,9 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       sigla: "LOQ4082"
       nome: " Corrosão "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "7"
     EQN: "11"
@@ -19474,7 +20004,9 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       sigla: "LOQ4003"
       nome: " Cinética Química Aplicada "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "7"
     EQN: "8"
@@ -19563,7 +20095,9 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       sigla: "LOQ4086"
       nome: " Operações Unitárias II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "7"
     EQN: "8"
@@ -19638,7 +20172,9 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
       sigla: "LOQ4055"
       nome: " Quimica Inorgânica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "8"
     EQN: "9"
@@ -19698,7 +20234,9 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
       sigla: "LOQ4038"
       nome: " Química Orgânica II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "8"
     EQN: "9"
@@ -19769,7 +20307,9 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
       sigla: "LOQ4004"
       nome: " Controle de Processos Químicos "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "8"
     EQN: "11"
@@ -19868,7 +20408,9 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
       sigla: "LOQ4064"
       nome: " Engenharia de Processos Quimicos I "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "8"
     EQN: "10"
@@ -19927,7 +20469,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOQ4057"
       nome: " Operações Unitárias III "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "8"
     EQN: "10"
@@ -19987,7 +20531,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOT2004"
       nome: " Bioquímica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "8"
     EQN: "9"
@@ -20052,7 +20598,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOQ4038"
       nome: " Química Orgânica II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "9"
     EQN: "10"
@@ -20108,7 +20656,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   nomeascii: " Trabalho de Conclusao de Curso I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4047&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "9"
     EQN: "11"
@@ -20172,7 +20722,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOQ4086"
       nome: " Operações Unitárias II "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "9"
     EQN: "11"
@@ -20262,7 +20814,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOT2041"
       nome: " Engenharia Bioquímica "
       tipo: "Requisito fraco"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "9"
     EQN: "10"
@@ -20322,7 +20876,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOQ4047"
       nome: " Trabalho de Conclusão de Curso I "
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "10"
     EQN: "12"
@@ -20490,7 +21046,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       sigla: "LOQ4097"
       nome: " Fundamentos de Química para Engenharia I"
       tipo: "Requisito"
-  tipo: "Obrigatórias"
+  tipo:
+    EQD: "Obrigatórias"
+    EQN: "Obrigatórias"
   semestre:
     EQD: "10"
     EQN: "12"
@@ -20557,7 +21115,9 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   nomeascii: " Projeto Integrador em Engenharia Quimica I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4091&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EQD: "2"
     EQN: "2"
@@ -20610,7 +21170,9 @@ CREMASCO, Marco Aurélio. Engenharia química. Ed. Edgard Blucher, 2005."
   nomeascii: " Ecoeficiencia na Industria"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4092&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EQD: "3"
     EQN: "3"
@@ -20653,7 +21215,9 @@ Nota Final Mínima para Aprovação = 5,0"
   nomeascii: " Fenomenos de Superficie e Eletroquimica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4058&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EQD: "5"
     EQN: "8"
@@ -20693,7 +21257,9 @@ Média final mínima de aprovação = 5,0"
       sigla: "LOB1018"
       nome: " Física I "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EQD: "5"
     EQN: "5"
@@ -20728,7 +21294,9 @@ Média final mínima de aprovação = 5,0"
       sigla: "LOQ4055"
       nome: " Quimica Inorgânica "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EQD: "6"
     EQN: "6"
@@ -20759,7 +21327,8 @@ Média final mínima de aprovação = 5,0"
   nomeascii: " Projetos Especiais em Engenharia I"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=8800008&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
   semestre:
     EQD: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -20826,7 +21395,8 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
   nomeascii: " Projetos Especiais em Gestao da Inovacao"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=8800014&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
   semestre:
     EQD: "7"
   unidade: "Escola de Engenharia de Lorena"
@@ -20856,7 +21426,8 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
   nomeascii: " Projetos Especiais em Engenharia II"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=8800013&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
   semestre:
     EQD: "8"
   unidade: "Escola de Engenharia de Lorena"
@@ -20916,7 +21487,9 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
       sigla: "LOQ4057"
       nome: " Operações Unitárias III "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EQD: "9"
     EQN: "11"
@@ -20983,7 +21556,9 @@ f)Revista Petro & Química."
       sigla: "LOQ4084"
       nome: " Fenômenos de Transporte II "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EQD: "10"
     EQN: "12"
@@ -21014,7 +21589,9 @@ f)Revista Petro & Química."
   nomeascii: " Topicos Especiais de Gestao da Qualidade"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4071&codcur=88052&codhab=0"
   requisitos:
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EQD: "10"
     EQN: "12"
@@ -21050,7 +21627,9 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
       sigla: "LOQ4057"
       nome: " Operações Unitárias III "
       tipo: "Requisito fraco"
-  tipo: "Optativas"
+  tipo:
+    EQD: "Optativas"
+    EQN: "Optativas"
   semestre:
     EQD: "12"
     EQN: "12"

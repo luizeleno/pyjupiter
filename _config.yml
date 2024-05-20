@@ -28,7 +28,6 @@ gems:
 - jekyll-octicons
 
 page_gen:
-
 - data: 'disciplinas'
   template: 'disciplina-page'
   name: 'sigla'

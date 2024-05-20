@@ -9,8 +9,8 @@ EP = 'EP', '352', '4'
 EQD = 'EQD', '052', '0'
 EQN = 'EQN', '052', '4'
 
-# for curso, codigo, hab in [EF, EM, EA, EB, EP, EQD, EQN]:
-for curso, codigo, hab in [EF, EM]:
+for curso, codigo, hab in [EF, EM, EA, EB, EP, EQD, EQN]:
+# for curso, codigo, hab in [EF, EM]:
     URL = f'https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&codcur=88{codigo}&codhab={hab}&tipo=N'
     print(f"\n#######################\n{curso}#######################\n")
 
@@ -20,5 +20,5 @@ for curso, codigo, hab in [EF, EM]:
         # rc.recursive_print_dict(dados, f)
 
     with open(f'{curso}.json', 'w') as f:
-        json.dump(dados, f)
+        json.dump(dados, f, indent=0)
     

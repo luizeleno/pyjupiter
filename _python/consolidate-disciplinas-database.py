@@ -4,6 +4,7 @@ import recursive_print_dict as rpd
 curso_yaml = open('cursos.yml', 'w')
 
 cursos = ['EF', 'EM', 'EA', 'EB', 'EP', 'EQD', 'EQN']
+# cursos = ['EF', 'EM']
 
 disciplinas = {}
 
@@ -19,15 +20,16 @@ for curso in cursos:
         data[key]['semestre'] = {}
         data[key]['semestre'][curso] = sem
 
+        tipo = data[key]['tipo']
+        data[key]['tipo'] = {}
+        data[key]['tipo'][curso] = tipo
+
         if key in disciplinas:
             ''' disciplina já adicionada, portanto
                 data[key]['semestre'] já é dicionário
             '''
-            '''
-               TO DO: os tipos dos requisitos podem ser diferentes
-               em cursos diferentes! Preciso acertar isso
-            '''
-            disciplinas[key]['semestre'][curso] = sem 
+            disciplinas[key]['semestre'][curso] = sem
+            disciplinas[key]['tipo'][curso] = tipo
         else:
             disciplinas[key] = data[key]
         
