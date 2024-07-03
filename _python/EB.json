@@ -29,7 +29,70 @@
 "docentes": [
 "5840692 - Diovana Aparecida dos Santos Napole\u00e3o"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242T1": {
+"C\u00f3digo da Turma": "20242T1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  08:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "7",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "7",
+"Inscritos": "7",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "7",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "7",
+"Inscritos": "7",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "7",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "12",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "13",
+"Inscritos": "8",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1009": {
 "sigla": "LOB1009",
@@ -127,7 +190,176 @@
 "5983729 - Fernando Vernilli Junior",
 "7459752 - Maria Ismenia Sodero Toledo Faria"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  16:00 ",
+"prof": "(R) Fernando Vernilli Junior "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "54",
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D2": {
+"C\u00f3digo da Turma": "20242D2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": "Daniela Camargo Vernilli "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "29",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "54",
+"Inscritos": "29",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242P3": {
+"C\u00f3digo da Turma": "20242P3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  21:00  23:00 ",
+"prof": "Priscila Alves da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "53",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4100": {
 "sigla": "LOQ4100",
@@ -269,7 +501,198 @@
 "docentes": [
 "8822123 - Roberta Veloso Garcia"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A2": {
+"C\u00f3digo da Turma": "20242A2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  16:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "25",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "60",
+"Inscritos": "25",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242BD": {
+"C\u00f3digo da Turma": "20242BD",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  16:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  14:00  16:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "30",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "40",
+"Inscritos": "15",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "20",
+"Inscritos": "15",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  16:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  14:00  16:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "43",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "43",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242FM": {
+"C\u00f3digo da Turma": "20242FM",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  16:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "49",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "30",
+"Inscritos": "23",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "30",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N3": {
+"C\u00f3digo da Turma": "20242N3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "61",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "60",
+"Inscritos": "61",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242PN": {
+"C\u00f3digo da Turma": "20242PN",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " sex  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "56",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "40",
+"Inscritos": "30",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "20",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1018": {
 "sigla": "LOB1018",
@@ -301,7 +724,126 @@
 "docentes": [
 "8711686 - Flavia Reis Cardoso Rojas"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A2": {
+"C\u00f3digo da Turma": "20242A2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "60",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242B3": {
+"C\u00f3digo da Turma": "20242B3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  10:00  12:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "41",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "41",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N1": {
+"C\u00f3digo da Turma": "20242N1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "70",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "60",
+"Inscritos": "70",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242PN": {
+"C\u00f3digo da Turma": "20242PN",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "63",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "40",
+"Inscritos": "43",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "20",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1037": {
 "sigla": "LOB1037",
@@ -339,7 +881,204 @@
 "docentes": [
 "3682251 - Gabrielle Weber Martins"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A2": {
+"C\u00f3digo da Turma": "20242A2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  16:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  14:00  16:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "30",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "60",
+"Inscritos": "30",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242BD": {
+"C\u00f3digo da Turma": "20242BD",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  16:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "59",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "40",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "20",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  16:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "40",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "40",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242FM": {
+"C\u00f3digo da Turma": "20242FM",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  16:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  14:00  16:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "50",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "30",
+"Inscritos": "23",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "30",
+"Inscritos": "27",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N3": {
+"C\u00f3digo da Turma": "20242N3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "70",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "60",
+"Inscritos": "70",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242PN": {
+"C\u00f3digo da Turma": "20242PN",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "44",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "39",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "1",
+"Inscritos": "11",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "20",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1038": {
 "sigla": "LOB1038",
@@ -371,7 +1110,139 @@
 "docentes": [
 "9149242 - Fernando Catalani"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A5": {
+"C\u00f3digo da Turma": "20242A5",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "25",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "40",
+"Inscritos": "25",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "40",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "40",
+"Inscritos": "40",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N2": {
+"C\u00f3digo da Turma": "20242N2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  21:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "29",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "40",
+"Inscritos": "29",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N3": {
+"C\u00f3digo da Turma": "20242N3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " qua  19:00  21:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "43",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "40",
+"Inscritos": "43",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242P4": {
+"C\u00f3digo da Turma": "20242P4",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  21:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "40",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4095": {
 "sigla": "LOQ4095",
@@ -410,7 +1281,216 @@
 "5817330 - Larissa de Freitas",
 "6310296 - Patr\u00edcia Caroline Molgero Da R\u00f3s"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A3": {
+"C\u00f3digo da Turma": "20242A3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  10:00  12:00 ",
+"prof": "D\u00e9bora Souza Alvim "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "40",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242B6": {
+"C\u00f3digo da Turma": "20242B6",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qui  08:00  10:00 ",
+"prof": "Livia Melo Carneiro "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "41",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "40",
+"Inscritos": "41",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  08:00  10:00 ",
+"prof": "Livia Melo Carneiro "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "27",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "40",
+"Inscritos": "27",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D2": {
+"C\u00f3digo da Turma": "20242D2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  10:00  12:00 ",
+"prof": "Maria L\u00facia Caetano Pinto da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "35",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "40",
+"Inscritos": "35",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242F5": {
+"C\u00f3digo da Turma": "20242F5",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  16:00 ",
+"prof": "Antonio Aar\u00e3o Serra "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "40",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242M4": {
+"C\u00f3digo da Turma": "20242M4",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  08:00  10:00 ",
+"prof": "H\u00e9lcio Jos\u00e9 Iz\u00e1rio Filho "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "24",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "40",
+"Inscritos": "24",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N7": {
+"C\u00f3digo da Turma": "20242N7",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  19:00  21:00 ",
+"prof": "Isabel Cristina Coelho Calegao "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "35",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "40",
+"Inscritos": "35",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N8": {
+"C\u00f3digo da Turma": "20242N8",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  21:00  23:00 ",
+"prof": "Isabel Cristina Coelho Calegao "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "40",
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4098": {
 "sigla": "LOQ4098",
@@ -449,7 +1529,186 @@
 "5817330 - Larissa de Freitas",
 "1506103 - Pedro Carlos de Oliveira"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A2": {
+"C\u00f3digo da Turma": "20242A2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  16:00 ",
+"prof": "D\u00e9bora Souza Alvim "
+},
+"h1": {
+"horario": " qua  14:00  16:00 ",
+"prof": "D\u00e9bora Souza Alvim "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "22",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "60",
+"Inscritos": "22",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242BD": {
+"C\u00f3digo da Turma": "20242BD",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  16:00 ",
+"prof": "Livia Melo Carneiro "
+},
+"h1": {
+"horario": " qua  14:00  16:00 ",
+"prof": "Livia Melo Carneiro "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "73",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "40",
+"Inscritos": "44",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "20",
+"Inscritos": "29",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": "(R) Larissa de Freitas "
+},
+"h1": {
+"horario": " qua  16:00  18:00 ",
+"prof": "(R) Larissa de Freitas "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "44",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "44",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242M3": {
+"C\u00f3digo da Turma": "20242M3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": "Eliane Corr\u00eaa Pedrozo "
+},
+"h1": {
+"horario": " qua  16:00  18:00 ",
+"prof": "Eliane Corr\u00eaa Pedrozo "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "60",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N4": {
+"C\u00f3digo da Turma": "20242N4",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " sex  19:00  23:00 ",
+"prof": "Patr\u00edcia Caroline Molgero Da R\u00f3s "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "54",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "60",
+"Inscritos": "54",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N5": {
+"C\u00f3digo da Turma": "20242N5",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  23:00 ",
+"prof": "Eliane Corr\u00eaa Pedrozo "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "60",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2040": {
 "sigla": "LOT2040",
@@ -471,7 +1730,7 @@
 "objectives": "",
 "abstract": "Introduction to Genetics\u037e Structure and Replication of DNA; Transcription, Translation and the Genetic Code; Mutation and DNA Repair; Regulation of Gene Expression; Genomics and Bioinformatics; The Techniques and Applications of Molecular Genetics",
 "program": "1. Introduction to Genetics Science.2. Nucleotides and Structure of DNA3. Genes and Chromosomes4. DNA replication5. Transcription and RNA processing6. The Genetic Code and Translation7. DNA cloning8. Genomics9. Bioinformatics10. Regulation of Gene Expression11. Transposable Genetic Elements12. Mutation, DNA Repair, and Recombination13. Techniques and Applications of Molecular Genetics",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -485,9 +1744,41 @@
 "exame": "NF = (MF + PR)/2, onde PR \u00e9 uma prova de recupera\u00e7\u00e3o.Prova de Recupera\u00e7\u00e3o (PR) para alunos com M\u00e9dia Final (MF) maior ou igual a 3,0 e menor do que 5,0. Ser\u00e1 considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maior do que 5,0.",
 "bibliografia": "- Fundamentos de Gen\u00e9tica. Peter Snustad e Michael Simmons (2013 Sexta Edi\u00e7\u00e3o). Editora Guanabara Koogan- Principles of Genetics. Dr. Peter Snustad and Michael Simmons (2016 7th Edition). John Wiley and Sons- Gen\u00e9tica: Um enfoque conceitual. Benjamin Pierce (2016 \u2013 Quinta Edi\u00e7\u00e3o). Editora Guanabara Koogan.- Genetics: A Conceptual Approach. Benjamin Pierce (2016 \u2013 Sixth Edition). W.H. Freeman and Company.- Introdu\u00e7\u00e3o \u00e0 gen\u00e9tica. Lewontin, Griffiths, Carroll e Wessler. (2013 \u2013 D\u00e9cima Edi\u00e7\u00e3o). Guanabara Koogan.- An Introduction to Genetic Analysis. Anthony Griffiths, Susan Wessler, Sean Carroll, and John Doebley (2015 Eleventh Edition). W. H. Freeman",
 "docentes": [
-"8711290 - Elisson Ant\u00f4nio da Costa Romanel"
+"8711290 - Elisson Ant\u00f4nio da Costa Romanel",
+"8853480 - Tatiane da Franca Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": "(R) Elisson Ant\u00f4nio da Costa Romanel "
+},
+"h1": {
+"horario": " qua  16:00  17:00 ",
+"prof": "(R) Elisson Ant\u00f4nio da Costa Romanel "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "43",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "43",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2050": {
 "sigla": "LOT2050",
@@ -523,10 +1814,71 @@
 "exame": "NF = (MF + PR)/2, onde PR \u00e9 uma prova de recupera\u00e7\u00e3o.Prova de Recupera\u00e7\u00e3o (PR) para alunos com M\u00e9dia Final (MF) maior ou igual a 3,0 e menor do que 5,0. Ser\u00e1 considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maior do que 5,0",
 "bibliografia": "1.BARBOSA, H.R; TORRES, B.B. Microbiologia B\u00e1sica. S\u00e3o Paulo, Atheneu, 2006. 2.MADIGAN, M.T., MARTINKO, J.M., PARKER, I. Microbiologia de Brock. S\u00e3o Paulo: Prentice Hall, 20043.OKRA, M.H., RENDE, J.C. Microbiologia: Roteiros de aulas pr\u00e1ticas, S\u00e3o Paulo: Tecmed, 2008.4.VERMELHO, A.B., PEREIRA, A.F., COELHO, R.R.R., SOUTO-PADRON, T. Pr\u00e1ticas de Microbiologia, Rio de Janeiro: Guanabara-Koogan, 2006.",
 "docentes": [
-"5840685 - Maria Bernadete de Medeiros",
+"1304060 - Maria das Gra\u00e7as de Almeida Felipe",
 "8853480 - Tatiane da Franca Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  10:00  12:00 ",
+"prof": "(R) Tatiane da Franca Silva "
+},
+"h1": {
+"horario": " sex  10:00  12:00 ",
+"prof": "(R) Tatiane da Franca Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "20",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "20",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242B2": {
+"C\u00f3digo da Turma": "20242B2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  08:00  10:00 ",
+"prof": "(R) Tatiane da Franca Silva "
+},
+"h1": {
+"horario": " sex  08:00  10:00 ",
+"prof": "(R) Tatiane da Franca Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "20",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "20",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2053": {
 "sigla": "LOT2053",
@@ -563,9 +1915,36 @@
 "bibliografia": "1. PELCZAR Jr, M.J., CHAN, S.S., KRIEG, N.R. Microbiologia conceitos e aplica\u00e7\u00f5es, 2 ed. (Vol 1), S\u00e3o Paulo: Pearson Education do Brasil, 1997.2. MADIGAN, M.T., MARTINKO, J.M., PARKER, I. Microbiologia de Brock. S\u00e3o Paulo: Prentice Hall, 2004.3. BARBOSA, H.R., TORRES, B.B. Microbiologia B\u00e1sica, Rio de Janeiro: Atheneu, 2005.4. VERMELHO A.B., FREIRE, M.C., BRANQUINHO, M.H. Bacteorologia Geral, Rio de Janeiro: GuanabaraKoogan, 2008.5. TORTORA, G.J., FUNKE, B.R., CASE, C.L. Microbiologia, Artmed, Porto Alegre, RS, 2012.",
 "docentes": [
 "4873328 - Fernando Segato",
-"5840685 - Maria Bernadete de Medeiros"
+"8853480 - Tatiane da Franca Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " sex  19:00  22:00 ",
+"prof": "(R) Fernando Segato "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "24",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "24",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1012": {
 "sigla": "LOB1012",
@@ -603,7 +1982,106 @@
 "docentes": [
 "4894221 - Mariana Pereira de Melo"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242FA": {
+"C\u00f3digo da Turma": "20242FA",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  16:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "45",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "30",
+"Inscritos": "25",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "30",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N1": {
+"C\u00f3digo da Turma": "20242N1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "37",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "53",
+"Inscritos": "37",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1019": {
 "sigla": "LOB1019",
@@ -646,7 +2124,140 @@
 "docentes": [
 "8711623 - Denize Kalempa"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "53",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D2": {
+"C\u00f3digo da Turma": "20242D2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  10:00  12:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "61",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "61",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242FM": {
+"C\u00f3digo da Turma": "20242FM",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "40",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "30",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "30",
+"Inscritos": "23",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1024": {
 "sigla": "LOB1024",
@@ -687,7 +2298,7 @@
 "exame": "(NF+RC)/2 \u2265 5,0, onde RC \u00e9 uma prova de recupera\u00e7\u00e3o a ser aplicada.",
 "bibliografia": "1. BEER, Ferdinand Pierre, ; JOHNSTON, E. Russel.; Eisenberg, Elliot R., Mec\u00e2nica vetorial para engenheiros: Est\u00e1tica.  Mc Graw Hill (2011).2. HIBBELER, R.C. Mec\u00e2nica para engenharia, Vol. 1: est\u00e1tica, Pearson Prentice Hall (2005).3. MERIAM J. L. ; KRAIGE, L. G., Mec\u00e2nica, est\u00e1tica, Livros T\u00e9cnicos e Cient\u00edficos Editora (2004).",
 "docentes": [
-"5840650 - Jana\u00edna Ferreira Batista"
+"8711623 - Denize Kalempa"
 ],
 "oferecimento": {}
 },
@@ -727,7 +2338,70 @@
 "docentes": [
 "6270264 - Juan Fernando Zapata Zapata"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242T1": {
+"C\u00f3digo da Turma": "20242T1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  08:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "60",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "7",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "7",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "7",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "7",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "7",
+"Inscritos": "11",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "12",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "13",
+"Inscritos": "16",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1056": {
 "sigla": "LOB1056",
@@ -802,7 +2476,96 @@
 "docentes": [
 "5817045 - Elis\u00e2ngela de Jesus C\u00e2ndido Moraes"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  14:00  16:00 ",
+"prof": "(R) Elis\u00e2ngela de Jesus C\u00e2ndido Moraes "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "56",
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D2": {
+"C\u00f3digo da Turma": "20242D2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  16:00  18:00 ",
+"prof": "(R) Elis\u00e2ngela de Jesus C\u00e2ndido Moraes "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "56",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2036": {
 "sigla": "LOT2036",
@@ -824,7 +2587,7 @@
 "objectives": "",
 "abstract": "Chemical bonds and molecular structure; Molecular orbitals and the O2 and N2 molecules; Acid/base as related to quelating agents; Metallic ion complexes - crystal field theory; Transport in biological systems. Oxygen transport and electron transfer in biological systems; Acid/base and oxi-redox in metallo-proteins",
 "program": "1. Chemical bonds and molecular structure: Valence bond theory, structure of compounds containing C, N and O, correlation of chemical structure with physical-chemical properties.2. Molecular orbitals and the O2 and N2 molecules: Limitations of the valence bond theory, varied reactivity of O2 and N2 molecules, relevance of O2 in biological systems, reactive oxygen species3. Acid/base as related to quelating agents: Bases and transition metallic ions, chemical equilibrium in biological systems4. Metallic ion complexes - crystal field theory: Crystal field theory describing octahedral and tetrahedral compounds, transition metal ions in biological systems5.Transport in biological systems: Oxygen transport and electron transfer mediated by metallo-proteins6. Acid/base and oxi-redox in metallo-proteins: Zn2+ proteins, peroxidases, oxidases",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -838,7 +2601,8 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova escrita (PR) e a m\u00e9dia de recupera\u00e7\u00e3o (MR) calculada pela f\u00f3rmula: MR = (NF + PR)/2",
 "bibliografia": "1. Atkins e Jones, Princ\u00edpios de Qu\u00edmica, 5a edi\u00e7\u00e3o, Bookman, 20112. Shiver e Atikins, Qu\u00edmica Inorg\u00e2nica, 4a edi\u00e7\u00e3o, Bookman, 2008",
 "docentes": [
-"2143261 - Andr\u00e9 Luis Ferraz"
+"2143261 - Andr\u00e9 Luis Ferraz",
+"5111420 - Talita Martins Lacerda"
 ],
 "oferecimento": {}
 },
@@ -876,8 +2640,8 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova escrita (PR) e a m\u00e9dia de recupera\u00e7\u00e3o (MR) calculada pela f\u00f3rmula: MR = (NF + PR)/2",
 "bibliografia": "SOLOMONS, T.W.G., FRYHLE, C.B. Qu\u00edmica Org\u00e2nica 1 e 2. 10\u00aa Edi\u00e7\u00e3o, Rio de Janeiro, LTC Editora, 2012.BRUICE, P. Y. Qu\u00edmica Org\u00e2nica, vol 1 e 2, S\u00e3o Paulo, Pearson Prentice Hall, 2006.ALLINGER, N.L. Qu\u00edmica Org\u00e2nica, 2\u00aa Edi\u00e7\u00e3o, Rio de Janeiro, Guanabara Dois, 1976.",
 "docentes": [
-"2143261 - Andr\u00e9 Luis Ferraz",
-"3380737 - Fl\u00e1vio Teixeira da Silva"
+"3380737 - Fl\u00e1vio Teixeira da Silva",
+"5111420 - Talita Martins Lacerda"
 ],
 "oferecimento": {}
 },
@@ -922,7 +2686,349 @@
 "docentes": [
 "6270264 - Juan Fernando Zapata Zapata"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242AM": {
+"C\u00f3digo da Turma": "20242AM",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  16:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  14:00  16:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "30",
+"Inscritos": "9",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "30",
+"Inscritos": "4",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242BD": {
+"C\u00f3digo da Turma": "20242BD",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  16:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "41",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "34",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "20",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242CI": {
+"C\u00f3digo da Turma": "20242CI",
+"In\u00edcio": "03/07/2024",
+"Fim": "28/07/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  18:00 ",
+"prof": "(R) Juan Fernando Zapata Zapata "
+},
+"h1": {
+"horario": " ter  14:00  18:00 ",
+"prof": "(R) Juan Fernando Zapata Zapata "
+},
+"h2": {
+"horario": " qua  14:00  18:00 ",
+"prof": "(R) Juan Fernando Zapata Zapata "
+},
+"h3": {
+"horario": " qui  14:00  18:00 ",
+"prof": "(R) Juan Fernando Zapata Zapata "
+},
+"h4": {
+"horario": " sex  14:00  18:00 ",
+"prof": "(R) Juan Fernando Zapata Zapata "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "61",
+"Inscritos": "61",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "7",
+"Inscritos": "7",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "6",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "12",
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "14",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "18",
+"Inscritos": "18",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  16:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "53",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N2": {
+"C\u00f3digo da Turma": "20242N2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "53",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242PN": {
+"C\u00f3digo da Turma": "20242PN",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "50",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "40",
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "20",
+"Inscritos": "18",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1039": {
 "sigla": "LOB1039",
@@ -960,7 +3066,282 @@
 "docentes": [
 "3268262 - Carlos Renato Menegatti"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A1": {
+"C\u00f3digo da Turma": "20242A1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qui  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "32",
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242B2": {
+"C\u00f3digo da Turma": "20242B2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "32",
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N3": {
+"C\u00f3digo da Turma": "20242N3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " sex  21:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "8",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "33",
+"Inscritos": "8",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N4": {
+"C\u00f3digo da Turma": "20242N4",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " sex  19:00  21:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "19",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "33",
+"Inscritos": "19",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242P5": {
+"C\u00f3digo da Turma": "20242P5",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  21:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "40",
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1053": {
 "sigla": "LOB1053",
@@ -1003,7 +3384,234 @@
 "docentes": [
 "2342277 - Bertha Mar\u00eda Cuadros Melgar"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A1": {
+"C\u00f3digo da Turma": "20242A1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  10:00  12:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "52",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242B2": {
+"C\u00f3digo da Turma": "20242B2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "52",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N3": {
+"C\u00f3digo da Turma": "20242N3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "22",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "53",
+"Inscritos": "22",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242PN": {
+"C\u00f3digo da Turma": "20242PN",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  19:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "31",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "40",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "20",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4087": {
 "sigla": "LOQ4087",
@@ -1053,7 +3661,80 @@
 "1488970 - Marivone Nunho Sousa",
 "8554681 - Pedro Felipe Arce Castillo"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242BD": {
+"C\u00f3digo da Turma": "20242BD",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  16:00 ",
+"prof": "(R) Carlos Alberto Moreira dos Santos "
+},
+"h1": {
+"horario": " qua  14:00  16:00 ",
+"prof": "(R) Carlos Alberto Moreira dos Santos "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "39",
+"Inscritos": "25",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "19",
+"Inscritos": "8",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": "(R) Marivone Nunho Sousa "
+},
+"h1": {
+"horario": " qua  16:00  18:00 ",
+"prof": "(R) Marivone Nunho Sousa "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "50",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "50",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4233": {
 "sigla": "LOQ4233",
@@ -1085,7 +3766,58 @@
 "docentes": [
 "849935 - Humberto Felipe da Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242BM": {
+"C\u00f3digo da Turma": "20242BM",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  14:00  16:00 ",
+"prof": "Lucio Garcia Veraldo Junior "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "24",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "28",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "27",
+"Inscritos": "11",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2005": {
 "sigla": "LOT2005",
@@ -1107,7 +3839,7 @@
 "objectives": "",
 "abstract": "Buffer solutions, amino acids (reaction with ninhydrin, light absorption spectra of the amino acids and titration curve), paper chromatography of amino acid and sugars, proteins (separation and characterization), enzymes (effect of time and temperature; substrate concentration and inhibition), dosage of reducing sugars and starch characterization.",
 "program": "1.Buffer solutions: titration of weak acids: the Henderson  Hasselbalch Equation.\n2.Amino acids: reaction with ninhydrin and titration curve; reactions for alpha-amino acids with ninhydrin; amino acids and titration curves amphoteric properties; Demonstration that pI is the average of the pKa values of the carboxylic acid and amino groups; titration in the presence of formaldehyde and effect on the pks.\n3.Scanning spectrophotometry: selection of the optimal wavelength for photometric dosages; absorbance and concentration; amino acids absorption spectrum. \n4.Paper chromatography of amino acids and sugars: selection of solvent, relative solubility of the sample components between the two phases, Rf determination; mechanism of the mono and two-dimensional paper chromatography. \n5.Proteins: separation and characterization; Determination of protein concentration: Biuret test; proteins solubility as function of pH and ionic strength.\n6.Enzymes: analysis of time and temperature.\n7.Mechanism of enzymatic action:  Determination of initial reaction rates and principal kinetic parameters,  temperature influence, application of Arrhenius equation, concept of activation energy (curve graphic analysis).\n8.Enzymes: substrate concentration. Enzyme inhibition mechanisms; substrate concentration influence: testing Michaelis-Menten equation, significance of km and Kcat; influence of competitive inhibitor on enzymatic kinetics; practical characterization of competitive inhibition and determination of inhibition constant.\n9.Dosage of reducing sugars and starch characterization; testing the standard curve of reducing sugars by the 3,5-dinytrosalicylicacid method; reaction of starch with iodine.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "2",
 "CT": "0",
 "CH": "30 h",
@@ -1121,9 +3853,64 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de prova escrita (PR) e a m\u00e9dia final (MF) ser\u00e1 calculada pela equa\u00e7\u00e3o: MF = (NF + PR)/2.",
 "bibliografia": "1. VOET, D., VOET, J. G., PRATT, C.W. Fundamentos de Bioqu\u00edmica, Porto Alegre: Editora Artmed, 2000.\n2. LEHNINGER, A.L.; NELSON, O.L.; COX, M.M. Princ\u00edpios de bioqu\u00edmica, 5 ed. Porto Alegre: Artmed editora, 2011.\n3. COHN, E.E., STUMPF, P.K. Introdu\u00e7\u00e3o \u00e0 Bioqu\u00edmica, S\u00e3o Paulo: Editora Edgard Blucher Ltda, 1963.\n4. SEGEL, I.H. Bioqu\u00edmica Teoria e Problemas, S\u00e3o Paulo: Livros t\u00e9cnicos e Cient\u00edficos Editora S.A, 1979.\n5. ARA\u00daJO, J.M. Qu\u00edmica de Alimentos - Teoria e Pr\u00e1tica, Vi\u00e7osa: Editora UFV, 2004",
 "docentes": [
-"427823 - Adriane Maria Ferreira Milagres"
+"427823 - Adriane Maria Ferreira Milagres",
+"5082401 - Andr\u00e9 Moreni Lopes"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " seg  10:00  12:00 ",
+"prof": "(R) Adriane Maria Ferreira Milagres "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "20",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "20",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242B2": {
+"C\u00f3digo da Turma": "20242B2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": "(R) Adriane Maria Ferreira Milagres "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "20",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "20",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2007": {
 "sigla": "LOT2007",
@@ -1150,7 +3937,7 @@
 "objectives": "",
 "abstract": "1.Acids and bases/Buffer solutions; 2. Amino acids; 3. Proteins: The primary level of protein structure; 4. Proteins: The three-dimensional structure; 5. Protein Function; 6. Enzymes: Biological catalysts; 7. The kinetics of enzymatic catalysis; 8. Carbohydrates; 9. Lipids; 10. Membranes and cellular transport; 11. Nucleic acids.",
 "program": "1.Acid-bases chemistry/Buffers: dissociation constant, titration curves, buffering capacity. Ionisation equilibria of acids and bases in aqueous solutions2.Amino acids: structure of the amino acids, properties of amino acids side chains, classes and nomenclature, acid-bases properties, stereochemistry, Modified amino acids.3.Proteins: primary structure, peptides and the peptide bond. Protein purification, solubility, chromatography, electrophoresis. Proteins sequences.4.Proteins: three-dimensional structure. Secondary structure, tertiary structure, quaternary structure. Dynamics of protein structure:  folding and stability.5.Protein Function: oxygen-binding proteins: myoglobin and hemoglobin, immunoglobulins.6.Enzymes: Biological catalysis. Nomenclature and classification of enzymes, specificity of the substrates, co-factors and co-enzymes. Energy of activation and coordinator of reaction. Progress curves. Effect of temperature and pH on the rate of enzymatic activity. 7.Enzymatic kinetics, inhibition and regulation: Effect of the substrate concentration on the rate of enzymatic reactions. Enzyme Inhibition. Reversible inhibition. Models of competitive, non-competitive and simple competitive inhibition. Allosteric regulation.8.Carbohydrates: Monosaccharides, stereoisomerism, classification, configuration and conformation. Derivatives of monosaccharides, oligosaccharides, structural polysaccharides: cellulose and chitin, storage polysaccharides: starch and glycogen, Glycoconjugates: Proteoglycans, Glycoproteins, and Glycolipids.9.Lipids: Classification, fatty acids, triacylglycerols, waxes, glycerophospholipids, esphingolipids, cholesterol.10.Biological membranes. Proteins in membranes: integral and peripheral, the fluid mosaic models, the asymmetry of membranes, transport across membranes: the thermodynamics of transport, passive and active transport.11.Nucleotides and nucleic acids: structure and function of nucleotides. Primary structure of nucleic acids, nucleic acid sequencing, restriction endonucleases. Genome sequency. DNA amplification by the polymerase chain reaction.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -1164,9 +3951,41 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova escrita (PR) e a m\u00e9dia de recupera\u00e7\u00e3o (MR) calculada pela f\u00f3rmula: MR = (NF + PR)/2",
 "bibliografia": "1. M. Cox, Michael; Nelson, David L.Princ\u00edpios de Bioqu\u00edmica de Lehninger - Editora Artmed 6\u00aa Ed. 2014\n2. Voet, D., Voet, J. G., Pratt, C.W. Fundamentos de Bioqu\u00edmica:a vida em nivel molecular  Editora Artmed, 2014",
 "docentes": [
-"427823 - Adriane Maria Ferreira Milagres"
+"427823 - Adriane Maria Ferreira Milagres",
+"5082401 - Andr\u00e9 Moreni Lopes"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  16:00 ",
+"prof": "(R) Adriane Maria Ferreira Milagres "
+},
+"h1": {
+"horario": " qua  16:00  17:00 ",
+"prof": "(R) Adriane Maria Ferreira Milagres "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2039": {
 "sigla": "LOT2039",
@@ -1188,7 +4007,7 @@
 "objectives": "",
 "abstract": "Structure and ultrastructure of lignocellulosic materials, cellulose, hemicelluloses, other polyoses, lignin, extractives and bark composition. Reactions in acid and alkaline media. Composition and chemical analysis of woods.",
 "program": "1.Structure and ultrastructure of lignocellulosic materials: anatomic aspects. Ultrastructure of cell wall; functional elements of conductor system.2.Cellulose: occurrence; molecular properties; constitution and configuration; cellulose in solution, chain length, molar mass, hydrogen bridges; supramolecular structure; crystalline structure; fibrillar structure.3.Hemicellulose and other polyoses: nature and classification; xylan of wood of hardwoods and conifers; xylan of other plants; supramolecular structure; mannans of wood of hardwoods and conifers; other mannans; glucan; galactan and pectin.4.Lignin: significance and occurrence; cell lignification; synthesis of monomeric unities; formation of the lignin macromolecule; aspects of decomposition of cell wall; structure and constitution; models and heterogeneity; characterization and proprieties, chemical composition and molar mass; behavior at UV and infra-red; lignin-carbohydrates complexes.5.Extractives: importance; extractives of woods of hardwoods and conifers; terpenes, fat, wax, phenols, tannins, flavonoids, etc.; inorganic compounds.6.Bark composition: anatomy; chemical composition; general analysis; cellulose; polyoses, lignin, polyphenols, suberin and extractives; inorganic compounds.7.Reactions in acid medium: general aspects, reactions of polysaccharides, hydrolysis, dehydration, oxidation; reactions of lignin; solvolysis.8.Reactions in alkaline medium: reaction of polysaccharides, hydrolysis, oxidative degradation, sugar hydrogenation; lignin reactions; selective and soft oxidative degradation; hydrogenolysis.9.Chemical composition and analysis of wood: kinds of compounds; macromolecules and low molar mass substances; wood analysis, sampling and determination of inorganics and extractives; preparation of holocellulose; isolation and determination of cellulose, polyoses and lignin.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -1202,9 +4021,37 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova (PR) para alunos que tenham NF maior ou igual a 3,0 e menor do que 5,0. A nota de recupera\u00e7\u00e3o (NR) ser\u00e1 calculada pela m\u00e9dia simples entre a nota final (NF) e a prova de recupera\u00e7\u00e3o (PR). Ser\u00e1 considerado aprovado o aluno com NR maior ou igual a 5,0",
 "bibliografia": "1. LEWIN, M., GOLDSTEIN, I.S. Wood. Structure and Composition, New York: Marcel Dekker, 1991.\n2. FENGEL, D., WEGENER, G. Wood. Chemistry, Ultrastructure, Reactions, Berlin: Walter de Gruyter, 1989.\n3. HON, D.N.-S. Chemical Modification of Lignocellulosic Materials, New York: Marcel Dekker, 1996.\n4. EK, M., GELLERSTEDT, G., HENRIKSSON G. Wood Chemistry and Wood Biotechnology (Volume 1); Pulping Chemistry and Technology (Volume 2). Berlin: Walter de Gruyter, 2009.",
 "docentes": [
+"2143261 - Andr\u00e9 Luis Ferraz",
 "3380737 - Fl\u00e1vio Teixeira da Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  08:00  11:00 ",
+"prof": "(R) Fl\u00e1vio Teixeira da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1011": {
 "sigla": "LOB1011",
@@ -1242,7 +4089,176 @@
 "docentes": [
 "3268262 - Carlos Renato Menegatti"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "54",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242DM": {
+"C\u00f3digo da Turma": "20242DM",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "37",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "35",
+"Inscritos": "4",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "20",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242P2": {
+"C\u00f3digo da Turma": "20242P2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  21:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "11",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "53",
+"Inscritos": "11",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1040": {
 "sigla": "LOB1040",
@@ -1280,7 +4296,34 @@
 "docentes": [
 "230696 - Carlos Jos\u00e9 Todero Peixoto"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242P1": {
+"C\u00f3digo da Turma": "20242P1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " ter  19:00  21:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "40",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4083": {
 "sigla": "LOQ4083",
@@ -1323,7 +4366,92 @@
 "docentes": [
 "5816812 - Jo\u00e3o Paulo Alves Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A2": {
+"C\u00f3digo da Turma": "20242A2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": "Lucr\u00e9cio F\u00e1bio dos Santos "
+},
+"h1": {
+"horario": " qua  16:00  18:00 ",
+"prof": "Lucr\u00e9cio F\u00e1bio dos Santos "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "54",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  16:00 ",
+"prof": "Lucr\u00e9cio F\u00e1bio dos Santos "
+},
+"h1": {
+"horario": " qua  14:00  16:00 ",
+"prof": "Lucr\u00e9cio F\u00e1bio dos Santos "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "59",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "59",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4088": {
 "sigla": "LOQ4088",
@@ -1362,7 +4490,50 @@
 "6279110 - Carlos Alberto Moreira dos Santos",
 "8554681 - Pedro Felipe Arce Castillo"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242N1": {
+"C\u00f3digo da Turma": "20242N1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  21:00  23:00 ",
+"prof": "(R) Pedro Felipe Arce Castillo "
+},
+"h1": {
+"horario": " qui  21:00  23:00 ",
+"prof": "(R) Pedro Felipe Arce Castillo "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "47",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "57",
+"Inscritos": "47",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4209": {
 "sigla": "LOQ4209",
@@ -1400,7 +4571,108 @@
 "docentes": [
 "5840535 - Messias Borges Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242F1": {
+"C\u00f3digo da Turma": "20242F1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  14:00  16:00 ",
+"prof": "Jos\u00e9 Eduardo Holler Branco "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "3",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "39",
+"Inscritos": "3",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N2": {
+"C\u00f3digo da Turma": "20242N2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  21:00  23:00 ",
+"prof": "Humberto Felipe da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "27",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "55",
+"Inscritos": "27",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2006": {
 "sigla": "LOT2006",
@@ -1422,7 +4694,7 @@
 "objectives": "",
 "abstract": ".General properties of glycides; anaerobic fermentation\u037e chlorophyll extraction and Hill reaction\u037e biological oxidation;  glycides transportation and enzyme induction.",
 "program": "General proprieties of glycides: main qualitative tests for identification and differentiation of glycides; important reactions and spectrophotometric dosage of reducing monosaccharides.Anaerobic fermentation: general concepts and glucoseFermentation; ethanol and CO2 production; consumption of carbon source; calculation of the process efficiency; action of inhibitor of glycolysis.Chlorophyll extraction andHill reaction: structure of chloroplasts, chlorophyll role in the photosystems I and II; dark phase and light phase; NADP production; dye role as an acceptor ofprotons and electrons. Glycides transportation and enzyme induction: general concepts; enzymes of galactose catabolism; catabolic repression, inactivation and modification; constitutive and induced enzymatic systems in yeast cells.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "2",
 "CT": "0",
 "CH": "30 h",
@@ -1436,6 +4708,7 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova escrita (PR) e a m\u00e9dia de recupera\u00e7\u00e3o (MR) ser\u00e1 calculada pela f\u00f3rmula: MR = (NF + PR)/2",
 "bibliografia": "CISTERNAS, J. R. Fundamentos de bioqu\u00edmica experimental. S\u00e3o Paulo : Atheneu, 2005. ISBN: 9788573791075.NELSON, D. L., COX. M. M. Princ\u00edpios de bioqu\u00edmica de Lehninger. Porto Alegre : Artmed, 2011. ISBN: 9788536324180.VOET, D., VOET, J. G. Bioqu\u00edmica. Porto Alegre : Artmed, 2013. ISBN: 9788582710043.",
 "docentes": [
+"5082401 - Andr\u00e9 Moreni Lopes",
 "6007846 - J\u00falio C\u00e9sar dos Santos"
 ],
 "oferecimento": {}
@@ -1460,7 +4733,7 @@
 "objectives": "",
 "abstract": "Introduction to metabolism. Bioenergetics. Biological oxidations. Glycides transport  metabolism,  photosynthesis,  lipid metabolism, metabolism of nitrogenous compounds: amino acids, integration and control of metabolic processes, vital cycles: oxygen, carbon, nitrogen and sulfur.",
 "program": "Introduction to metabolism. Proteins, polysaccharides, lipids.: catabolic and anabolic pathways. Bioenergetics. The direction of processes: free energy: reaction with the balance constant and with redox potential. Exergonic processes. Role of phosphate: potential of transference of phosphate group. Role of ATP as a free energy currency. Biological oxidations. Electron and proton transporters coenzymes: nucleotides, flavin nucleotides, coenzyme Q. Pyridine and flavin nucleotides- dehydrogenase dependent. Oxidases.Structure of mitochondrial membrane. Respiratory chain: function. Oxidative phosphorylation. Transport. Composition of biological membranes: chemical constitution, characterization, barrier, permeability. Carriers and canal ionophores. Transportation: mediated and non-mediated. Glycides  metabolism. Anaerobic and aerobic degradation of glycides: glycolysis  localization of enzymes, reactions, NaDH.H+ production, the first substrt level phosphorylation, energetic balance; Citric acid cycle  localization of operating enzymes, reactions, production of reduced coenzymes, energetic balance. the pentose phosphate pathway: localization of the enzymes, reactions (oxidative and non-oxidative phases), NaDH.H+ production (physiological implication). Fermentation: definition, fermentation and respiration, raw-materials used in the starch and sugar fermentations, metabolic fates of pyruvate: ethanol and lactic metabolism, acetic and citric. Photosynthesis. Chloroplasts structure. The light reactions. Role of the chlorophyll in the photosynthesis. Cyclic and non-cyclic phosphorylation. NADP reduction. Water photolysis. Synthesis of the acceptor of CO2, Ru-1, 5-diP. Calvin cycle. Lipids  metabolism. Beta-oxidation pathways, oxidation of fatty acids with odd-numbered carbon chains, energetic balance of beta-oxidation, alpha-oxidation and w-oxidation.  Glycerol metabolism. Formation of ketone bodies. Biosynthesis of fatty acids. Amino acids  catabolic pathways. Digestion of proteins, aspects of amino acid synthesis and degradation.Transamination, urea cycle. Metabolic integration. Common metabolites to the metabolism of glycides, lipids and amino acids. Vital cycles: oxygen, carbon, nitrogen and sulfur. Carbon and oxygen cycles. Nitrogen cycle: biological fixation, nitrification, use of nitrate, incorporation of ammonia in organic compounds. Sulfur cycle: sulfate assimilation.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -1474,7 +4747,8 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova escrita (PR) e a m\u00e9dia de recupera\u00e7\u00e3o (MR) calculada pela f\u00f3rmula: MR = (NF + PR)/2",
 "bibliografia": "1.Nelson, D.L.; Cox, M.M. Lehninger Principles of Biochemistry. Third Edition, Worth Publisher, New York, 20002.Voet, D; Voet, J G.; Pratt, C.W. Fundamentos de Bioqu\u00edmica. Editora ARTMED, Porto Alegre, 20003.Stryer, L. Biochemistry. W.H. Freeman Company, New York, 19884.Jain, M.K. Introduction to Biological Membranes. John Wiley & Sons Inc., New York, 1988",
 "docentes": [
-"5840494 - Maria Eleonora Andrade de Carvalho"
+"7516317 - Anuj Kumar",
+"1304060 - Maria das Gra\u00e7as de Almeida Felipe"
 ],
 "oferecimento": {}
 },
@@ -1498,7 +4772,7 @@
 "objectives": "",
 "abstract": "The discipline deals with a number of industrial processes that are used in the fractionating and in the conversion of lignified biomass in elaborate products such as pulp and paper, cellulose derivatives, charcoal and monomeric sugars.",
 "program": "1.Brief introduction about the availability of biomass: kinds of lignified biomass, forestry, agricultural residues, cellular characteristics, chemical composition.2.Production of pulp and paper: world market of pulp and paper, mechanical, kraft and sulfite pulping processes; pulp bleaching; recovery of inorganics and generation of energy; methods of process control, physical-chemical characteristics and methods of paper production.3.Production of cellulose derivatives: alkali cellulose, cellulose nitrate, xanthate of cellulose and viscose production, cellulose acetate, carboxymethyl cellulose, ethyl and propyl cellulose, stretching of cellulosic chain with epoxides.4.Thermo-conversion and vegetal charcoal production; wood drying and dimensional stabilization, thermomechanical processes and fiberboard production; energy from vegetal biomass.5.Production of sugars and derivatives by acid hydrolysis and processes of pretreatment for cell wall disruption.6.Integrated processes for biomass conversion: modern industries that apply the integrated use of vegetal biomass in the biorefinery concept.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -1512,7 +4786,8 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova escrita (PR) e a m\u00e9dia de recupera\u00e7\u00e3o (MR) ser\u00e1 calculada como MR=(NF=PR)/2",
 "bibliografia": "1. EK, M., GELLERSTEDT, G., HENRIKSSON, G. Wood Chemistry and Wood Biotechnology (Vol 1) e Pulping Chemistry and Technology (Vol 2). Berlin: Walter de Gruyter, 2009.\n2. KLEMM, D., PHILIPP, B., HEINZE, T., HEINZE, U., WAGENKNECHT, U. Comprehensive Cellulose Chemistry (Volume 2-Functionalization of Cellulose). Berlin: Wyley, 1998.\n3. FENGEL, D., WEGENER, G. Wood Chemistry, Ultrastruture, Reactions. Berlin: Walter de Gruyter,1989.",
 "docentes": [
-"2143261 - Andr\u00e9 Luis Ferraz"
+"2143261 - Andr\u00e9 Luis Ferraz",
+"5111420 - Talita Martins Lacerda"
 ],
 "oferecimento": {}
 },
@@ -1536,7 +4811,7 @@
 "objectives": "",
 "abstract": "",
 "program": "",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "2",
 "CT": "0",
 "CH": "30 h",
@@ -1550,7 +4825,8 @@
 "exame": "Ser\u00e1 aplicada uma nova avalia\u00e7\u00e3o aos alunos com notas finais situadas no intervalo de 3 a 4,9. A nota final do aluno ser\u00e1 a m\u00e9dia aritm\u00e9tica desta avalia\u00e7\u00e3o com a anteriormente obtida, estando aprovados os alunos que tiverem nota final igual ou superior a 5.",
 "bibliografia": "Eloisa B. Mano; Introdu\u00e7\u00e3o a Pol\u00edmeros, Editora Edgard Bl\u00fccherLtda, S\u00e3o Paulo, 1999.Elizabete F. Lucas, Bluma G. Soares, Elisabeth E. C. Monteiro; Caracteriza\u00e7\u00e3o de pol\u00edmeros: determina\u00e7\u00e3oo de peso molecular e an\u00e1lise t\u00e9rmica. E-papers Servi\u00e7os Editoriais Ltda, Rio de Janeiro, 2001.Fred J. Davis; PolymerChemistry: a practical approach. Oxford University Press Inc., New York, 2004.George Odian; Principles of Polymerization.John Wiley and Sons, New Jersey, 2004.Mohamed N. Belgacem, Alessandro Gandini; Monomers, polymers and composites from renewable resources.ElsevierLtda, Amsterdam, 2008.",
 "docentes": [
-"5111420 - Talita Martins Lacerda"
+"5111420 - Talita Martins Lacerda",
+"5817181 - Valdeir Arantes"
 ],
 "oferecimento": {}
 },
@@ -1598,7 +4874,34 @@
 "exame": "Uma prova escrita de recupera\u00e7\u00e3o (PR) ser\u00e1 aplicada a alunos com m\u00e9dia final (MF) maior ou igual a 3,0 e menor do que 5,0. Ap\u00f3s a recupera\u00e7\u00e3o, a nota final (NF) ser\u00e1 calculada pela m\u00e9dia aritm\u00e9tica dos valores de MF e PR. Ser\u00e1 considerado aprovado o aluno que obtiver Nota Final (NF) igual ou maior do que 5,0.",
 "bibliografia": "- D. Harvey. Modern Analytical Chemistry. The McGraw-Hill Companies, 2000.- A. Manz, N. Pamme, D. Iossifidis, Bioanalytical Chemistry, Imperial College London, 2004.- D. A. Skoog, D. M. West, F. J. Holler, S. R. Crouch, Fundamentos de Qu\u00edmica Anal\u00edtica. Cengage Learning; 3\u00aa Ed., 2023. - D. C. Harris, An\u00e1lise Qu\u00edmica Quantitativa. LTC; 9\u00aa Ed., 2017.- D. Pavia, G. Lampman, G. Kriz, J. Vyvyan, Introdu\u00e7\u00e3o \u00e0 espectroscopia. Cengage Learning, 2\u00aa Ed., 2015.- O. Sala, Fundamentos da Espectroscopia Raman e no Infravermelho. Editora Unesp; 2\u00aa Ed., 2011. - N. P. Lopes, R. R. Silva (Eds.), Mass Spectrometry in Chemical Biology: Evolving Applications. The Royal Society of Chemistry, 2018.- B. Sleumer, I. P. Kema, N. C. van de Merbel. Quantitative bioanalysis of proteins by digestion and LC\u2013MS/MS: the use of multiple signature peptides. Bioanalysis 15: 1203\u20131216, 2023.",
 "docentes": [],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " sex  08:00  12:00 ",
+"prof": "Talita Martins Lacerda "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4084": {
 "sigla": "LOQ4084",
@@ -1646,7 +4949,116 @@
 "docentes": [
 "6666306 - Daniela Helena Pelegrine Guimar\u00e3es"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242BN": {
+"C\u00f3digo da Turma": "20242BN",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  16:00 ",
+"prof": "(R) Daniela Helena Pelegrine Guimar\u00e3es "
+},
+"h1": {
+"horario": " qui  14:00  16:00 ",
+"prof": "(R) Daniela Helena Pelegrine Guimar\u00e3es "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "36",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "20",
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N1": {
+"C\u00f3digo da Turma": "20242N1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  21:00  23:00 ",
+"prof": "(R) Daniela Helena Pelegrine Guimar\u00e3es "
+},
+"h1": {
+"horario": " qui  19:00  21:00 ",
+"prof": "(R) Daniela Helena Pelegrine Guimar\u00e3es "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "55",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4085": {
 "sigla": "LOQ4085",
@@ -1684,7 +5096,92 @@
 "docentes": [
 "8151869 - Livia Chaguri e Carvalho"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242BN": {
+"C\u00f3digo da Turma": "20242BN",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  16:00 ",
+"prof": "(R) Livia Chaguri e Carvalho "
+},
+"h1": {
+"horario": " qua  14:00  16:00 ",
+"prof": "(R) Livia Chaguri e Carvalho "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "25",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "38",
+"Inscritos": "15",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "20",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N1": {
+"C\u00f3digo da Turma": "20242N1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  21:00 ",
+"prof": "Antonio Carlos da Silva "
+},
+"h1": {
+"horario": " qua  19:00  21:00 ",
+"prof": "Antonio Carlos da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "57",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2028": {
 "sigla": "LOT2028",
@@ -1711,7 +5208,7 @@
 "objectives": "",
 "abstract": "Biotechnology (field of applications); fermentative processes; biochemistry of the fermentations (metabolic pathways of industrial interest); fermentative processes of industrial interest",
 "program": "1.Biotechnology: concepts, application areas, multidisciplinary characteristic and examples of biotechnological products and processes.2.Fermentative processes: concept, enzymatic and fermentative processes, steps of fermentative process (downstream x upstream). Fermentative process modalities: a) batch and fed-batch fermentation, semi continuous and, continuous processes; b) induced and spontaneous fermentation;  c) semi solid fermentation;  d) oxygen supply; e) submerged and in surface processes; f) kinetics of the product formation in relation to the primary metabolism according to Gaden.3.Biochemistry of the fermentation: Fermentation \u2013 concepts, objectives, aerobic x anaerobic metabolisms; energy balance; preliminary steps of fermentation (extracellular hydrolysis and membrane permeability); metabolic pathways of industrial interest: a) EMP pathway; reactions and  allosteric control; alcoholic fermentation, homolactic fermentation, acetone/butanol, mixed-acid and 2,3 butanediol; b) Fosfo-Ketolase pathway; heterolactic fermentation and c) Entner Doudoroff pathway: alcoholic fermentation by Zymmonas mobilis. Fermentation balance: % recovered carbon and oxi-redox balance; Evaluation parameters of a fermentative process: yield, fermentation efficiency and productivity. Processes of interest: cocoa processing, ethanol production, fermented food and others.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -1725,9 +5222,37 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova escrita (PR) e a m\u00e9dia de recupera\u00e7\u00e3o (MR) calculada pela f\u00f3rmula: MR = (NF + PR)/2",
 "bibliografia": "1. AMERINE, M.A, OUGH,C.S., Methods for analysis of musts and wines. New York: John Wiley & Sons, 1980. \n2. AMORIM, H.V., Fermenta\u00e7\u00e3o Alco\u00f3lica ci\u00eancia e tecnologia. Piracicaba: Fermentec, 2006.\n3. BORZANI, W., SCHMIDELL, W., LIMA, U.A., AQUARONE, E. S\u00e9rie de Biotecnologia Vol. 1  Fundamentos e Vol. 4 Processos Fermentativos e Enzim\u00e1ticos. S\u00e3o Paulo: Ed.Edgard Blucher, 2001.\n4. EL-MANSI, E.M.T., BRYCE, C.E.A., DEMAIN, A.L., ALLMAN,A.R. Fermentation Microbiology and Biotechnology. 2\u00aa Ed. New York: CRC Taylor & Francis, 2007.",
 "docentes": [
-"3403572 - Ismael Maciel de Mancilha"
+"3403572 - Ismael Maciel de Mancilha",
+"1814052 - Silvio Silverio da Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  08:00  11:00 ",
+"prof": "(R) Ismael Maciel de Mancilha "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2035": {
 "sigla": "LOT2035",
@@ -1749,7 +5274,7 @@
 "objectives": "",
 "abstract": "Introduction, Characteristics of residual waters, impact of the effluents release in the receiving bodies, Preliminary treatments, Biological treatments, Combined treatments.",
 "program": "Introduction: Water pollution; Principles of the microbiology of the treatment of effluents; Ecology of the wastes treatment. Characteristics of residual waters: main parameters and characteristics; Characterization of the substrate and solids; Methods of detection of biotoxicity; Impact of the effluents release in the receiving bodies: pollution by organic matter and depuration; contamination by pathogenic microorganisms; eutrophication of the water bodies. Preliminary treatments: grating, shakers, sedimentation, filtration, flocculation. Biological treatments: systems of stabilization ponds; systems of activated sludge; aerobic systems with biofilms; anaerobic systems, systems of soil placement. Combined treatments: chemical-biological treatments(POAs); physical-biological treatment.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -1763,9 +5288,75 @@
 "exame": "Aos alunos que obtiverem m\u00e9dia igual ou maior que 3,0 e menor que 5,0 ser\u00e1 oferecido um programa de recupera\u00e7\u00e3o que ser\u00e1 avaliado por uma prova final. Nesse caso, a m\u00e9dia final do aluno ser\u00e1: M\u00e9dia final = (m\u00e9dia do per\u00edodo letivo normal + nota prova final)/2.Ser\u00e3o aprovados os alunos que obtiverem m\u00e9dia final igual ou maior que 5,0.",
 "bibliografia": "1. VON SPERLING, M. Lagoas de estabiliza\u00e7\u00e3o - Princ\u00edpios do tratamento biol\u00f3gico de \u00e1guas residu\u00e1rias. V. 3. - Belo Horizonte: Departamento de Engenharia Sanit\u00e1ria e Ambiental; Universidade Federal de Minas Gerais; 1996.2. VON SPERLING, M. Lodos ativados - Princ\u00edpios do tratamento biol\u00f3gico de \u00e1guas residu\u00e1rias. V. 4. - Belo Horizonte: Departamento de Engenharia Sanit\u00e1ria e Ambiental; Universidade Federal de Minas Gerais; 1997.3. CHERNICHARO, C.A.L. Reatores anaer\u00f3bios - Princ\u00edpios do tratamento biol\u00f3gico de \u00e1guas residu\u00e1rias. V. 5. - Belo Horizonte: Departamento de Engenharia Sanit\u00e1ria e Ambiental; Universidade Federal de Minas Gerais; 1997.4. ANDREOLI, C.V.; VON SPERLING, M; FERNANDES, F. Lodo de esgotos: tratamento e disposi\u00e7\u00e3o final - Princ\u00edpios do tratamento biol\u00f3gico de \u00e1guas residu\u00e1rias. V. 6. - Belo Horizonte: Departamento de Engenharia Sanit\u00e1ria e Ambiental; Universidade Federal de Minas Gerais; 2001. 5.SANTOS FILHO, D.F. Tecnologia de Tratamento de \u00c1gua. Nobel-S\u00e3o Paulo,6.BRITTON, G. Wastewater Microbiology. Wiley-Liss Editions, 1994.7.CAVALCANTI, B. Manual de Tratamento de \u00c1guas Residu\u00e1rias Industriais. CETESB, 1979.8.VON SPERLING, M. Introdu\u00e7\u00e3o \u00e0 qualidade das \u00e1guas e ao tratamento de esgotos - Princ\u00edpios do tratamento biol\u00f3gico de \u00e1guas residu\u00e1rias. V. 1, 2 ed. - Belo Horizonte: Departamento de Engenharia Sanit\u00e1ria e Ambiental; Universidade Federal de Minas Gerais; 1996.9. VON SPERLING, M. Princ\u00edpios b\u00e1sicos de tratamento de esgotos - Princ\u00edpios do tratamento biol\u00f3gico de \u00e1guas residu\u00e1rias. V. 2 - Belo Horizonte: Departamento de Engenharia Sanit\u00e1ria e Ambiental; Universidade Federal de Minas Gerais; 1996.\"",
 "docentes": [
+"5840639 - Fl\u00e1vio Jos\u00e9 da Silva",
 "1720367 - Teresa Cristina Brazil de Paiva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A1": {
+"C\u00f3digo da Turma": "20242A1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  14:00  17:00 ",
+"prof": "(R) Teresa Cristina Brazil de Paiva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "36",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "58",
+"Inscritos": "36",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  08:00  11:00 ",
+"prof": "(R) Teresa Cristina Brazil de Paiva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "29",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "58",
+"Inscritos": "29",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2054": {
 "sigla": "LOT2054",
@@ -1787,7 +5378,7 @@
 "objectives": "",
 "abstract": "Introduction to occupational health and safety;Technical knowledge and legal aspects in biosafety; Biosafety risk to the worker, the community, and the environment;",
 "program": "Work safety management and strategies for prevention and risks control in the workplace. Regulatory norms;Assessment of biological, chemical and radiological hazard in biotechnology procedure;Handling and disposal of contaminated waste;Biosafety level criteria and Biosecurity regulations; Regulation of genetically modified organism and its products;Biosafety in laboratory animal handling;Principles of Bioethics;Case studies;",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "2",
 "CT": "0",
 "CH": "30 h",
@@ -1801,9 +5392,37 @@
 "exame": "NF = (MF + PR)/2, onde PR \u00e9 uma prova de recupera\u00e7\u00e3o.Prova de Recupera\u00e7\u00e3o (PR) para alunos com M\u00e9dia Final (MF) maior ou igual a 3,0 e menor doque 5,0. Ser\u00e1 considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maior do que 5,0.",
 "bibliografia": "1- ABIQUIM . C\u00f3digo de sa\u00fade e seguran\u00e7a do trabalhadorguia de implanta\u00e7\u00e3o.ABIQUIM, 1994. 2- Gon\u00e7alves, L. B. Gest\u00e3o de seguran\u00e7a e medicina do trabalho normas regulamentadoras e fator acident\u00e1rio de preven\u00e7\u00e3o. Cenofisco, 2011.3- Paoleschi, B. Guia Pr\u00e1tico de Seguran\u00e7a do Trabalho. \u00c9rica, 2009.4- Bisnfeld, P. C. Biosseguran\u00e7a em Biotecnologia. Interci\u00eancia, 2004.5- Teixeira. P. e Valle, E. Biosseguran\u00e7a: uma abordagem multidisciplinar, 2002.6- Biosafety in Microbiological and Biomedical Laboratories, 5 ed. U.S. Health Department, 2013.8- Biosecurity, 1ed, 2013.",
 "docentes": [
+"8711290 - Elisson Ant\u00f4nio da Costa Romanel",
 "8853480 - Tatiane da Franca Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": "(R) Tatiane da Franca Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2058": {
 "sigla": "LOT2058",
@@ -1842,7 +5461,34 @@
 "3444370 - Rita de C\u00e1ssia Lacerda Brambilla Rodrigues",
 "5817181 - Valdeir Arantes"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  16:00  18:00 ",
+"prof": "(R) Valdeir Arantes "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4054": {
 "sigla": "LOQ4054",
@@ -1880,7 +5526,92 @@
 "docentes": [
 "5840841 - Gilberto Garcia Cortez"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": "(R) Gilberto Garcia Cortez "
+},
+"h1": {
+"horario": " qua  16:00  18:00 ",
+"prof": "(R) Gilberto Garcia Cortez "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "57",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D2": {
+"C\u00f3digo da Turma": "20242D2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  16:00 ",
+"prof": "(R) Gilberto Garcia Cortez "
+},
+"h1": {
+"horario": " qua  14:00  16:00 ",
+"prof": "(R) Gilberto Garcia Cortez "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "9",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "57",
+"Inscritos": "9",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4086": {
 "sigla": "LOQ4086",
@@ -1919,7 +5650,92 @@
 "8151869 - Livia Chaguri e Carvalho",
 "5817372 - Simone de F\u00e1tima Medeiros Sampaio"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242D1": {
+"C\u00f3digo da Turma": "20242D1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": "(R) Simone de F\u00e1tima Medeiros Sampaio "
+},
+"h1": {
+"horario": " qui  16:00  18:00 ",
+"prof": "(R) Simone de F\u00e1tima Medeiros Sampaio "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "8",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "57",
+"Inscritos": "8",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242D2": {
+"C\u00f3digo da Turma": "20242D2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  10:00  12:00 ",
+"prof": "(R) Livia Chaguri e Carvalho "
+},
+"h1": {
+"horario": " sex  10:00  12:00 ",
+"prof": "(R) Livia Chaguri e Carvalho "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "57",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4250": {
 "sigla": "LOQ4250",
@@ -1957,7 +5773,93 @@
 "docentes": [
 "5840560 - Marco Antonio Carvalho Pereira"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242CI": {
+"C\u00f3digo da Turma": "20242CI",
+"In\u00edcio": "03/07/2024",
+"Fim": "28/07/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  22:00 ",
+"prof": "Humberto Felipe da Silva "
+},
+"h1": {
+"horario": " ter  19:00  22:00 ",
+"prof": "Humberto Felipe da Silva "
+},
+"h2": {
+"horario": " qui  19:00  22:00 ",
+"prof": "Humberto Felipe da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "38",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "10",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "30",
+"Inscritos": "18",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "5",
+"Inscritos": "19",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N1": {
+"C\u00f3digo da Turma": "20242N1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  21:00 ",
+"prof": "Humberto Felipe da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "57",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2013": {
 "sigla": "LOT2013",
@@ -1979,7 +5881,7 @@
 "objectives": "",
 "abstract": "Generic biotechnological process, equipment sterilization, media sterilization by heating, air sterilization by filtration, kinetics and stoichiometry of microbial growth and products formation.",
 "program": "1.Generic biotechnological process: schematic representation; description of the main phases.2.Equipment sterilization: terminology, sterilization by physical agents, sterilization by chemical agents.3.Media sterilization by heating: kinetics of thermic destruction of microorganisms; destruction of medium nutrients; calculation of sterilization time by discontinuous process; calculation of sterilization time by continuous process.4.Air sterilization by filtration: microbial aerosols; air samplers; dimensioning of fibrous filters; dimensioning of membrane filters.5.Kinetics and stoichiometry of microbial growth and products formation: definition of velocities of transformation and conversion factors; classification of fermentations as a function of the velocities of cell growth and products formation; influence of substrate concentration on cell growth; stoichiometry of microbial growth and products formation.",
-"ndoc": 1,
+"ndoc": 3,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -1993,6 +5895,8 @@
 "exame": "Ser\u00e1 oferecido um programa de recupera\u00e7\u00e3o avaliado por uma prova escrita final (PR).\nA m\u00e9dia de recupera\u00e7\u00e3o (MR) ser\u00e1 calculada como: MR=(NF+PR)/2. Ser\u00e3o aprovados os alunos que obtiverem MR maior ou igual a 5,0.",
 "bibliografia": "BAILEY, J.E., OLLIS D.F. Biochemical Engineering Fundamentals. 2nd edition, New York: McGraw Hill, 1986. ISBN: 978-0070032125.BORZANI, W., SCHMIDELL, W., LIMA, U.A., AQUARONE, E. Biotecnologia Industrial Fundamentos (Vol 1). S\u00e3o Paulo: Edgard Blucher Ltda, 2001.m ISBN: 9788521202783.DORAN P.M. Bioprocess Engineering Principles, 1st edition, San Diego: Academic Press, 1995. ISBN: 978-0080528120.KATOH, S., HORIUCHI, J., YOSHIDA, F. Biochemical Engineering: A Textbook for Engineers, Chemists and Biologists, 2nd, Completely Revised and Enlarged Edition. Weinheim/Germany: Wiley-VCH, 2015. ISBN: 978-3527338047.SCHMIDELL, W., LIMA, U.A., AQUARONE, E., BORZANI, W. Biotecnologia Industrial Engenharia Bioqu\u00edmica (Vol 2), S\u00e3o Paulo: Edgard Blucher Ltda, 2001. ISBN: 9788521202790.",
 "docentes": [
+"1112574 - In\u00eas Concei\u00e7\u00e3o Roberto",
+"6007846 - J\u00falio C\u00e9sar dos Santos",
 "5840876 - Walter de Carvalho"
 ],
 "oferecimento": {}
@@ -2027,7 +5931,7 @@
 "objectives": "",
 "abstract": "The discipline deals with how the enzymes act, how the strategies of purification are defined and what are the main technological applications of the enzymes. Within the purification processes, the focus involves the definition of appropriate strategies for the purification in sequential stages, the control methods of each stage, besides the methods of monitoring of the enzymatic activity. The application of enzymes in industrial processes is also commented.",
 "program": "1.Cellular origin of enzymes: enzymes origin, differentiation between intra and extracellular enzymes, physiological importance and introduction to the world market of enzymes.2.Structure versus proprieties and mechanisms of enzymes action; three-dimensional structure and its determination, importance of tertiary structure on the catalytic activity, catalytic action of protease, glycosidase and oxy-reductase.3.Operational control in the enzymes purification: methods of enzymes extraction, methods of preliminary purification, methods of separation based on charge, size and affinity. Definition of strategies of enzymes purification.4.Methods of determination of enzymatic activity: definition of activity in international units, meaning of enzymatic activity, forms of quantifying and expressing enzymatic activity. Requirements of an experimental method used in the determination of enzymatic activity.5.Enzymatic kinetics: graphic and numeric methods for determination of initial reaction rate, experimental conditions required to determine the initial reaction rate, calculation of enzymatic activity.6.Immobilized enzymes: forms of immobilization and application of immobilized systems.7.Application of enzymes in industry: use of enzymes in detergents, starch processing, food industry, textile industry, drug synthesis and in pulp and paper industry.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -2041,6 +5945,7 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova escrita (PR) e a m\u00e9dia de recupera\u00e7\u00e3o (MR) calculada pela f\u00f3rmula: MR = (NF + PR)/2",
 "bibliografia": "1. BON, E.S., FERRARA M.A., CORVO M.L. (Eds.) Enzimas em Biotecnologia - Produ\u00e7\u00e3o, aplica\u00e7\u00e3o e mercado, Rio de Janeiro: Editora Interci\u00eacnia, 2008.\n2. COPELAND, R.A. Enzymes: a practical introduction to structure, mechanism and data analysis, New York: Academic Press, 2000.\n3. LEHNINGER, A.L., NELSON, O.L., COX, M.M. Princ\u00edpios de bioqu\u00edmica, 5 ed. Porto Alegre: Artmed editora, 2011.\n4. GODFREY, T., WEST, S. (eds), Industrial Enzymology, New York: Chapman-Hall, 1996.\n5. WHITAKER, J.R. (ed.) Pinciples of Enzynmology for the Food Sciences 2nd ed., New York: Marcel Dekker Inc., 1994.\n6. TANAKA, A., TOSA, T., KOBAYASHI, T. (Eds.). Industrial Application of Immobilized Biocatalysts, New York: Marcel Dekker Inc., 1993.\n6.VOET, D., VOET, J., PRATT, C.W. Fundamentos de Bioqu\u00edmica. Porto Alegre: Editora ARTMED, 2000.",
 "docentes": [
+"427823 - Adriane Maria Ferreira Milagres",
 "4873328 - Fernando Segato"
 ],
 "oferecimento": {}
@@ -2075,7 +5980,7 @@
 "objectives": "",
 "abstract": "Plant Development; Plant Tissue Culture; Plant genome and gene regulation; Techniques for plant transformation; Biotechnology for improvement of yield and quality traits; Science, society and environmental impact of GM crops.",
 "program": "1. Introduction in plant biotechnology and agriculture2. Plant physiology and development3. Plant tissue culture4. Eukaryotic gene regulation5. Agrobacterium-mediated plant genetic transformation6. Biolistic and other non-Agrobacterium technologies of plant transformation7. Vectors for plant transformation8. Genes, traits of interest and Biotechnological strategies for engineering plants9. Risk and benefits associated with genetically modified (GM) plants10. Synthetic biology in plants",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -2089,7 +5994,8 @@
 "exame": "NF = (MF + PR)/2, onde PR \u00e9 uma prova de recupera\u00e7\u00e3o.Prova de Recupera\u00e7\u00e3o (PR) para alunos com M\u00e9dia Final (MF) maior ou igual a 3,0 e menor do que 5,0. Ser\u00e1 considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maior do que 5,0.",
 "bibliografia": "- Biologia Vegetal. Peter Raven, Susan Eichhorn e Ray Evert (2014 \u2013 Oitava Edi\u00e7\u00e3o). Editora Guanabara Koogan.- Fisiologia Vegetal. Taiz e Zeiger (2017 \u2013 Sexta Edi\u00e7\u00e3o) Editor Artmed.- Cultura de Tecidos e Transforma\u00e7\u00e3o Gen\u00e9tica de Plantas. Torres, A.C.\u037e Caldas L.S.\u037e Buso J.A.(2006 \u2013 Primeira Edi\u00e7\u00e3o, Vol 1 e Vol 2). Editora EMBRAPA.- Manual de Transforma\u00e7\u00e3o Gen\u00e9tica de Plantas. Ana Cristina Miranda Brasileira e Vera Tavares de Campos Carneiro (2015 \u2013 Segunda Edi\u00e7\u00e3o revista e ampliada). Editora EMBRAPA.- Plant Biotechnology: the genetic manipulation of plants. Slater, Scott and Fowler (2008 \u2013 Edition Second). Oxford.- Plant Biotechnology and Agriculture: Prospects for the 21st century. Altman and Hasegawa (2012 \u2013 Edition First). Academic press.- Recent Advances in Plant Biotechnology. Kirakosyan and Kaufman (2009 \u2013 Edition First). Springer.- Biochemistry and Molecular Biology of Plants. Bob B. Buchanan, Wilhelm Gruissem, and Russell L. Jones (2015 Second Edition). WileyBlackwell.",
 "docentes": [
-"8711290 - Elisson Ant\u00f4nio da Costa Romanel"
+"8711290 - Elisson Ant\u00f4nio da Costa Romanel",
+"8853480 - Tatiane da Franca Silva"
 ],
 "oferecimento": {}
 },
@@ -2123,7 +6029,7 @@
 "objectives": "Promote in students the ability to elucidate real problems in the field of biochemical engineering by presenting projects aimed at their solution. The expectation is that the student will face, in contact with professionals from the industry and other stakeholders in society, the demand for real problems that require an appropriate and systematic methodology for their solution, including information gathering, project development, its subsequent execution, and finally the presentation of results in both written and oral form.",
 "abstract": "Under teaching staff supervision and collaboration with external professionals working in the field of biochemical engineering or related areas, small teams of students will be tasked with solving problems in the productive and/or service sectors. The problems will be approached using the scientific method for effective problem-solving.",
 "program": "1. Problem analysis and solution method (MASP), 2. Discussion with professionals from the productive and/or service sectors to identify real problems in the field of biochemical engineering. 3. Team definition of the problem. 4. Information gathering and listing of possible solutions. 5. Classification of possible solutions. 6. Project development for the solution of the specific problem. 7. Experimental evaluation of the proposed solutions. 8. Re-evaluation of the problem in light of experimental results. 9. Final written proposal. 10. Oral presentation of the proposed solution to the problem and discussion with professionals in the field.",
-"ndoc": 0,
+"ndoc": 1,
 "CA": "4",
 "CT": "0",
 "CH": "60 h",
@@ -2136,7 +6042,9 @@
 "criterio": "MF = (TE+AO+HSP)/3. Ser\u00e1 considerado aprovado o aluno que obtiver M\u00e9dia Final (MF) igual ou maior do que 5,0.",
 "exame": "Reapresenta\u00e7\u00e3o oral para alunos com m\u00e9dia final (MF) maior ou igual a 3,0 e menor do que 5,0. Ap\u00f3s a recupera\u00e7\u00e3o, ser\u00e3o atribu\u00eddas novas notas para AO e HSP, das quais se calcular\u00e1 nova m\u00e9dia (MR). A nota final (NF) ser\u00e1 calculada pela m\u00e9dia aritm\u00e9tica dos valores de MF e MR. Ser\u00e1 considerado aprovado o aluno que obtiver Nota Final (NF) igual ou maior do que 5,0.",
 "bibliografia": "- Philip Kosky, Robert Balmer, William Keat, George Wise. Exploring Engineering, 3rd Edition, 2013, Elsevier, ISBN 978-0-12-415891-7 - Isabel Vale, Ana Barbosa, Ana Peixoto, F\u00e1tima Fernandes. Solving Authentic Problems through Engineering Design, Open Education Studies 2023; 5: 20220185 - Timothy A. Whitehead e col. The Importance and Future of Biochemical Engineering, Biotechnol Bioeng. 2020 117: 2305\u20132318",
-"docentes": [],
+"docentes": [
+"5111420 - Talita Martins Lacerda"
+],
 "oferecimento": {}
 },
 "LOQ4057": {
@@ -2175,7 +6083,84 @@
 "docentes": [
 "5817372 - Simone de F\u00e1tima Medeiros Sampaio"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242N1": {
+"C\u00f3digo da Turma": "20242N1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  19:00  23:00 ",
+"prof": "Antonio Carlos da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "57",
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242NB": {
+"C\u00f3digo da Turma": "20242NB",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  23:00 ",
+"prof": "(R) Simone de F\u00e1tima Medeiros Sampaio "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "38",
+"Inscritos": "19",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "20",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4062": {
 "sigla": "LOQ4062",
@@ -2219,7 +6204,46 @@
 "8151869 - Livia Chaguri e Carvalho",
 "5817372 - Simone de F\u00e1tima Medeiros Sampaio"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242BD": {
+"C\u00f3digo da Turma": "20242BD",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " sex  08:00  12:00 ",
+"prof": "Luiz Claudio Antunes Bastos "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "9",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "23",
+"Inscritos": "4",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "15",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2015": {
 "sigla": "LOT2015",
@@ -2241,7 +6265,7 @@
 "objectives": "",
 "abstract": "The importance of oxygen transfer, oxygen transfer systems, oxygen transfer and microbial respiration, oxygen transfer in agitated and aerated systems, scale variation, downstream of biotechnological products.",
 "program": "1. The importance of oxygen transfer.2. Oxygen transfer systems.3. Oxygen transfer and microbial respiration: joint analysis of oxygen transfer and consumption, kLa and QO2 determination during the fermentative process.4. Oxygen transfer in agitated and aerated systems: agitation of Newtonian liquids, agitation of Newtonian liquids submitted to aeration, agitation of non Newtonian liquids, oxygen transfer.5. Scale variation: criteria for scale up, comparisons among criteria for scale up, scale down. 6. Introduction to purification of biotechnological products: clarification, cells disruption, bioprocucts separation technics.",
-"ndoc": 1,
+"ndoc": 3,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -2255,9 +6279,38 @@
 "exame": "Ser\u00e1 oferecido um programa de recupera\u00e7\u00e3o avaliado por uma prova escrita final (PR).\nA m\u00e9dia de recupera\u00e7\u00e3o (MR) ser\u00e1 calculada como: MR=(NF+PR)/2. Ser\u00e3o aprovados os alunos que obtiverem MR maior ou igual a 5,0.",
 "bibliografia": "1. BORZANI, W., SCHMIDELL, W., LIMA, U.A., AQUARONE, E. Biotecnologia Industrial - Fundamentos (Vol 1). S\u00e3o Paulo: Edgard Blucher Ltda, 2001.\n2. SCHMIDELL, W., LIMA, U.A., AQUARONE, E., BORZANI, W. Biotecnologia Industrial - Engenharia Bioqu\u00edmica (Vol 2), S\u00e3o Paulo: Edgard Blucher Ltda, 2001.\n3. DORAN P.M. Bioprocess Engineering Principles, 1st edition, San Diego: Academic Press, 1995.\n4. BAILEY, J.E., OLLIS D.F. Biochemical Engineering Fundamentals. 2nd edition, New York: McGraw Hill, 1986.",
 "docentes": [
-"101761 - Arnaldo M\u00e1rcio Ramalho Prata"
+"101761 - Arnaldo M\u00e1rcio Ramalho Prata",
+"6007846 - J\u00falio C\u00e9sar dos Santos",
+"1814052 - Silvio Silverio da Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  15:00  18:00 ",
+"prof": "(R) J\u00falio C\u00e9sar dos Santos "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "34",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "34",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2022": {
 "sigla": "LOT2022",
@@ -2284,7 +6337,7 @@
 "objectives": "",
 "abstract": "Introduction to modeling and simulation of bioprocesses; study of problems of the industry of bioprocesses related to the construction and solution of phenomenological models: computational software and algebraic equations; mathematical modeling and simulation of fermentative processes; constructing and solving models: differential equations; adjustment of parameters and bioprocesses optimization; use of process simulators applied to biotechnology.",
 "program": "1. Introduction to modeling and simulation of bioprocesses.1.1. Definition of mathematical model.1.2. Concepts of dependent and independent variables of a system.1.3. Definition and classification of control volumes.2. Study of problems of the industry of bioprocesses related to the construction and solution of phenomenological models: computational software and algebraic equations.2.1. Introduction to computational software/packages used to solving mathematical models.2.2. Solving of problems using systems of linear equations.2.3. Solving of problems using non-linear equations.2.4. Solving of problems using systems of non-linear equations.3. Mathematical modeling and simulation of fermentative processes3.1. Objectives3.2. Differences between chemical and fermentative processes3.3. Interactions between the microbial population and the culture medium.3.4. Construction and classification of mathematical models for fermentative processes.3.5. Kinetic models of cellular growth, substrate consumption and formation of products in fermentative processes.3.6. Modeling of fermentative process in reactors: batch, continuous, continuous with cells recycle, fed-batch and tubular.4. Constructing and solving models: differential equations.5. Adjustment of parameters and bioprocesses optimization.6. Use of process simulators applied to biotechnology.6.1. Process design aided by simulation software6.2. Classification of process simulation software 6.3. Synthesis and analysis of process6.4. Process flowsheeting: concepts and limitation, convergence6.5. Application examples.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -2298,9 +6351,38 @@
 "exame": "Aos alunos que obtiverem m\u00e9dia igual ou maior que 3,0 e menor que 5,0 ser\u00e1 oferecido um programa de recupera\u00e7\u00e3o que ser\u00e1 avaliado por uma prova final. Nesse caso, a m\u00e9dia final do aluno ser\u00e1: M\u00e9dia final = (m\u00e9dia do per\u00edodo letivo normal + nota prova final)/2.Ser\u00e3o aprovados os alunos que obtiverem m\u00e9dia final igual ou maior que 5,0.",
 "bibliografia": "ADIDHARMA, H.; TEMYANKO, V. Mathcad for chemical engineers. Victoria, Canad\u00e1: Trafford Publishing, 2007. ISBN 1-4251-1541-1.BARRETO, L. S. Inicia\u00e7\u00e3o ao Scilab. 2 ed. Costa de Caparica, Portugal: Ebook, 2011. Dispon\u00edvel na internet: http://www.mat.ufrgs.br/~guidi/grad/MAT01169/SciLivro2.pdf Consulta em 17 de janeiro de 2014.CUTLIP, M. B.; SHACHAM, M. Problem solving in chemical and biochemical engineering with POLYMAT\u2122, Excel, and MATLAB\u2122. 2 ed. Boston, MA: Pearson Education, Inc., 2008. ISBN 978-0-13-148204-3.DIMIAN, A.C. Integrated design and simulation of chemical processes. Amsterdan, The Netherlands: Elsevier Science B.V., 2003, 678 p. ISBN 0-444-82996-2. ISSN: 1570-7946.ELNASHAIE, S. S. E. H.; GARHYAN, P. Conservation equations and modeling of chemical and biochemical processes. New York: Marcel dekker, Inc., 2003. ISBN 0-8247-0957-8.LOPES, L. C. O. Utilizando o SCILAB na Resolu\u00e7\u00e3o de Problemas da Engenharia Qu\u00edmica. v. 0.1. Curitiba/Parana,Brasil: XV COBEQ, Congresso Brasileiro de Engenharia Qu\u00edmica, 2004. Dispon\u00edvel na internet: http://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC0QFjAA&url=http%3A%2F%2Fxa.yimg.com%2Fkq%2Fgroups%2F9656926%2F1161540061%2Fname%2Fscilab_COBEQ.pdf&ei=rnbZUpOZF4TJkAeHo4DwCg&usg=AFQjCNHc1deuW9_0qn7TyVvMEofHOUG9cA Consulta em 17 de janeiro de 2014.PINTO, J. C.; LAGE, P. L. C. M\u00e9todos num\u00e9ricos em problemas de engenharia qu\u00edmica. Rio de Janeiro, RJ: E-papers servi\u00e7os Editoriais Ltda., 2001. ISBN 85-87922-11-4.RUGGIERO, M. A. G.; LOPES, V. L. R. C\u00e1lculo Num\u00e9rico. Aspectos Te\u00f3ricos e computacionais. 2 ed. S\u00e3o Paulo: Pearson education fo Brasil, 1998. ISBN 85-346-0204-2.SCHMIDELL, W.; LIMA, U. A.; AQUARONE, E.; BORZANI, W. Biotecnologia Industrial. Volume 2: Engenharia Bioqu\u00edmica. S\u00e3o Paulo: Editora Edgard Bl\u00fccher Ltda, 2001. ISBN 978-85-212-0279-0.SEIDER, W.D.; SEADER, J.D.; LEWIN, D.R.; WIDAGDO, S. Product and process design priciples. Synthesis, analysis, and Evaluation. 3 ed. Hoboken, NJ, USA: John Wiley & Sons, Inc., 2009, 728p. ISBN-13: 978-0470-04895-5.",
 "docentes": [
-"6007846 - J\u00falio C\u00e9sar dos Santos"
+"6007846 - J\u00falio C\u00e9sar dos Santos",
+"5817181 - Valdeir Arantes"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " ter  19:00  22:00 ",
+"prof": "(R) J\u00falio C\u00e9sar dos Santos "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "40",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2023": {
 "sigla": "LOT2023",
@@ -2327,7 +6409,7 @@
 "objectives": "",
 "abstract": "Introduction to industrial biochemical processes which include the food processing and important metabolites, the manufacture of serum and vaccines, the modern concepts of bioenergy and biorefineries.",
 "program": "1. Food processing: kinds of food industries, rawmaterials,processing phases of food products,conservation/changes of foods, microbiology of foods,biochemical changes in foods (oxidation oflipids, antioxidants, enzymatic and nonenzymaticdarkening), aflatoxins, chemical preservatives,natural toxicants.2. Discussion and presentation on important biochemical aspects in the production of metabolites by microorganisms and case studies.3. Production of serum and vaccines: industrial methods for production of serum and vaccines \u20134. Biotechnology of lignocellulose: separation and fermentation of fraction and main biochemicalprocesses involving lignocellulosic materials.5. Bioenergy, biofuels and biorefineries",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -2341,9 +6423,37 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de uma prova escrita (PR) e a m\u00e9dia de recupera\u00e7\u00e3o (MR)ser\u00e1 calculada como MR=(NF+PR)/2",
 "bibliografia": "1. BORZANI, W., SCHMIDELL, W., LIMA, U.A., AQUARONE, E. Biotecnologia Industrial - Fundamentos (Vol 1). S\u00e3o Paulo: Edgard Blucher Ltda, 2001.\n2. DEMAIN, A.L., SOLOMON, N.A. (Eds). Manual of industrial microbiology and biotechnology, Washington: American Society for Microbiology, 1986.\n3. WANG, D.C. et al. Fermentation and Enzyme Technology, New York: Wiley-Interscience, 1979.\n4. GAVA, A.J. Princ\u00edpios de Tecnologia de Alimentos, S\u00e3o Paulo: Nobel, 1983.\n5. LIMA , U. A et al. Biotecnolog\u00eda Industrial, Biotecnologia na produ\u00e7\u00e3o de alimentos - S\u00e9rie Biotecnolog\u00eda, vol4. Ed. Edgard Blucher,Ltda , 2001.\n6. EVANGELISTA, J. Tecnologia de Alimentos, Rio de Janeiro: Livraria Atheneu, 1987.\n7. CAMARGO R. et al., Tecnologia de produtos Agropecu\u00e1rios- Alimentos, S\u00e3o Paulo: Livraria Nobel, 1984.",
 "docentes": [
+"5082401 - Andr\u00e9 Moreni Lopes",
 "1814052 - Silvio Silverio da Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  15:00  18:00 ",
+"prof": "(R) Andr\u00e9 Moreni Lopes "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2025": {
 "sigla": "LOT2025",
@@ -2365,7 +6475,7 @@
 "objectives": "",
 "abstract": "Introduction to bioreactors; batch process; continuous process; fed batch process and enzymatic reactors.",
 "program": "1.Introduction to bioreactors: Description and classification of biochemical reactors; bioreactors configuration; microorganisms/medium interaction; bioreactor operation modes.2.Batch process: general characteristics of the batch process; material balance for cell, substrate and product; application of batch process (examples).3.Continuous process: general characteristics, operation modes (single or multiple stages with or without cells recycle); material balance for cell and substrate; formation of products in the continuous systems, application of continuous process (examples).4.Fed batch process: general characteristics; material balance for cell and substrate (equations for fed-batch operation at variable and fixed volume); considerations about formation of products in the fed batch process; application of fed batch process (examples).5.Enzymatic reactors: general characteristics of the enzymatic reactors; application of enzymatic processes (examples).",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -2379,9 +6489,37 @@
 "exame": "Aos alunos que n\u00e3o obtiverem m\u00e9dia igual ou maior que 5,0, ser\u00e1 oferecido um programa de recupera\u00e7\u00e3o que ser\u00e1 avaliado por uma prova final. Nesse caso, a m\u00e9dia final do aluno ser\u00e1: M\u00e9dia final = (m\u00e9dia do per\u00edodo letivo normal + nota prova final)/2 Ser\u00e3o aprovados os alunos que obtiverem m\u00e9dia igual ou maior que 5,0",
 "bibliografia": "1)  Aiba, S., Humphrey, A.E., Millis, N.F. Biochemical Engineering - 2\u00aa Edi\u00e7\u00e3o- 1973.2) Asenjo A., Merchuk, J.C. Bioreactor System Design-1995.3) Stanbury, D. and Whitaker, A. Principles af Fermentation Technology-1986.4) Lima, U.A., Aquarone, E., Borzani, W. Biotecnologia Industrial. Fundamentos Vol. 1, Engenharia Bioqu\u00edmica Vol.2, Processos Fermentativos Vol.3. Ed.  Edgard Blucher, S\u00e3o Paulo, 2001.",
 "docentes": [
-"1112574 - In\u00eas Concei\u00e7\u00e3o Roberto"
+"1112574 - In\u00eas Concei\u00e7\u00e3o Roberto",
+"6007846 - J\u00falio C\u00e9sar dos Santos"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  19:00  22:00 ",
+"prof": "(R) In\u00eas Concei\u00e7\u00e3o Roberto "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "34",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "34",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2037": {
 "sigla": "LOT2037",
@@ -2413,7 +6551,7 @@
 "objectives": "",
 "abstract": "Introduction. Basic concepts of instrumentation for process control. Pressure measuring instruments. Level measuring devices. Flow measuring instruments. Temperature measuring devices. Online sensors for measurement of media, cells and gases. Introduction to control theory. Controls applied to bioprocesses",
 "program": "1.Introduction: general aspects related to the instrumentation and control of bioprocesses.2.Basic concepts of instrumentation for process control: definitions of the elements in a control mesh. General instrument characteristics: instrument classes and definitions. Instrument identification and symbols: ISA standardization, symbology examples.3.Pressure measuring instruments: manometers, diaphragms, capsule and bellows, Bourdon tubes and other pressure sensors.4.Level measuring devices: direct level measurement and indirect level measurement.5.Flow measurement instruments: pressure meters, linear meters, volumetric meters and others.6.Temperature measuring devices: thermometers, pressure spring thermometers, temperature resistance devices, thermistors, thermocouples and others.7.pH measuring instruments, redox potential, partial pressures of dissolved oxygen and carbon dioxide. Measurement of agitation power and impeller speed. Online sensors for cell properties and determination of total biomass concentration. Determination of active or viable biomass concentration.8.Introduction to control theory: main problems for the control of bioprocesses. Basic settings (manual control, feedback control, feedforward control, gain and delay), components of a control system (sensor / transmitter and controller and final control elements), control actions On/Off (P), proportional-integral (PI), proportional-derivative (PD), proportional-integral-derivative (PDI). Introduction to the communication interface.9.Controls applied to bioprocesses: open loop control, control by regulatory system, cascade control, pre-feed control and trajectory tracking control and others (optimal control, adaptive system and learning control system).",
-"ndoc": 2,
+"ndoc": 3,
 "CA": "3",
 "CT": "0",
 "CH": "45 h",
@@ -2428,9 +6566,37 @@
 "bibliografia": "Bibliografia\n \n1. BAILEY, J.E., OLLIS, D.F. Biochemical Engineering Fundamental. \nNew York: Mc-Graw Hill, 2nd edition,1986.\n \n2. BU\u00b4LOCK, K. B. Biotecnologia B\u00e1sica. Zaragoza: Editorial Acribia, \n1987.\n \n3. SCHMIDELL, W., LIMA, U.A., AQUARONE, E., BORZANI, W. \nBiotecnologia Industrial - Engenharia Bioqu\u00edmica (Vol 2), S\u00e3o Paulo: \nEdgard Blucher Ltda, 2001.\n \n4. HARTNETT, T. Instrumentation and Control of Bioprocesses. In: LYDERSEN, \nB. K.; D'ELIA, N. A.; NELSON, K. L. Bioprocess Engineering: Systems, Equipment \nand Facilities. New York. John Wiley & Sons, Inc. 1994, p.413-468.\n\n5. CINAR, A.; PARULEKAR, S.J.; \u00dcNDEY, C.; BIROL, G. Batch Fermentation  Modeling, Monitoring and Control. New York: Marcel Dekker, Inc., 2003.\n\n6. SCH\u00dcGERL, K. Measuring, Modeling and Control. In: REHM, H. J.; REED, G. Biotechnology. Vol 4. Weinheim: VCH, 2nd Edition, 1991.",
 "docentes": [
 "101761 - Arnaldo M\u00e1rcio Ramalho Prata",
+"6007846 - J\u00falio C\u00e9sar dos Santos",
 "3444370 - Rita de C\u00e1ssia Lacerda Brambilla Rodrigues"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  19:00  22:00 ",
+"prof": "(R) Rita de C\u00e1ssia Lacerda Brambilla Rodrigues "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "23",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "40",
+"Inscritos": "23",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2047": {
 "sigla": "LOT2047",
@@ -2457,7 +6623,7 @@
 "objectives": "",
 "abstract": "Proceedings of biochemical processes since the steps of medium preparation and sterilization until the steps of products recuperation and characterization.",
 "program": "1.Fermentation submerged in bioreactor, involving setting, sterilization, medium addition, cultivation monitoring and samples analysis.\n2.Solid state fermentation followed by recuperation and characterization of the produced enzymes.\n3.Project of enzymes purification by software: the groups receive a problem- mixture and present logical sequences of purification with the respective results and their discussion.\n4.Enzymes characterization in relation to molar mass: calibration of a chromatographic column with known proteins and determination of molar mass of problem-enzyme; determination of problem-enzyme by 280nm absorption and by specific activity.\n5.Use of vegetal and microbial origin amylases for starch processing and ethanol fermentation.",
-"ndoc": 1,
+"ndoc": 4,
 "CA": "4",
 "CT": "0",
 "CH": "60 h",
@@ -2471,9 +6637,66 @@
 "exame": "A recupera\u00e7\u00e3o ser\u00e1 feita por meio de prova escrita (PR) e a m\u00e9dia final (MF) ser\u00e1 calculada pela equa\u00e7\u00e3o: MF = (NF + PR)/2.",
 "bibliografia": "1. BORZANI, W., SCHMIDELL, W., LIMA, U.A., AQUARONE, E. Biotecnologia Industrial - Fundamentos (Vol 1). S\u00e3o Paulo: Edgard Blucher Ltda, 2001.\n2. SCHMIDELL, W., LIMA, U.A., AQUARONE, E., BORZANI, W. Biotecnologia Industrial - Engenharia Bioqu\u00edmica (Vol 2), S\u00e3o Paulo: Edgard Blucher Ltda, 2001.\n3. COPELAND R.A. Enzymes: a practical introduction to structure, mechanism and data analysis, New York: Academic Press, 2000\n4. BON, E.S., FERRARA, M.A., CORVO, M.L. (Eds.) Enzimas em Biotecnologia - Produ\u00e7\u00e3o, aplica\u00e7\u00e3o e mercado, Rio de Janeiro: Editora Interci\u00eacnia, 2008.\n5. Godfrey T. e West S (eds), Industrial Enzymology, Chapman-Hall, New York, 1996",
 "docentes": [
+"427823 - Adriane Maria Ferreira Milagres",
+"4873328 - Fernando Segato",
+"6007846 - J\u00falio C\u00e9sar dos Santos",
 "3444370 - Rita de C\u00e1ssia Lacerda Brambilla Rodrigues"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " qui  14:00  18:00 ",
+"prof": "(R) Rita de C\u00e1ssia Lacerda Brambilla Rodrigues "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "20",
+"Inscritos": "7",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "20",
+"Inscritos": "7",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242B2": {
+"C\u00f3digo da Turma": "20242B2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  18:00 ",
+"prof": "(R) Rita de C\u00e1ssia Lacerda Brambilla Rodrigues "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "20",
+"Inscritos": "15",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "20",
+"Inscritos": "15",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2055": {
 "sigla": "LOT2055",
@@ -2555,7 +6778,34 @@
 "1304060 - Maria das Gra\u00e7as de Almeida Felipe",
 "8853480 - Tatiane da Franca Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qui  18:00  19:00 ",
+"prof": "Valdeir Arantes "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2044": {
 "sigla": "LOT2044",
@@ -2732,7 +6982,34 @@
 "1304060 - Maria das Gra\u00e7as de Almeida Felipe",
 "8853480 - Tatiane da Franca Silva"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242B1": {
+"C\u00f3digo da Turma": "20242B1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  18:00  19:00 ",
+"prof": "Fl\u00e1vio Teixeira da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "23",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "60",
+"Inscritos": "23",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1008": {
 "sigla": "LOB1008",
@@ -2764,7 +7041,110 @@
 "docentes": [
 "7043088 - Ana Karine Furtado de Carvalho"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242A2": {
+"C\u00f3digo da Turma": "20242A2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " qua  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "59",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "56",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242M1": {
+"C\u00f3digo da Turma": "20242M1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "44",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "41",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1010": {
 "sigla": "LOB1010",
@@ -2828,7 +7208,148 @@
 "docentes": [
 "8188658 - Maria Auxiliadora Motta Barreto"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242M1": {
+"C\u00f3digo da Turma": "20242M1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " ter  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "59",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "53",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N2": {
+"C\u00f3digo da Turma": "20242N2",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  21:00  23:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "60",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "60",
+"Inscritos": "60",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242P3": {
+"C\u00f3digo da Turma": "20242P3",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  21:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "59",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "53",
+"Inscritos": "21",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4052": {
 "sigla": "LOQ4052",
@@ -2898,7 +7419,153 @@
 "docentes": [
 "11079086 - Herland\u00ed de Souza Andrade"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242AM": {
+"C\u00f3digo da Turma": "20242AM",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": "Humberto Felipe da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "54",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242N1": {
+"C\u00f3digo da Turma": "20242N1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " sex  19:00  21:00 ",
+"prof": "(R) Herland\u00ed de Souza Andrade "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "56",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+},
+"20242PN": {
+"C\u00f3digo da Turma": "20242PN",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " sex  21:00  23:00 ",
+"prof": "(R) Herland\u00ed de Souza Andrade "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "25",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "36",
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "20",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOT2026": {
 "sigla": "LOT2026",
