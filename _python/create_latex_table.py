@@ -25,5 +25,5 @@ for materia in data:
     worksheet.write(r, 5, data[materia]['CH'])
     worksheet.write(r, 6, data[materia]['tipo'])
     r += 1
-        
+
 workbook.close()

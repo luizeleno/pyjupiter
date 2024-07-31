@@ -12,12 +12,13 @@ def write(df, field):
 
 def traduzir(texto):
     # try:
-        # result = translator.translate(texto)
-        # trans = result.text
+    # result = translator.translate(texto)
+    # trans = result.text
     # except:
-        # print('##Aviso: não foi possível traduzir. Deixando em branco')
-        # transl = ''
+    # print('##Aviso: não foi possível traduzir. Deixando em branco')
+    # transl = ''
     return ''  # transl
+
 
 with open(f'disciplinas.json') as f:
     data = json.load(f)
@@ -38,22 +39,23 @@ for index, discpln in data.items():
 
     workbook = xlsxwriter.Workbook(docname)
     worksheet = workbook.add_worksheet(f'{discpln["sigla"]}')
-       
+
     bold = workbook.add_format({'bold': True})
     bold.set_align('top')
     text_wrap = workbook.add_format({'text_wrap': True})
     text_wrap.set_align('top')
-    red = workbook.add_format({'text_wrap': True, 'font_color':'red'})
+    red = workbook.add_format({'text_wrap': True, 'font_color': 'red'})
     red.set_align('top')
-        
+
     worksheet.set_column('A:B', 30, bold)
     worksheet.set_column('B:B', 60, text_wrap)
     worksheet.set_column('C:C', 60, red)
-        
+
     r = next(row)
     worksheet.write(r, 1, 'Ementa atual:', bold)
-    worksheet.write(r, 2, 'Ementa modificada (dados modificados em vermelho):', bold)
-        
+    worksheet.write(
+        r, 2, 'Ementa modificada (dados modificados em vermelho):', bold)
+
     r = next(row)
     worksheet.write(r, 1, write(discpln, 'sigla'))
     worksheet.write(r, 2, write(discpln, 'sigla'))
@@ -67,7 +69,7 @@ for index, discpln in data.items():
     # worksheet.write(r, 0, 'Name:')
     # worksheet.write(r, 1, write(discpln, 'nome_en'))
     # worksheet.write(r, 2, write(discpln, 'nome_en'))
-        
+
     if discpln['nome_en']:
         worksheet.write(r, 0, 'Name:')
         worksheet.write(r, 1, write(discpln, 'nome_en'))
@@ -117,7 +119,7 @@ for index, discpln in data.items():
     worksheet.set_row(r, 60)
     # worksheet.write(r, 0, 'Objectives:')
     # worksheet.write(r, 1, write(discpln, 'objectives'))
-        
+
     if discpln['objectives']:
         worksheet.write(r, 0, 'Objectives:')
         worksheet.write(r, 1, write(discpln, 'objectives'))
@@ -215,9 +217,9 @@ for index, discpln in data.items():
         for k, req in reqs.items():
             r = next(row)
             worksheet.set_row(r, 30)
-            worksheet.write(r, 1, f"{req['sigla']} - {req['nome']} ({req['tipo']})\n")
-            worksheet.write(r, 2, f"{req['sigla']} - {req['nome']} ({req['tipo']})\n")
+            worksheet.write(
+                r, 1, f"{req['sigla']} - {req['nome']} ({req['tipo']})\n")
+            worksheet.write(
+                r, 2, f"{req['sigla']} - {req['nome']} ({req['tipo']})\n")
 
     workbook.close()
-     # break
- # break

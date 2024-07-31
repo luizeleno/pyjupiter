@@ -51,11 +51,11 @@ def scrape_curso(URL):
                 # lendo dados da disciplina
                 dados = rd.scrape_disciplina(link)
                 curso[sigla] = {**curso[sigla], **dados}
-                
+
                 # lendo dados de oferecimento
                 oferecimento = rd.raspa_oferecimento(sigla)
                 curso[sigla]['oferecimento'] = oferecimento
-                
+
         except:
             pass
 
@@ -72,7 +72,7 @@ def scrape_curso(URL):
                 curso[sigla]['requisitos'][reqsigla]['nome'] = reqnome
         except:
             pass
-            
+
         try:  # testando para tipo de requisito
             req = tr('td')[1]
             if req['class'][0] == 'txt_verdana_8pt_red':

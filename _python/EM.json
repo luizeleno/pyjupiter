@@ -38,57 +38,57 @@
 "aulas": {
 "h0": {
 "horario": " seg  08:00  12:00 ",
-"prof": " "
+"prof": "Henrique Ot\u00e1vio Queiroz de Aquino "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "39",
+"Inscritos": "60",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "59"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "7",
-"Inscritos": "5",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "7",
 "Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "7",
 "Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "7",
 "Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "7",
-"Inscritos": "5",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "12",
-"Inscritos": "1",
+"Inscritos": "12",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "12"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "13",
-"Inscritos": "8",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 }
 }
 }
@@ -133,113 +133,25 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "Marcelo Rodrigues de Holanda "
 },
 "h1": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "Marcelo Rodrigues de Holanda "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "33",
+"Inscritos": "78",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "37"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "60",
-"Inscritos": "33",
+"Inscritos": "37",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242B3": {
-"C\u00f3digo da Turma": "20242B3",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  10:00  12:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  10:00  12:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "41",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "60",
-"Inscritos": "41",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N1": {
-"C\u00f3digo da Turma": "20242N1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "70",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "60",
-"Inscritos": "70",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242PN": {
-"C\u00f3digo da Turma": "20242PN",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qui  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "63",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "40",
-"Inscritos": "43",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "20",
-"Inscritos": "20",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "37"
 }
 }
 }
@@ -275,7 +187,70 @@
 "docentes": [
 "3682251 - Gabrielle Weber Martins"
 ],
-"oferecimento": {}
+"oferecimento": {
+"20242T1": {
+"C\u00f3digo da Turma": "20242T1",
+"In\u00edcio": "05/08/2024",
+"Fim": "12/12/2024",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " sex  14:00  18:00 ",
+"prof": "Fl\u00e1vio Jos\u00e9 da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "60",
+"Pendentes": "0",
+"Matriculados": "60"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "7",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "7",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "7",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "7",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "7",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "12",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "13",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1038": {
 "sigla": "LOB1038",
@@ -316,126 +291,21 @@
 "aulas": {
 "h0": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Marcelo Rodrigues de Holanda "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "25",
+"Inscritos": "53",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "27"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
-"Inscritos": "25",
+"Inscritos": "27",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242B1": {
-"C\u00f3digo da Turma": "20242B1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " ter  08:00  10:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "40",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
-"Inscritos": "40",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N2": {
-"C\u00f3digo da Turma": "20242N2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qua  21:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "29",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "40",
-"Inscritos": "29",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N3": {
-"C\u00f3digo da Turma": "20242N3",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"Observa\u00e7\u00f5es": "",
-"aulas": {
-"h0": {
-"horario": " qua  19:00  21:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "43",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "40",
-"Inscritos": "43",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242P4": {
-"C\u00f3digo da Turma": "20242P4",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " seg  19:00  21:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "40",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "27"
 }
 }
 }
@@ -471,7 +341,7 @@
 "docentes": [
 "5840514 - Graziela Zamponi"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3018": {
 "sigla": "LOM3018",
@@ -504,7 +374,7 @@
 "984972 - Hugo Ricardo Zschommler Sandim",
 "7459752 - Maria Ismenia Sodero Toledo Faria"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3204": {
 "sigla": "LOM3204",
@@ -552,21 +422,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "30",
-"Inscritos": "19",
+"Inscritos": "22",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "21"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "29",
-"Inscritos": "19",
+"Inscritos": "20",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "20"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 }
 }
 }
@@ -603,7 +473,7 @@
 "5817344 - Livia Melo Carneiro",
 "6310296 - Patr\u00edcia Caroline Molgero Da R\u00f3s"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOB1004": {
 "sigla": "LOB1004",
@@ -655,185 +525,25 @@
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
-"prof": " "
+"prof": "Ant\u00f4nio S\u00e9rgio Cobianchi "
 },
 "h1": {
 "horario": " qui  16:00  18:00 ",
-"prof": " "
+"prof": "Ant\u00f4nio S\u00e9rgio Cobianchi "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "25",
+"Inscritos": "28",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "27"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "60",
-"Inscritos": "25",
+"Inscritos": "22",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242BD": {
-"C\u00f3digo da Turma": "20242BD",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  14:00  16:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  14:00  16:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "30",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
-"Inscritos": "15",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "20",
-"Inscritos": "15",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242D1": {
-"C\u00f3digo da Turma": "20242D1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  14:00  16:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  14:00  16:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "43",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "60",
-"Inscritos": "43",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242FM": {
-"C\u00f3digo da Turma": "20242FM",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  16:00  18:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  16:00  18:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "49",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "30",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "30",
-"Inscritos": "26",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N3": {
-"C\u00f3digo da Turma": "20242N3",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "61",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "60",
-"Inscritos": "61",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242PN": {
-"C\u00f3digo da Turma": "20242PN",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " sex  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "56",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "40",
-"Inscritos": "30",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "20",
-"Inscritos": "26",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "22"
 }
 }
 }
@@ -879,74 +589,23 @@
 "aulas": {
 "h0": {
 "horario": " qua  08:00  10:00 ",
-"prof": " "
+"prof": "Henrique Ot\u00e1vio Queiroz de Aquino "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "59",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
 "Vagas": "56",
-"Inscritos": "17",
+"Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242M1": {
-"C\u00f3digo da Turma": "20242M1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"Observa\u00e7\u00f5es": "",
-"aulas": {
-"h0": {
-"horario": " qui  10:00  12:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "44",
-"Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "41",
-"Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 },
 "EEL - Engenharia Ambiental": {
+"Vagas": "14",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "13"
+},
+"EEL - Engenharia  de Materiais": {
 "Vagas": "1",
 "Inscritos": "0",
 "Pendentes": "0",
@@ -965,7 +624,13 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
+"Vagas": "4",
+"Inscritos": "4",
+"Pendentes": "0",
+"Matriculados": "4"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
@@ -1024,31 +689,31 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "(R) Denize Kalempa "
 },
 "h1": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "(R) Denize Kalempa "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "10",
+"Inscritos": "47",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "38"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "53",
-"Inscritos": "10",
+"Vagas": "32",
+"Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "11"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "7",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
@@ -1057,94 +722,28 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "2",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "10",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "10"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "6",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "2",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242D2": {
-"C\u00f3digo da Turma": "20242D2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  10:00  12:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  10:00  12:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "61",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "60",
-"Inscritos": "61",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242FM": {
-"C\u00f3digo da Turma": "20242FM",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  08:00  10:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  08:00  10:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "40",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "30",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "30",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 }
 }
 }
@@ -1195,191 +794,25 @@
 "aulas": {
 "h0": {
 "horario": " ter  14:00  16:00 ",
-"prof": " "
+"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
 },
 "h1": {
 "horario": " qui  14:00  16:00 ",
-"prof": " "
+"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "30",
+"Inscritos": "47",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "47"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "60",
-"Inscritos": "30",
+"Inscritos": "34",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242BD": {
-"C\u00f3digo da Turma": "20242BD",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  16:00  18:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  16:00  18:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "59",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
-"Inscritos": "33",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "20",
-"Inscritos": "26",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242D1": {
-"C\u00f3digo da Turma": "20242D1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  16:00  18:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  16:00  18:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "40",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "60",
-"Inscritos": "40",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242FM": {
-"C\u00f3digo da Turma": "20242FM",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  14:00  16:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  14:00  16:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "50",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "30",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "30",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N3": {
-"C\u00f3digo da Turma": "20242N3",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qui  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "70",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "60",
-"Inscritos": "70",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242PN": {
-"C\u00f3digo da Turma": "20242PN",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "44",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "39",
-"Inscritos": "33",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "1",
-"Inscritos": "11",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "20",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "34"
 }
 }
 }
@@ -1435,27 +868,27 @@
 "aulas": {
 "h0": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Jo\u00e3o Bosco Nunes Romeiro "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "18",
+"Inscritos": "20",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "20"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "36",
-"Inscritos": "18",
+"Vagas": "34",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
@@ -1464,66 +897,16 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242M1": {
-"C\u00f3digo da Turma": "20242M1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " ter  10:00  12:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "19",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "36",
-"Inscritos": "19",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 }
 }
 }
@@ -1568,83 +951,39 @@
 "aulas": {
 "h0": {
 "horario": " qua  14:00  16:00 ",
-"prof": " "
+"prof": "Mauricio Lamano Ferreira "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "19",
+"Inscritos": "40",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "39"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "40",
-"Inscritos": "19",
+"Vagas": "20",
+"Inscritos": "20",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "20"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "7",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "9",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N2": {
-"C\u00f3digo da Turma": "20242N2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  19:00  21:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "49",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "56",
-"Inscritos": "49",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "9"
 }
 }
 }
@@ -1703,15 +1042,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "27",
+"Inscritos": "24",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "23"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "27",
+"Inscritos": "23",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "23"
 }
 }
 }
@@ -1764,15 +1103,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "23",
+"Inscritos": "25",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "24"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "23",
+"Inscritos": "24",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "24"
 }
 }
 }
@@ -1832,195 +1171,13 @@
 "Vagas": "40",
 "Inscritos": "21",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "19"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
-"Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242B6": {
-"C\u00f3digo da Turma": "20242B6",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qui  08:00  10:00 ",
-"prof": "Livia Melo Carneiro "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "41",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
-"Inscritos": "41",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242D1": {
-"C\u00f3digo da Turma": "20242D1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qua  08:00  10:00 ",
-"prof": "Livia Melo Carneiro "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "40",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242D2": {
-"C\u00f3digo da Turma": "20242D2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qua  10:00  12:00 ",
-"prof": "Maria L\u00facia Caetano Pinto da Silva "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "35",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "40",
-"Inscritos": "35",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242F5": {
-"C\u00f3digo da Turma": "20242F5",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " seg  14:00  16:00 ",
-"prof": "Antonio Aar\u00e3o Serra "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
 "Inscritos": "17",
 "Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "40",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242M4": {
-"C\u00f3digo da Turma": "20242M4",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qua  08:00  10:00 ",
-"prof": "H\u00e9lcio Jos\u00e9 Iz\u00e1rio Filho "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "24",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "40",
-"Inscritos": "24",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N7": {
-"C\u00f3digo da Turma": "20242N7",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qua  19:00  21:00 ",
-"prof": "Isabel Cristina Coelho Calegao "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "35",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "40",
-"Inscritos": "35",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N8": {
-"C\u00f3digo da Turma": "20242N8",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qua  21:00  23:00 ",
-"prof": "Isabel Cristina Coelho Calegao "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "32",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "40",
-"Inscritos": "32",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "17"
 }
 }
 }
@@ -2076,163 +1233,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "22",
+"Inscritos": "36",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "35"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "60",
-"Inscritos": "22",
+"Inscritos": "20",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242BD": {
-"C\u00f3digo da Turma": "20242BD",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  14:00  16:00 ",
-"prof": "Livia Melo Carneiro "
-},
-"h1": {
-"horario": " qua  14:00  16:00 ",
-"prof": "Livia Melo Carneiro "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "73",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
-"Inscritos": "44",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "20",
-"Inscritos": "29",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242D1": {
-"C\u00f3digo da Turma": "20242D1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  16:00  18:00 ",
-"prof": "(R) Larissa de Freitas "
-},
-"h1": {
-"horario": " qua  16:00  18:00 ",
-"prof": "(R) Larissa de Freitas "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "44",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "60",
-"Inscritos": "44",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242M3": {
-"C\u00f3digo da Turma": "20242M3",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  16:00  18:00 ",
-"prof": "Eliane Corr\u00eaa Pedrozo "
-},
-"h1": {
-"horario": " qua  16:00  18:00 ",
-"prof": "Eliane Corr\u00eaa Pedrozo "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "60",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N4": {
-"C\u00f3digo da Turma": "20242N4",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " sex  19:00  23:00 ",
-"prof": "Patr\u00edcia Caroline Molgero Da R\u00f3s "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "54",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "60",
-"Inscritos": "54",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N5": {
-"C\u00f3digo da Turma": "20242N5",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  19:00  23:00 ",
-"prof": "Eliane Corr\u00eaa Pedrozo "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "60",
-"Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "20"
 }
 }
 }
@@ -2283,93 +1292,31 @@
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
-"prof": " "
+"prof": "Adriano Francisco Siqueira "
 },
 "h1": {
 "horario": " qui  16:00  18:00 ",
-"prof": " "
+"prof": "Adriano Francisco Siqueira "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "45",
+"Vagas": "71",
+"Inscritos": "71",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "71"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "30",
-"Inscritos": "25",
+"Inscritos": "28",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "28"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "30",
-"Inscritos": "20",
+"Inscritos": "19",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N1": {
-"C\u00f3digo da Turma": "20242N1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qua  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "37",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "53",
-"Inscritos": "37",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "19"
 }
 }
 }
@@ -2420,267 +1367,55 @@
 "aulas": {
 "h0": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "Fernando Catalani "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "12",
+"Inscritos": "22",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "17"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "32",
-"Inscritos": "12",
+"Vagas": "6",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "5",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "5"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "2",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
 "Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242B2": {
-"C\u00f3digo da Turma": "20242B2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qui  10:00  12:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "12",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "32",
-"Inscritos": "12",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N3": {
-"C\u00f3digo da Turma": "20242N3",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " sex  21:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "8",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "33",
-"Inscritos": "8",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N4": {
-"C\u00f3digo da Turma": "20242N4",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " sex  19:00  21:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "19",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "33",
-"Inscritos": "19",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242P5": {
-"C\u00f3digo da Turma": "20242P5",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " seg  19:00  21:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "32",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "40",
-"Inscritos": "32",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2733,57 +1468,57 @@
 "aulas": {
 "h0": {
 "horario": " seg  08:00  12:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "60",
+"Inscritos": "67",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "54"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "7",
-"Inscritos": "1",
+"Vagas": "0",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "7",
-"Inscritos": "10",
+"Vagas": "8",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "7",
+"Vagas": "8",
 "Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "7",
-"Inscritos": "10",
+"Vagas": "8",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "7",
-"Inscritos": "11",
+"Vagas": "8",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "12",
-"Inscritos": "6",
+"Vagas": "14",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "13",
-"Inscritos": "16",
+"Vagas": "14",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 }
 }
 }
@@ -2839,221 +1574,61 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Carlos Renato Menegatti "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Carlos Renato Menegatti "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "10",
+"Inscritos": "60",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "60"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "52",
-"Inscritos": "10",
+"Vagas": "13",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "8",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "8",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "12",
+"Inscritos": "12",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "12"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "13",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242B2": {
-"C\u00f3digo da Turma": "20242B2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  08:00  10:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  08:00  10:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "14",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "52",
-"Inscritos": "14",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N3": {
-"C\u00f3digo da Turma": "20242N3",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qui  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "22",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "53",
-"Inscritos": "22",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242PN": {
-"C\u00f3digo da Turma": "20242PN",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qua  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "31",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "40",
-"Inscritos": "14",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "20",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 }
 }
 }
@@ -3098,7 +1673,7 @@
 "984972 - Hugo Ricardo Zschommler Sandim",
 "7459752 - Maria Ismenia Sodero Toledo Faria"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3037": {
 "sigla": "LOM3037",
@@ -3137,7 +1712,7 @@
 "5840963 - Daniela Camargo Vernilli",
 "1922320 - Sebastiao Ribeiro"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3056": {
 "sigla": "LOM3056",
@@ -3176,7 +1751,7 @@
 "5840897 - Clodoaldo Saron",
 "1033242 - F\u00e1bio Herbst Florenzano"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3105": {
 "sigla": "LOM3105",
@@ -3209,7 +1784,7 @@
 "1176388 - Luiz Tadeu Fernandes Eleno",
 "7797767 - Viktor Pastoukhov"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOQ4246": {
 "sigla": "LOQ4246",
@@ -3241,7 +1816,7 @@
 "docentes": [
 "5840535 - Messias Borges Silva"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOB1006": {
 "sigla": "LOB1006",
@@ -3293,336 +1868,31 @@
 "aulas": {
 "h0": {
 "horario": " ter  14:00  16:00 ",
-"prof": " "
+"prof": "Ira\u00eddes Aparecida de Castro Villela "
 },
 "h1": {
 "horario": " qui  14:00  16:00 ",
-"prof": " "
+"prof": "Ira\u00eddes Aparecida de Castro Villela "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "30",
-"Inscritos": "9",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "30",
-"Inscritos": "4",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242BD": {
-"C\u00f3digo da Turma": "20242BD",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  16:00  18:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  16:00  18:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "41",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "34",
-"Inscritos": "20",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "20",
 "Inscritos": "21",
 "Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "20"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242CI": {
-"C\u00f3digo da Turma": "20242CI",
-"In\u00edcio": "03/07/2024",
-"Fim": "28/07/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"Observa\u00e7\u00f5es": "",
-"aulas": {
-"h0": {
-"horario": " seg  14:00  18:00 ",
-"prof": "(R) Juan Fernando Zapata Zapata "
-},
-"h1": {
-"horario": " ter  14:00  18:00 ",
-"prof": "(R) Juan Fernando Zapata Zapata "
-},
-"h2": {
-"horario": " qua  14:00  18:00 ",
-"prof": "(R) Juan Fernando Zapata Zapata "
-},
-"h3": {
-"horario": " qui  14:00  18:00 ",
-"prof": "(R) Juan Fernando Zapata Zapata "
-},
-"h4": {
-"horario": " sex  14:00  18:00 ",
-"prof": "(R) Juan Fernando Zapata Zapata "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "61",
-"Inscritos": "61",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "7",
+"Vagas": "30",
 "Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "6",
-"Inscritos": "6",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "12",
-"Inscritos": "12",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "3",
-"Inscritos": "3",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "1",
+"Vagas": "30",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "14",
-"Inscritos": "14",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "18",
-"Inscritos": "18",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242D1": {
-"C\u00f3digo da Turma": "20242D1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  16:00  18:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qui  16:00  18:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "33",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "53",
-"Inscritos": "33",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N2": {
-"C\u00f3digo da Turma": "20242N2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "26",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "53",
-"Inscritos": "26",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242PN": {
-"C\u00f3digo da Turma": "20242PN",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qui  19:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "50",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "40",
-"Inscritos": "32",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "20",
-"Inscritos": "18",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 }
 }
 }
@@ -3673,163 +1943,51 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "Fernando Catalani "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "21",
+"Inscritos": "39",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "37"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "54",
-"Inscritos": "21",
+"Vagas": "24",
+"Inscritos": "24",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "24"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "5",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "5"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242DM": {
-"C\u00f3digo da Turma": "20242DM",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  10:00  12:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "37",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "35",
-"Inscritos": "4",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "20",
-"Inscritos": "33",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242P2": {
-"C\u00f3digo da Turma": "20242P2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  21:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "11",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "53",
-"Inscritos": "11",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 }
 }
 }
@@ -3896,15 +2054,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "8",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "8",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 }
 }
 }
@@ -3963,15 +2121,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "30",
-"Inscritos": "19",
+"Inscritos": "20",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "19"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "30",
 "Inscritos": "19",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "19"
 }
 }
 }
@@ -4039,15 +2197,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "30",
-"Inscritos": "11",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "30",
-"Inscritos": "11",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 }
 }
 }
@@ -4105,15 +2263,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "30",
-"Inscritos": "14",
+"Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "10"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "30",
-"Inscritos": "14",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "10"
 }
 }
 }
@@ -4173,15 +2331,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "10",
+"Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "11"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "10",
+"Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "11"
 }
 }
 }
@@ -4242,13 +2400,13 @@
 "Vagas": "45",
 "Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "15"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
 "Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "15"
 }
 }
 }
@@ -4300,133 +2458,39 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "17",
+"Inscritos": "60",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "53"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "54",
-"Inscritos": "17",
+"Vagas": "18",
+"Inscritos": "16",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "16"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "9",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "4",
+"Inscritos": "4",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "4"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "12",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "9"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "17",
+"Inscritos": "16",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N1": {
-"C\u00f3digo da Turma": "20242N1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " sex  19:00  21:00 ",
-"prof": "(R) Herland\u00ed de Souza Andrade "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "56",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242PN": {
-"C\u00f3digo da Turma": "20242PN",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " sex  21:00  23:00 ",
-"prof": "(R) Herland\u00ed de Souza Andrade "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "25",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "36",
-"Inscritos": "12",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "20",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "16"
 }
 }
 }
@@ -4469,7 +2533,7 @@
 "5009972 - Gilberto Carvalho Coelho",
 "984972 - Hugo Ricardo Zschommler Sandim"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3005": {
 "sigla": "LOM3005",
@@ -4509,7 +2573,7 @@
 "5009972 - Gilberto Carvalho Coelho",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3049": {
 "sigla": "LOM3049",
@@ -4556,18 +2620,24 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "23",
+"Inscritos": "30",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "30"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "44",
-"Inscritos": "23",
+"Vagas": "39",
+"Inscritos": "24",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "24"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
+"Vagas": "6",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "6"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
@@ -4613,7 +2683,7 @@
 "5840897 - Clodoaldo Saron",
 "1033242 - F\u00e1bio Herbst Florenzano"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3082": {
 "sigla": "LOM3082",
@@ -4652,7 +2722,7 @@
 "5983729 - Fernando Vernilli Junior",
 "1922320 - Sebastiao Ribeiro"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3085": {
 "sigla": "LOM3085",
@@ -4693,7 +2763,7 @@
 "6495737 - Durval Rodrigues Junior",
 "984972 - Hugo Ricardo Zschommler Sandim"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3089": {
 "sigla": "LOM3089",
@@ -4731,7 +2801,7 @@
 "docentes": [
 "519033 - Carlos Yujiro Shigue"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3113": {
 "sigla": "LOM3113",
@@ -4770,7 +2840,7 @@
 "3577649 - Carlos Angelo Nunes",
 "1922320 - Sebastiao Ribeiro"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3011": {
 "sigla": "LOM3011",
@@ -4831,15 +2901,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "15",
+"Inscritos": "19",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "18"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "15",
+"Inscritos": "18",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "18"
 }
 }
 }
@@ -4896,25 +2966,25 @@
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
-"prof": "(R) Miguel Justino Ribeiro Barboza "
+"prof": "(R) Maria Ismenia Sodero Toledo Faria "
 },
 "h1": {
-"horario": " qui  16:00  18:00 ",
-"prof": "(R) Miguel Justino Ribeiro Barboza "
+"horario": "(R) Miguel Justino Ribeiro Barboza   qui  16:00",
+"prof": " 18:00 "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "34",
+"Inscritos": "37",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "36"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "34",
+"Inscritos": "36",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "36"
 }
 }
 }
@@ -4976,15 +3046,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "16",
+"Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "16",
+"Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 }
 }
 }
@@ -5048,13 +3118,13 @@
 "Vagas": "45",
 "Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "11"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
 "Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "11"
 }
 }
 }
@@ -5099,21 +3169,21 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "27",
+"Inscritos": "30",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "30"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "27",
+"Inscritos": "30",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "30"
 }
 }
 }
@@ -5173,7 +3243,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "30",
-"Inscritos": "0",
+"Inscritos": "5",
 "Pendentes": "0",
 "Matriculados": "0"
 },
@@ -5239,15 +3309,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "12",
+"Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "12",
+"Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 }
 }
 }
@@ -5305,15 +3375,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "13",
+"Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
 "Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 }
 }
 }
@@ -5364,39 +3434,39 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "24",
+"Inscritos": "61",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "57"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "28",
-"Inscritos": "13",
+"Vagas": "15",
+"Inscritos": "12",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "12"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "27",
-"Inscritos": "11",
+"Vagas": "9",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "9"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "2",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "15",
+"Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "15"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "19",
+"Inscritos": "19",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "19"
 }
 }
 }
@@ -5438,7 +3508,7 @@
 "docentes": [
 "5840793 - S\u00e9rgio Schneider"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3008": {
 "sigla": "LOM3008",
@@ -5477,7 +3547,7 @@
 "144651 - Antonio Fernando Sartori",
 "3577649 - Carlos Angelo Nunes"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3027": {
 "sigla": "LOM3027",
@@ -5516,7 +3586,7 @@
 "3577649 - Carlos Angelo Nunes",
 "1922320 - Sebastiao Ribeiro"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3048": {
 "sigla": "LOM3048",
@@ -5555,7 +3625,7 @@
 "5983729 - Fernando Vernilli Junior",
 "1922320 - Sebastiao Ribeiro"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3059": {
 "sigla": "LOM3059",
@@ -5593,7 +3663,7 @@
 "docentes": [
 "5840897 - Clodoaldo Saron"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3087": {
 "sigla": "LOM3087",
@@ -5633,7 +3703,7 @@
 "3577649 - Carlos Angelo Nunes",
 "5009972 - Gilberto Carvalho Coelho"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3096": {
 "sigla": "LOM3096",
@@ -5677,7 +3747,7 @@
 "5840726 - Cristina Bormio Nunes",
 "1341653 - Maria Jos\u00e9 Ramos Sandim"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3110": {
 "sigla": "LOM3110",
@@ -5736,15 +3806,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "1",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "60",
 "Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 }
 }
 }
@@ -5787,7 +3857,7 @@
 "5983729 - Fernando Vernilli Junior",
 "1922320 - Sebastiao Ribeiro"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOB1010": {
 "sigla": "LOB1010",
@@ -5819,7 +3889,7 @@
 "docentes": [
 "6376612 - Daisy Rafaela da Silva"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOB1031": {
 "sigla": "LOB1031",
@@ -5867,128 +3937,45 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Maria Auxiliadora Motta Barreto "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "59",
-"Inscritos": "14",
+"Inscritos": "66",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "57"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "53",
-"Inscritos": "14",
+"Vagas": "18",
+"Inscritos": "18",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "18"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "8",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "4",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "16",
+"Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "15"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "13",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N2": {
-"C\u00f3digo da Turma": "20242N2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  21:00  23:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "60",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "60",
-"Inscritos": "60",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242P3": {
-"C\u00f3digo da Turma": "20242P3",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"Observa\u00e7\u00f5es": "",
-"aulas": {
-"h0": {
-"horario": " seg  19:00  21:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "59",
-"Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "53",
-"Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "13"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
@@ -6039,33 +4026,33 @@
 "aulas": {
 "h0": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Eduardo Ferro dos Santos "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "15",
+"Inscritos": "39",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "37"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "40",
-"Inscritos": "15",
+"Vagas": "17",
+"Inscritos": "16",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "16"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "10",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "9"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "13",
+"Inscritos": "12",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "12"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
@@ -6139,15 +4126,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "7",
+"Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "15"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "7",
+"Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "15"
 }
 }
 }
@@ -6214,15 +4201,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "18",
+"Inscritos": "24",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "19"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "18",
+"Inscritos": "19",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "19"
 }
 }
 }
@@ -6291,15 +4278,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "8",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "5"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "8",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "5"
 }
 }
 }
@@ -6362,15 +4349,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "17",
+"Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "17",
+"Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 }
 }
 }
@@ -6433,15 +4420,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "30",
-"Inscritos": "15",
+"Inscritos": "21",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "17"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "30",
-"Inscritos": "15",
+"Inscritos": "17",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "17"
 }
 }
 }
@@ -6499,15 +4486,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "22",
+"Inscritos": "23",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "23"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "22",
+"Inscritos": "23",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "23"
 }
 }
 }
@@ -6570,15 +4557,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "14",
+"Inscritos": "33",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "18"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "60",
 "Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 }
 }
 }
@@ -6751,7 +4738,7 @@
 "3577649 - Carlos Angelo Nunes",
 "519033 - Carlos Yujiro Shigue"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3050": {
 "sigla": "LOM3050",
@@ -6784,7 +4771,7 @@
 "471420 - Carlos Antonio Reis Pereira Baptista",
 "519033 - Carlos Yujiro Shigue"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3065": {
 "sigla": "LOM3065",
@@ -6823,7 +4810,7 @@
 "5840897 - Clodoaldo Saron",
 "1033242 - F\u00e1bio Herbst Florenzano"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3092": {
 "sigla": "LOM3092",
@@ -6874,7 +4861,7 @@
 "exame": "Ser\u00e3o utilizadas duas notas para compor a nota final sendo: NF=(P1+P2)/2\nP1 e P2 ser\u00e3o avalia\u00e7\u00f5es escritas (eventualmente a P2 poder\u00e1 ser substitu\u00edda por trabalho apresentado por escrito e oral).",
 "bibliografia": "Uma prova escrita (Rec) que ser\u00e1 composta \u00e1 NF para obten\u00e7\u00e3o da m\u00e9dia final (MF) pelo seguinte crit\u00e9rio: \nMF = (Rec+NF)/2",
 "docentes": [],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3102": {
 "sigla": "LOM3102",
@@ -6914,7 +4901,7 @@
 "3480026 - Jo\u00e3o Paulo Pascon",
 "7797767 - Viktor Pastoukhov"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOQ4209": {
 "sigla": "LOQ4209",
@@ -6967,89 +4954,39 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "3",
+"Inscritos": "32",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "25"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "39",
-"Inscritos": "3",
+"Vagas": "21",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
+"Vagas": "0",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "9",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "9"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "4",
+"Inscritos": "4",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "4"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "11",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "0"
-}
-}
-},
-"20242N2": {
-"C\u00f3digo da Turma": "20242N2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  21:00  23:00 ",
-"prof": "Humberto Felipe da Silva "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "55",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "10"
 }
 }
 }
@@ -7085,7 +5022,7 @@
 "docentes": [
 "5840560 - Marco Antonio Carvalho Pereira"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOT2039": {
 "sigla": "LOT2039",
@@ -7133,15 +5070,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "39",
+"Inscritos": "41",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "41"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "39",
+"Inscritos": "41",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "41"
 }
 }
 }
@@ -7184,7 +5121,7 @@
 "519033 - Carlos Yujiro Shigue",
 "5817692 - Katia Cristiane Gandolpho Candioto"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3100": {
 "sigla": "LOM3100",
@@ -7222,7 +5159,7 @@
 "docentes": [
 "7797767 - Viktor Pastoukhov"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3114": {
 "sigla": "LOM3114",
@@ -7260,7 +5197,7 @@
 "docentes": [
 "5840521 - Rosa Ana Conte"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOM3115": {
 "sigla": "LOM3115",
@@ -7302,7 +5239,7 @@
 "aulas": {
 "h0": {
 "horario": " sex  10:00  12:00 ",
-"prof": " "
+"prof": "(R) F\u00e1bio Herbst Florenzano "
 }
 },
 "vagas": {
@@ -7314,9 +5251,9 @@
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
-"Inscritos": "1",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -7359,7 +5296,7 @@
 "471420 - Carlos Antonio Reis Pereira Baptista",
 "3586455 - Cassius Olivio Figueiredo Terra Ruchert"
 ],
-"oferecimento": {}
+"oferecimento": null
 },
 "LOQ4212": {
 "sigla": "LOQ4212",
@@ -7397,6 +5334,6 @@
 "docentes": [
 "5840917 - Fabricio Maciel Gomes"
 ],
-"oferecimento": {}
+"oferecimento": null
 }
 }

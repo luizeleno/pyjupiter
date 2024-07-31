@@ -32,12 +32,12 @@ for curso in cursos:
             disciplinas[key]['tipo'][curso] = tipo
         else:
             disciplinas[key] = data[key]
-        
+
         curso_disc.append(key)
 
     print(curso, end=': ', file=curso_yaml)
     print(curso_disc, file=curso_yaml)
-    
+
     with open(f'disciplinas.yml', 'w') as f:
         rpd.RecursivePrintDict(disciplinas, f)
 

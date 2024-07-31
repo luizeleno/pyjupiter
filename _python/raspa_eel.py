@@ -10,15 +10,15 @@ EQD = 'EQD', '052', '0'
 EQN = 'EQN', '052', '4'
 
 for curso, codigo, hab in [EF, EM, EA, EB, EP, EQD, EQN]:
-# for curso, codigo, hab in [EF, EM]:
-    URL = f'https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&codcur=88{codigo}&codhab={hab}&tipo=N'
+    # for curso, codigo, hab in [EF, EM]:
+    URL = f'https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&codcur=88{
+        codigo}&codhab={hab}&tipo=N'
     print(f"\n#######################\n{curso}#######################\n")
 
     dados = rc.scrape_curso(URL)
 
     # with open(f'{curso}.yml', 'w') as f:
-        # rc.recursive_print_dict(dados, f)
+    # rc.recursive_print_dict(dados, f)
 
     with open(f'{curso}.json', 'w') as f:
         json.dump(dados, f, indent=0)
-    

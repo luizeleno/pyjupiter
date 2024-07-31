@@ -1,6 +1,7 @@
 import re
 import unidecode
 
+
 def RecursivePrintDict(dictio, of, indent=0, start='- '):
     for k, v in dictio.items():
         key = re.sub(r'\s+', '_', f'{k}')
