@@ -11,14 +11,6 @@
     } ,
   
     {
-      "title"     : "LOB1008",
-      "url"       : "/pyjupiter/disciplinas/lob1008.html",
-      "nome"      : " Ciência, Tecnologia e Sociedade",
-      "nomeascii" : " Ciencia, Tecnologia e Sociedade",
-      "docentes"     : "7043088 - Ana Karine Furtado de Carvalho"
-    } ,
-  
-    {
       "title"     : "LOB1018",
       "url"       : "/pyjupiter/disciplinas/lob1018.html",
       "nome"      : " Física I",
@@ -59,6 +51,14 @@
     } ,
   
     {
+      "title"     : "LOM3270",
+      "url"       : "/pyjupiter/disciplinas/lom3270.html",
+      "nome"      : " Matemática Preliminar",
+      "nomeascii" : " Matematica Preliminar",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOQ4100",
       "url"       : "/pyjupiter/disciplinas/loq4100.html",
       "nome"      : " Fundamentos de Química para Engenharia I-B",
@@ -85,7 +85,7 @@
     {
       "title"     : "LOB1037",
       "url"       : "/pyjupiter/disciplinas/lob1037.html",
-      "nome"      : " Àlgebra Linear",
+      "nome"      : " Álgebra Linear",
       "nomeascii" : " Algebra Linear",
       "docentes"     : "3682251 - Gabrielle Weber Martins"
     } ,
@@ -99,11 +99,11 @@
     } ,
   
     {
-      "title"     : "LOB1045",
-      "url"       : "/pyjupiter/disciplinas/lob1045.html",
-      "nome"      : " Leitura e Produção de Textos Acadêmicos",
-      "nomeascii" : " Leitura e Producao de Textos Academicos",
-      "docentes"     : "5840514 - Graziela Zamponi"
+      "title"     : "LOM3037",
+      "url"       : "/pyjupiter/disciplinas/lom3037.html",
+      "nome"      : " Química Inorgânica",
+      "nomeascii" : " Quimica Inorganica",
+      "docentes"     : "5840963 - Daniela Camargo Vernilli1922320 - Sebastiao Ribeiro"
     } ,
   
     {
@@ -112,14 +112,6 @@
       "nome"      : " Desenho Técnico e Projeto Assistido por Computador",
       "nomeascii" : " Desenho Tecnico e Projeto Assistido por Computador",
       "docentes"     : "519033 - Carlos Yujiro Shigue5817692 - Katia Cristiane Gandolpho Candioto"
-    } ,
-  
-    {
-      "title"     : "LOM3240",
-      "url"       : "/pyjupiter/disciplinas/lom3240.html",
-      "nome"      : " Química Inorgânica Fundamental e Aplicada",
-      "nomeascii" : " Quimica Inorganica Fundamental e Aplicada",
-      "docentes"     : "5840963 - Daniela Camargo Vernilli"
     } ,
   
     {
@@ -315,14 +307,6 @@
     } ,
   
     {
-      "title"     : "LOQ4234",
-      "url"       : "/pyjupiter/disciplinas/loq4234.html",
-      "nome"      : " Empreendedorismo e Inovação",
-      "nomeascii" : " Empreendedorismo e Inovacao",
-      "docentes"     : "11079086 - Herlandí de Souza Andrade"
-    } ,
-  
-    {
       "title"     : "LOM3049",
       "url"       : "/pyjupiter/disciplinas/lom3049.html",
       "nome"      : " Termodinâmica de Máquinas",
@@ -379,6 +363,14 @@
     } ,
   
     {
+      "title"     : "LOM3095",
+      "url"       : "/pyjupiter/disciplinas/lom3095.html",
+      "nome"      : " Tecnologias Limpas para Geração de Energia",
+      "nomeascii" : " Tecnologias Limpas para Geracao de Energia",
+      "docentes"     : "5840963 - Daniela Camargo Vernilli5840521 - Rosa Ana Conte"
+    } ,
+  
+    {
       "title"     : "LOM3223",
       "url"       : "/pyjupiter/disciplinas/lom3223.html",
       "nome"      : " Materiais e Dispositivos Magnéticos e Supercondutores",
@@ -411,14 +403,6 @@
     } ,
   
     {
-      "title"     : "LOQ4257",
-      "url"       : "/pyjupiter/disciplinas/loq4257.html",
-      "nome"      : " Gestão de Projetos",
-      "nomeascii" : " Gestao de Projetos",
-      "docentes"     : "5840917 - Fabricio Maciel Gomes"
-    } ,
-  
-    {
       "title"     : "LOM3219",
       "url"       : "/pyjupiter/disciplinas/lom3219.html",
       "nome"      : " Introdução à Nanotecnologia",
@@ -443,35 +427,11 @@
     } ,
   
     {
-      "title"     : "LOM3266",
-      "url"       : "/pyjupiter/disciplinas/lom3266.html",
-      "nome"      : " Fotônica Integrada",
-      "nomeascii" : " Fotonica Integrada",
-      "docentes"     : "519033 - Carlos Yujiro Shigue7290967 - Emerson Gonçalves de Melo"
-    } ,
-  
-    {
       "title"     : "LOM3267",
       "url"       : "/pyjupiter/disciplinas/lom3267.html",
       "nome"      : " Trabalho de Graduação I",
       "nomeascii" : " Trabalho de Graduacao I",
       "docentes"     : "5840730 - Antonio Jefferson da Silva Machado1176388 - Luiz Tadeu Fernandes Eleno"
-    } ,
-  
-    {
-      "title"     : "LOQ4209",
-      "url"       : "/pyjupiter/disciplinas/loq4209.html",
-      "nome"      : " Engenharia da Qualidade",
-      "nomeascii" : " Engenharia da Qualidade",
-      "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
-      "title"     : "LOB1010",
-      "url"       : "/pyjupiter/disciplinas/lob1010.html",
-      "nome"      : " Direito  Aplicado à Engenharia",
-      "nomeascii" : " Direito  Aplicado a Engenharia",
-      "docentes"     : "6376612 - Daisy Rafaela da Silva"
     } ,
   
     {
@@ -496,6 +456,30 @@
       "nome"      : " Estágio Supervisionado",
       "nomeascii" : " Estagio Supervisionado",
       "docentes"     : "1176388 - Luiz Tadeu Fernandes Eleno"
+    } ,
+  
+    {
+      "title"     : "LOB1008",
+      "url"       : "/pyjupiter/disciplinas/lob1008.html",
+      "nome"      : " Ciência, Tecnologia e Sociedade",
+      "nomeascii" : " Ciencia, Tecnologia e Sociedade",
+      "docentes"     : "7043088 - Ana Karine Furtado de Carvalho"
+    } ,
+  
+    {
+      "title"     : "LOM3271",
+      "url"       : "/pyjupiter/disciplinas/lom3271.html",
+      "nome"      : " Tutoria Acadêmica em Engenharia Física I",
+      "nomeascii" : " Tutoria Academica em Engenharia Fisica I",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3272",
+      "url"       : "/pyjupiter/disciplinas/lom3272.html",
+      "nome"      : " Tutoria Acadêmica em Engenharia Física II",
+      "nomeascii" : " Tutoria Academica em Engenharia Fisica II",
+      "docentes"     : ""
     } ,
   
     {
@@ -539,19 +523,19 @@
     } ,
   
     {
+      "title"     : "LOQ4234",
+      "url"       : "/pyjupiter/disciplinas/loq4234.html",
+      "nome"      : " Empreendedorismo e Inovação",
+      "nomeascii" : " Empreendedorismo e Inovacao",
+      "docentes"     : "11079086 - Herlandí de Souza Andrade"
+    } ,
+  
+    {
       "title"     : "LOM3106",
       "url"       : "/pyjupiter/disciplinas/lom3106.html",
       "nome"      : " Ciência dos Materiais Computacional",
       "nomeascii" : " Ciencia dos Materiais Computacional",
       "docentes"     : "3480026 - João Paulo Pascon1176388 - Luiz Tadeu Fernandes Eleno"
-    } ,
-  
-    {
-      "title"     : "LOM3095",
-      "url"       : "/pyjupiter/disciplinas/lom3095.html",
-      "nome"      : " Tecnologias Limpas para Geração de Energia",
-      "nomeascii" : " Tecnologias Limpas para Geracao de Energia",
-      "docentes"     : "5840963 - Daniela Camargo Vernilli5840521 - Rosa Ana Conte"
     } ,
   
     {
@@ -587,11 +571,19 @@
     } ,
   
     {
+      "title"     : "LOQ4257",
+      "url"       : "/pyjupiter/disciplinas/loq4257.html",
+      "nome"      : " Gestão de Projetos",
+      "nomeascii" : " Gestao de Projetos",
+      "docentes"     : "5840917 - Fabricio Maciel Gomes"
+    } ,
+  
+    {
       "title"     : "LOM3066",
       "url"       : "/pyjupiter/disciplinas/lom3066.html",
       "nome"      : " Materiais Compósitos",
       "nomeascii" : " Materiais Compositos",
-      "docentes"     : "519033 - Carlos Yujiro Shigue1033242 - Fábio Herbst Florenzano1922320 - Sebastiao Ribeiro"
+      "docentes"     : "519033 - Carlos Yujiro Shigue3586455 - Cassius Olivio Figueiredo Terra Ruchert1033242 - Fábio Herbst Florenzano1922320 - Sebastiao Ribeiro"
     } ,
   
     {
@@ -600,6 +592,22 @@
       "nome"      : " Tópicos Especiais em Engenharia Física II",
       "nomeascii" : " Topicos Especiais em Engenharia Fisica II",
       "docentes"     : "5840730 - Antonio Jefferson da Silva Machado"
+    } ,
+  
+    {
+      "title"     : "LOM3266",
+      "url"       : "/pyjupiter/disciplinas/lom3266.html",
+      "nome"      : " Fotônica Integrada",
+      "nomeascii" : " Fotonica Integrada",
+      "docentes"     : "519033 - Carlos Yujiro Shigue7290967 - Emerson Gonçalves de Melo"
+    } ,
+  
+    {
+      "title"     : "LOQ4209",
+      "url"       : "/pyjupiter/disciplinas/loq4209.html",
+      "nome"      : " Engenharia da Qualidade",
+      "nomeascii" : " Engenharia da Qualidade",
+      "docentes"     : "5840535 - Messias Borges Silva"
     } ,
   
     {
@@ -643,11 +651,11 @@
     } ,
   
     {
-      "title"     : "LOM3104",
-      "url"       : "/pyjupiter/disciplinas/lom3104.html",
-      "nome"      : " Projeto Integrado em Engenharia de Materiais I",
-      "nomeascii" : " Projeto Integrado em Engenharia de Materiais I",
-      "docentes"     : "7459752 - Maria Ismenia Sodero Toledo Faria2166002 - Sandra Giacomin Schneider1922320 - Sebastiao Ribeiro"
+      "title"     : "LOM3121",
+      "url"       : "/pyjupiter/disciplinas/lom3121.html",
+      "nome"      : " Atividade Extensionista I",
+      "nomeascii" : " Atividade Extensionista I",
+      "docentes"     : "Desenvolver atividades em processo interdisciplinar, político-educacional, cultural, científico, tecnológico, que promovam a interação transformadora do ensino superior, e para os outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa. Desenvolver atividades de extensão intervenções que envolvem diretamente as comunidades externas às instituições de ensino superior e que estejam vinculadas à sua formação e de demais pessoas da sociedade civil, atendendo resoluções próprias que promovam a integração e a interdisciplinaridade, de modo coerente com o eixo de desenvolvimento curricular, para integrar as dimensões técnicas, científicas, econômicas, sociais, ambientais e éticas.Interagir com a sociedade por meio da troca de conhecimentos, da participação e do contato com as questões contemporâneas com vistas ao desenvolvimento econômico, social e cultural. Produzir mudanças na própria instituição superior e nos demais setores da sociedade, a partir da construção e aplicação de conhecimentos, bem como por outras atividades acadêmicas e sociais. Promover a reflexão ética quanto à dimensão social do ensino e da pesquisa.Apresentação da disciplina. Conceitos de prática extensionista. Tipos de prática extensionista: programas, projetos (vinculados ou não a programas), cursos, eventos ou prestação de serviços ou produtos. Estudos de casos de práticas extensionistas exitosas.Elaboração, desenvolvimento, apresentação e publicação de projetos de extensão supervisionados. Compreender a importância da formação cidadã e pessoal constituído pela vivência dos seus conhecimentos que, de modo interprofissional e interdisciplinar. Compreender a importância da articulação entre ensino/extensão/pesquisa, ancorada em processo pedagógico único, interdisciplinar, político educacional, cultural, científico e tecnológico. Compreender a importância de estabelecer diálogo construtivo e transformador com os demais setores da sociedade, respeitando e promovendo a interculturalidade. Compreender a importância da promoção de iniciativas que expressem o compromisso social das instituições de ensino superior com todas as áreas, em especial, as de comunicação, cultura, direitos humanos e justiça, educação, meio ambiente, saúde, tecnologia, produção e trabalho, em consonância com as políticas ligadas aos objetivos do milênio, às diretrizes para a educação ambiental, educação étnico-racial, direitos humanos e educação indígena. Metodologias para elaboração e operacionalização de projetos, instrumental teórico-prático para a pesquisa, coleta, sistematização, análise dos dados e atividade prática social.Aulas expositivas com interação via Canal de Tutoria, no formato on-line ou presencial. Esclarecimento de dúvidas e realização de discussões via Canal de tutoria com o professor da disciplina. Indicação de material de estudo em Rota de Aprendizagem e Vídeo Aulas. Indicação de referências bibliográficas e audiovisuais para ampliação do conhecimento.Aulas expositivas interativas online e/ou presencial. Atividade prática utilizando softwares específicos. Aulas dialogadas em grupo, desenvolvidas para referencial teórico do conteúdo curricular. Os estudantes serão divididos em grupos (3 a 4 pessoas) e, coletivamente, serão definidos temas para a realização da atividade para discussão e estudo de casos exitosos de práticas extensionistas. Vídeos temáticos de experiências extensionistas que servirão de introdução aos temas desenvolvidos nas aulas. Apresentação de atividades de comunicação científica (produção de vídeo e cartilha de comunicação científica).A avaliação será realizada com base nos objetivos propostos, levando-se em conta a análise de relatório a ser apresentado pelo aluno ao término de cada atividade extensionista, após a aplicação de uma autoavaliação realizada pelo público alvo, podendo o tutor da disciplina optar por arguir o aluno sobre o trabalho desenvolvido por ele e sobre o impacto na sociedade."
     } ,
   
     {
@@ -667,27 +675,11 @@
     } ,
   
     {
-      "title"     : "LOM3037",
-      "url"       : "/pyjupiter/disciplinas/lom3037.html",
-      "nome"      : " Química Inorgânica",
-      "nomeascii" : " Quimica Inorganica",
-      "docentes"     : "5840963 - Daniela Camargo Vernilli1922320 - Sebastiao Ribeiro"
-    } ,
-  
-    {
       "title"     : "LOM3056",
       "url"       : "/pyjupiter/disciplinas/lom3056.html",
       "nome"      : " Fundamentos de Química Orgânica",
       "nomeascii" : " Fundamentos de Quimica Organica",
       "docentes"     : "5840897 - Clodoaldo Saron1033242 - Fábio Herbst Florenzano"
-    } ,
-  
-    {
-      "title"     : "LOQ4246",
-      "url"       : "/pyjupiter/disciplinas/loq4246.html",
-      "nome"      : " Engenharia da Sustentabilidade",
-      "nomeascii" : " Engenharia da Sustentabilidade",
-      "docentes"     : "5840535 - Messias Borges Silva"
     } ,
   
     {
@@ -725,9 +717,17 @@
     {
       "title"     : "LOM3108",
       "url"       : "/pyjupiter/disciplinas/lom3108.html",
-      "nome"      : " Projeto Integrado em Engenharia de Materiais II",
-      "nomeascii" : " Projeto Integrado em Engenharia de Materiais II",
+      "nome"      : " Projeto Integrado em Engenharia de Materiais I",
+      "nomeascii" : " Projeto Integrado em Engenharia de Materiais I",
       "docentes"     : "7459752 - Maria Ismenia Sodero Toledo Faria2166002 - Sandra Giacomin Schneider1922320 - Sebastiao Ribeiro"
+    } ,
+  
+    {
+      "title"     : "LOM3109",
+      "url"       : "/pyjupiter/disciplinas/lom3109.html",
+      "nome"      : " Fundamentos da Física Moderna",
+      "nomeascii" : " Fundamentos da Fisica Moderna",
+      "docentes"     : "5840726 - Cristina Bormio Nunes1341653 - Maria José Ramos Sandim"
     } ,
   
     {
@@ -771,26 +771,34 @@
     } ,
   
     {
-      "title"     : "LOM3113",
-      "url"       : "/pyjupiter/disciplinas/lom3113.html",
-      "nome"      : " Tratamentos de Minérios e Hidrometalurgia",
-      "nomeascii" : " Tratamentos de Minerios e Hidrometalurgia",
-      "docentes"     : "3577649 - Carlos Angelo Nunes1922320 - Sebastiao Ribeiro"
+      "title"     : "LOM3122",
+      "url"       : "/pyjupiter/disciplinas/lom3122.html",
+      "nome"      : " Atividade Extensionista II",
+      "nomeascii" : " Atividade Extensionista II",
+      "docentes"     : "Desenvolver atividades em processo interdisciplinar, político-educacional, cultural, científico, tecnológico, que promovam a interação transformadora do ensino superior, e para os outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa. Desenvolver atividades de extensão intervenções que envolvem diretamente as comunidades externas às instituições de ensino superior e que estejam vinculadas à sua formação e de demais pessoas da sociedade civil, atendendo resoluções próprias que promovam a integração e a interdisciplinaridade, de modo coerente com o eixo de desenvolvimento curricular, para integrar as dimensões técnicas, científicas, econômicas, sociais, ambientais e éticas.Interagir com a sociedade por meio da troca de conhecimentos, da participação e do contato com as questões contemporâneas com vistas ao desenvolvimento econômico, social e cultural. Produzir mudanças na própria instituição superior e nos demais setores da sociedade, a partir da construção e aplicação de conhecimentos, bem como por outras atividades acadêmicas e sociais. Promover a reflexão ética quanto à dimensão social do ensino e da pesquisaApresentação da disciplina. Conceitos de prática extensionista. Tipos de prática extensionista: programas, projetos (vinculados ou não a programas), cursos, eventos ou prestação de serviços ou produtos. Estudos de casos de práticas extensionistas exitosas.Elaboração, desenvolvimento, apresentação e publicação de projetos de extensão supervisionados. Compreender a importância da formação cidadã e pessoal constituído pela vivência dos seus conhecimentos que, de modo interprofissional e interdisciplinar. Compreender a importância da articulação entre ensino/extensão/pesquisa, ancorada em processo pedagógico único, interdisciplinar, político educacional, cultural, científico e tecnológico. Compreender a importância de estabelecer diálogo construtivo e transformador com os demais setores da sociedade, respeitando e promovendo a interculturalidade. Compreender a importância da promoção de iniciativas que expressem o compromisso social das instituições de ensino superior com todas as áreas, em especial, as de comunicação, cultura, direitos humanos e justiça, educação, meio ambiente, saúde, tecnologia, produção e trabalho, em consonância com as políticas ligadas aos objetivos do milênio, às diretrizes para a educação ambiental, educação étnico-racial, direitos humanos e educação indígena. Metodologias para elaboração e operacionalização de projetos, instrumental teórico-prático para a pesquisa, coleta, sistematização, análise dos dados e atividade prática social.Aulas expositivas com interação via Canal de Tutoria, no formato on-line ou presencial. Esclarecimento de dúvidas e realização de discussões via Canal de tutoria com o professor da disciplina. Indicação de material de estudo em Rota de Aprendizagem e Vídeo Aulas. Indicação de referências bibliográficas e audiovisuais para ampliação do conhecimento.Aulas expositivas interativas online e/ou presencial. Atividade prática utilizando softwares específicos. Aulas dialogadas em grupo, desenvolvidas para referencial teórico do conteúdo curricular. Os estudantes serão divididos em grupos (3 a 4 pessoas) e, coletivamente, serão definidos temas para a realização da atividade para discussão e estudo de casos exitosos de práticas extensionistas. Vídeos temáticos de experiências extensionistas que servirão de introdução aos temas desenvolvidos nas aulas. Apresentação de atividades de comunicação científica (produção de vídeo e cartilha de comunicação científica).A avaliação será realizada com base nos objetivos propostos, levando-se em conta a análise de relatório a ser apresentado pelo aluno ao término de cada atividade extensionista, após a aplicação de uma autoavaliação realizada pelo público alvo, podendo o tutor da disciplina optar por arguir o aluno sobre o trabalho desenvolvido por ele e sobre o impacto na sociedade."
+    } ,
+  
+    {
+      "title"     : "LOQ4264",
+      "url"       : "/pyjupiter/disciplinas/loq4264.html",
+      "nome"      : " Engenharia da Sustentabilidade",
+      "nomeascii" : " Engenharia da Sustentabilidade",
+      "docentes"     : "5840535 - Messias Borges Silva"
     } ,
   
     {
       "title"     : "LOM3011",
       "url"       : "/pyjupiter/disciplinas/lom3011.html",
-      "nome"      : " Ensaios Mecânicos",
-      "nomeascii" : " Ensaios Mecanicos",
+      "nome"      : " Comportamento Mecânico dos Materiais",
+      "nomeascii" : " Comportamento Mecanico dos Materiais",
       "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista3586455 - Cassius Olivio Figueiredo Terra Ruchert7459752 - Maria Ismenia Sodero Toledo Faria5840793 - Sérgio Schneider"
     } ,
   
     {
       "title"     : "LOM3036",
       "url"       : "/pyjupiter/disciplinas/lom3036.html",
-      "nome"      : " Propriedades Mecânicas",
-      "nomeascii" : " Propriedades Mecanicas",
+      "nome"      : " Metalurgia Física",
+      "nomeascii" : " Metalurgia Fisica",
       "docentes"     : "7459752 - Maria Ismenia Sodero Toledo Faria5840622 - Miguel Justino Ribeiro Barboza"
     } ,
   
@@ -819,27 +827,11 @@
     } ,
   
     {
-      "title"     : "LOM3086",
-      "url"       : "/pyjupiter/disciplinas/lom3086.html",
-      "nome"      : " Laboratório de Engenharia de Materiais II",
-      "nomeascii" : " Laboratorio de Engenharia de Materiais II",
-      "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista5840897 - Clodoaldo Saron1033242 - Fábio Herbst Florenzano5840793 - Sérgio Schneider"
-    } ,
-  
-    {
       "title"     : "LOM3094",
       "url"       : "/pyjupiter/disciplinas/lom3094.html",
       "nome"      : " Processamento de Materiais Metálicos I",
       "nomeascii" : " Processamento de Materiais Metalicos I",
       "docentes"     : "5009972 - Gilberto Carvalho Coelho984972 - Hugo Ricardo Zschommler Sandim"
-    } ,
-  
-    {
-      "title"     : "LOM3109",
-      "url"       : "/pyjupiter/disciplinas/lom3109.html",
-      "nome"      : " Fundamentos da Física Moderna",
-      "nomeascii" : " Fundamentos da Fisica Moderna",
-      "docentes"     : "5840726 - Cristina Bormio Nunes1341653 - Maria José Ramos Sandim"
     } ,
   
     {
@@ -856,22 +848,6 @@
       "nome"      : " Processamento de Materiais Metálicos II",
       "nomeascii" : " Processamento de Materiais Metalicos II",
       "docentes"     : "5840793 - Sérgio Schneider"
-    } ,
-  
-    {
-      "title"     : "LOM3008",
-      "url"       : "/pyjupiter/disciplinas/lom3008.html",
-      "nome"      : " Eletrometalurgia",
-      "nomeascii" : " Eletrometalurgia",
-      "docentes"     : "144651 - Antonio Fernando Sartori3577649 - Carlos Angelo Nunes"
-    } ,
-  
-    {
-      "title"     : "LOM3027",
-      "url"       : "/pyjupiter/disciplinas/lom3027.html",
-      "nome"      : " Pirometalurgia",
-      "nomeascii" : " Pirometalurgia",
-      "docentes"     : "3577649 - Carlos Angelo Nunes1922320 - Sebastiao Ribeiro"
     } ,
   
     {
@@ -893,8 +869,8 @@
     {
       "title"     : "LOM3087",
       "url"       : "/pyjupiter/disciplinas/lom3087.html",
-      "nome"      : " Laboratório de Engenharia de Materiais III",
-      "nomeascii" : " Laboratorio de Engenharia de Materiais III",
+      "nome"      : " Laboratório de Engenharia de Materiais II",
+      "nomeascii" : " Laboratorio de Engenharia de Materiais II",
       "docentes"     : "144651 - Antonio Fernando Sartori3577649 - Carlos Angelo Nunes5009972 - Gilberto Carvalho Coelho"
     } ,
   
@@ -909,8 +885,8 @@
     {
       "title"     : "LOM3110",
       "url"       : "/pyjupiter/disciplinas/lom3110.html",
-      "nome"      : " Projeto Integrado em Engenharia de Materiais III",
-      "nomeascii" : " Projeto Integrado em Engenharia de Materiais III",
+      "nome"      : " Projeto Integrado em Engenharia de Materiais II",
+      "nomeascii" : " Projeto Integrado em Engenharia de Materiais II",
       "docentes"     : "7459752 - Maria Ismenia Sodero Toledo Faria2166002 - Sandra Giacomin Schneider1922320 - Sebastiao Ribeiro"
     } ,
   
@@ -920,6 +896,22 @@
       "nome"      : " Processamento de Cerâmicas Experimental",
       "nomeascii" : " Processamento de Ceramicas Experimental",
       "docentes"     : "5983729 - Fernando Vernilli Junior1922320 - Sebastiao Ribeiro"
+    } ,
+  
+    {
+      "title"     : "LOM3119",
+      "url"       : "/pyjupiter/disciplinas/lom3119.html",
+      "nome"      : " Fadiga e Mecânica da Fratura",
+      "nomeascii" : " Fadiga e Mecanica da Fratura",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3120",
+      "url"       : "/pyjupiter/disciplinas/lom3120.html",
+      "nome"      : " Fundamentos de Engenharia de Superficie",
+      "nomeascii" : " Fundamentos de Engenharia de Superficie",
+      "docentes"     : ""
     } ,
   
     {
@@ -957,8 +949,8 @@
     {
       "title"     : "LOM3088",
       "url"       : "/pyjupiter/disciplinas/lom3088.html",
-      "nome"      : " Laboratório de Engenharia de Materiais IV",
-      "nomeascii" : " Laboratorio de Engenharia de Materiais IV",
+      "nome"      : " Laboratório de Engenharia de Materiais III",
+      "nomeascii" : " Laboratorio de Engenharia de Materiais III",
       "docentes"     : "5840897 - Clodoaldo Saron1033242 - Fábio Herbst Florenzano"
     } ,
   
@@ -968,6 +960,14 @@
       "nome"      : " Processamento de Materiais Metálicos III",
       "nomeascii" : " Processamento de Materiais Metalicos III",
       "docentes"     : "984972 - Hugo Ricardo Zschommler Sandim7459752 - Maria Ismenia Sodero Toledo Faria"
+    } ,
+  
+    {
+      "title"     : "LOM3116",
+      "url"       : "/pyjupiter/disciplinas/lom3116.html",
+      "nome"      : " Análise de Falhas de Materiais e Componentes",
+      "nomeascii" : " Analise de Falhas de Materiais e Componentes",
+      "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista3586455 - Cassius Olivio Figueiredo Terra Ruchert"
     } ,
   
     {
@@ -984,6 +984,30 @@
       "nome"      : " Estágio Supervisionado",
       "nomeascii" : " Estagio Supervisionado",
       "docentes"     : "3577649 - Carlos Angelo Nunes519033 - Carlos Yujiro Shigue"
+    } ,
+  
+    {
+      "title"     : "LOM3117",
+      "url"       : "/pyjupiter/disciplinas/lom3117.html",
+      "nome"      : " Tutoria Acadêmica em Engenharia de Materiais I",
+      "nomeascii" : " Tutoria Academica em Engenharia de Materiais I",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3118",
+      "url"       : "/pyjupiter/disciplinas/lom3118.html",
+      "nome"      : " Tutoria Acadêmica em Engenharia de Materiais II",
+      "nomeascii" : " Tutoria Academica em Engenharia de Materiais II",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOM3027",
+      "url"       : "/pyjupiter/disciplinas/lom3027.html",
+      "nome"      : " Pirometalurgia",
+      "nomeascii" : " Pirometalurgia",
+      "docentes"     : "3577649 - Carlos Angelo Nunes1922320 - Sebastiao Ribeiro"
     } ,
   
     {
@@ -1067,19 +1091,27 @@
     } ,
   
     {
-      "title"     : "LOM3116",
-      "url"       : "/pyjupiter/disciplinas/lom3116.html",
-      "nome"      : " Análise de Falhas de Materiais e Componentes",
-      "nomeascii" : " Analise de Falhas de Materiais e Componentes",
-      "docentes"     : "471420 - Carlos Antonio Reis Pereira Baptista3586455 - Cassius Olivio Figueiredo Terra Ruchert"
-    } ,
-  
-    {
       "title"     : "LOQ4212",
       "url"       : "/pyjupiter/disciplinas/loq4212.html",
       "nome"      : " Engenharia da Qualidade II",
       "nomeascii" : " Engenharia da Qualidade II",
       "docentes"     : "5840917 - Fabricio Maciel Gomes"
+    } ,
+  
+    {
+      "title"     : "LOT2060",
+      "url"       : "/pyjupiter/disciplinas/lot2060.html",
+      "nome"      : " Tecnologia de Biopolímeros",
+      "nomeascii" : " Tecnologia de Biopolimeros",
+      "docentes"     : "5111420 - Talita Martins Lacerda5817181 - Valdeir Arantes"
+    } ,
+  
+    {
+      "title"     : "LOB1009",
+      "url"       : "/pyjupiter/disciplinas/lob1009.html",
+      "nome"      : " Leitura e Interpretação de Desenho Técnico",
+      "nomeascii" : " Leitura e Interpretacao de Desenho Tecnico",
+      "docentes"     : "5840820 - Gustavo Aristides Santana Martinez"
     } ,
   
     {
@@ -1107,6 +1139,30 @@
     } ,
   
     {
+      "title"     : "LOB1267",
+      "url"       : "/pyjupiter/disciplinas/lob1267.html",
+      "nome"      : " Fundamentos de Matemática para Engenharia Ambiental",
+      "nomeascii" : " Fundamentos de Matematica para Engenharia Ambiental",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1268",
+      "url"       : "/pyjupiter/disciplinas/lob1268.html",
+      "nome"      : " Leitura, Escrita e Comunicação Científica",
+      "nomeascii" : " Leitura, Escrita e Comunicacao Cientifica",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1269",
+      "url"       : "/pyjupiter/disciplinas/lob1269.html",
+      "nome"      : " Biologia Aplicada",
+      "nomeascii" : " Biologia Aplicada",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOQ4097",
       "url"       : "/pyjupiter/disciplinas/loq4097.html",
       "nome"      : " Fundamentos de Química para Engenharia I-A",
@@ -1115,19 +1171,11 @@
     } ,
   
     {
-      "title"     : "LOQ4247",
-      "url"       : "/pyjupiter/disciplinas/loq4247.html",
-      "nome"      : " Desenho Assistido por Computador",
-      "nomeascii" : " Desenho Assistido por Computador",
-      "docentes"     : "8767640 - Eduardo Ferro dos Santos"
-    } ,
-  
-    {
-      "title"     : "LOT2045",
-      "url"       : "/pyjupiter/disciplinas/lot2045.html",
-      "nome"      : " Biologia",
-      "nomeascii" : " Biologia",
-      "docentes"     : "1304060 - Maria das Graças de Almeida Felipe"
+      "title"     : "LOQ4231",
+      "url"       : "/pyjupiter/disciplinas/loq4231.html",
+      "nome"      : " Introdução à Econômia",
+      "nomeascii" : " Introducao a Economia",
+      "docentes"     : "5840671 - Francisco José Moreira Chaves"
     } ,
   
     {
@@ -1136,6 +1184,14 @@
       "nome"      : " Solos I",
       "nomeascii" : " Solos I",
       "docentes"     : "5840942 - Marco Aurélio Kondracki de Alcântara"
+    } ,
+  
+    {
+      "title"     : "LOB1270",
+      "url"       : "/pyjupiter/disciplinas/lob1270.html",
+      "nome"      : " Química Experimental Aplicada",
+      "nomeascii" : " Quimica Experimental Aplicada",
+      "docentes"     : ""
     } ,
   
     {
@@ -1155,19 +1211,19 @@
     } ,
   
     {
-      "title"     : "LOB1056",
-      "url"       : "/pyjupiter/disciplinas/lob1056.html",
-      "nome"      : " Introdução aos Métodos Numéricos e Computacionais",
-      "nomeascii" : " Introducao aos Metodos Numericos e Computacionais",
-      "docentes"     : "8870322 - Fabiano Fernandes Bargos"
+      "title"     : "LOB1213",
+      "url"       : "/pyjupiter/disciplinas/lob1213.html",
+      "nome"      : " Climatologia",
+      "nomeascii" : " Climatologia",
+      "docentes"     : "9146830 - Danúbia Caporusso Bargos"
     } ,
   
     {
-      "title"     : "LOB1210",
-      "url"       : "/pyjupiter/disciplinas/lob1210.html",
-      "nome"      : " Solos II",
-      "nomeascii" : " Solos II",
-      "docentes"     : "5840942 - Marco Aurélio Kondracki de Alcântara"
+      "title"     : "LOB1215",
+      "url"       : "/pyjupiter/disciplinas/lob1215.html",
+      "nome"      : " Recursos Energéticos",
+      "nomeascii" : " Recursos Energeticos",
+      "docentes"     : "7043088 - Ana Karine Furtado de Carvalho8426375 - Wendell de Queiróz Lamas"
     } ,
   
     {
@@ -1211,22 +1267,6 @@
     } ,
   
     {
-      "title"     : "LOQ4083",
-      "url"       : "/pyjupiter/disciplinas/loq4083.html",
-      "nome"      : " Fenômenos de Transporte I",
-      "nomeascii" : " Fenomenos de Transporte I",
-      "docentes"     : "5816812 - João Paulo Alves Silva"
-    } ,
-  
-    {
-      "title"     : "LOB1040",
-      "url"       : "/pyjupiter/disciplinas/lob1040.html",
-      "nome"      : " Laboratório de Eletricidade",
-      "nomeascii" : " Laboratorio de Eletricidade",
-      "docentes"     : "230696 - Carlos José Todero Peixoto"
-    } ,
-  
-    {
       "title"     : "LOB1212",
       "url"       : "/pyjupiter/disciplinas/lob1212.html",
       "nome"      : " Química Analítica Ambiental II",
@@ -1251,6 +1291,14 @@
     } ,
   
     {
+      "title"     : "LOB1271",
+      "url"       : "/pyjupiter/disciplinas/lob1271.html",
+      "nome"      : " Mudanças Climáticas e Sustentabilidade Global",
+      "nomeascii" : " Mudancas Climaticas e Sustentabilidade Global",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOQ4079",
       "url"       : "/pyjupiter/disciplinas/loq4079.html",
       "nome"      : " Cinética Aplicada e Reatores",
@@ -1259,35 +1307,27 @@
     } ,
   
     {
-      "title"     : "LOQ4084",
-      "url"       : "/pyjupiter/disciplinas/loq4084.html",
-      "nome"      : " Fenômenos de Transporte II",
-      "nomeascii" : " Fenomenos de Transporte II",
-      "docentes"     : "6666306 - Daniela Helena Pelegrine Guimarães"
+      "title"     : "LOQ4083",
+      "url"       : "/pyjupiter/disciplinas/loq4083.html",
+      "nome"      : " Fenômenos de Transporte I",
+      "nomeascii" : " Fenomenos de Transporte I",
+      "docentes"     : "5816812 - João Paulo Alves Silva"
     } ,
   
     {
-      "title"     : "LOQ4231",
-      "url"       : "/pyjupiter/disciplinas/loq4231.html",
-      "nome"      : " Introdução à Econômia",
-      "nomeascii" : " Introducao a Economia",
-      "docentes"     : "5840671 - Francisco José Moreira Chaves"
+      "title"     : "LOB1040",
+      "url"       : "/pyjupiter/disciplinas/lob1040.html",
+      "nome"      : " Laboratório de Eletricidade",
+      "nomeascii" : " Laboratorio de Eletricidade",
+      "docentes"     : "230696 - Carlos José Todero Peixoto"
     } ,
   
     {
-      "title"     : "LOB1202",
-      "url"       : "/pyjupiter/disciplinas/lob1202.html",
-      "nome"      : " Introdução ao Gerenciamento de Projetos Ambientais",
-      "nomeascii" : " Introducao ao Gerenciamento de Projetos Ambientais",
-      "docentes"     : "7926291 - Célia Regina Tomachuk dos Santos Catuogno"
-    } ,
-  
-    {
-      "title"     : "LOB1213",
-      "url"       : "/pyjupiter/disciplinas/lob1213.html",
-      "nome"      : " Climatologia Aplicada",
-      "nomeascii" : " Climatologia Aplicada",
-      "docentes"     : "9146830 - Danúbia Caporusso Bargos"
+      "title"     : "LOB1056",
+      "url"       : "/pyjupiter/disciplinas/lob1056.html",
+      "nome"      : " Introdução aos Métodos Numéricos e Computacionais",
+      "nomeascii" : " Introducao aos Metodos Numericos e Computacionais",
+      "docentes"     : "8870322 - Fabiano Fernandes Bargos"
     } ,
   
     {
@@ -1299,99 +1339,11 @@
     } ,
   
     {
-      "title"     : "LOB1235",
-      "url"       : "/pyjupiter/disciplinas/lob1235.html",
-      "nome"      : " Avaliação de Impactos Ambientais",
-      "nomeascii" : " Avaliacao de Impactos Ambientais",
-      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
-    } ,
-  
-    {
-      "title"     : "LOB1258",
-      "url"       : "/pyjupiter/disciplinas/lob1258.html",
-      "nome"      : " Hidráulica Aplicada",
-      "nomeascii" : " Hidraulica Aplicada",
-      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira7455355 - Robson da Silva Rocha"
-    } ,
-  
-    {
-      "title"     : "LOB1265",
-      "url"       : "/pyjupiter/disciplinas/lob1265.html",
-      "nome"      : " Epidemiologia Ambiental",
-      "nomeascii" : " Epidemiologia Ambiental",
-      "docentes"     : "8855158 - Morun Bernardino Neto"
-    } ,
-  
-    {
-      "title"     : "LOQ4001",
-      "url"       : "/pyjupiter/disciplinas/loq4001.html",
-      "nome"      : " Análise Instrumental",
-      "nomeascii" : " Analise Instrumental",
-      "docentes"     : "2341641 - Maria da Rosa Capri"
-    } ,
-  
-    {
-      "title"     : "LOB1211",
-      "url"       : "/pyjupiter/disciplinas/lob1211.html",
-      "nome"      : " Poluição Atmosférica",
-      "nomeascii" : " Poluicao Atmosferica",
-      "docentes"     : "7455355 - Robson da Silva Rocha"
-    } ,
-  
-    {
-      "title"     : "LOB1215",
-      "url"       : "/pyjupiter/disciplinas/lob1215.html",
-      "nome"      : " Recursos Energéticos",
-      "nomeascii" : " Recursos Energeticos",
-      "docentes"     : "8426375 - Wendell de Queiróz Lamas"
-    } ,
-  
-    {
-      "title"     : "LOB1217",
-      "url"       : "/pyjupiter/disciplinas/lob1217.html",
-      "nome"      : " Operações Unitárias e Processos",
-      "nomeascii" : " Operacoes Unitarias e Processos",
-      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
-    } ,
-  
-    {
       "title"     : "LOB1226",
       "url"       : "/pyjupiter/disciplinas/lob1226.html",
       "nome"      : " Recuperação de Áreas Degradadas",
       "nomeascii" : " Recuperacao de Areas Degradadas",
       "docentes"     : "5840942 - Marco Aurélio Kondracki de Alcântara"
-    } ,
-  
-    {
-      "title"     : "LOB1232",
-      "url"       : "/pyjupiter/disciplinas/lob1232.html",
-      "nome"      : " Licenciamento Ambiental",
-      "nomeascii" : " Licenciamento Ambiental",
-      "docentes"     : "5817650 - Érica Leonor Romão"
-    } ,
-  
-    {
-      "title"     : "LOB1240",
-      "url"       : "/pyjupiter/disciplinas/lob1240.html",
-      "nome"      : " Geotecnia Ambiental",
-      "nomeascii" : " Geotecnia Ambiental",
-      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
-    } ,
-  
-    {
-      "title"     : "LOB1057",
-      "url"       : "/pyjupiter/disciplinas/lob1057.html",
-      "nome"      : " Engenharia de Fatores Humanos",
-      "nomeascii" : " Engenharia de Fatores Humanos",
-      "docentes"     : "8767640 - Eduardo Ferro dos Santos8188658 - Maria Auxiliadora Motta Barreto"
-    } ,
-  
-    {
-      "title"     : "LOB1209",
-      "url"       : "/pyjupiter/disciplinas/lob1209.html",
-      "nome"      : " Gestão de Resíduos Sólidos",
-      "nomeascii" : " Gestao de Residuos Solidos",
-      "docentes"     : "7926291 - Célia Regina Tomachuk dos Santos Catuogno"
     } ,
   
     {
@@ -1403,6 +1355,62 @@
     } ,
   
     {
+      "title"     : "LOB1235",
+      "url"       : "/pyjupiter/disciplinas/lob1235.html",
+      "nome"      : " Avaliação de Impactos Ambientais",
+      "nomeascii" : " Avaliacao de Impactos Ambientais",
+      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
+    } ,
+  
+    {
+      "title"     : "LOB1265",
+      "url"       : "/pyjupiter/disciplinas/lob1265.html",
+      "nome"      : " Epidemiologia Ambiental",
+      "nomeascii" : " Epidemiologia Ambiental",
+      "docentes"     : "8855158 - Morun Bernardino Neto"
+    } ,
+  
+    {
+      "title"     : "LOQ4084",
+      "url"       : "/pyjupiter/disciplinas/loq4084.html",
+      "nome"      : " Fenômenos de Transporte II",
+      "nomeascii" : " Fenomenos de Transporte II",
+      "docentes"     : "6666306 - Daniela Helena Pelegrine Guimarães"
+    } ,
+  
+    {
+      "title"     : "LOB1202",
+      "url"       : "/pyjupiter/disciplinas/lob1202.html",
+      "nome"      : " Introdução ao Gerenciamento de Projetos Ambientais",
+      "nomeascii" : " Introducao ao Gerenciamento de Projetos Ambientais",
+      "docentes"     : "7926291 - Célia Regina Tomachuk dos Santos Catuogno"
+    } ,
+  
+    {
+      "title"     : "LOB1209",
+      "url"       : "/pyjupiter/disciplinas/lob1209.html",
+      "nome"      : " Gestão de Resíduos Sólidos",
+      "nomeascii" : " Gestao de Residuos Solidos",
+      "docentes"     : "7926291 - Célia Regina Tomachuk dos Santos Catuogno"
+    } ,
+  
+    {
+      "title"     : "LOB1211",
+      "url"       : "/pyjupiter/disciplinas/lob1211.html",
+      "nome"      : " Poluição Atmosférica I",
+      "nomeascii" : " Poluicao Atmosferica I",
+      "docentes"     : "7455355 - Robson da Silva Rocha"
+    } ,
+  
+    {
+      "title"     : "LOB1244",
+      "url"       : "/pyjupiter/disciplinas/lob1244.html",
+      "nome"      : " Monitoramento Ambiental",
+      "nomeascii" : " Monitoramento Ambiental",
+      "docentes"     : "5840938 - Marcelo Rodrigues de Holanda8855158 - Morun Bernardino Neto"
+    } ,
+  
+    {
       "title"     : "LOB1255",
       "url"       : "/pyjupiter/disciplinas/lob1255.html",
       "nome"      : " Hidrologia Aplicada",
@@ -1411,34 +1419,50 @@
     } ,
   
     {
-      "title"     : "LOB1257",
-      "url"       : "/pyjupiter/disciplinas/lob1257.html",
-      "nome"      : " Sistema de Abastecimento e Tratamento de Água",
-      "nomeascii" : " Sistema de Abastecimento e Tratamento de Agua",
-      "docentes"     : "7455355 - Robson da Silva Rocha"
+      "title"     : "LOB1258",
+      "url"       : "/pyjupiter/disciplinas/lob1258.html",
+      "nome"      : " Hidráulica Aplicada",
+      "nomeascii" : " Hidraulica Aplicada",
+      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira7455355 - Robson da Silva Rocha"
     } ,
   
     {
-      "title"     : "LOT2035",
-      "url"       : "/pyjupiter/disciplinas/lot2035.html",
-      "nome"      : " Tratamento Biológico de Efluentes",
-      "nomeascii" : " Tratamento Biologico de Efluentes",
-      "docentes"     : "5840639 - Flávio José da Silva1720367 - Teresa Cristina Brazil de Paiva"
+      "title"     : "LOB1266",
+      "url"       : "/pyjupiter/disciplinas/lob1266.html",
+      "nome"      : " Introdução à Ciência de Dados e Aprendizado de Máquinas",
+      "nomeascii" : " Introducao a Ciencia de Dados e Aprendizado de Maquinas",
+      "docentes"     : "8870322 - Fabiano Fernandes Bargos"
     } ,
   
     {
-      "title"     : "LOB1218",
-      "url"       : "/pyjupiter/disciplinas/lob1218.html",
-      "nome"      : " Recursos Hídricos",
-      "nomeascii" : " Recursos Hidricos",
-      "docentes"     : "7455355 - Robson da Silva Rocha"
+      "title"     : "LOB1272",
+      "url"       : "/pyjupiter/disciplinas/lob1272.html",
+      "nome"      : " Saneamento",
+      "nomeascii" : " Saneamento",
+      "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOB1223",
-      "url"       : "/pyjupiter/disciplinas/lob1223.html",
-      "nome"      : " Trabalho de Graduação I",
-      "nomeascii" : " Trabalho de Graduacao I",
+      "title"     : "LOB1273",
+      "url"       : "/pyjupiter/disciplinas/lob1273.html",
+      "nome"      : " Restauração Ecológica",
+      "nomeascii" : " Restauracao Ecologica",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1276",
+      "url"       : "/pyjupiter/disciplinas/lob1276.html",
+      "nome"      : " Poluição do Solo e Água Subterrânea",
+      "nomeascii" : " Poluicao do Solo e Agua Subterranea",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1217",
+      "url"       : "/pyjupiter/disciplinas/lob1217.html",
+      "nome"      : " Operações Unitárias e Processos",
+      "nomeascii" : " Operacoes Unitarias e Processos",
       "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
     } ,
   
@@ -1459,11 +1483,67 @@
     } ,
   
     {
+      "title"     : "LOB1232",
+      "url"       : "/pyjupiter/disciplinas/lob1232.html",
+      "nome"      : " Licenciamento Ambiental",
+      "nomeascii" : " Licenciamento Ambiental",
+      "docentes"     : "5817650 - Érica Leonor Romão"
+    } ,
+  
+    {
       "title"     : "LOB1233",
       "url"       : "/pyjupiter/disciplinas/lob1233.html",
       "nome"      : " Caracterização de Bacias Hidrográficas",
       "nomeascii" : " Caracterizacao de Bacias Hidrograficas",
       "docentes"     : "9146830 - Danúbia Caporusso Bargos"
+    } ,
+  
+    {
+      "title"     : "LOB1240",
+      "url"       : "/pyjupiter/disciplinas/lob1240.html",
+      "nome"      : " Geotecnia Ambiental",
+      "nomeascii" : " Geotecnia Ambiental",
+      "docentes"     : "5464150 - Mariana Consiglio Kasemodel"
+    } ,
+  
+    {
+      "title"     : "LOB1257",
+      "url"       : "/pyjupiter/disciplinas/lob1257.html",
+      "nome"      : " Sistemas de Tratamento de Água",
+      "nomeascii" : " Sistemas de Tratamento de Agua",
+      "docentes"     : "7455355 - Robson da Silva Rocha"
+    } ,
+  
+    {
+      "title"     : "LOB1274",
+      "url"       : "/pyjupiter/disciplinas/lob1274.html",
+      "nome"      : " Poluição Atmosférica  II",
+      "nomeascii" : " Poluicao Atmosferica  II",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1275",
+      "url"       : "/pyjupiter/disciplinas/lob1275.html",
+      "nome"      : " Energia Renováveis",
+      "nomeascii" : " Energia Renovaveis",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOT2035",
+      "url"       : "/pyjupiter/disciplinas/lot2035.html",
+      "nome"      : " Tratamento Biológico de Efluentes",
+      "nomeascii" : " Tratamento Biologico de Efluentes",
+      "docentes"     : "5840639 - Flávio José da Silva1720367 - Teresa Cristina Brazil de Paiva"
+    } ,
+  
+    {
+      "title"     : "LOB1223",
+      "url"       : "/pyjupiter/disciplinas/lob1223.html",
+      "nome"      : " Trabalho de Graduação I",
+      "nomeascii" : " Trabalho de Graduacao I",
+      "docentes"     : "4780627 - Ana Lucia Gabas Ferreira"
     } ,
   
     {
@@ -1483,19 +1563,91 @@
     } ,
   
     {
-      "title"     : "8800009",
-      "url"       : "/pyjupiter/disciplinas/8800009.html",
-      "nome"      : " Canto Coral I",
-      "nomeascii" : " Canto Coral I",
-      "docentes"     : "8452037 - Elisabeth Pinheiro da Silva Kondracki de Alcantara"
+      "title"     : "LOB1210",
+      "url"       : "/pyjupiter/disciplinas/lob1210.html",
+      "nome"      : " Solos II",
+      "nomeascii" : " Solos II",
+      "docentes"     : "5840942 - Marco Aurélio Kondracki de Alcântara"
     } ,
   
     {
-      "title"     : "8800010",
-      "url"       : "/pyjupiter/disciplinas/8800010.html",
-      "nome"      : " Canto Coral II",
-      "nomeascii" : " Canto Coral II",
-      "docentes"     : "8452037 - Elisabeth Pinheiro da Silva Kondracki de Alcantara"
+      "title"     : "LOB1278",
+      "url"       : "/pyjupiter/disciplinas/lob1278.html",
+      "nome"      : " Solos III",
+      "nomeascii" : " Solos III",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1280",
+      "url"       : "/pyjupiter/disciplinas/lob1280.html",
+      "nome"      : " Fundamentos de Biologia Vegetal",
+      "nomeascii" : " Fundamentos de Biologia Vegetal",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1277",
+      "url"       : "/pyjupiter/disciplinas/lob1277.html",
+      "nome"      : " Sistemas de Reuso de Águas",
+      "nomeascii" : " Sistemas de Reuso de Aguas",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1279",
+      "url"       : "/pyjupiter/disciplinas/lob1279.html",
+      "nome"      : " Ecologia Urbana",
+      "nomeascii" : " Ecologia Urbana",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1282",
+      "url"       : "/pyjupiter/disciplinas/lob1282.html",
+      "nome"      : " Adsorção em Processos Ambientais",
+      "nomeascii" : " Adsorcao em Processos Ambientais",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1283",
+      "url"       : "/pyjupiter/disciplinas/lob1283.html",
+      "nome"      : " Análise de Dados de Poluentes Atmosféricos",
+      "nomeascii" : " Analise de Dados de Poluentes Atmosfericos",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1246",
+      "url"       : "/pyjupiter/disciplinas/lob1246.html",
+      "nome"      : " Tratamento Avançado de Águas",
+      "nomeascii" : " Tratamento Avancado de Aguas",
+      "docentes"     : "7455355 - Robson da Silva Rocha"
+    } ,
+  
+    {
+      "title"     : "LOB1259",
+      "url"       : "/pyjupiter/disciplinas/lob1259.html",
+      "nome"      : " Introdução a Ecotoxicologia Aquática",
+      "nomeascii" : " Introducao a Ecotoxicologia Aquatica",
+      "docentes"     : "1720367 - Teresa Cristina Brazil de Paiva"
+    } ,
+  
+    {
+      "title"     : "LOB1281",
+      "url"       : "/pyjupiter/disciplinas/lob1281.html",
+      "nome"      : " Energia da Biomassa",
+      "nomeascii" : " Energia da Biomassa",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOB1284",
+      "url"       : "/pyjupiter/disciplinas/lob1284.html",
+      "nome"      : " Tutoria Acadêmica em Engenharia Ambiental I",
+      "nomeascii" : " Tutoria Academica em Engenharia Ambiental I",
+      "docentes"     : ""
     } ,
   
     {
@@ -1507,19 +1659,11 @@
     } ,
   
     {
-      "title"     : "8800011",
-      "url"       : "/pyjupiter/disciplinas/8800011.html",
-      "nome"      : " Canto Coral III",
-      "nomeascii" : " Canto Coral III",
-      "docentes"     : "8452037 - Elisabeth Pinheiro da Silva Kondracki de Alcantara"
-    } ,
-  
-    {
-      "title"     : "8800012",
-      "url"       : "/pyjupiter/disciplinas/8800012.html",
-      "nome"      : " Canto Coral IV",
-      "nomeascii" : " Canto Coral IV",
-      "docentes"     : "8452037 - Elisabeth Pinheiro da Silva Kondracki de Alcantara"
+      "title"     : "LOB1285",
+      "url"       : "/pyjupiter/disciplinas/lob1285.html",
+      "nome"      : " Tutoria Acadêmica em Engenharia Ambiental II",
+      "nomeascii" : " Tutoria Academica em Engenharia Ambiental II",
+      "docentes"     : ""
     } ,
   
     {
@@ -1528,14 +1672,6 @@
       "nome"      : " Introdução a Inovação Sistemática com TRIZ",
       "nomeascii" : " Introducao a Inovacao Sistematica com TRIZ",
       "docentes"     : "5840820 - Gustavo Aristides Santana Martinez"
-    } ,
-  
-    {
-      "title"     : "LOB1259",
-      "url"       : "/pyjupiter/disciplinas/lob1259.html",
-      "nome"      : " Introdução a Ecotoxicologia Aquática",
-      "nomeascii" : " Introducao a Ecotoxicologia Aquatica",
-      "docentes"     : "1720367 - Teresa Cristina Brazil de Paiva"
     } ,
   
     {
@@ -1576,14 +1712,6 @@
       "nome"      : " Introdução a Eco-Inovação Tecnológica",
       "nomeascii" : " Introducao a Eco-Inovacao Tecnologica",
       "docentes"     : ""
-    } ,
-  
-    {
-      "title"     : "LOB1266",
-      "url"       : "/pyjupiter/disciplinas/lob1266.html",
-      "nome"      : " Introdução à Ciência de Dados e Aprendizado de Máquinas",
-      "nomeascii" : " Introducao a Ciencia de Dados e Aprendizado de Maquinas",
-      "docentes"     : "8870322 - Fabiano Fernandes Bargos"
     } ,
   
     {
@@ -1635,30 +1763,6 @@
     } ,
   
     {
-      "title"     : "LOB1244",
-      "url"       : "/pyjupiter/disciplinas/lob1244.html",
-      "nome"      : " Monitoramento Ambiental",
-      "nomeascii" : " Monitoramento Ambiental",
-      "docentes"     : "5840938 - Marcelo Rodrigues de Holanda"
-    } ,
-  
-    {
-      "title"     : "LOB1246",
-      "url"       : "/pyjupiter/disciplinas/lob1246.html",
-      "nome"      : " Tratamento Avançado e Reuso de Águas",
-      "nomeascii" : " Tratamento Avancado e Reuso de Aguas",
-      "docentes"     : "7455355 - Robson da Silva Rocha"
-    } ,
-  
-    {
-      "title"     : "LOB1009",
-      "url"       : "/pyjupiter/disciplinas/lob1009.html",
-      "nome"      : " Leitura e Interpretação de Desenho Técnico",
-      "nomeascii" : " Leitura e Interpretacao de Desenho Tecnico",
-      "docentes"     : "5840820 - Gustavo Aristides Santana Martinez"
-    } ,
-  
-    {
       "title"     : "LOT2002",
       "url"       : "/pyjupiter/disciplinas/lot2002.html",
       "nome"      : " Biologia Celular",
@@ -1672,6 +1776,14 @@
       "nome"      : " Introdução à Engenharia Bioquímica",
       "nomeascii" : " Introducao a Engenharia Bioquimica",
       "docentes"     : "101761 - Arnaldo Márcio Ramalho Prata5817181 - Valdeir Arantes"
+    } ,
+  
+    {
+      "title"     : "LOT2063",
+      "url"       : "/pyjupiter/disciplinas/lot2063.html",
+      "nome"      : " Comunicação Científica em Biotecnologia",
+      "nomeascii" : " Comunicacao Cientifica em Biotecnologia",
+      "docentes"     : ""
     } ,
   
     {
@@ -1739,6 +1851,14 @@
     } ,
   
     {
+      "title"     : "LOQ4085",
+      "url"       : "/pyjupiter/disciplinas/loq4085.html",
+      "nome"      : " Operações Unitárias I",
+      "nomeascii" : " Operacoes Unitarias I",
+      "docentes"     : "8151869 - Livia Chaguri e Carvalho"
+    } ,
+  
+    {
       "title"     : "LOQ4088",
       "url"       : "/pyjupiter/disciplinas/loq4088.html",
       "nome"      : " Termodinâmica Química Aplicada II",
@@ -1771,27 +1891,19 @@
     } ,
   
     {
-      "title"     : "LOT2060",
-      "url"       : "/pyjupiter/disciplinas/lot2060.html",
-      "nome"      : " Tecnologia de Biopolímeros",
-      "nomeascii" : " Tecnologia de Biopolimeros",
-      "docentes"     : "5111420 - Talita Martins Lacerda5817181 - Valdeir Arantes"
+      "title"     : "LOQ4054",
+      "url"       : "/pyjupiter/disciplinas/loq4054.html",
+      "nome"      : " Fenômenos de Transporte III",
+      "nomeascii" : " Fenomenos de Transporte III",
+      "docentes"     : "5840841 - Gilberto Garcia Cortez"
     } ,
   
     {
-      "title"     : "LOT2061",
-      "url"       : "/pyjupiter/disciplinas/lot2061.html",
-      "nome"      : " Química Analítica Aplicada a Bioprocessos",
-      "nomeascii" : " Quimica Analitica Aplicada a Bioprocessos",
-      "docentes"     : "2143261 - André Luis Ferraz5111420 - Talita Martins Lacerda"
-    } ,
-  
-    {
-      "title"     : "LOQ4085",
-      "url"       : "/pyjupiter/disciplinas/loq4085.html",
-      "nome"      : " Operações Unitárias I",
-      "nomeascii" : " Operacoes Unitarias I",
-      "docentes"     : "8151869 - Livia Chaguri e Carvalho"
+      "title"     : "LOQ4086",
+      "url"       : "/pyjupiter/disciplinas/loq4086.html",
+      "nome"      : " Operações Unitárias II",
+      "nomeascii" : " Operacoes Unitarias II",
+      "docentes"     : "8151869 - Livia Chaguri e Carvalho5817372 - Simone de Fátima Medeiros Sampaio"
     } ,
   
     {
@@ -1813,33 +1925,25 @@
     {
       "title"     : "LOT2058",
       "url"       : "/pyjupiter/disciplinas/lot2058.html",
-      "nome"      : " Fundamentos de Engenharia Econômica",
-      "nomeascii" : " Fundamentos de Engenharia Economica",
+      "nome"      : " Engenharia Econômica",
+      "nomeascii" : " Engenharia Economica",
       "docentes"     : "3444370 - Rita de Cássia Lacerda Brambilla Rodrigues5817181 - Valdeir Arantes"
     } ,
   
     {
-      "title"     : "LOQ4054",
-      "url"       : "/pyjupiter/disciplinas/loq4054.html",
-      "nome"      : " Fenômenos de Transporte III",
-      "nomeascii" : " Fenomenos de Transporte III",
-      "docentes"     : "5840841 - Gilberto Garcia Cortez"
+      "title"     : "LOT2061",
+      "url"       : "/pyjupiter/disciplinas/lot2061.html",
+      "nome"      : " Química Analítica Aplicada a Bioprocessos",
+      "nomeascii" : " Quimica Analitica Aplicada a Bioprocessos",
+      "docentes"     : "2143261 - André Luis Ferraz5111420 - Talita Martins Lacerda"
     } ,
   
     {
-      "title"     : "LOQ4086",
-      "url"       : "/pyjupiter/disciplinas/loq4086.html",
-      "nome"      : " Operações Unitárias II",
-      "nomeascii" : " Operacoes Unitarias II",
-      "docentes"     : "8151869 - Livia Chaguri e Carvalho5817372 - Simone de Fátima Medeiros Sampaio"
-    } ,
-  
-    {
-      "title"     : "LOQ4250",
-      "url"       : "/pyjupiter/disciplinas/loq4250.html",
-      "nome"      : " Fundamentos de Administração da Produção",
-      "nomeascii" : " Fundamentos de Administracao da Producao",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
+      "title"     : "LOQ4057",
+      "url"       : "/pyjupiter/disciplinas/loq4057.html",
+      "nome"      : " Operações Unitárias III",
+      "nomeascii" : " Operacoes Unitarias III",
+      "docentes"     : "5817372 - Simone de Fátima Medeiros Sampaio"
     } ,
   
     {
@@ -1859,6 +1963,22 @@
     } ,
   
     {
+      "title"     : "LOT2023",
+      "url"       : "/pyjupiter/disciplinas/lot2023.html",
+      "nome"      : " Processos Bioquímicos Industriais",
+      "nomeascii" : " Processos Bioquimicos Industriais",
+      "docentes"     : "5082401 - André Moreni Lopes1814052 - Silvio Silverio da Silva"
+    } ,
+  
+    {
+      "title"     : "LOT2037",
+      "url"       : "/pyjupiter/disciplinas/lot2037.html",
+      "nome"      : " Instrumentação e Controle de Bioprocessos",
+      "nomeascii" : " Instrumentacao e Controle de Bioprocessos",
+      "docentes"     : "101761 - Arnaldo Márcio Ramalho Prata6007846 - Júlio César dos Santos3444370 - Rita de Cássia Lacerda Brambilla Rodrigues"
+    } ,
+  
+    {
       "title"     : "LOT2049",
       "url"       : "/pyjupiter/disciplinas/lot2049.html",
       "nome"      : " Genética e Biotecnologia Vegetal",
@@ -1867,19 +1987,11 @@
     } ,
   
     {
-      "title"     : "LOT2062",
-      "url"       : "/pyjupiter/disciplinas/lot2062.html",
-      "nome"      : " Solução de Problemas de Engenharia",
-      "nomeascii" : " Solucao de Problemas de Engenharia",
-      "docentes"     : "2143261 - André Luis Ferraz5082401 - André Moreni Lopes4873328 - Fernando Segato6007846 - Júlio César dos Santos5111420 - Talita Martins Lacerda5817181 - Valdeir Arantes"
-    } ,
-  
-    {
-      "title"     : "LOQ4057",
-      "url"       : "/pyjupiter/disciplinas/loq4057.html",
-      "nome"      : " Operações Unitárias III",
-      "nomeascii" : " Operacoes Unitarias III",
-      "docentes"     : "5817372 - Simone de Fátima Medeiros Sampaio"
+      "title"     : "LOT2064",
+      "url"       : "/pyjupiter/disciplinas/lot2064.html",
+      "nome"      : " Empreendedorismo Tecnológico",
+      "nomeascii" : " Empreendedorismo Tecnologico",
+      "docentes"     : ""
     } ,
   
     {
@@ -1907,27 +2019,11 @@
     } ,
   
     {
-      "title"     : "LOT2023",
-      "url"       : "/pyjupiter/disciplinas/lot2023.html",
-      "nome"      : " Processos Bioquímicos Industriais",
-      "nomeascii" : " Processos Bioquimicos Industriais",
-      "docentes"     : "5082401 - André Moreni Lopes1814052 - Silvio Silverio da Silva"
-    } ,
-  
-    {
       "title"     : "LOT2025",
       "url"       : "/pyjupiter/disciplinas/lot2025.html",
       "nome"      : " Reatores Bioquímicos",
       "nomeascii" : " Reatores Bioquimicos",
       "docentes"     : "1112574 - Inês Conceição Roberto6007846 - Júlio César dos Santos"
-    } ,
-  
-    {
-      "title"     : "LOT2037",
-      "url"       : "/pyjupiter/disciplinas/lot2037.html",
-      "nome"      : " Instrumentação e Controle de Bioprocessos",
-      "nomeascii" : " Instrumentacao e Controle de Bioprocessos",
-      "docentes"     : "101761 - Arnaldo Márcio Ramalho Prata6007846 - Júlio César dos Santos3444370 - Rita de Cássia Lacerda Brambilla Rodrigues"
     } ,
   
     {
@@ -1947,11 +2043,19 @@
     } ,
   
     {
-      "title"     : "LOT2056",
-      "url"       : "/pyjupiter/disciplinas/lot2056.html",
-      "nome"      : " Trabalho de Conclusão de Curso I",
-      "nomeascii" : " Trabalho de Conclusao de Curso I",
-      "docentes"     : "1304060 - Maria das Graças de Almeida Felipe8853480 - Tatiane da Franca Silva"
+      "title"     : "LOT2062",
+      "url"       : "/pyjupiter/disciplinas/lot2062.html",
+      "nome"      : " Solução de Problemas de Engenharia",
+      "nomeascii" : " Solucao de Problemas de Engenharia",
+      "docentes"     : "2143261 - André Luis Ferraz5082401 - André Moreni Lopes4873328 - Fernando Segato6007846 - Júlio César dos Santos5111420 - Talita Martins Lacerda5817181 - Valdeir Arantes"
+    } ,
+  
+    {
+      "title"     : "LOT2065",
+      "url"       : "/pyjupiter/disciplinas/lot2065.html",
+      "nome"      : " Projeto Final de Curso em Engenharia Bioquímica",
+      "nomeascii" : " Projeto Final de Curso em Engenharia Bioquimica",
+      "docentes"     : ""
     } ,
   
     {
@@ -1963,19 +2067,19 @@
     } ,
   
     {
-      "title"     : "LOT2057",
-      "url"       : "/pyjupiter/disciplinas/lot2057.html",
-      "nome"      : " Trabalho de Conclusão de Curso II",
-      "nomeascii" : " Trabalho de Conclusao de Curso II",
-      "docentes"     : "1304060 - Maria das Graças de Almeida Felipe8853480 - Tatiane da Franca Silva"
+      "title"     : "LOB1058",
+      "url"       : "/pyjupiter/disciplinas/lob1058.html",
+      "nome"      : " Pré Cálculo",
+      "nomeascii" : " Pre Calculo",
+      "docentes"     : ""
     } ,
   
     {
-      "title"     : "LOQ4052",
-      "url"       : "/pyjupiter/disciplinas/loq4052.html",
-      "nome"      : " Tópicos Especiais de Gestão e Produção",
-      "nomeascii" : " Topicos Especiais de Gestao e Producao",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
+      "title"     : "LOT2068",
+      "url"       : "/pyjupiter/disciplinas/lot2068.html",
+      "nome"      : " Tutoria Acadêmica em Engenharia Bioquímica",
+      "nomeascii" : " Tutoria Academica em Engenharia Bioquimica",
+      "docentes"     : ""
     } ,
   
     {
@@ -1984,6 +2088,30 @@
       "nome"      : " Tecnologia de Alimentos",
       "nomeascii" : " Tecnologia de Alimentos",
       "docentes"     : "3403572 - Ismael Maciel de Mancilha"
+    } ,
+  
+    {
+      "title"     : "LOT2066",
+      "url"       : "/pyjupiter/disciplinas/lot2066.html",
+      "nome"      : " Introdução à Bioinformática",
+      "nomeascii" : " Introducao a Bioinformatica",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOT2067",
+      "url"       : "/pyjupiter/disciplinas/lot2067.html",
+      "nome"      : " Biotecnologia Farmacêutica",
+      "nomeascii" : " Biotecnologia Farmaceutica",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4099",
+      "url"       : "/pyjupiter/disciplinas/loq4099.html",
+      "nome"      : " Engenharia de Cristais Moleculares",
+      "nomeascii" : " Engenharia de Cristais Moleculares",
+      "docentes"     : "210064 - Eduardo Rezende Triboni"
     } ,
   
     {
@@ -2027,6 +2155,14 @@
     } ,
   
     {
+      "title"     : "LOQ4239",
+      "url"       : "/pyjupiter/disciplinas/loq4239.html",
+      "nome"      : " Administração e Organização I",
+      "nomeascii" : " Administracao e Organizacao I",
+      "docentes"     : "11079086 - Herlandí de Souza Andrade"
+    } ,
+  
+    {
       "title"     : "LOQ4251",
       "url"       : "/pyjupiter/disciplinas/loq4251.html",
       "nome"      : " Fundamentos de Química",
@@ -2037,24 +2173,8 @@
     {
       "title"     : "LOQ4203",
       "url"       : "/pyjupiter/disciplinas/loq4203.html",
-      "nome"      : " Sistemas Produtivos I",
-      "nomeascii" : " Sistemas Produtivos I",
-      "docentes"     : "5840535 - Messias Borges Silva"
-    } ,
-  
-    {
-      "title"     : "LOQ4239",
-      "url"       : "/pyjupiter/disciplinas/loq4239.html",
-      "nome"      : " Administração e Organização I",
-      "nomeascii" : " Administracao e Organizacao I",
-      "docentes"     : "11079086 - Herlandí de Souza Andrade"
-    } ,
-  
-    {
-      "title"     : "LOQ4205",
-      "url"       : "/pyjupiter/disciplinas/loq4205.html",
-      "nome"      : " Sistemas Produtivos II",
-      "nomeascii" : " Sistemas Produtivos II",
+      "nome"      : " Sistemas Produtivos",
+      "nomeascii" : " Sistemas Produtivos",
       "docentes"     : "5840535 - Messias Borges Silva"
     } ,
   
@@ -2067,14 +2187,6 @@
     } ,
   
     {
-      "title"     : "LOB1049",
-      "url"       : "/pyjupiter/disciplinas/lob1049.html",
-      "nome"      : " Estatística Multivariada",
-      "nomeascii" : " Estatistica Multivariada",
-      "docentes"     : "4894221 - Mariana Pereira de Melo"
-    } ,
-  
-    {
       "title"     : "LOQ4204",
       "url"       : "/pyjupiter/disciplinas/loq4204.html",
       "nome"      : " Economia Geral",
@@ -2083,10 +2195,26 @@
     } ,
   
     {
+      "title"     : "LOB1049",
+      "url"       : "/pyjupiter/disciplinas/lob1049.html",
+      "nome"      : " Estatística Multivariada",
+      "nomeascii" : " Estatistica Multivariada",
+      "docentes"     : "4894221 - Mariana Pereira de Melo"
+    } ,
+  
+    {
       "title"     : "LOQ4237",
       "url"       : "/pyjupiter/disciplinas/loq4237.html",
       "nome"      : " Projeto Integrado de Engenharia de Produção II",
       "nomeascii" : " Projeto Integrado de Engenharia de Producao II",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4275",
+      "url"       : "/pyjupiter/disciplinas/loq4275.html",
+      "nome"      : " Lógica Computacional",
+      "nomeascii" : " Logica Computacional",
       "docentes"     : ""
     } ,
   
@@ -2109,8 +2237,8 @@
     {
       "title"     : "LOQ4253",
       "url"       : "/pyjupiter/disciplinas/loq4253.html",
-      "nome"      : " Processos Industriais I",
-      "nomeascii" : " Processos Industriais I",
+      "nome"      : " Processos Químicos Industriais",
+      "nomeascii" : " Processos Quimicos Industriais",
       "docentes"     : "1285870 - Marcos Villela Barcza"
     } ,
   
@@ -2163,11 +2291,11 @@
     } ,
   
     {
-      "title"     : "LOQ4254",
-      "url"       : "/pyjupiter/disciplinas/loq4254.html",
-      "nome"      : " Processos Industriais II",
-      "nomeascii" : " Processos Industriais II",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
+      "title"     : "LOQ4245",
+      "url"       : "/pyjupiter/disciplinas/loq4245.html",
+      "nome"      : " Ergonomia",
+      "nomeascii" : " Ergonomia",
+      "docentes"     : "8767640 - Eduardo Ferro dos Santos"
     } ,
   
     {
@@ -2192,14 +2320,6 @@
       "nome"      : " Automação e Controle",
       "nomeascii" : " Automacao e Controle",
       "docentes"     : "8767640 - Eduardo Ferro dos Santos"
-    } ,
-  
-    {
-      "title"     : "LOQ4264",
-      "url"       : "/pyjupiter/disciplinas/loq4264.html",
-      "nome"      : " Engenharia da Sustentabilidade",
-      "nomeascii" : " Engenharia da Sustentabilidade",
-      "docentes"     : "5840535 - Messias Borges Silva"
     } ,
   
     {
@@ -2315,11 +2435,51 @@
     } ,
   
     {
+      "title"     : "LOB1045",
+      "url"       : "/pyjupiter/disciplinas/lob1045.html",
+      "nome"      : " Leitura e Produção de Textos Acadêmicos",
+      "nomeascii" : " Leitura e Producao de Textos Academicos",
+      "docentes"     : "5840514 - Graziela Zamponi"
+    } ,
+  
+    {
+      "title"     : "LOQ4205",
+      "url"       : "/pyjupiter/disciplinas/loq4205.html",
+      "nome"      : " Sistemas Produtivos II",
+      "nomeascii" : " Sistemas Produtivos II",
+      "docentes"     : "5840535 - Messias Borges Silva"
+    } ,
+  
+    {
+      "title"     : "8800015",
+      "url"       : "/pyjupiter/disciplinas/8800015.html",
+      "nome"      : " Estágio de Pesquisa em Engenharia I",
+      "nomeascii" : " Estagio de Pesquisa em Engenharia I",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4254",
+      "url"       : "/pyjupiter/disciplinas/loq4254.html",
+      "nome"      : " Processos Industriais II",
+      "nomeascii" : " Processos Industriais II",
+      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
+    } ,
+  
+    {
       "title"     : "LOQ4274",
       "url"       : "/pyjupiter/disciplinas/loq4274.html",
       "nome"      : " Engenharia de Sistemas",
       "nomeascii" : " Engenharia de Sistemas",
       "docentes"     : "11079086 - Herlandí de Souza Andrade"
+    } ,
+  
+    {
+      "title"     : "8800016",
+      "url"       : "/pyjupiter/disciplinas/8800016.html",
+      "nome"      : " Estágio de Pesquisa em Engenharia II",
+      "nomeascii" : " Estagio de Pesquisa em Engenharia II",
+      "docentes"     : ""
     } ,
   
     {
@@ -2344,6 +2504,14 @@
       "nome"      : " Tópicos Especiais em Engenharia de Produção II",
       "nomeascii" : " Topicos Especiais em Engenharia de Producao II",
       "docentes"     : "11079086 - Herlandí de Souza Andrade"
+    } ,
+  
+    {
+      "title"     : "LOB1010",
+      "url"       : "/pyjupiter/disciplinas/lob1010.html",
+      "nome"      : " Direito  Aplicado à Engenharia",
+      "nomeascii" : " Direito  Aplicado a Engenharia",
+      "docentes"     : "6376612 - Daisy Rafaela da Silva"
     } ,
   
     {
@@ -2379,6 +2547,22 @@
     } ,
   
     {
+      "title"     : "LOQ4102",
+      "url"       : "/pyjupiter/disciplinas/loq4102.html",
+      "nome"      : " Nivelamento em Engenharia",
+      "nomeascii" : " Nivelamento em Engenharia",
+      "docentes"     : ""
+    } ,
+  
+    {
+      "title"     : "LOQ4103",
+      "url"       : "/pyjupiter/disciplinas/loq4103.html",
+      "nome"      : " Escrita Acadêmico Científica",
+      "nomeascii" : " Escrita Academico Cientifica",
+      "docentes"     : ""
+    } ,
+  
+    {
       "title"     : "LOQ4037",
       "url"       : "/pyjupiter/disciplinas/loq4037.html",
       "nome"      : " Química Orgânica I",
@@ -2403,11 +2587,11 @@
     } ,
   
     {
-      "title"     : "LOQ4082",
-      "url"       : "/pyjupiter/disciplinas/loq4082.html",
-      "nome"      : " Corrosão",
-      "nomeascii" : " Corrosao",
-      "docentes"     : "5817344 - Livia Melo Carneiro"
+      "title"     : "LOM3022",
+      "url"       : "/pyjupiter/disciplinas/lom3022.html",
+      "nome"      : " Materiais para a  Indústria Química",
+      "nomeascii" : " Materiais para a  Industria Quimica",
+      "docentes"     : "5840963 - Daniela Camargo Vernilli5840820 - Gustavo Aristides Santana Martinez"
     } ,
   
     {
@@ -2432,6 +2616,14 @@
       "nome"      : " Laboratório de Engenharia Química I",
       "nomeascii" : " Laboratorio de Engenharia Quimica I",
       "docentes"     : "4808662 - Lucrécio Fábio dos Santos"
+    } ,
+  
+    {
+      "title"     : "LOQ4001",
+      "url"       : "/pyjupiter/disciplinas/loq4001.html",
+      "nome"      : " Análise Instrumental",
+      "nomeascii" : " Analise Instrumental",
+      "docentes"     : "2341641 - Maria da Rosa Capri"
     } ,
   
     {
@@ -2467,14 +2659,6 @@
     } ,
   
     {
-      "title"     : "LOM3022",
-      "url"       : "/pyjupiter/disciplinas/lom3022.html",
-      "nome"      : " Materiais para a  Indústria Química",
-      "nomeascii" : " Materiais para a  Industria Quimica",
-      "docentes"     : "5840963 - Daniela Camargo Vernilli5840820 - Gustavo Aristides Santana Martinez"
-    } ,
-  
-    {
       "title"     : "LOQ4002",
       "url"       : "/pyjupiter/disciplinas/loq4002.html",
       "nome"      : " Reatores Quimicos",
@@ -2491,11 +2675,19 @@
     } ,
   
     {
-      "title"     : "LOQ4022",
-      "url"       : "/pyjupiter/disciplinas/loq4022.html",
-      "nome"      : " Processos Químicos Industriais I",
-      "nomeascii" : " Processos Quimicos Industriais I",
-      "docentes"     : "4808662 - Lucrécio Fábio dos Santos"
+      "title"     : "LOT2041",
+      "url"       : "/pyjupiter/disciplinas/lot2041.html",
+      "nome"      : " Engenharia Bioquímica",
+      "nomeascii" : " Engenharia Bioquimica",
+      "docentes"     : "1112574 - Inês Conceição Roberto3403572 - Ismael Maciel de Mancilha"
+    } ,
+  
+    {
+      "title"     : "LOQ4049",
+      "url"       : "/pyjupiter/disciplinas/loq4049.html",
+      "nome"      : " Projeto na Industria Química",
+      "nomeascii" : " Projeto na Industria Quimica",
+      "docentes"     : "5840671 - Francisco José Moreira Chaves"
     } ,
   
     {
@@ -2531,35 +2723,11 @@
     } ,
   
     {
-      "title"     : "LOT2041",
-      "url"       : "/pyjupiter/disciplinas/lot2041.html",
-      "nome"      : " Engenharia Bioquímica",
-      "nomeascii" : " Engenharia Bioquimica",
-      "docentes"     : "1112574 - Inês Conceição Roberto3403572 - Ismael Maciel de Mancilha"
-    } ,
-  
-    {
-      "title"     : "LOQ4023",
-      "url"       : "/pyjupiter/disciplinas/loq4023.html",
-      "nome"      : " Processos Químicos Industriais II",
-      "nomeascii" : " Processos Quimicos Industriais II",
-      "docentes"     : "1285870 - Marcos Villela Barcza"
-    } ,
-  
-    {
-      "title"     : "LOQ4047",
-      "url"       : "/pyjupiter/disciplinas/loq4047.html",
-      "nome"      : " Trabalho de Conclusão de Curso I",
-      "nomeascii" : " Trabalho de Conclusao de Curso I",
-      "docentes"     : "198273 - Domingos Savio Giordani"
-    } ,
-  
-    {
-      "title"     : "LOQ4049",
-      "url"       : "/pyjupiter/disciplinas/loq4049.html",
-      "nome"      : " Projeto na Industria Química",
-      "nomeascii" : " Projeto na Industria Quimica",
-      "docentes"     : "5840671 - Francisco José Moreira Chaves"
+      "title"     : "LOQ4104",
+      "url"       : "/pyjupiter/disciplinas/loq4104.html",
+      "nome"      : " Processos Químicos Industriais",
+      "nomeascii" : " Processos Quimicos Industriais",
+      "docentes"     : ""
     } ,
   
     {
@@ -2571,11 +2739,11 @@
     } ,
   
     {
-      "title"     : "LOQ4048",
-      "url"       : "/pyjupiter/disciplinas/loq4048.html",
-      "nome"      : " Trabalho de  Conclusão do Curso II",
-      "nomeascii" : " Trabalho de  Conclusao do Curso II",
-      "docentes"     : "1285870 - Marcos Villela Barcza"
+      "title"     : "LOQ4047",
+      "url"       : "/pyjupiter/disciplinas/loq4047.html",
+      "nome"      : " Trabalho de Conclusão de Curso I",
+      "nomeascii" : " Trabalho de Conclusao de Curso I",
+      "docentes"     : "198273 - Domingos Savio Giordani"
     } ,
   
     {
@@ -2584,6 +2752,14 @@
       "nome"      : " Estágio Supervisionado",
       "nomeascii" : " Estagio Supervisionado",
       "docentes"     : "198273 - Domingos Savio Giordani"
+    } ,
+  
+    {
+      "title"     : "LOQ4048",
+      "url"       : "/pyjupiter/disciplinas/loq4048.html",
+      "nome"      : " Trabalho de  Conclusão do Curso II",
+      "nomeascii" : " Trabalho de  Conclusao do Curso II",
+      "docentes"     : "1285870 - Marcos Villela Barcza"
     } ,
   
     {
@@ -2603,11 +2779,11 @@
     } ,
   
     {
-      "title"     : "LOQ4058",
-      "url"       : "/pyjupiter/disciplinas/loq4058.html",
-      "nome"      : " Fenômenos de Superfície e Eletroquímica",
-      "nomeascii" : " Fenomenos de Superficie e Eletroquimica",
-      "docentes"     : "1488970 - Marivone Nunho Sousa"
+      "title"     : "LOQ4082",
+      "url"       : "/pyjupiter/disciplinas/loq4082.html",
+      "nome"      : " Corrosão",
+      "nomeascii" : " Corrosao",
+      "docentes"     : "5817344 - Livia Melo Carneiro"
     } ,
   
     {
@@ -2619,11 +2795,11 @@
     } ,
   
     {
-      "title"     : "LOQ4099",
-      "url"       : "/pyjupiter/disciplinas/loq4099.html",
-      "nome"      : " Engenharia de Cristais Moleculares",
-      "nomeascii" : " Engenharia de Cristais Moleculares",
-      "docentes"     : "210064 - Eduardo Rezende Triboni"
+      "title"     : "LOT2069",
+      "url"       : "/pyjupiter/disciplinas/lot2069.html",
+      "nome"      : " Tópicos Especiais Aplicados a Engenharia de Biossistemas",
+      "nomeascii" : " Topicos Especiais Aplicados a Engenharia de Biossistemas",
+      "docentes"     : ""
     } ,
   
     {
@@ -2651,6 +2827,14 @@
     } ,
   
     {
+      "title"     : "LOQ4058",
+      "url"       : "/pyjupiter/disciplinas/loq4058.html",
+      "nome"      : " Fenômenos de Superfície e Eletroquímica",
+      "nomeascii" : " Fenomenos de Superficie e Eletroquimica",
+      "docentes"     : "1488970 - Marivone Nunho Sousa"
+    } ,
+  
+    {
       "title"     : "LOQ4093",
       "url"       : "/pyjupiter/disciplinas/loq4093.html",
       "nome"      : " Petróleo e Gás Natural",
@@ -2659,11 +2843,27 @@
     } ,
   
     {
+      "title"     : "LOQ4250",
+      "url"       : "/pyjupiter/disciplinas/loq4250.html",
+      "nome"      : " Fundamentos de Administração da Produção",
+      "nomeascii" : " Fundamentos de Administracao da Producao",
+      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
+    } ,
+  
+    {
       "title"     : "LOQ4043",
       "url"       : "/pyjupiter/disciplinas/loq4043.html",
       "nome"      : " Tubulações Industriais",
       "nomeascii" : " Tubulacoes Industriais",
       "docentes"     : "6634418 - Antonio Clelio Ribeiro1285870 - Marcos Villela Barcza"
+    } ,
+  
+    {
+      "title"     : "LOQ4052",
+      "url"       : "/pyjupiter/disciplinas/loq4052.html",
+      "nome"      : " Tópicos Especiais de Gestão e Produção",
+      "nomeascii" : " Topicos Especiais de Gestao e Producao",
+      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
     } ,
   
     {

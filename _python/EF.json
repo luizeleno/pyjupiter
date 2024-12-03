@@ -30,151 +30,23 @@
 "5840692 - Diovana Aparecida dos Santos Napole\u00e3o"
 ],
 "oferecimento": {
-"20242T1": {
-"C\u00f3digo da Turma": "20242T1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251B1": {
+"C\u00f3digo da Turma": "20251B1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " seg  08:00  12:00 ",
-"prof": "Henrique Ot\u00e1vio Queiroz de Aquino "
+"horario": " ter  10:00  12:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "60",
-"Pendentes": "0",
-"Matriculados": "59"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "7",
-"Inscritos": "7",
-"Pendentes": "0",
-"Matriculados": "7"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "7",
-"Inscritos": "7",
-"Pendentes": "0",
-"Matriculados": "7"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "7",
-"Inscritos": "6",
-"Pendentes": "0",
-"Matriculados": "6"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "7",
-"Inscritos": "7",
-"Pendentes": "0",
-"Matriculados": "7"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "7",
-"Inscritos": "7",
-"Pendentes": "0",
-"Matriculados": "7"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "12",
-"Inscritos": "12",
-"Pendentes": "0",
-"Matriculados": "12"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "13",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "13"
-}
-}
-}
-}
-},
-"LOB1008": {
-"sigla": "LOB1008",
-"nome": " Ci\u00eancia, Tecnologia e Sociedade",
-"nomeascii": " Ciencia, Tecnologia e Sociedade",
-"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1008&codcur=88301&codhab=0",
-"requisitos": {},
-"tipo": "Obrigat\u00f3rias",
-"semestre": "1",
-"unidade": "Escola de Engenharia de Lorena",
-"departamento": "Ci\u00eancias B\u00e1sicas e Ambientais",
-"nome_en": "Science, technology and society",
-"objectives": "",
-"abstract": "",
-"program": "",
-"ndoc": 1,
-"CA": "2",
-"CT": "0",
-"CH": "30 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2012",
-"objetivos": "Proporcionar aos estudantes dos cursos de Engenharia da Escola de Engenharia de Lorena o contato com os fundamentos b\u00e1sicos das Ci\u00eancias Humanas ou Sociais e estimular a reflex\u00e3o sobre o desenvolvimento cient\u00edfico-tecnol\u00f3gico no mundo contempor\u00e2neo e seus reflexos na vida do homem no planeta e na sociedade brasileira em tempos de globaliza\u00e7\u00e3o.\nProcurar assim, complementar a forma\u00e7\u00e3o dos mesmos, capacitando-os para utilizar os conhecimentos adquiridos no seu contexto social, no exerc\u00edcio profissional, com compet\u00eancia, criatividade e com amplo entendimento da sua a\u00e7\u00e3o como cidad\u00e3o respons\u00e1vel e solid\u00e1rio.",
-"resumo": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais. A sociedade do conhecimento. o homem na sociedade Emergente. Globaliza\u00e7\u00e3o e a realidade brasileira.",
-"programa": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais\n- a posi\u00e7\u00e3o das Ci\u00eancias Sociais no quadro das ci\u00eancias \n- o papel das Ci\u00eancias Sociais na atualidade;\n\n2 - A Sociedade do Conhecimento \n- A evolu\u00e7\u00e3o do conhecimento \n- O paradigma cient\u00edfico e a revolu\u00e7\u00e3o cient\u00edfica- tecnol\u00f3gica\n- Mudan\u00e7as no paradigma cient\u00edfico\n- A quest\u00e3o s\u00f3cio-ambiental\n\n3 -  O homem na sociedade emergente\n- \u00e9tica nas rela\u00e7\u00f5es humanas\n- lideran\u00e7a pessoal e profissional\n\n4 - Globaliza\u00e7\u00e3o e a realidade brasileira\n- o sistema hegem\u00f4nico : o neoliberalismo;\n- a globaliza\u00e7\u00e3o econ\u00f4mica\n- a globaliza\u00e7\u00e3o social \n- a sociedade civil globalizada",
-"metodo": "A m\u00e9dia semestral e final dos alunos ser\u00e1 composta por: Prova Semestral  (PS) e outros instrumentos (T) empregados na avalia\u00e7\u00e3o do aluno, valorizando a sua participa\u00e7\u00e3o e colabora\u00e7\u00e3o nos trabalhos e atividades desenvolvidas individualmente e no Projeto de curso em equipe.",
-"criterio": "(PS+T) / 2",
-"exame": "-  Trabalho escrito, com questionamento, envolvendo o conte\u00fado do programa \n-   prova escrita",
-"bibliografia": "01  Constitui\u00e7\u00e3o da Rep\u00fablica Federativa do Brasil\n02  C\u00f3digo de \u00c9tica do Engenheiro, CREA: 2002.\n03 -  CAPRA, F.   A Teia da Vida.  S\u00e3o Paulo: Cultrix, 2003.\n03  CASTELLS, Manuel. O Poder da Identidade. A Era da Informa\u00e7\u00e3o: Economia, Sociedade e Cultura. Vol. 2 . S\u00e3o Paulo: Paz e Terra, 1999.\n04  - HUNTER, James C.  O Monge e o Executivo: uma hist\u00f3ria sobre a ess\u00eancia da lideran\u00e7a.  Rio de Janeiro: Sextante, 2004.\n05  NOVAES, Adauto ( org.) \u00c9tica. S\u00e3o Paulo: Secretaria Municipal de Cultura e Companhia das Letras, 1992.\n07  SADER, Emir. A Vingan\u00e7a da Hist\u00f3ria. S\u00e3o Paulo: Boitempo-Editorial, 2003.\n08  SANTOS, Boaventura de. Um Discurso sobre as Ci\u00eancias. Porto, Portugal: Afrontamentos, 1997.\n10 -  SCHAEFER, Richard T.  Sociologia. 6\u00aa. Ed.; S\u00e3o Paulo: McGraw-Hill, 2006.\n11  SODERO TOLEDO, Francisco. Outros Caminhos : Vale do Para\u00edba, do regional ao  internacional, do global ao local. S\u00e3o Paulo, Editora Salesiana, 2001.\n_____________  Eu,Tu,N\u00f3s  \u00c9tica e Cidadania para jovens. Cachoeira Paulista, S\u00e3o Paulo: Ed. Can\u00e7\u00e3o Nova, 2005\n\nArtigos de revistas especializadas e de jornais; \nEstudos, artigos, not\u00edcias e pesquisas via internet.",
-"docentes": [
-"7043088 - Ana Karine Furtado de Carvalho"
-],
-"oferecimento": {
-"20242A2": {
-"C\u00f3digo da Turma": "20242A2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"Observa\u00e7\u00f5es": "",
-"aulas": {
-"h0": {
-"horario": " qua  08:00  10:00 ",
-"prof": "Henrique Ot\u00e1vio Queiroz de Aquino "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "56",
-"Inscritos": "14",
-"Pendentes": "0",
-"Matriculados": "13"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "14",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "13"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "4",
-"Inscritos": "4",
-"Pendentes": "0",
-"Matriculados": "4"
-},
-"Qualquer Unidade da USP": {
 "Vagas": "0",
 "Inscritos": "0",
 "Pendentes": "0",
@@ -215,33 +87,33 @@
 "8711686 - Flavia Reis Cardoso Rojas"
 ],
 "oferecimento": {
-"20242A2": {
-"C\u00f3digo da Turma": "20242A2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251A3": {
+"C\u00f3digo da Turma": "20251A3",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " ter  08:00  10:00 ",
-"prof": "Marcelo Rodrigues de Holanda "
+"horario": " ter  16:00  18:00 ",
+"prof": " "
 },
 "h1": {
-"horario": " qui  08:00  10:00 ",
-"prof": "Marcelo Rodrigues de Holanda "
+"horario": " qui  16:00  18:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "78",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "37"
+"Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "60",
-"Inscritos": "37",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "37"
+"Matriculados": "0"
 }
 }
 }
@@ -278,62 +150,24 @@
 "3682251 - Gabrielle Weber Martins"
 ],
 "oferecimento": {
-"20242T1": {
-"C\u00f3digo da Turma": "20242T1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251B1": {
+"C\u00f3digo da Turma": "20251B1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " sex  14:00  18:00 ",
-"prof": "Fl\u00e1vio Jos\u00e9 da Silva "
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  08:00  10:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "60",
-"Pendentes": "0",
-"Matriculados": "60"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "7",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "7",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "7",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "7",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "7",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "12",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "13",
+"Vagas": "0",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
@@ -373,29 +207,29 @@
 "9149242 - Fernando Catalani"
 ],
 "oferecimento": {
-"20242A5": {
-"C\u00f3digo da Turma": "20242A5",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251A3": {
+"C\u00f3digo da Turma": "20251A3",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Pr\u00e1tica",
 "aulas": {
 "h0": {
-"horario": " qui  10:00  12:00 ",
-"prof": "Marcelo Rodrigues de Holanda "
+"horario": " sex  14:00  16:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "53",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "27"
+"Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
-"Inscritos": "27",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "27"
+"Matriculados": "0"
 }
 }
 }
@@ -432,7 +266,28 @@
 "519033 - Carlos Yujiro Shigue",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3260": {
 "sigla": "LOM3260",
@@ -465,7 +320,90 @@
 "7290967 - Emerson Gon\u00e7alves de Melo",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Pr\u00e1tica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " seg  14:00  16:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " sex  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "20",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "20",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
+},
+"LOM3270": {
+"sigla": "LOM3270",
+"nome": " Matem\u00e1tica Preliminar",
+"nomeascii": " Matematica Preliminar",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3270&codcur=88301&codhab=0",
+"requisitos": {},
+"tipo": "Obrigat\u00f3rias",
+"semestre": "1",
+"unidade": "Escola de Engenharia de Lorena",
+"departamento": "Engenharia de Materiais",
+"nome_en": "Preliminary Mathematics",
+"objectives": "The objective is to carry out a critical review of some content of High School Mathematics, with a certain depth of these ideas. It is expected that there will be sedimentation of the mathematical base that will allow better use in other undergraduate subjects. The program refers to concepts immediately necessary for the Calculus I and, therefore, should be taught at the beginning of the academic period.",
+"abstract": "Real numbers, fractions, powers, roots, equations, inequalities, functions.",
+"program": "Real numbers; intervals. Fractions: operations with fractions. Powers, roots, notable products, rationalization. Polynomials: factorization, operations with polynomials. Identities and equations: root of an equation, degree of an equation, first degree equation, common factor, solution set, modules. Second degree equation. Inequalities: solving inequalities. Functions: domain, image, root of a function, types of functions. First degree function. Quadratic function. Module function. Inverse and composite function. Trigonometric functions: sine, cosine, tangent. Exponential functions: equations and inequalities. Logarithm function: properties, change of base, Neperian logarithm, logarithmic equations and inequalities.",
+"ndoc": 0,
+"CA": "2",
+"CT": "0",
+"CH": "30 h",
+"periodicidade": "Semestral",
+"ativacao": "01/01/2025",
+"objetivos": "O objetivo \u00e9 fazer uma revis\u00e3o cr\u00edtica de alguns conte\u00fados da Matem\u00e1tica do Ensino M\u00e9dio, com certo aprofundamento destas ideias. Espera-se que haja uma sedimenta\u00e7\u00e3o da base matem\u00e1tica que permita um melhor aproveitamento em outras disciplinas da gradua\u00e7\u00e3o. O programa se refere a conceitos imediatamente necess\u00e1rios para a disciplina de C\u00e1lculo I e, sendo assim, deve ser ministrada logo no in\u00edcio do per\u00edodo letivo.",
+"resumo": "N\u00fameros reais, fra\u00e7\u00f5es, pot\u00eancias, ra\u00edzes, equa\u00e7\u00f5es, inequa\u00e7\u00f5es, fun\u00e7\u00f5es.",
+"programa": "N\u00fameros reais; intervalos. Fra\u00e7\u00f5es: opera\u00e7\u00f5es com fra\u00e7\u00f5es. Pot\u00eancias, ra\u00edzes, produtos not\u00e1veis, racionaliza\u00e7\u00e3o. Polin\u00f4mios: fatora\u00e7\u00e3o, opera\u00e7\u00f5es com polin\u00f4mios. Identidades e equa\u00e7\u00f5es: raiz de uma equa\u00e7\u00e3o, grau de uma equa\u00e7\u00e3o, equa\u00e7\u00e3o do primeiro grau, fator comum, conjunto solu\u00e7\u00e3o, m\u00f3dulos. Equa\u00e7\u00e3o do segundo grau. Inequa\u00e7\u00f5es: resolu\u00e7\u00e3o de inequa\u00e7\u00f5es. Fun\u00e7\u00f5es: dom\u00ednio, imagem, raiz de uma fun\u00e7\u00e3o, tipos de fun\u00e7\u00f5es. Fun\u00e7\u00e3o do primeiro grau. Fun\u00e7\u00e3o quadr\u00e1tica. Fun\u00e7\u00e3o m\u00f3dulo. Fun\u00e7\u00e3o inversa e composta. Fun\u00e7\u00f5es trigonom\u00e9tricas: seno, cosseno, tangente. Fun\u00e7\u00f5es exponenciais: equa\u00e7\u00f5es e inequa\u00e7\u00f5es. Fun\u00e7\u00e3o logaritmo: propriedades, mudan\u00e7a de base, logaritmo neperiano, equa\u00e7\u00f5es e inequa\u00e7\u00f5es logar\u00edtmicas.",
+"metodo": "Aulas expositivas, exerc\u00edcios de fixa\u00e7\u00e3o com orienta\u00e7\u00e3o do professor.",
+"criterio": "Avalia\u00e7\u00e3o por meio de duas provas: a primeira com peso 1 e a segunda com peso 2. A m\u00e9dia do semestre ser\u00e1 a m\u00e9dia ponderada das duas provas. MS maior ou igual a 5,0: aluno aprovado na disciplina.",
+"exame": "(MS+RC)/2 \u2265 5,0, onde RC \u00e9 uma prova de recupera\u00e7\u00e3o a ser aplicada.",
+"bibliografia": "IEZZI, G.; MURAKAMI, C. Fundamentos de matem\u00e1tica elementar - Volume 1: Conjuntos e fun\u00e7\u00f5es. S\u00e3o Paulo: Saraiva Did\u00e1ticos, 2019. CASTRUCCI, B.; GIOVANNI, J.R.; GIOVANNI JR., J.R. A Conquista da Matem\u00e1tica - 6\u00ba ano. S\u00e3o Paulo: FTD Educa\u00e7\u00e3o, 2022.FILHO, B. B.; SILVA, C. X. Matem\u00e1tica aula por aula. S\u00e3o Paulo: FTD, 2000.WAGNER, E. Matem\u00e1tica 1. 1\u00aa ed. Rio de Janeiro: FGV, 2011. ADAMI, A. M.; DORNELLES FILHO, A. A.; LORANDI, M. M.: Pr\u00e9-C\u00e1lculo. S\u00e3o Paulo: BookmanEditora, 2015STEWART, J., REDLIN, L. e WATSON, S. Precalculus: Mathematics for Calculus.S\u00e3o Paulo: Cengage Learning, 7a ed., 2014.",
+"docentes": [],
+"oferecimento": {
+"20251F2": {
+"C\u00f3digo da Turma": "20251F2",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4100": {
 "sigla": "LOQ4100",
@@ -498,7 +436,32 @@
 "5817344 - Livia Melo Carneiro",
 "6310296 - Patr\u00edcia Caroline Molgero Da R\u00f3s"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251B1": {
+"C\u00f3digo da Turma": "20251B1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  16:00 ",
+"prof": "Larissa de Freitas "
+},
+"h1": {
+"horario": " qui  14:00  16:00 ",
+"prof": "(R) Patr\u00edcia Caroline Molgero Da R\u00f3s "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1004": {
 "sigla": "LOB1004",
@@ -542,33 +505,33 @@
 "8822123 - Roberta Veloso Garcia"
 ],
 "oferecimento": {
-"20242A2": {
-"C\u00f3digo da Turma": "20242A2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251A1": {
+"C\u00f3digo da Turma": "20251A1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " ter  16:00  18:00 ",
-"prof": "Ant\u00f4nio S\u00e9rgio Cobianchi "
+"horario": " ter  08:00  10:00 ",
+"prof": " "
 },
 "h1": {
-"horario": " qui  16:00  18:00 ",
-"prof": "Ant\u00f4nio S\u00e9rgio Cobianchi "
+"horario": " qui  08:00  10:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "28",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "27"
+"Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "60",
-"Inscritos": "22",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "22"
+"Matriculados": "0"
 }
 }
 }
@@ -616,69 +579,33 @@
 "8711623 - Denize Kalempa"
 ],
 "oferecimento": {
-"20242D1": {
-"C\u00f3digo da Turma": "20242D1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251B1": {
+"C\u00f3digo da Turma": "20251B1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " ter  08:00  10:00 ",
-"prof": "(R) Denize Kalempa "
+"horario": " ter  16:00  18:00 ",
+"prof": " "
 },
 "h1": {
-"horario": " qui  08:00  10:00 ",
-"prof": "(R) Denize Kalempa "
+"horario": " qui  16:00  18:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "47",
-"Pendentes": "0",
-"Matriculados": "38"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "32",
-"Inscritos": "11",
-"Pendentes": "0",
-"Matriculados": "11"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "7",
-"Inscritos": "7",
-"Pendentes": "0",
-"Matriculados": "7"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "8",
 "Pendentes": "0",
 "Matriculados": "0"
 },
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "2",
-"Inscritos": "2",
-"Pendentes": "0",
-"Matriculados": "2"
-},
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "10",
-"Inscritos": "10",
+"Vagas": "60",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "10"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "6",
-"Inscritos": "6",
-"Pendentes": "0",
-"Matriculados": "6"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "2",
-"Inscritos": "2",
-"Pendentes": "0",
-"Matriculados": "2"
+"Matriculados": "0"
 }
 }
 }
@@ -686,7 +613,7 @@
 },
 "LOB1037": {
 "sigla": "LOB1037",
-"nome": " \u00c0lgebra Linear",
+"nome": " \u00c1lgebra Linear",
 "nomeascii": " Algebra Linear",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1037&codcur=88301&codhab=0",
 "requisitos": {
@@ -721,33 +648,33 @@
 "3682251 - Gabrielle Weber Martins"
 ],
 "oferecimento": {
-"20242A2": {
-"C\u00f3digo da Turma": "20242A2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251A1": {
+"C\u00f3digo da Turma": "20251A1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " ter  14:00  16:00 ",
-"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
+"horario": " ter  10:00  12:00 ",
+"prof": " "
 },
 "h1": {
-"horario": " qui  14:00  16:00 ",
-"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
+"horario": " qui  10:00  12:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "47",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "47"
+"Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "60",
-"Inscritos": "34",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "34"
+"Matriculados": "0"
 }
 }
 }
@@ -759,14 +686,14 @@
 "nomeascii": " Fisica Experimental II",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1041&codcur=88301&codhab=0",
 "requisitos": {
-"LOB1018": {
-"sigla": "LOB1018",
-"nome": " F\u00edsica I ",
-"tipo": "Requisito fraco"
-},
 "LOB1038": {
 "sigla": "LOB1038",
 "nome": " F\u00edsica Experimental I ",
+"tipo": "Requisito fraco"
+},
+"LOB1018": {
+"sigla": "LOB1018",
+"nome": " F\u00edsica I ",
 "tipo": "Requisito fraco"
 }
 },
@@ -795,89 +722,99 @@
 "5817535 - Lucas Barboza Sarno da Silva"
 ],
 "oferecimento": {
-"20242F2": {
-"C\u00f3digo da Turma": "20242F2",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251P1": {
+"C\u00f3digo da Turma": "20251P1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Pr\u00e1tica",
 "aulas": {
 "h0": {
-"horario": " qui  10:00  12:00 ",
-"prof": "Jo\u00e3o Bosco Nunes Romeiro "
+"horario": " seg  21:00  23:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "20",
-"Pendentes": "0",
-"Matriculados": "20"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "34",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "13"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "1",
-"Pendentes": "0",
-"Matriculados": "1"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "15",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "3",
-"Inscritos": "3",
+"Vagas": "40",
+"Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "3"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "1",
-"Pendentes": "0",
-"Matriculados": "1"
+"Matriculados": "0"
 }
 }
 }
 }
 },
-"LOB1045": {
-"sigla": "LOB1045",
-"nome": " Leitura e Produ\u00e7\u00e3o de Textos Acad\u00eamicos",
-"nomeascii": " Leitura e Producao de Textos Academicos",
-"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1045&codcur=88301&codhab=0",
-"requisitos": {},
+"LOM3037": {
+"sigla": "LOM3037",
+"nome": " Qu\u00edmica Inorg\u00e2nica",
+"nomeascii": " Quimica Inorganica",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3037&codcur=88301&codhab=0",
+"requisitos": {
+"LOQ4100": {
+"sigla": "LOQ4100",
+"nome": " Fundamentos de Qu\u00edmica para Engenharia I",
+"tipo": "Requisito fraco"
+}
+},
 "tipo": "Obrigat\u00f3rias",
 "semestre": "2",
 "unidade": "Escola de Engenharia de Lorena",
-"departamento": "Ci\u00eancias B\u00e1sicas e Ambientais",
-"nome_en": "Reading and writing in academic contexts",
+"departamento": "Engenharia de Materiais",
+"nome_en": "Inorganic Chemistry",
 "objectives": "",
 "abstract": "",
 "program": "",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "2",
 "CT": "0",
 "CH": "30 h",
 "periodicidade": "Semestral",
-"ativacao": "01/01/2012",
-"objetivos": "Propiciar ao aluno o conhecimento dos g\u00eaneros por meio dos quais ele dever\u00e1 agir linguisticamente no espa\u00e7o acad\u00eamico (Objetivo Geral); 2. Ler e redigir resumos acad\u00eamicos e relat\u00f3rios de pesquisa experimental, al\u00e9m de reconhecer as caracter\u00edsticas de uma resenha (Objetivo Espec\u00edfico); 3. Dominar t\u00e9cnicas de escrita adequadas aos g\u00eaneros acad\u00eamicos (Objetivo Espec\u00edfico).",
-"resumo": "O texto escrito da esfera acad\u00eamica. G\u00eaneros acad\u00eamicos.",
-"programa": "1. O texto escrito na esfera acad\u00eamica\n    Aspectos constitutivos do texto escrito\n    Fatores de legibilidade\n    Coes\u00e3o\n2. G\u00eaneros acad\u00eamicos\n    No\u00e7\u00f5es de g\u00eaneros. G\u00eaneros acad\u00eamicos\n    Resumo e resenha\n    Relat\u00f3rio de pesquisa experimental",
-"metodo": "N 1  = Prova= 10,0\nN 2 = 1\u00aa NP + 2\u00aa NP  (ver abaixo)",
-"criterio": "1\u00aa Nota Parcial - Resumo= 5,0\n2\u00aa Nota Parcial - Relat\u00f3rio=5,0 NOTA FINAL = N1 + N2/ 2",
-"exame": "Ao aluno que n\u00e3o alcan\u00e7ar a m\u00e9dia 5,0 (cinco) no final do per\u00edodo letivo ser\u00e1 dada uma recupera\u00e7\u00e3o, por meio de uma prova.",
-"bibliografia": "1. FARACO, Carlos Alberto; TEZZA, Crist\u00f3v\u00e3o. Oficina de texto.  6 ed. Petr\u00f3polis: Vozes, 2008.\n2. ILARI, Rodolfo.  Introdu\u00e7\u00e3o \u00e0 Sem\u00e2ntica: brincando com a gram\u00e1tica.  S\u00e3o Paulo: Contexto, 2001.\n3. ______.  Introdu\u00e7\u00e3o ao estudo do l\u00e9xico: brincando com as palavras.  S\u00e3o Paulo: Contexto, 2002.\n4. KLEIMAN, \u00c2ngela. Texto e leitor: aspectos cognitivos da leitura. 4.ed.  Campinas: Pontes, 1995.\n5. KOCH, Ingedore Villa\u00e7a.  A coes\u00e3o textual.  S\u00e3o Paulo: Contexto, 2001.\n6. LIBERATO, Yara; FULG\u00caNCIO, L\u00facia.   \u00c9 poss\u00edvel facilitar a leitura: um guia para escrever claro.  S\u00e3o Paulo: Contexto, 2007.\n7. MACHADO, A.R (coord.); LOUSADA, E.; ABREU-TARDELLI, L. S.  Resumo.  S\u00e3o Paulo: Par\u00e1bola Editorial, 2004.\n8. ______.   Resenha.  S\u00e3o Paulo: Par\u00e1bola Editorial, 2004.\n9. MARCUSCHI, Luiz Ant\u00f4nio.  Da fala para a escrita: atividades de retextualiza\u00e7\u00e3o.  S\u00e3o Paulo: Cortez, 2000.\n10. SERAFINI, Maria Jos\u00e9.    Como escrever textos. 5.ed. S\u00e3o Paulo: Globo, 1992.",
+"ativacao": "01/01/2023",
+"objetivos": "- Capacitar o aluno para relacionar as propriedades qu\u00edmicas e f\u00edsicas dos elementos e seus compostos com suas posi\u00e7\u00f5es na tabela peri\u00f3dica.-Capacitar o aluno a escrever os m\u00e9todos industriais de obten\u00e7\u00e3o dos elementos e seus compostos, bem como descrever suas aplica\u00e7\u00f5es- capacitar o aluno a comunicar-se eficazmente nas formas escrita, oral e gr\u00e1fica",
+"resumo": "- Metais Representativos: Metais do Grupo 1, Metais do Grupo 2 e Metais do Grupo 13.- Metais de Transi\u00e7\u00e3o: Propriedades gerais, Complexos.",
+"programa": "Metais e compostos dos grupos 1, 2, 13 e de transi\u00e7\u00e3o da Tabela Peri\u00f3dica: Propriedades f\u00edsicas e qu\u00edmicas (rela\u00e7\u00e3o com a posi\u00e7\u00e3o na Tabela Peri\u00f3dica), processos de obten\u00e7\u00e3o dos metais e compostos e aplica\u00e7\u00f5es - Forma\u00e7\u00e3o de Complexos.Relacionar a disciplina com disciplinas anteriores e posteriores da grade do curso.",
+"metodo": "A avalia\u00e7\u00e3o tem como requisito quantificar as compet\u00eancias adquiridas conforme objetivadas.Duas provas escritas (P1 e P2) e listas de exerc\u00edcios de acompanhamento continuado. A partir das notas das listas de exerc\u00edcio ser\u00e1 calculada a m\u00e9dia, LE.",
+"criterio": "NF = (P1 + P2 + LE) /3",
+"exame": "Ser\u00e1 realizada uma prova escrita valendo de zero a dez (NR) e a m\u00e9dia final calculada pela equa\u00e7\u00e3o: NF + NR",
+"bibliografia": "LEE, J. D. \u201cQu\u00edmica Inorg\u00e2nica n\u00e3o t\u00e3o Concisa\u201d, Editora Edgard Bl\u00fccher, 1999. - SHRIVER, D. F.; ATKINS, P. W. \u201cQu\u00edmica Inorg\u00e2nica\u201d, Editora Bookman, 4\u00aa edi\u00e7\u00e3o, 2008. - QUAGLIANO, J. V.; VALLARINO, L. \u201cQu\u00edmica\u201d, Editora Guanabara Koogan, 1973. - BUCHEL, K. H.; MORETTO, H. H.; WODITSCH, P. \u201cIndustrial Inorganic Chemistry\u201d, Editora Wiley-VCH, 2000. - RAYNER-CANHAM, G.; OVERTON, T. \u201cQu\u00edmica Inorg\u00e2nica Descritiva\u201d, Editora: Gen-LTC, 5\u00aa edi\u00e7\u00e3o, 2015. - SOUZA, M.M.V.M. \u201cProcessos Inorg\u00e2nicos\u201d, Editora: Synergia, 1\u00aa edi\u00e7\u00e3o, 2012.",
 "docentes": [
-"5840514 - Graziela Zamponi"
+"5840963 - Daniela Camargo Vernilli",
+"1922320 - Sebastiao Ribeiro"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251M1": {
+"C\u00f3digo da Turma": "20251M1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  14:00  16:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "45",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3204": {
 "sigla": "LOM3204",
@@ -911,100 +848,23 @@
 "5817692 - Katia Cristiane Gandolpho Candioto"
 ],
 "oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251M1": {
+"C\u00f3digo da Turma": "20251M1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Pr\u00e1tica",
 "aulas": {
 "h0": {
-"horario": " qua  08:00  12:00 ",
-"prof": "(R) Katia Cristiane Gandolpho Candioto "
+"horario": " sex  08:00  12:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "30",
-"Inscritos": "22",
+"Vagas": "0",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "21"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "29",
-"Inscritos": "20",
-"Pendentes": "0",
-"Matriculados": "20"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "1",
-"Pendentes": "0",
-"Matriculados": "1"
-}
-}
-}
-}
-},
-"LOM3240": {
-"sigla": "LOM3240",
-"nome": " Qu\u00edmica Inorg\u00e2nica Fundamental e Aplicada",
-"nomeascii": " Quimica Inorganica Fundamental e Aplicada",
-"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3240&codcur=88301&codhab=0",
-"requisitos": {
-"LOQ4100": {
-"sigla": "LOQ4100",
-"nome": " Fundamentos de Qu\u00edmica para Engenharia I",
-"tipo": "Requisito fraco"
-}
-},
-"tipo": "Obrigat\u00f3rias",
-"semestre": "2",
-"unidade": "Escola de Engenharia de Lorena",
-"departamento": "Engenharia de Materiais",
-"nome_en": "Fundamental and Applied Inorganic Chemistry",
-"objectives": "To present an overview of the chemistry of elements and their compounds, emphasizing the correlations between physical and chemical properties with structural and binding aspects, methods of obtaining them in laboratory and industry, in addition to the main properties and applications.",
-"abstract": "",
-"program": "",
-"ndoc": 1,
-"CA": "2",
-"CT": "0",
-"CH": "30 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2024",
-"objetivos": "Apresentar uma vis\u00e3o geral da qu\u00edmica dos elementos e de seus compostos enfatizando as correla\u00e7\u00f5es entre as propriedades f\u00edsicas e qu\u00edmicas com os aspectos estruturais e de liga\u00e7\u00e3o, os m\u00e9todos de obten\u00e7\u00e3o em laborat\u00f3rio e ind\u00fastria, al\u00e9m das principais propriedades e aplica\u00e7\u00f5es.",
-"resumo": "- Metais Representativos: Metais do Grupo 1, Metais do Grupo 2 e Metais do Grupo 13.- Metais de Transi\u00e7\u00e3o: Propriedades gerais, Complexos.",
-"programa": "- Metais Representativos: Caracter\u00edsticas gerais dos metais dos Grupos 1, 2 e 13.- Metais de transi\u00e7\u00e3o: Introdu\u00e7\u00e3o e Propriedades gerais, Complexos.",
-"metodo": "Duas provas bimestrais escritas (P1 e P2), as quais valer\u00e3o de 0,0 a 7,0 ou 0,0 a 8,0 e trabalhos e pr\u00e1ticas valendo de 0,0 a 3,0 ou de 0,0 a 2,0, totalizando 10,0 pontos.",
-"criterio": "MS= P1+P2/2, onde: MS= m\u00e9dia do Semestre. Quando a MS> ou = 5,0 = Aluno Aprovado, quando a MS< 3,0 = Aluno Reprovado e quando 3,0 < ou = MS < 5,0 = Aluno de Recupera\u00e7\u00e3o.",
-"exame": "Estudo dirigido de todo o conte\u00fado da disciplina e uma prova (PR) valendo nota de 0,0 a 10,0, contendo todo o conte\u00fado da disciplina. O aluno ser\u00e1 aprovado se apresentar (m\u00e9dia final) MF > ou = 5,0. Onde: MF= MS+PR/2, onde: MS= m\u00e9dia do semestre e PR= prova de recupera\u00e7\u00e3o.",
-"bibliografia": "- LEE, J. D. \u201cQu\u00edmica Inorg\u00e2nica n\u00e3o t\u00e3o Concisa\u201d, Editora Edgard Bl\u00fccher, 1999.- SHRIVER, D. F.; ATKINS, P. W. \u201cQu\u00edmica Inorg\u00e2nica\u201d, Editora Bookman, 4\u00aa edi\u00e7\u00e3o, 2008.- QUAGLIANO, J. V.; VALLARINO, L. \u201cQu\u00edmica\u201d, Editora Guanabara Koogan, 1973.- MELLOR, J. W. \u201cQu\u00edmica Inorg\u00e2nica Moderna\u201d, Editora: Globo \u2013 Porto Alegre, 1967.- GREENWOOD, N. N.; EARNSHAW, A. \u201cChemistry of the Elements\u201d, Butterworth Heinemann, 1997.- BUCHEL, K. H.; MORETTO, H. H.; WODITSCH, P. \u201cIndustrial Inorganic Chemistry\u201d, Editora Wiley-VCH, 2000.- RAYNER-CANHAM, G.; OVERTON, T. \u201cQu\u00edmica Inorg\u00e2nica Descritiva\u201d, Editora: Gen-LTC, 5\u00aa edi\u00e7\u00e3o, 2015.- SOUZA, M.M.V.M. \u201cProcessos Inorg\u00e2nicos\u201d, Editora: Synergia, 1\u00aa edi\u00e7\u00e3o, 2012.",
-"docentes": [
-"5840963 - Daniela Camargo Vernilli"
-],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qua  14:00  16:00 ",
-"prof": "(R) Daniela Camargo Vernilli "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "24",
-"Pendentes": "0",
-"Matriculados": "23"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "23"
+"Matriculados": "0"
 }
 }
 }
@@ -1048,29 +908,23 @@
 "6310296 - Patr\u00edcia Caroline Molgero Da R\u00f3s"
 ],
 "oferecimento": {
-"20242A3": {
-"C\u00f3digo da Turma": "20242A3",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251D2": {
+"C\u00f3digo da Turma": "20251D2",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Pr\u00e1tica",
 "aulas": {
 "h0": {
-"horario": " qua  10:00  12:00 ",
-"prof": "D\u00e9bora Souza Alvim "
+"horario": " sex  08:00  10:00 ",
+"prof": "Antonio Aar\u00e3o Serra "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "21",
+"Vagas": "0",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "19"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "40",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "17"
+"Matriculados": "0"
 }
 }
 }
@@ -1082,14 +936,14 @@
 "nomeascii": " Calculo IV",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1006&codcur=88301&codhab=0",
 "requisitos": {
+"LOB1037": {
+"sigla": "LOB1037",
+"nome": " \u00c1lgebra Linear ",
+"tipo": "Requisito fraco"
+},
 "LOB1004": {
 "sigla": "LOB1004",
 "nome": " C\u00e1lculo II ",
-"tipo": "Requisito fraco"
-},
-"LOB1037": {
-"sigla": "LOB1037",
-"nome": " \u00c0lgebra Linear ",
 "tipo": "Requisito fraco"
 }
 },
@@ -1118,39 +972,33 @@
 "6270264 - Juan Fernando Zapata Zapata"
 ],
 "oferecimento": {
-"20242AM": {
-"C\u00f3digo da Turma": "20242AM",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251A2": {
+"C\u00f3digo da Turma": "20251A2",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " ter  14:00  16:00 ",
-"prof": "Ira\u00eddes Aparecida de Castro Villela "
+"horario": " ter  10:00  12:00 ",
+"prof": " "
 },
 "h1": {
-"horario": " qui  14:00  16:00 ",
-"prof": "Ira\u00eddes Aparecida de Castro Villela "
+"horario": " qui  10:00  12:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "21",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "20"
+"Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "30",
-"Inscritos": "7",
+"Vagas": "60",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "7"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "30",
-"Inscritos": "2",
-"Pendentes": "0",
-"Matriculados": "2"
+"Matriculados": "0"
 }
 }
 }
@@ -1193,63 +1041,27 @@
 "3268262 - Carlos Renato Menegatti"
 ],
 "oferecimento": {
-"20242A1": {
-"C\u00f3digo da Turma": "20242A1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251A2": {
+"C\u00f3digo da Turma": "20251A2",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Pr\u00e1tica",
 "aulas": {
 "h0": {
-"horario": " qui  08:00  10:00 ",
-"prof": "Fernando Catalani "
+"horario": " qui  16:00  18:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "22",
-"Pendentes": "0",
-"Matriculados": "17"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "6",
 "Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "6"
+"Matriculados": "0"
 },
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "3",
-"Inscritos": "3",
-"Pendentes": "0",
-"Matriculados": "3"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "1",
-"Pendentes": "0",
-"Matriculados": "1"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "5",
-"Inscritos": "5",
-"Pendentes": "0",
-"Matriculados": "5"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "1",
-"Pendentes": "0",
-"Matriculados": "1"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "1",
-"Pendentes": "0",
-"Matriculados": "1"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
+"EEL - Engenharia Ambiental": {
+"Vagas": "40",
+"Inscritos": "6",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1294,65 +1106,33 @@
 "6270264 - Juan Fernando Zapata Zapata"
 ],
 "oferecimento": {
-"20242T1": {
-"C\u00f3digo da Turma": "20242T1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251B1": {
+"C\u00f3digo da Turma": "20251B1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " seg  08:00  12:00 ",
-"prof": "Estaner Claro Rom\u00e3o "
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  08:00  10:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "67",
-"Pendentes": "0",
-"Matriculados": "54"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "0",
-"Inscritos": "0",
+"Inscritos": "3",
 "Pendentes": "0",
 "Matriculados": "0"
 },
-"EEL - Engenharia Ambiental": {
-"Vagas": "8",
-"Inscritos": "7",
-"Pendentes": "0",
-"Matriculados": "7"
-},
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "8",
-"Inscritos": "6",
+"Vagas": "60",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "6"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "8",
-"Inscritos": "7",
-"Pendentes": "0",
-"Matriculados": "7"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "8",
-"Inscritos": "8",
-"Pendentes": "0",
-"Matriculados": "8"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "14",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "13"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "14",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "13"
+"Matriculados": "0"
 }
 }
 }
@@ -1400,69 +1180,33 @@
 "2342277 - Bertha Mar\u00eda Cuadros Melgar"
 ],
 "oferecimento": {
-"20242A1": {
-"C\u00f3digo da Turma": "20242A1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251A1": {
+"C\u00f3digo da Turma": "20251A1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " ter  10:00  12:00 ",
-"prof": "Carlos Renato Menegatti "
+"horario": " ter  14:00  16:00 ",
+"prof": " "
 },
 "h1": {
-"horario": " qui  10:00  12:00 ",
-"prof": "Carlos Renato Menegatti "
+"horario": " qui  14:00  16:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "60",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "60"
+"Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "13",
-"Inscritos": "13",
+"Vagas": "60",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "13"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "3",
-"Inscritos": "3",
-"Pendentes": "0",
-"Matriculados": "3"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "8",
-"Inscritos": "8",
-"Pendentes": "0",
-"Matriculados": "8"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "8",
-"Inscritos": "8",
-"Pendentes": "0",
-"Matriculados": "8"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "3",
-"Inscritos": "3",
-"Pendentes": "0",
-"Matriculados": "3"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "12",
-"Inscritos": "12",
-"Pendentes": "0",
-"Matriculados": "12"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "13",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "13"
+"Matriculados": "0"
 }
 }
 }
@@ -1501,59 +1245,29 @@
 "7459752 - Maria Ismenia Sodero Toledo Faria"
 ],
 "oferecimento": {
-"20242D1": {
-"C\u00f3digo da Turma": "20242D1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251F3": {
+"C\u00f3digo da Turma": "20251F3",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
 "horario": " seg  14:00  16:00 ",
-"prof": "(R) Fernando Vernilli Junior "
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "60",
-"Pendentes": "0",
-"Matriculados": "58"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "47",
-"Inscritos": "47",
-"Pendentes": "0",
-"Matriculados": "47"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "4",
-"Inscritos": "3",
-"Pendentes": "0",
-"Matriculados": "3"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "0",
-"Inscritos": "0",
+"Vagas": "45",
+"Inscritos": "7",
 "Pendentes": "0",
 "Matriculados": "0"
 },
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "2",
-"Inscritos": "2",
-"Pendentes": "0",
-"Matriculados": "2"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "5",
-"Inscritos": "4",
-"Pendentes": "0",
-"Matriculados": "4"
-},
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "2",
-"Inscritos": "2",
+"Vagas": "45",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "2"
+"Matriculados": "0"
 }
 }
 }
@@ -1596,7 +1310,34 @@
 "519033 - Carlos Yujiro Shigue",
 "5817692 - Katia Cristiane Gandolpho Candioto"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  14:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3241": {
 "sigla": "LOM3241",
@@ -1604,9 +1345,9 @@
 "nomeascii": " Quimica de Materiais",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3241&codcur=88301&codhab=0",
 "requisitos": {
-"LOM3240": {
-"sigla": "LOM3240",
-"nome": " Qu\u00edmica Inorg\u00e2nica Fundamental e Aplicada ",
+"LOM3037": {
+"sigla": "LOM3037",
+"nome": " Qu\u00edmica Inorg\u00e2nica ",
 "tipo": "Requisito fraco"
 }
 },
@@ -1635,7 +1376,38 @@
 "5840730 - Antonio Jefferson da Silva Machado",
 "5840897 - Clodoaldo Saron"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  10:00  12:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " sex  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3257": {
 "sigla": "LOM3257",
@@ -1679,7 +1451,38 @@
 "5840730 - Antonio Jefferson da Silva Machado",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  08:00  10:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " sex  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1012": {
 "sigla": "LOB1012",
@@ -1718,39 +1521,33 @@
 "4894221 - Mariana Pereira de Melo"
 ],
 "oferecimento": {
-"20242FA": {
-"C\u00f3digo da Turma": "20242FA",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251D3": {
+"C\u00f3digo da Turma": "20251D3",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " ter  16:00  18:00 ",
-"prof": "Adriano Francisco Siqueira "
+"horario": " ter  10:00  12:00 ",
+"prof": " "
 },
 "h1": {
-"horario": " qui  16:00  18:00 ",
-"prof": "Adriano Francisco Siqueira "
+"horario": " qui  10:00  12:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "71",
-"Inscritos": "71",
+"Vagas": "60",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "71"
+"Matriculados": "0"
 },
-"EEL - Engenharia Ambiental": {
-"Vagas": "30",
-"Inscritos": "28",
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "28"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "30",
-"Inscritos": "19",
-"Pendentes": "0",
-"Matriculados": "19"
+"Matriculados": "0"
 }
 }
 }
@@ -1762,14 +1559,14 @@
 "nomeascii": " Fisica IV",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1021&codcur=88301&codhab=0",
 "requisitos": {
-"LOB1052": {
-"sigla": "LOB1052",
-"nome": " C\u00e1lculo III ",
-"tipo": "Requisito fraco"
-},
 "LOB1053": {
 "sigla": "LOB1053",
 "nome": " F\u00edsica III ",
+"tipo": "Requisito fraco"
+},
+"LOB1052": {
+"sigla": "LOB1052",
+"nome": " C\u00e1lculo III ",
 "tipo": "Requisito fraco"
 }
 },
@@ -1797,57 +1594,7 @@
 "docentes": [
 "230696 - Carlos Jos\u00e9 Todero Peixoto"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"Observa\u00e7\u00f5es": "",
-"aulas": {
-"h0": {
-"horario": " ter  08:00  10:00 ",
-"prof": "Antonio Fernando Sartori "
-},
-"h1": {
-"horario": " qui  08:00  10:00 ",
-"prof": "Antonio Fernando Sartori "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "19",
-"Pendentes": "0",
-"Matriculados": "17"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "42",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "17"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOB1042": {
 "sigla": "LOB1042",
@@ -1885,46 +1632,7 @@
 "docentes": [
 "230696 - Carlos Jos\u00e9 Todero Peixoto"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qui  10:00  12:00 ",
-"prof": "Lucas Barboza Sarno da Silva "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "20",
-"Pendentes": "0",
-"Matriculados": "19"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "38",
-"Inscritos": "19",
-"Pendentes": "0",
-"Matriculados": "19"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3205": {
 "sigla": "LOM3205",
@@ -1932,14 +1640,14 @@
 "nomeascii": " Eletromagnetismo",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3205&codcur=88301&codhab=0",
 "requisitos": {
-"LOB1052": {
-"sigla": "LOB1052",
-"nome": " C\u00e1lculo III ",
-"tipo": "Requisito fraco"
-},
 "LOB1053": {
 "sigla": "LOB1053",
 "nome": " F\u00edsica III ",
+"tipo": "Requisito fraco"
+},
+"LOB1052": {
+"sigla": "LOB1052",
+"nome": " C\u00e1lculo III ",
 "tipo": "Requisito fraco"
 }
 },
@@ -1970,38 +1678,7 @@
 "1341653 - Maria Jos\u00e9 Ramos Sandim",
 "1643715 - Paulo Atsushi Suzuki"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  14:00  16:00 ",
-"prof": "(R) Maria Jos\u00e9 Ramos Sandim "
-},
-"h1": {
-"horario": " qui  14:00  16:00 ",
-"prof": "(R) Maria Jos\u00e9 Ramos Sandim "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "26",
-"Pendentes": "0",
-"Matriculados": "26"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "26",
-"Pendentes": "0",
-"Matriculados": "26"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3253": {
 "sigla": "LOM3253",
@@ -2009,14 +1686,14 @@
 "nomeascii": " Fisica Matematica",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3253&codcur=88301&codhab=0",
 "requisitos": {
-"LOB1003": {
-"sigla": "LOB1003",
-"nome": " C\u00e1lculo I ",
-"tipo": "Requisito fraco"
-},
 "LOB1006": {
 "sigla": "LOB1006",
 "nome": " C\u00e1lculo IV ",
+"tipo": "Requisito fraco"
+},
+"LOB1003": {
+"sigla": "LOB1003",
+"nome": " C\u00e1lculo I ",
 "tipo": "Requisito fraco"
 }
 },
@@ -2047,38 +1724,7 @@
 "1341653 - Maria Jos\u00e9 Ramos Sandim",
 "1643715 - Paulo Atsushi Suzuki"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  14:00  16:00 ",
-"prof": "(R) Cristina Bormio Nunes "
-},
-"h1": {
-"horario": "(R) Maria Jos\u00e9 Ramos Sandim   qua  14:00",
-"prof": " 16:00 "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "24",
-"Pendentes": "0",
-"Matriculados": "23"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "22",
-"Pendentes": "0",
-"Matriculados": "22"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3261": {
 "sigla": "LOM3261",
@@ -2086,14 +1732,14 @@
 "nomeascii": " Metodos Numericos e Aplicacoes",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3261&codcur=88301&codhab=0",
 "requisitos": {
-"LOB1004": {
-"sigla": "LOB1004",
-"nome": " C\u00e1lculo II ",
-"tipo": "Requisito fraco"
-},
 "LOM3260": {
 "sigla": "LOM3260",
 "nome": " Computa\u00e7\u00e3o Cient\u00edfica em Python ",
+"tipo": "Requisito fraco"
+},
+"LOB1004": {
+"sigla": "LOB1004",
+"nome": " C\u00e1lculo II ",
 "tipo": "Requisito fraco"
 }
 },
@@ -2122,34 +1768,7 @@
 "3480026 - Jo\u00e3o Paulo Pascon",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  10:00  12:00 ",
-"prof": "(R) Luiz Tadeu Fernandes Eleno "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "30",
-"Inscritos": "29",
-"Pendentes": "0",
-"Matriculados": "28"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "30",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "28"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3262": {
 "sigla": "LOM3262",
@@ -2188,34 +1807,7 @@
 "519033 - Carlos Yujiro Shigue",
 "7290967 - Emerson Gon\u00e7alves de Melo"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " sex  08:00  12:00 ",
-"prof": "Andy Blanco Rodriguez "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "30",
-"Inscritos": "25",
-"Pendentes": "0",
-"Matriculados": "23"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "30",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "23"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3269": {
 "sigla": "LOM3269",
@@ -2259,34 +1851,7 @@
 "5840730 - Antonio Jefferson da Silva Machado",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qua  08:00  12:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "42",
-"Pendentes": "0",
-"Matriculados": "42"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "42",
-"Pendentes": "0",
-"Matriculados": "42"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3081": {
 "sigla": "LOM3081",
@@ -2328,29 +1893,29 @@
 "7797767 - Viktor Pastoukhov"
 ],
 "oferecimento": {
-"20242D1": {
-"C\u00f3digo da Turma": "20242D1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " seg  10:00  12:00 ",
-"prof": "(R) Carlos Antonio Reis Pereira Baptista "
+"horario": " sex  08:00  10:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "60",
+"Vagas": "45",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "55"
+"Matriculados": "0"
 },
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "60",
-"Inscritos": "55",
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "55"
+"Matriculados": "0"
 }
 }
 }
@@ -2362,14 +1927,14 @@
 "nomeascii": " Fisica Estatistica",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3217&codcur=88301&codhab=0",
 "requisitos": {
-"LOB1019": {
-"sigla": "LOB1019",
-"nome": " F\u00edsica II ",
-"tipo": "Requisito fraco"
-},
 "LOB1052": {
 "sigla": "LOB1052",
 "nome": " C\u00e1lculo III ",
+"tipo": "Requisito fraco"
+},
+"LOB1019": {
+"sigla": "LOB1019",
+"nome": " F\u00edsica II ",
 "tipo": "Requisito fraco"
 }
 },
@@ -2398,7 +1963,38 @@
 "1176388 - Luiz Tadeu Fernandes Eleno",
 "1643715 - Paulo Atsushi Suzuki"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  16:00  18:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  16:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3226": {
 "sigla": "LOM3226",
@@ -2406,14 +2002,14 @@
 "nomeascii": " Mecanica Quantica",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3226&codcur=88301&codhab=0",
 "requisitos": {
-"LOB1021": {
-"sigla": "LOB1021",
-"nome": " F\u00edsica IV ",
-"tipo": "Requisito fraco"
-},
 "LOM3253": {
 "sigla": "LOM3253",
 "nome": " F\u00edsica Matem\u00e1tica ",
+"tipo": "Requisito fraco"
+},
+"LOB1021": {
+"sigla": "LOB1021",
+"nome": " F\u00edsica IV ",
 "tipo": "Requisito fraco"
 },
 "LOM3257": {
@@ -2448,7 +2044,38 @@
 "1176388 - Luiz Tadeu Fernandes Eleno",
 "1341653 - Maria Jos\u00e9 Ramos Sandim"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  16:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  14:00  16:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3227": {
 "sigla": "LOM3227",
@@ -2456,14 +2083,14 @@
 "nomeascii": " Metodos Computacionais da Fisica",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3227&codcur=88301&codhab=0",
 "requisitos": {
-"LOM3260": {
-"sigla": "LOM3260",
-"nome": " Computa\u00e7\u00e3o Cient\u00edfica em Python ",
-"tipo": "Requisito fraco"
-},
 "LOB1006": {
 "sigla": "LOB1006",
 "nome": " C\u00e1lculo IV ",
+"tipo": "Requisito fraco"
+},
+"LOM3260": {
+"sigla": "LOM3260",
+"nome": " Computa\u00e7\u00e3o Cient\u00edfica em Python ",
 "tipo": "Requisito fraco"
 }
 },
@@ -2492,7 +2119,38 @@
 "7290967 - Emerson Gon\u00e7alves de Melo",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " ter  10:00  12:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "16",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "40",
+"Inscritos": "16",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3228": {
 "sigla": "LOM3228",
@@ -2530,7 +2188,34 @@
 "docentes": [
 "6495737 - Durval Rodrigues Junior"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " qua  08:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "40",
+"Inscritos": "13",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3243": {
 "sigla": "LOM3243",
@@ -2563,7 +2248,34 @@
 "3577649 - Carlos Angelo Nunes",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " qua  14:00  16:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "19",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "19",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3263": {
 "sigla": "LOM3263",
@@ -2602,87 +2314,34 @@
 "519033 - Carlos Yujiro Shigue",
 "7290967 - Emerson Gon\u00e7alves de Melo"
 ],
-"oferecimento": null
-},
-"LOQ4234": {
-"sigla": "LOQ4234",
-"nome": " Empreendedorismo e Inova\u00e7\u00e3o",
-"nomeascii": " Empreendedorismo e Inovacao",
-"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4234&codcur=88301&codhab=0",
-"requisitos": {},
-"tipo": "Obrigat\u00f3rias",
-"semestre": "5",
-"unidade": "Escola de Engenharia de Lorena",
-"departamento": "Engenharia Qu\u00edmica",
-"nome_en": "Entrepreneurship and Innovation",
-"objectives": "Foster a culture of entrepreneurship and innovation; Develop entrepreneurial skills; To present the necessary knowledge for the creation of startups. The discipline is applied through Project-Based Learning, where the project to be developed is the creation of a startup with an innovative product/service proposal throughout the semester.",
-"abstract": "Characteristics of Entrepreneurial Behavior. Business Model. Minimum Viable Product. Business Plan.",
-"program": "1. Characteristics of Entrepreneurial Behavior: Search for opportunities and initiative. Take calculated risks. Demand for quality and efficiency. Persistence. Commitment. Information search. Setting goals. Systematic monitoring and planning. Persuasion and networking. Independence and self-confidence.2. Strategy, Innovation and marketing.3. Design Thinking.4. Business Model (Business Model Canvas and Lean Startup - Lean Canvas): Problem. Customer Segment. Unique Value Proposition. Solution. Key Metrics. Channels. Cost Structure. Revenue Streams. Unfair Advantage.5. Minimum Viable Product: Build-Measure-Learn Cycle. Customer lifetime value. Rapid prototyping.6. Process Management and Agile Project Management7. Business Plan: Marketing, Finance, Human Resources, Product Development and Information and Communication Technology. 8. Proposal for the creation of a startup, from the business model to the business plan, including the assembly of the minimum viable product and a PITCH round. 9. Development of practical extension activity (production of digital content on entrepreneurship and innovation)10. Visit (complementary didactic trip) to an environment of innovation and entrepreneurship (eg incubator/accelerator or technology park), to understand the development of entrepreneurship and innovation processes.",
-"ndoc": 1,
-"CA": "2",
-"CT": "1",
-"CH": "60 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2024",
-"objetivos": "Fomentar a cultura do empreendedorismo e da Inova\u00e7\u00e3o; Desenvolver habilidades empreendedoras; Apresentar conhecimentos necess\u00e1rios para a cria\u00e7\u00e3o de startups. A disciplina \u00e9 aplicada atrav\u00e9s de Aprendizagem baseada em Projetos, onde o projeto a ser desenvolvido \u00e9 da cria\u00e7\u00e3o de uma startup com uma proposta de produto/servi\u00e7o inovador ao longo do semestre.",
-"resumo": "Caracter\u00edsticas do Comportamento Empreendedor; Modelo de Neg\u00f3cios; Produto m\u00ednimo vi\u00e1vel; Plano de Neg\u00f3cios.",
-"programa": "1. Caracter\u00edsticas do Comportamento Empreendedor: Busca de oportunidades e iniciativa. Correr riscos calculados. Exig\u00eancia de qualidade e efici\u00eancia. Persist\u00eancia. Comprometimento. Busca de informa\u00e7\u00f5es. Estabelecimento de metas. Monitoramento e planejamento sistem\u00e1tico. Persuas\u00e3o e rede contatos. Independ\u00eancia e autoconfian\u00e7a.2. Estrat\u00e9gia, Inova\u00e7\u00e3o e Marketing.3. Design Thinking.4. Modelo de Neg\u00f3cios (Business Model Canvas e Lean Startup - Lean Canvas): Problema. Segmento de Clientes. Proposta de Valor \u00danica. Solu\u00e7\u00e3o. M\u00e9tricas-Chave. Canais. Estrutura de Custos. Fluxos de Receita. Vantagem Injusta.5. Produto m\u00ednimo vi\u00e1vel: Ciclo Construir-Mensurar-Aprender. Valor da vida \u00fatil do cliente. Prototipa\u00e7\u00e3o r\u00e1pida.6. Gest\u00e3o de processos e Gerenciamento \u00e1gil de projetos.7. Plano de Neg\u00f3cios: Marketing, Finan\u00e7as, Recursos Humanos, Desenvolvimento de Produtos e Tecnologia da Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o.8. Proposta da cria\u00e7\u00e3o de uma startup, do modelo de neg\u00f3cios ao plano de neg\u00f3cios, incluindo a montagem do produto m\u00ednimo vi\u00e1vel e uma rodada de PITCH.9. Desenvolvimento de atividade pr\u00e1tica extensionista (produ\u00e7\u00e3o de conte\u00fado digital sobre empreendedorismo e inova\u00e7\u00e3o)10. Visita (viagem did\u00e1tica complementar) a um ambiente de inova\u00e7\u00e3o e empreendedorismo (ex. incubadora/aceleradora ou parque tecnol\u00f3gico), para compreender o desenvolvimento dos processos de empreendedorismo e inova\u00e7\u00e3o.",
-"metodo": "Aulas expositivas e dialogadas; din\u00e2micas, projetos e trabalhos em grupo; exerc\u00edcios individuais; e, semin\u00e1rios, debates e palestras.",
-"criterio": "M\u00e9dia Aritm\u00e9tica dos Projetos, Trabalhos, Exerc\u00edcios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as quest\u00f5es relativas \u00e0s Compet\u00eancias (Conhecimento, Habilidade e Atitude, que incluem a presen\u00e7a e participa\u00e7\u00e3o dos alunos nas aulas) desenvolvidas",
-"exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o",
-"bibliografia": "BLANK, Steve Gary. Do Sonho a realiza\u00e7\u00e3o em 4 passos: Estrat\u00e9gias para a cria\u00e7\u00e3o de empresas de sucesso. Editora Evora. 3\u00aa edi\u00e7\u00e3o, 2008BLANK, Steve; DORF, Bob. STARTUP: Manual do Empreendedorismo. O guia passo a passo para construir uma grande empresa. Alta Books Editora.  1\u00aa edi\u00e7\u00e3o, 2014.CECCONELO, Antonio; AJZENTAL, Alberto. A constru\u00e7\u00e3o do plano de neg\u00f3cios. Ed. Saraiva, 1\u00aa edi\u00e7\u00e3o, 2008.CHIAVENATO, Idalberto. Empreendedorismo \u2013 dando asas ao esp\u00edrito empreendedor. Ed. Saraiva, 3\u00aa edi\u00e7\u00e3o, 2008.DOLABELA, Fernando. O Segredo de Lu\u00edsa. Rio de Janeiro: Sextante, 2008. DORNELAS, Jose. Empreendedorismo: transformando ideias em neg\u00f3cios. Editora Campus. 1\u00aa edi\u00e7\u00e3o, 2001DORNELAS, Jose. Empreendedorismo na pr\u00e1tica. LTC. 3\u00aa edi\u00e7\u00e3o, 2015DORNELAS, Jose Carlos Assis. Empreendedorismo na pr\u00e1tica \u2013 mitos e verdades do empreendedor de sucesso. Elsevier/Campus: Rio de Janeiro, 2007. FILION, L. J.; Vis\u00e3o e Rela\u00e7\u00f5es: Elementos para um Metamodelo da Atividade Empreendedora. International Small Business Journal, 1991. Tradu\u00e7\u00e3o de Costa, S.R. FILION, L. J.; - O planejamento do seu Sistema de Aprendizagem Empresarial: Identifique uma Vis\u00e3o e Avalie o seu Sistema de Rela\u00e7\u00f5es. Revista de Administra\u00e7\u00e3o de Empresas, FGV, S\u00e3o Paulo, jul/set. 1991, pag. 31(3): 63:71. HASHIMOTO, Marcos. Esp\u00edrito empreendedor nas organiza\u00e7\u00f5es \u2013 aumentando a competitividade atrav\u00e9s do intraempreendedorismo. S\u00e3o Paulo: Saraiva, 2006. HISRICH, Robert; PETERS, Michael.  Empreendedorismo. 5.ed. - Porto Alegre: Bookman, 2004. OSTERWALDER, Alexander. Inova\u00e7\u00e3o Em Modelos de Neg\u00f3cios \u2013 Business Model Generation. Editora Alta Books, 2011PINCHOT, Gifford; PELLMAN, Ron. Intraempreendedorismo na pr\u00e1tica: um guia de inova\u00e7\u00e3o. Campus: 2004RIES, Eric. A startup enxuta. Leya Editora. 1\u00aa edi\u00e7\u00e3o, 2011SANTOS. S.A. e CUNHA, N.C.V (orgs.). Empresas de Base Tecnol\u00f3gica: Conceitos, instrumentos e recursos. Unicorpore, 2005THIEL, Peter. De Zero a UM: O que aprender sobre empreendedorismo com Vale do Sil\u00edcio. Objetiva. 1\u00aa edi\u00e7\u00e3o, 2014TIMMONS; Jeffry; DORNELAS, Jos\u00e9. SPINELLI, Stephen. A cria\u00e7\u00e3o de novos neg\u00f3cios \u2013 empreendedorismo para o s\u00e9culo 21. Editora Campus. 2010.",
-"docentes": [
-"11079086 - Herland\u00ed de Souza Andrade"
-],
 "oferecimento": {
-"20242AM": {
-"C\u00f3digo da Turma": "20242AM",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
-"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
-"horario": " seg  16:00  18:00 ",
-"prof": "Humberto Felipe da Silva "
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  08:00  10:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "60",
+"Vagas": "45",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "53"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "18",
-"Inscritos": "16",
-"Pendentes": "0",
-"Matriculados": "16"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "9",
-"Inscritos": "8",
-"Pendentes": "0",
-"Matriculados": "8"
+"Matriculados": "0"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "4",
-"Inscritos": "4",
+"Vagas": "45",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "4"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "12",
-"Inscritos": "9",
-"Pendentes": "0",
-"Matriculados": "9"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "17",
-"Inscritos": "16",
-"Pendentes": "0",
-"Matriculados": "16"
+"Matriculados": "0"
 }
 }
 }
@@ -2719,39 +2378,31 @@
 "5840521 - Rosa Ana Conte"
 ],
 "oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251M1": {
+"C\u00f3digo da Turma": "20251M1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " qua  08:00  12:00 ",
-"prof": "(R) Rosa Ana Conte "
+"horario": " ter  08:00  10:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  08:00  10:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "30",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "30"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "39",
-"Inscritos": "24",
-"Pendentes": "0",
-"Matriculados": "24"
+"Matriculados": "0"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "6",
-"Inscritos": "6",
-"Pendentes": "0",
-"Matriculados": "6"
-},
-"Qualquer Unidade da USP": {
-"Vagas": "0",
-"Inscritos": "0",
+"Vagas": "45",
+"Inscritos": "3",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2797,38 +2448,7 @@
 "5840726 - Cristina Bormio Nunes",
 "1341653 - Maria Jos\u00e9 Ramos Sandim"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  10:00  12:00 ",
-"prof": "(R) Antonio Jefferson da Silva Machado "
-},
-"h1": {
-"horario": " qui  10:00  12:00 ",
-"prof": "(R) Antonio Jefferson da Silva Machado "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "29",
-"Pendentes": "0",
-"Matriculados": "29"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "29",
-"Pendentes": "0",
-"Matriculados": "29"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3229": {
 "sigla": "LOM3229",
@@ -2841,14 +2461,14 @@
 "nome": " T\u00e9cnicas de Caracteriza\u00e7\u00e3o de Materiais ",
 "tipo": "Indica\u00e7\u00e3o de Conjunto"
 },
-"LOB1021": {
-"sigla": "LOB1021",
-"nome": " F\u00edsica IV ",
-"tipo": "Requisito fraco"
-},
 "LOM3016": {
 "sigla": "LOM3016",
 "nome": " Introdu\u00e7\u00e3o \u00e0  Ci\u00eancia dos Materiais ",
+"tipo": "Requisito fraco"
+},
+"LOB1021": {
+"sigla": "LOB1021",
+"nome": " F\u00edsica IV ",
 "tipo": "Requisito fraco"
 }
 },
@@ -2877,34 +2497,7 @@
 "6495737 - Durval Rodrigues Junior",
 "1643715 - Paulo Atsushi Suzuki"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qui  14:00  18:00 ",
-"prof": "(R) Durval Rodrigues Junior "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "30",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "17"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "30",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "13"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3233": {
 "sigla": "LOM3233",
@@ -2942,34 +2535,7 @@
 "docentes": [
 "519033 - Carlos Yujiro Shigue"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " qua  14:00  18:00 ",
-"prof": "(R) Carlos Yujiro Shigue "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "30",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "17"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "30",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "17"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3234": {
 "sigla": "LOM3234",
@@ -3013,56 +2579,14 @@
 "519033 - Carlos Yujiro Shigue",
 "1643715 - Paulo Atsushi Suzuki"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " ter  08:00  10:00 ",
-"prof": "(R) Paulo Atsushi Suzuki "
-},
-"h1": {
-"horario": " qui  08:00  10:00 ",
-"prof": "(R) Paulo Atsushi Suzuki "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "22",
-"Pendentes": "0",
-"Matriculados": "21"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "21"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3238": {
 "sigla": "LOM3238",
 "nome": " Projeto Integrado",
 "nomeascii": " Projeto Integrado",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3238&codcur=88301&codhab=0",
-"requisitos": {
-"LOB1008": {
-"sigla": "LOB1008",
-"nome": " Ci\u00eancia, Tecnologia e Sociedade ",
-"tipo": "Requisito fraco"
-},
-"LOB1045": {
-"sigla": "LOB1045",
-"nome": " Leitura e Produ\u00e7\u00e3o de Textos Acad\u00eamicos ",
-"tipo": "Requisito fraco"
-}
-},
+"requisitos": {},
 "tipo": "Obrigat\u00f3rias",
 "semestre": "6",
 "unidade": "Escola de Engenharia de Lorena",
@@ -3088,34 +2612,7 @@
 "519033 - Carlos Yujiro Shigue",
 "5817692 - Katia Cristiane Gandolpho Candioto"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  14:00  16:00 ",
-"prof": "(R) Katia Cristiane Gandolpho Candioto "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "35",
-"Pendentes": "0",
-"Matriculados": "33"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "33",
-"Pendentes": "0",
-"Matriculados": "33"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3246": {
 "sigla": "LOM3246",
@@ -3128,14 +2625,14 @@
 "nome": " M\u00e9todos Experimentais da F\u00edsica II ",
 "tipo": "Indica\u00e7\u00e3o de Conjunto"
 },
-"LOB1021": {
-"sigla": "LOB1021",
-"nome": " F\u00edsica IV ",
-"tipo": "Requisito fraco"
-},
 "LOM3016": {
 "sigla": "LOM3016",
 "nome": " Introdu\u00e7\u00e3o \u00e0  Ci\u00eancia dos Materiais ",
+"tipo": "Requisito fraco"
+},
+"LOB1021": {
+"sigla": "LOB1021",
+"nome": " F\u00edsica IV ",
 "tipo": "Requisito fraco"
 }
 },
@@ -3163,30 +2660,63 @@
 "docentes": [
 "6495737 - Durval Rodrigues Junior"
 ],
+"oferecimento": null
+},
+"LOM3095": {
+"sigla": "LOM3095",
+"nome": " Tecnologias Limpas para Gera\u00e7\u00e3o de Energia",
+"nomeascii": " Tecnologias Limpas para Geracao de Energia",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3095&codcur=88301&codhab=0",
+"requisitos": {},
+"tipo": "Obrigat\u00f3rias",
+"semestre": "7",
+"unidade": "Escola de Engenharia de Lorena",
+"departamento": "Engenharia de Materiais",
+"nome_en": "Clean Technologies for Energy Generation",
+"objectives": "This discipline is part of the training of the materials engineer, contributing to generate general and specific skills.Present concepts and examples of clean technologies.Address fundamental concepts about renewable sources for thermal, electrical, vehicular energy generation, among others.Present examples of power generation systems based on renewable sources.To enable students to develop an integrated view of the technical-economic-environmental feasibility of clean technologies and power generation.Encourage group work, with emphasis on the integrated view on the aspects addressed in the discipline.Relate this discipline with others of the course grid, such as: Natural Resources, Thermodynamics of Machines, Introduction to Polymeric Materials, Ceramic Processing I, among others.",
+"abstract": "1. Clean technologies. 2. Renewable sources: solar thermal and photovoltaic, wind, ocean and biomass for power generation; its national and worldwide availability. 3. Treatment of waste for thermal, electrical, vehicular energy generation.4. Social, environmental and economic impacts of renewable energy generation.",
+"program": "1. Concept about clean technologies.2. National and global primary and secondary energy matrices. 3. Fundamental concepts about renewable sources: feasibility for power generation.4. Generation of energy by renewable sources: solar thermal and photovoltaic; Wind; oceanic and biomass.5. Urban, agricultural and industrial waste: National Policy on Solid Waste and waste treatment for energy generation.6. Integration of renewable sources for power generation: hybrid thermal cycles.7. Social, environmental and economic aspects of energy generation from renewable sources.",
+"ndoc": 2,
+"CA": "2",
+"CT": "2",
+"CH": "90 h",
+"periodicidade": "Semestral",
+"ativacao": "01/01/2024",
+"objetivos": "Esta disciplina faz parte da forma\u00e7\u00e3o do engenheiro de materiais, contribuindo para gerar compet\u00eancias gerais e espec\u00edficas.Apresentar conceitos e exemplos de tecnologias limpas.Abordar conceitos fundamentais sobre fontes renov\u00e1veis para gera\u00e7\u00e3o de energia t\u00e9rmica, el\u00e9trica, veicular, dentre outras.Apresentar exemplos de sistemas de gera\u00e7\u00e3o de energia baseados em fontes renov\u00e1veis.Capacitar os alunos a desenvolverem uma vis\u00e3o integrada da viabilidade t\u00e9cnico-econ\u00f4mica-ambiental das tecnologias limpas e gera\u00e7\u00e3o de energia.Incentivar trabalhos em grupo, com \u00eanfase na vis\u00e3o integrada sobre os aspectos abordados na disciplina.Relacionar esta disciplina com outras da grade do curso, como: Recursos Naturais, Termodin\u00e2mica de M\u00e1quinas, Introdu\u00e7\u00e3o aos Materiais Polim\u00e9ricos, Processamento de Cer\u00e2micas I, dentre outras.",
+"resumo": "1. Tecnologias limpas. 2. Fontes renov\u00e1veis: solar t\u00e9rmica e fotovoltaica, e\u00f3lica, oce\u00e2nica e biomassa para gera\u00e7\u00e3o de energia; sua disponibilidade nacional e mundial. 3. Tratamento de res\u00edduos para gera\u00e7\u00e3o de energias t\u00e9rmica, el\u00e9trica, veicular.4. Impactos sociais, ambientais e econ\u00f4micos da gera\u00e7\u00e3o de energia por fontes renov\u00e1veis.",
+"programa": "1. Conceito sobre tecnologias limpas.2. Matrizes energ\u00e9ticas prim\u00e1rias e secund\u00e1rias nacionais e mundiais. 3. Conceitos fundamentais sobre fontes renov\u00e1veis: viabilidade para gera\u00e7\u00e3o de energias.4. Gera\u00e7\u00e3o de energia por fontes renov\u00e1veis: solar t\u00e9rmica e fotovoltaica; e\u00f3lica; oce\u00e2nica e biomassa.5. Res\u00edduos urbanos, agr\u00edcolas e industriais: Pol\u00edtica Nacional de Res\u00edduos S\u00f3lidos e tratamento de res\u00edduos para gera\u00e7\u00e3o de energia.6. Integra\u00e7\u00e3o de fontes renov\u00e1veis para gera\u00e7\u00e3o de energia: ciclos t\u00e9rmicos h\u00edbridos.7. Aspectos sociais, ambientais e econ\u00f4micos da gera\u00e7\u00e3o de energia por fontes renov\u00e1veis.",
+"metodo": "aulas expositivas complementadas pelo docente e trabalhos em grupo sobre temas abrangentes do programa.",
+"criterio": "Os alunos receber\u00e3o nota pelos trabalhos em grupo, que ter\u00e3o peso 0,6. Ser\u00e1 aplicada uma prova escrita sobre todos os t\u00f3picos abordados, com peso 0,4. A nota final (NF) ser\u00e1 calculada pela equa\u00e7\u00e3o: NF = Trabalhos em grupo x 0,6 + prova escrita x 0,4.",
+"exame": "Para a recupera\u00e7\u00e3o ser\u00e1 realizada uma prova (PR) abrangendo toda a mat\u00e9ria lecionada no semestre e apresentada nos trabalhos, valendo de 0 (zero) a 10 (dez). M\u00e9dia final = (NF + PR)/2.",
+"bibliografia": "DA Rosa, A. V. BOEKER, E., 2015, Processos de Energias Renov\u00e1veis, Rio de Janeiro: Elsevier; ROCHA, J.C.; ROSA, A.H.; CARDOSO, A.A. Introdu\u00e7\u00e3o \u00e0 Qu\u00edmica do Meio Ambiente, Porto Alegre: Bookman, 2004 GON\u00c7ALVES DA SILVA, C. De Sol a Sol, S\u00e3o Paulo: Oficina de Textos, 2010 \u00c7ENGEL, Y.A.; BOLES, M.A. Thermodynamics An Engineering Approach, 6th ed., New York: McGraw Hill, 2008; BORGNAKKE, C; SONNTAG, R.E. Fundamentos da termodin\u00e2mica, S\u00e3o Paulo: Blucher, 2013; Vilhena, A. (coord.) Lixo Municipal: manual de gerenciamento integrado, S\u00e3o Paulo: CEMPRE, 3a. ed., 2010; S\u00edtios eletr\u00f4nicos sobre Reciclagem de Materiais. Cada um desses s\u00edtios tem uma apresenta\u00e7\u00e3o de programas de reciclagem nas suas \u00e1reas de atua\u00e7\u00e3o e oferece ampla oferta de literatura, textos e muitas vezes, v\u00eddeos sobre reciclagem espec\u00edfica de certos materiais. Links \u00fateis tamb\u00e9m s\u00e3o apresentados, levando a sites de empresas que apresentam seus programas de reciclagem; SUN, Y.P. Supercritical fluid technology in materials science and engineering: syntheses, properties, and applications. Marcel Dekker, 2002; MATHIAS, M.C. P.P. A FORMA\u00c7\u00c3O DA IND\u00daSTRIA GLOBAL DE G\u00c1S NATURAL - Defini\u00e7\u00e3o, Condicionantes e Desafios, Interci\u00eancias, 2010; ABREU, F. V. BIOG\u00c1S - Economia, regula\u00e7\u00e3o e sustentabilidade, Interci\u00eancia, 2014; BRAND , M.A. ENERGIA DE BIOMASSA FLORESTAL, Interci\u00eancia, 2010; CORR\u00caA, O.L.S. PETR\u00d3LEO - No\u00e7\u00f5es sobre Explora\u00e7\u00e3o, Perfura\u00e7\u00e3o, Produ\u00e7\u00e3o e Microbiologia, Interci\u00eancia, 2003.",
+"docentes": [
+"5840963 - Daniela Camargo Vernilli",
+"5840521 - Rosa Ana Conte"
+],
 "oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " ter  14:00  18:00 ",
-"prof": "(R) Durval Rodrigues Junior "
+"horario": " qua  14:00  16:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "17",
+"Inscritos": "18",
 "Pendentes": "0",
-"Matriculados": "17"
+"Matriculados": "0"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "13",
+"Inscritos": "18",
 "Pendentes": "0",
-"Matriculados": "13"
+"Matriculados": "0"
 }
 }
 }
@@ -3198,14 +2728,14 @@
 "nomeascii": " Materiais e Dispositivos Magneticos e Supercondutores",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3223&codcur=88301&codhab=0",
 "requisitos": {
-"LOM3215": {
-"sigla": "LOM3215",
-"nome": " F\u00edsica do Estado S\u00f3lido ",
-"tipo": "Requisito fraco"
-},
 "LOM3263": {
 "sigla": "LOM3263",
 "nome": " Eletr\u00f4nica Fundamental e Aplicada ",
+"tipo": "Requisito fraco"
+},
+"LOM3215": {
+"sigla": "LOM3215",
+"nome": " F\u00edsica do Estado S\u00f3lido ",
 "tipo": "Requisito fraco"
 }
 },
@@ -3234,7 +2764,35 @@
 "5840730 - Antonio Jefferson da Silva Machado",
 "5840726 - Cristina Bormio Nunes"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " qua  08:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "16",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "16",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3230": {
 "sigla": "LOM3230",
@@ -3272,7 +2830,34 @@
 "docentes": [
 "5840726 - Cristina Bormio Nunes"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  14:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "40",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "40",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3264": {
 "sigla": "LOM3264",
@@ -3311,7 +2896,38 @@
 "519033 - Carlos Yujiro Shigue",
 "7290967 - Emerson Gon\u00e7alves de Melo"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  10:00  12:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4050": {
 "sigla": "LOQ4050",
@@ -3350,77 +2966,33 @@
 "5840671 - Francisco Jos\u00e9 Moreira Chaves"
 ],
 "oferecimento": {
-"20242N1": {
-"C\u00f3digo da Turma": "20242N1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " ter  21:00  23:00 ",
+"horario": " qua  16:00  18:00 ",
 "prof": "(R) Francisco Jos\u00e9 Moreira Chaves "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "76",
+"Vagas": "45",
+"Inscritos": "12",
 "Pendentes": "0",
-"Matriculados": "59"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "57",
-"Inscritos": "56",
-"Pendentes": "0",
-"Matriculados": "56"
+"Matriculados": "0"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "1",
+"Vagas": "45",
+"Inscritos": "12",
 "Pendentes": "0",
-"Matriculados": "1"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "2",
-"Pendentes": "0",
-"Matriculados": "2"
+"Matriculados": "0"
 }
 }
 }
 }
-},
-"LOQ4257": {
-"sigla": "LOQ4257",
-"nome": " Gest\u00e3o de Projetos",
-"nomeascii": " Gestao de Projetos",
-"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4257&codcur=88301&codhab=0",
-"requisitos": {},
-"tipo": "Obrigat\u00f3rias",
-"semestre": "7",
-"unidade": "Escola de Engenharia de Lorena",
-"departamento": "Engenharia Qu\u00edmica",
-"nome_en": "Project Management",
-"objectives": "Provide an overview of project management in an organization, its stages and interrelationships with other organizational areasand their importance in the competitive world of business",
-"abstract": "General considerations about project management, Project initiation, Planning and Management Plan, Monitoring and EvaluationStructure, Execution and Control.",
-"program": "1. Project Concept 2. Predictive, Adaptive (Incremental and Interactive) and Hybrid Approach 3. Soft and hard Project Management Approaches 4. Project Scope and Vision Management 5. Project Time Management 6. Project Cost Management Project 7. Project Quality Management 8. Project Resource Management 9. Project Communications Management 10. Project Risk Management 11. Project Procurement Management 12. Project Stakeholder Management 13. Project Management Maturity Projects 14. Project Portfolio Management 15. Project Management Skills 16. Agile and Lean Project Management. 17. Development of a project proposal to create a new product/process/enterprise.18. Visit (complementary educational trip) to a company to learn about and understand aspects related to Project Management.",
-"ndoc": 1,
-"CA": "2",
-"CT": "2",
-"CH": "90 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2024",
-"objetivos": "Fornecer uma vis\u00e3o geral sobre gest\u00e3o de projetos em uma organiza\u00e7\u00e3o, suas etapas e inter-rela\u00e7\u00e3o com as demais \u00e1reasorganizacionais e sua import\u00e2ncia no mundo competitivo dos neg\u00f3cios.",
-"resumo": "Considera\u00e7\u00f5es gerais sobre gerenciamento de projetos, Inicia\u00e7\u00e3o de projetos, Planejamento e Plano de Gerenciamento,Estrutura de Monitoramento e Avalia\u00e7\u00e3o, Execu\u00e7\u00e3o e Controle.",
-"programa": "1.Conceito de Projeto 2. Abordagem Preditiva, Adaptativa (Incremental e Interativo) e H\u00edbrida 3. Abordagens Soft e hard de Gest\u00e3o de Projetos 4. Gest\u00e3o do Escopo e Vis\u00e3o do Projeto 5. Gest\u00e3o do Tempo do Projeto 6. Gest\u00e3o do Custo do Projeto 7. Gest\u00e3o da Qualidade do Projeto 8. Gest\u00e3o da Recursos do Projeto 9. Gest\u00e3o das Comunica\u00e7\u00f5es do Projeto 10. Gest\u00e3o dos Riscos do Projeto 11. Gest\u00e3o das Aquisi\u00e7\u00f5es do Projeto 12. Gest\u00e3o das Partes Interessadas do Projeto 13. Maturidade em Gerenciamento de Projetos 14. Gest\u00e3o de Portf\u00f3lio de Projeto 15. Compet\u00eancias em Gest\u00e3o de Projetos 16. Gest\u00e3o \u00c1gil e Lean de Projetos.17. Desenvolvimento de uma proposta de projeto para cria\u00e7\u00e3o de um novo produto/processo/empreendimento.18. Visita (viagem did\u00e1tica complementar) a uma empresa para conhecer e entender os aspectos relacionados \u00e0 Gest\u00e3o de Projetos.",
-"metodo": "Aulas expositivas e dialogadas; din\u00e2micas, projetos e trabalhos em grupo; exerc\u00edcios individuais; e, semin\u00e1rios, debates e palestras.",
-"criterio": "M\u00e9dia Aritm\u00e9tica dos Projetos, Trabalhos, Exerc\u00edcios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as quest\u00f5es relativas \u00e0s Compet\u00eancias (Conhecimento, Habilidade e Atitude, que incluem a presen\u00e7a e participa\u00e7\u00e3o dos alunos nas aulas) desenvolvidas",
-"exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o",
-"bibliografia": "1. PMBOK. Um Guia Do Conhecimento em Gerenciamento de projetos. 5 ed. Project Management Institute. 20122. CLAUSING, D. Total quality development a step by step guide to world class concurrent engineering. New York: ASME Press,1994.3. MEREDITH, J R; MANTEL, S J; WILEY, J. Project Management: a managerial approach. 1995.4. MAXIMIANO, A . C. Administra\u00e7\u00e3o de projetos, Atlas: S\u00e3o Paulo, 1997.5. SHTUB, A BARD J. F. e GLOBERSON S. Project management, Prentice hall, 1994.",
-"docentes": [
-"5840917 - Fabricio Maciel Gomes"
-],
-"oferecimento": null
 },
 "LOM3219": {
 "sigla": "LOM3219",
@@ -3428,19 +3000,14 @@
 "nomeascii": " Introducao a Nanotecnologia",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3219&codcur=88301&codhab=0",
 "requisitos": {
-"LOM3215": {
-"sigla": "LOM3215",
-"nome": " F\u00edsica do Estado S\u00f3lido ",
+"LOM3241": {
+"sigla": "LOM3241",
+"nome": " Qu\u00edmica de Materiais ",
 "tipo": "Requisito fraco"
 },
-"LOM3229": {
-"sigla": "LOM3229",
-"nome": " M\u00e9todos Experimentais da F\u00edsica II ",
-"tipo": "Requisito fraco"
-},
-"LOM3246": {
-"sigla": "LOM3246",
-"nome": " T\u00e9cnicas de Caracteriza\u00e7\u00e3o de Materiais ",
+"LOB1021": {
+"sigla": "LOB1021",
+"nome": " F\u00edsica IV ",
 "tipo": "Requisito fraco"
 }
 },
@@ -3519,34 +3086,7 @@
 "5840730 - Antonio Jefferson da Silva Machado",
 "519033 - Carlos Yujiro Shigue"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " sex  14:00  18:00 ",
-"prof": "(R) Carlos Yujiro Shigue "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "21"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "21"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3265": {
 "sigla": "LOM3265",
@@ -3585,100 +3125,7 @@
 "519033 - Carlos Yujiro Shigue",
 "7290967 - Emerson Gon\u00e7alves de Melo"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qui  16:00  18:00 ",
-"prof": "Andy Blanco Rodriguez "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "20",
-"Pendentes": "0",
-"Matriculados": "20"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "20",
-"Pendentes": "0",
-"Matriculados": "20"
-}
-}
-}
-}
-},
-"LOM3266": {
-"sigla": "LOM3266",
-"nome": " Fot\u00f4nica Integrada",
-"nomeascii": " Fotonica Integrada",
-"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3266&codcur=88301&codhab=0",
-"requisitos": {
-"LOB1053": {
-"sigla": "LOB1053",
-"nome": " F\u00edsica III ",
-"tipo": "Requisito fraco"
-}
-},
-"tipo": "Obrigat\u00f3rias",
-"semestre": "8",
-"unidade": "Escola de Engenharia de Lorena",
-"departamento": "Engenharia de Materiais",
-"nome_en": "Integrated Photonics",
-"objectives": "As an important requirement for the specific and the general engineering studies, the course aims to (a) provide the fundamental concepts concerning the photonics integrated devices, which are important for the learning process in physics engineering; (b) enable the student, to work as individually as in groups, to model and solve problems of interest regarding the most important passive photonic integrated devices, including the adequate choice of hypotheses and the application of suitable solution tools; (c) to introduce the components, techniques, software, and equipment employed in the analysis, design, and fabrication of photonic integrated circuits; and (d) apply and extend the previously learned physical concepts.",
-"abstract": "Introduction to integrated photonics. Light propagation in homogeneous media. Planar and rectangular dielectric waveguides. Numerical methods. Modal analysis. Dispersion parameters. Fabrication and characterization of integrated waveguides. Analysis and design of passive optical elements.",
-"program": "1. Introduction to integrated photonics; Light propagation in homogeneous media; Boundary conditions at dielectric interfaces. Fresnel coefficients. Snell's Law; Total internal reflection.2. Planar dielectric waveguide (slab waveguide). Optical modes. Analytical solution for TE and TM polarizations. Effective index. Dispersion relations. Rectangular dielectric waveguide.3. Numerical methods applied to the analysis and design of integrated photonic devices.4. Modal analysis; Dispersion parameters; Transmission and reflection spectra.5. Methods for fabrication and characterization of integrated photonic waveguides.6. Design of curves, beam splitters, couplers and optical filters.",
-"ndoc": 2,
-"CA": "4",
-"CT": "0",
-"CH": "60 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2023",
-"objetivos": "Como parte fundamental da forma\u00e7\u00e3o espec\u00edfica e geral, a disciplina tem por objetivos (a) fornecer os conceitos fundamentais sobre dispositivos fot\u00f4nicos integrados, que s\u00e3o importantes para a forma\u00e7\u00e3o em engenharia f\u00edsica; (b) capacitar o aluno, trabalhando individualmente e em grupo, a modelar e resolver problemas de interesse envolvendo dispositivos fot\u00f4nicos integrados, com escolhas adequadas de hip\u00f3teses e aplica\u00e7\u00e3o de ferramentas correspondentes de solu\u00e7\u00e3o; (c) introduzir os componentes, t\u00e9cnicas, softwares e equipamentos utilizados na an\u00e1lise, projeto, e fabrica\u00e7\u00e3o de dispositivos fot\u00f4nicos integrados; e (d) aplicar e estender os conceitos f\u00edsicos aprendidos previamente.",
-"resumo": "Introdu\u00e7\u00e3o \u00e0 fot\u00f4nica integrada. Propaga\u00e7\u00e3o da luz em meios homog\u00eaneos. Guias de onda planares e retangulares. M\u00e9todos num\u00e9ricos. An\u00e1lise modal. Par\u00e2metros de dispers\u00e3o. Fabrica\u00e7\u00e3o e caracteriza\u00e7\u00e3o de guias de onda integrados. An\u00e1lise e dimensionamento de elementos \u00f3pticos passivos",
-"programa": "1. Introdu\u00e7\u00e3o \u00e0 fot\u00f4nica integrada; Propaga\u00e7\u00e3o da luz em meios homog\u00eaneos; Condi\u00e7\u00f5es de contorno em interfaces diel\u00e9tricas. Coeficientes de Fresnel. Lei de Snell; Reflex\u00e3o interna total.    2. Guia de onda diel\u00e9trico planar (slab waveguide). Modos \u00f3pticos. Solu\u00e7\u00e3o anal\u00edtica para as polariza\u00e7\u00f5es TE e TM. \u00cdndice efetivo. Rela\u00e7\u00e3o de dispers\u00e3o. Guia de onda diel\u00e9trico retangular.    3. M\u00e9todos num\u00e9ricos aplicados \u00e0 an\u00e1lise e projeto de dispositivos fot\u00f4nicos integrados.    4. An\u00e1lise modal; Par\u00e2metros de dispers\u00e3o; Espectros de transmiss\u00e3o e reflex\u00e3o.    5. M\u00e9todos de fabrica\u00e7\u00e3o e caracteriza\u00e7\u00e3o de guias de onda integrados.    6. Projeto de curvas, divisores de feixe, acopladores e filtros \u00f3pticos.",
-"metodo": "Aulas expositivas e pr\u00e1ticas de laborat\u00f3rio com intera\u00e7\u00f5es em grupo para a solu\u00e7\u00e3o de problemas.",
-"criterio": "M\u00e9dia aritm\u00e9tica (M) de provas individuais (P1 e P2) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,3*P1+0,3*P2+0.4*T",
-"exame": "M\u00e9dia aritm\u00e9tica (M) de uma prova individual (P1) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,5*P1+0.5*T",
-"bibliografia": "[1] Graham T. Reed e Andrew P. Knights, \u201cSilicon Photonics: An Introduction\u201d, John Wiley & Sons, West Sussex, 2004.[2] Katsunari Okamoto, \u201cFundamentals of Optical Waveguides (Second Edition)\u201d, Academic Press, San Diego, 2006.[3] Lukas Chrostowski e Michael Hochberg, \u201cSilicon Photonics Design\u201d, Cambridge University Press, Cambridge, 2015.[4] Bahaa E. A. Saleh e Malvin C. Teich, \u201cFundamentals of Photonics\u201d, John Wiley & Sons, New York, 1991.[5] Kleber D. Machado, Eletromagnetismo Vol. 3, Todapalavra, 2014.[6] David J. Griffiths, Eletrodin\u00e2mica, Pearson, 2011.",
-"docentes": [
-"519033 - Carlos Yujiro Shigue",
-"7290967 - Emerson Gon\u00e7alves de Melo"
-],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " sex  08:00  12:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "27"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "27"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3267": {
 "sigla": "LOM3267",
@@ -3718,173 +3165,44 @@
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
 "oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
-"horario": " seg  18:00  19:00 ",
-"prof": "(R) Antonio Jefferson da Silva Machado "
-}
+"horario": " qua  18:00  19:00 ",
+"prof": " "
 },
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "15",
-"Pendentes": "0",
-"Matriculados": "15"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "60",
-"Inscritos": "15",
-"Pendentes": "0",
-"Matriculados": "15"
-}
-}
-}
-}
-},
-"LOQ4209": {
-"sigla": "LOQ4209",
-"nome": " Engenharia da Qualidade",
-"nomeascii": " Engenharia da Qualidade",
-"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4209&codcur=88301&codhab=0",
-"requisitos": {
-"LOB1012": {
-"sigla": "LOB1012",
-"nome": " Estat\u00edstica ",
-"tipo": "Requisito fraco"
-}
-},
-"tipo": "Obrigat\u00f3rias",
-"semestre": "8",
-"unidade": "Escola de Engenharia de Lorena",
-"departamento": "Engenharia Qu\u00edmica",
-"nome_en": "Quality Engineering",
-"objectives": "Bring students to develop a critical sense in Quality International Certification, Total Quality, Sistemic Management in the World Class context.",
-"abstract": "1-Philosophy, basic concepts. 2 \u2013 Total Quality Management Tools. 3 \u2013 Quality Management Systems",
-"program": "1-PHILOSOPHY, BASIC CONCEPTSDefinition of Quality. Competitiveness. Quality History. Internal and External Benefits of Quality2 \u2013 TOTAL QUALITY MANAGEMENT TOOLSRoutine management: MASP Solving Problem Method, Brainstorming, Flowcharts, PDCA and SDCA, Basic Management Units, 5S Program, Operating Procedures and Work Instructions, Internal Audits, Education Program, Visual Management, Customer Monitoring, Kaizen Groups.3 \u2013 QUALITY MANAGEMENT SYSTEMSCertification Systems: ISO (9001, 14001, 17025 and 65), SA 8000, OHSAS 18000Implementation methodology, documentation, requirements, participation of staff, middle management and operational instances.Pre-audit, certification audit, maintenance audits.",
-"ndoc": 1,
-"CA": "2",
-"CT": "0",
-"CH": "30 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2022",
-"objetivos": "Desenvolver no aluno senso cr\u00edtico em Gest\u00e3o Sist\u00eamica, Qualidade Total, Certifica\u00e7\u00e3o Internacional da Qualidade, no contexto Classe Mundial.",
-"resumo": "1 - Filosofia, conceitos b\u00e1sicos. 2 - Ferramentas da gest\u00e3o pela qualidade total. 3 - Sistemas de garantia da qualidade.",
-"programa": "1 - FILOSOFIA, CONCEITOS B\u00c1SICOS.Defini\u00e7\u00e3o de Qualidade. Competitividade. Hist\u00f3rico da Qualidade.  Benef\u00edcios Internos e Externos da Qualidade. A Gest\u00e3o pela Qualidade Total (TQC, CWQC, Toyota, TQM, BSC, 6 Sigma e Lean 6 Sigma)2 - FERRAMENTAS DA GEST\u00c3O PELA QUALIDADE TOTAL.Gest\u00e3o da rotina: MASP, Brainstorming, Fluxogramas, PDCA e SDCA, Unidades Gerenciais B\u00e1sicas, Programa 5S, Procedimentos Operacionais e Instru\u00e7\u00f5es de Trabalho, Auditorias Internas, Programa de Educa\u00e7\u00e3o, Reuni\u00f5es Rel\u00e2mpago, Administra\u00e7\u00e3o Vis\u00edvel, Monitora\u00e7\u00e3o de Clientes, Grupos Kaizen.3 -SISTEMAS DE GARANTIA DA QUALIDADE: Sistemas de Certifica\u00e7\u00e3o: ISO (9001, 14001, 17025 e 65), SA 8000, OHSAS 18000Metodologia de implanta\u00e7\u00e3o, documenta\u00e7\u00e3o, requisitos, participa\u00e7\u00e3o da alta administra\u00e7\u00e3o, ger\u00eancia m\u00e9dia e inst\u00e2ncias operacionais.Pr\u00e9-auditoria, auditoria de certifica\u00e7\u00e3o, auditorias de manuten\u00e7\u00e3o.",
-"metodo": "Provas, relat\u00f3rios e apresenta\u00e7\u00e3o de semin\u00e1rios.",
-"criterio": "MF = (0,7*P&R + 0,3*S), onde P&R= Prova e relat\u00f3rios e S= Semin\u00e1rio.",
-"exame": "\u00c9 feita sob a forma de uma prova, com toda a mat\u00e9ria dada, com duas horas de dura\u00e7\u00e3o, aplicada no per\u00edodo determinado pela USP. A m\u00e9dia final ser\u00e1 a m\u00e9dia aritm\u00e9tica entre a nota desta prova e a m\u00e9dia obtida no semestre.",
-"bibliografia": "ASSOCIA\u00c7\u00c3O BRASILEIRA DE NORMAS T\u00c9CNICAS. Gest\u00e3o da qualidade e garantia da qualidade - terminologia - NBR ISO 8402. Rio de Janeiro: ABNT, 1994a. 15 p.\nBRUE G., Six Sigma for Managers, McGrawHill, New York, 2005.\nEUTACHEM. 1995. Quantifying Uncertainty in Analytical Measurement. Londres. 92 p.\nKUME, H. (Tradu\u00e7\u00e3o Miyake, D.I.). 1993. M\u00e9todos Estat\u00edsticos para Melhoria da Qualidade. S\u00e3o Paulo. Editora Gente, 245 p.\nHARRY, M. , LINSENMANND.R., The Six Sigma Fieldbook, Doubleday, New York, 2006\nISHIKAWA, K. Guide to quality control. Tokyo: Kraus Asian Productivity Organization, 1982. 221p.\nJURAN, J.M.; GRYNA, F.M. Juran controle da qualidade: m\u00e9todos especiais de apoio \u00e0 qualidade. S\u00e3o Paulo: Makron Books, 1993. 193p. \nLIKER, K. & MEIER D. O Modelo Toyota, Manual de Aplica\u00e7\u00e3o. Porto Alegre: Bookman, 2007. 432p.\nMARANH\u00c3O, M. ISO S\u00e9rie 9000-Guia de Implementa\u00e7\u00e3o, Qualitymark, Rio de Janeiro, 2001, 220p\nMONTGOMERY, D.C. 1991. Introduction to Statistical Quality Control. New York. John Wiley & Sons Inc., 674 p.\nOAKLAND, J.S. (Tradu\u00e7\u00e3o PEREIRA, A.G.). 1994. Gerenciamento da Qualidade Total. S\u00e3o Paulo. Nobel, 501 p.\nTURBAN, E. & RAINER, R. K. & PORTTER, R. E. Introdu\u00e7\u00e3o a Sistemas de Informa\u00e7\u00e3o uma Abordagem Gerencial. S\u00e3o Paulo: Editora Campus. 2007, 457p.\nVIEIRA, S. Estat\u00edstica para qualidade. Rio de Janeiro: Campus, 1997. 472p.",
-"docentes": [
-"5840535 - Messias Borges Silva"
-],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " qui  14:00  16:00 ",
-"prof": "Jos\u00e9 Eduardo Holler Branco "
+"h1": {
+"horario": " qui  18:00  19:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "32",
-"Pendentes": "0",
-"Matriculados": "25"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "21",
-"Inscritos": "2",
-"Pendentes": "0",
-"Matriculados": "2"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "0",
-"Inscritos": "0",
+"Inscritos": "8",
 "Pendentes": "0",
 "Matriculados": "0"
 },
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "9",
-"Inscritos": "9",
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "9"
-},
-"EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "4",
-"Inscritos": "4",
-"Pendentes": "0",
-"Matriculados": "4"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "11",
-"Inscritos": "10",
-"Pendentes": "0",
-"Matriculados": "10"
+"Matriculados": "0"
 }
 }
 }
 }
-},
-"LOB1010": {
-"sigla": "LOB1010",
-"nome": " Direito  Aplicado \u00e0 Engenharia",
-"nomeascii": " Direito  Aplicado a Engenharia",
-"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1010&codcur=88301&codhab=0",
-"requisitos": {
-"LOB1008": {
-"sigla": "LOB1008",
-"nome": " Ci\u00eancia, Tecnologia e Sociedade ",
-"tipo": "Requisito fraco"
-}
-},
-"tipo": "Obrigat\u00f3rias",
-"semestre": "9",
-"unidade": "Escola de Engenharia de Lorena",
-"departamento": "Ci\u00eancias B\u00e1sicas e Ambientais",
-"nome_en": "Law applied to engineering",
-"objectives": "",
-"abstract": "",
-"program": "",
-"ndoc": 1,
-"CA": "2",
-"CT": "0",
-"CH": "30 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2012",
-"objetivos": "GERAL: Dar no\u00e7\u00f5es gerais de direito, despertando o sentimento de cidadania atrav\u00e9s das garantias fundamentais asseguradas pela Constitui\u00e7\u00e3o.\nESPEC\u00cdFICO: Preparar o aluno para o mercado de trabalho com as no\u00e7\u00f5es m\u00ednimas necess\u00e1rias de direito relacionadas \u00e0 sua profiss\u00e3o de engenheiro.",
-"resumo": "No\u00e7\u00f5es gerais de direito. O sistema constitucional brasileiro. No\u00e7\u00f5es de direito civil. Propriedade intelectual. No\u00e7\u00f5es de direito comercial e comercial internacional. No\u00e7\u00f5es de direito administrativo. No\u00e7\u00f5es de direito do trabalho. No\u00e7\u00f5es de direito tribut\u00e1rio. Regulamenta\u00e7\u00e3o profissional.",
-"programa": "01 - NO\u00c7\u00d5ES GERAIS DE DIREITO: Orienta\u00e7\u00e3o da disciplina. Conceito de Direito. Ato jur\u00eddico e ordem jur\u00eddica. Os v\u00e1rios ramos do Direito. Conceito de legisla\u00e7\u00e3o. Jurisprud\u00eancia e doutrina.\n02 - O SISTEMA CONSTITUCIONAL BRASILEIRO: Federa\u00e7\u00e3o. Rep\u00fablica. Regime representativo. As garantias individuais.\n03 - NO\u00c7\u00d5ES DE DIREITO CIVIL: Pessoas e bens. Direito de fam\u00edlia. Atos jur\u00eddicos. Contratos. Atos il\u00edcitos\n04 - NO\u00c7\u00d5ES DE DIREITO COMERCIAL: Atos do com\u00e9rcio. Sociedades comerciais. T\u00edtulo de cr\u00e9dito. O cheque. A letra de c\u00e2mbio. A nota promiss\u00f3ria e a duplicata. Propriedade Industrial. Inventos, marcas e patentes. Prote\u00e7\u00e3o do direito autoral. . Contratos Comerciais: pr\u00e1ticas ilegais e abusivas; regras de contratos internacionais. Da prote\u00e7\u00e3o ao consumidor\n05 - NO\u00c7\u00d5ES DE DIREITO ADMINISTRATIVO: Ato administrativo e fato administrativo. Servi\u00e7o p\u00fablico e de utilidade p\u00fablica. Licita\u00e7\u00e3o e contrato administrativo.\n06 - NO\u00c7\u00d5ES DE DIREITO DO TRABALHO: Conceitos fundamentais. Rela\u00e7\u00f5es entre empregador e empregado. Higiene e seguran\u00e7a do trabalho. Previd\u00eancia social. Justi\u00e7a do trabalho.\n07 - NO\u00c7\u00d5ES DE DIREITO TRIBUT\u00c1RIO: O sistema tribut\u00e1rio nacional. Tributos. Impostos, taxas e contribui\u00e7\u00f5es. Pre\u00e7os e tarifas.\n08 - REGULAMENTA\u00c7\u00c3O PROFISSIONAL: A garantia constitucional do exerc\u00edcio da profiss\u00e3o. A lei n\u00ba 5.194/66. Os \u00f3rg\u00e3os regulamentadores da profiss\u00e3o. O exerc\u00edcio profissional. Atribui\u00e7\u00f5es. As atividades t\u00e9cnicas e econ\u00f4micas da Engenharia. Responsabilidades decorrentes do exerc\u00edcio da engenharia.",
-"metodo": "Provas",
-"criterio": "NF= (P1+P2)/2",
-"exame": "Reestudo com trabalhos e prova",
-"bibliografia": "01. BATALHA, Wilson de Souza Campos. Introdu\u00e7\u00e3o ao Estudo do Direito: Os Fundamentos e a Vis\u00e3o Hist\u00f3rica. Rio de Janeiro : Forense, 1981\n02. LIMA, Hermes. Introdu\u00e7\u00e3o \u00e0 Ci\u00eancia do Direito. Rio de Janeiro: Freitas Bastos, 1980. \n03. NADER, Paulo. Introdu\u00e7\u00e3o ao Estudo do Direito. Rio de Janeiro: Forense, 1982. \n04. PAUPERIO, A. Machado. Introdu\u00e7\u00e3o ao Estudo do Direito. Rio de Janeiro: s.c.p., 1981.\n05. ROQUE, Ana. Direito Comercial Internacional. Portugal: \u00c2ncora Editora, 2004. \n06. PINHO, Rui Rebello; NASCIMENTO, Amauri Mascaro. Institui\u00e7\u00f5es de Direito P\u00fablico e Privado. S\u00e3o Paulo: Atlas, 1984.\n07. REQUIAO, Rubens. Curso de Direito Comercial. S\u00e3o Paulo : Saraiva, 1981.\n08. BALEEIRO, Aliomar. Direito Tribut\u00e1rio Brasileiro. Rio de Janeiro : Forense, 1981. \n09. BASTOS, Celso Ribeiro. Curso de Direito Constitucional.  S\u00e3o Paulo : Saraiva, 1989.\n10. ROMEIRO, Jos\u00e9 Antonio Nunes. Sociedade por Cotas de Responsabilidades Limitada. Curitiba: Juru\u00e1, 1984 \n11. RUSSOMANO, Mozart Victor. Coment\u00e1rios \u00e0 Consolida\u00e7\u00e3o das Leis do Trabalho. Rio De Janeiro: Forense, 1994.",
-"docentes": [
-"6376612 - Daisy Rafaela da Silva"
-],
-"oferecimento": null
 },
 "LOB1031": {
 "sigla": "LOB1031",
 "nome": " Psicologia Organizacional e do Trabalho",
 "nomeascii": " Psicologia Organizacional e do Trabalho",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1031&codcur=88301&codhab=0",
-"requisitos": {
-"LOB1008": {
-"sigla": "LOB1008",
-"nome": " Ci\u00eancia, Tecnologia e Sociedade ",
-"tipo": "Requisito fraco"
-}
-},
+"requisitos": {},
 "tipo": "Obrigat\u00f3rias",
 "semestre": "9",
 "unidade": "Escola de Engenharia de Lorena",
@@ -3910,58 +3228,27 @@
 "8188658 - Maria Auxiliadora Motta Barreto"
 ],
 "oferecimento": {
-"20242M1": {
-"C\u00f3digo da Turma": "20242M1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251D1": {
+"C\u00f3digo da Turma": "20251D1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
-"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
-"horario": " ter  10:00  12:00 ",
-"prof": "(R) Maria Auxiliadora Motta Barreto "
+"horario": " seg  10:00  12:00 ",
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "59",
-"Inscritos": "66",
+"Vagas": "60",
+"Inscritos": "16",
 "Pendentes": "0",
-"Matriculados": "57"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "18",
-"Inscritos": "18",
-"Pendentes": "0",
-"Matriculados": "18"
-},
-"EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "8",
-"Inscritos": "8",
-"Pendentes": "0",
-"Matriculados": "8"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "4",
-"Inscritos": "3",
-"Pendentes": "0",
-"Matriculados": "3"
+"Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "16",
-"Inscritos": "15",
-"Pendentes": "0",
-"Matriculados": "15"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "13",
-"Inscritos": "13",
-"Pendentes": "0",
-"Matriculados": "13"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "60",
+"Inscritos": "16",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -4007,29 +3294,33 @@
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
 "oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
 "aulas": {
 "h0": {
+"horario": " seg  18:00  19:00 ",
+"prof": " "
+},
+"h1": {
 "horario": " ter  18:00  19:00 ",
-"prof": "(R) Antonio Jefferson da Silva Machado "
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "29",
+"Vagas": "45",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "24"
+"Matriculados": "0"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "60",
-"Inscritos": "24",
+"Vagas": "45",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "24"
+"Matriculados": "0"
 }
 }
 }
@@ -4041,9 +3332,19 @@
 "nomeascii": " Estagio Supervisionado",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3210&codcur=88301&codhab=0",
 "requisitos": {
-"LOM3236": {
-"sigla": "LOM3236",
-"nome": " Processos de Fabrica\u00e7\u00e3o ",
+"LOQ4095": {
+"sigla": "LOQ4095",
+"nome": " Qu\u00edmica Geral Experimental ",
+"tipo": "Requisito"
+},
+"LOQ4100": {
+"sigla": "LOQ4100",
+"nome": " Fundamentos de Qu\u00edmica para Engenharia I",
+"tipo": "Requisito"
+},
+"LOB1006": {
+"sigla": "LOB1006",
+"nome": " C\u00e1lculo IV ",
 "tipo": "Requisito"
 },
 "LOB1053": {
@@ -4051,9 +3352,14 @@
 "nome": " F\u00edsica III ",
 "tipo": "Requisito"
 },
-"LOB1045": {
-"sigla": "LOB1045",
-"nome": " Leitura e Produ\u00e7\u00e3o de Textos Acad\u00eamicos ",
+"LOB1003": {
+"sigla": "LOB1003",
+"nome": " C\u00e1lculo I ",
+"tipo": "Requisito"
+},
+"LOB1012": {
+"sigla": "LOB1012",
+"nome": " Estat\u00edstica ",
 "tipo": "Requisito"
 },
 "LOB1036": {
@@ -4063,42 +3369,7 @@
 },
 "LOB1037": {
 "sigla": "LOB1037",
-"nome": " \u00c0lgebra Linear ",
-"tipo": "Requisito"
-},
-"LOB1042": {
-"sigla": "LOB1042",
-"nome": " F\u00edsica Experimental IV ",
-"tipo": "Requisito"
-},
-"LOB1039": {
-"sigla": "LOB1039",
-"nome": " F\u00edsica Experimental III ",
-"tipo": "Requisito"
-},
-"LOB1018": {
-"sigla": "LOB1018",
-"nome": " F\u00edsica I ",
-"tipo": "Requisito"
-},
-"LOB1021": {
-"sigla": "LOB1021",
-"nome": " F\u00edsica IV ",
-"tipo": "Requisito"
-},
-"LOM3016": {
-"sigla": "LOM3016",
-"nome": " Introdu\u00e7\u00e3o \u00e0  Ci\u00eancia dos Materiais ",
-"tipo": "Requisito"
-},
-"LOM3204": {
-"sigla": "LOM3204",
-"nome": " Desenho T\u00e9cnico e Projeto Assistido por Computador ",
-"tipo": "Requisito"
-},
-"LOB1012": {
-"sigla": "LOB1012",
-"nome": " Estat\u00edstica ",
+"nome": " \u00c1lgebra Linear ",
 "tipo": "Requisito"
 },
 "LOB1038": {
@@ -4106,14 +3377,9 @@
 "nome": " F\u00edsica Experimental I ",
 "tipo": "Requisito"
 },
-"LOB1052": {
-"sigla": "LOB1052",
-"nome": " C\u00e1lculo III ",
-"tipo": "Requisito"
-},
-"LOB1008": {
-"sigla": "LOB1008",
-"nome": " Ci\u00eancia, Tecnologia e Sociedade ",
+"LOB1039": {
+"sigla": "LOB1039",
+"nome": " F\u00edsica Experimental III ",
 "tipo": "Requisito"
 },
 "LOB1041": {
@@ -4121,39 +3387,24 @@
 "nome": " F\u00edsica Experimental II ",
 "tipo": "Requisito"
 },
-"LOM3240": {
-"sigla": "LOM3240",
-"nome": " Qu\u00edmica Inorg\u00e2nica Fundamental e Aplicada ",
+"LOB1042": {
+"sigla": "LOB1042",
+"nome": " F\u00edsica Experimental IV ",
 "tipo": "Requisito"
 },
-"LOQ4095": {
-"sigla": "LOQ4095",
-"nome": " Qu\u00edmica Geral Experimental ",
+"LOB1052": {
+"sigla": "LOB1052",
+"nome": " C\u00e1lculo III ",
 "tipo": "Requisito"
 },
-"LOM3218": {
-"sigla": "LOM3218",
-"nome": " Introdu\u00e7\u00e3o \u00e0 Engenharia F\u00edsica ",
+"LOM3016": {
+"sigla": "LOM3016",
+"nome": " Introdu\u00e7\u00e3o \u00e0  Ci\u00eancia dos Materiais ",
 "tipo": "Requisito"
 },
-"LOQ4100": {
-"sigla": "LOQ4100",
-"nome": " Fundamentos de Qu\u00edmica para Engenharia I",
-"tipo": "Requisito"
-},
-"LOB1004": {
-"sigla": "LOB1004",
-"nome": " C\u00e1lculo II ",
-"tipo": "Requisito"
-},
-"LOB1003": {
-"sigla": "LOB1003",
-"nome": " C\u00e1lculo I ",
-"tipo": "Requisito"
-},
-"LOB1006": {
-"sigla": "LOB1006",
-"nome": " C\u00e1lculo IV ",
+"LOM3037": {
+"sigla": "LOM3037",
+"nome": " Qu\u00edmica Inorg\u00e2nica ",
 "tipo": "Requisito"
 },
 "LOM3260": {
@@ -4161,9 +3412,39 @@
 "nome": " Computa\u00e7\u00e3o Cient\u00edfica em Python ",
 "tipo": "Requisito"
 },
+"LOB1004": {
+"sigla": "LOB1004",
+"nome": " C\u00e1lculo II ",
+"tipo": "Requisito"
+},
+"LOB1018": {
+"sigla": "LOB1018",
+"nome": " F\u00edsica I ",
+"tipo": "Requisito"
+},
 "LOB1019": {
 "sigla": "LOB1019",
 "nome": " F\u00edsica II ",
+"tipo": "Requisito"
+},
+"LOB1021": {
+"sigla": "LOB1021",
+"nome": " F\u00edsica IV ",
+"tipo": "Requisito"
+},
+"LOM3218": {
+"sigla": "LOM3218",
+"nome": " Introdu\u00e7\u00e3o \u00e0 Engenharia F\u00edsica ",
+"tipo": "Requisito"
+},
+"LOM3204": {
+"sigla": "LOM3204",
+"nome": " Desenho T\u00e9cnico e Projeto Assistido por Computador ",
+"tipo": "Requisito"
+},
+"LOM3236": {
+"sigla": "LOM3236",
+"nome": " Processos de Fabrica\u00e7\u00e3o ",
 "tipo": "Requisito"
 }
 },
@@ -4191,6 +3472,131 @@
 "docentes": [
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
+"oferecimento": null
+},
+"LOB1008": {
+"sigla": "LOB1008",
+"nome": " Ci\u00eancia, Tecnologia e Sociedade",
+"nomeascii": " Ciencia, Tecnologia e Sociedade",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1008&codcur=88301&codhab=0",
+"requisitos": {},
+"tipo": "Optativas",
+"semestre": "1",
+"unidade": "Escola de Engenharia de Lorena",
+"departamento": "Ci\u00eancias B\u00e1sicas e Ambientais",
+"nome_en": "Science, technology and society",
+"objectives": "",
+"abstract": "",
+"program": "",
+"ndoc": 1,
+"CA": "2",
+"CT": "0",
+"CH": "30 h",
+"periodicidade": "Semestral",
+"ativacao": "01/01/2012",
+"objetivos": "Proporcionar aos estudantes dos cursos de Engenharia da Escola de Engenharia de Lorena o contato com os fundamentos b\u00e1sicos das Ci\u00eancias Humanas ou Sociais e estimular a reflex\u00e3o sobre o desenvolvimento cient\u00edfico-tecnol\u00f3gico no mundo contempor\u00e2neo e seus reflexos na vida do homem no planeta e na sociedade brasileira em tempos de globaliza\u00e7\u00e3o.\nProcurar assim, complementar a forma\u00e7\u00e3o dos mesmos, capacitando-os para utilizar os conhecimentos adquiridos no seu contexto social, no exerc\u00edcio profissional, com compet\u00eancia, criatividade e com amplo entendimento da sua a\u00e7\u00e3o como cidad\u00e3o respons\u00e1vel e solid\u00e1rio.",
+"resumo": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais. A sociedade do conhecimento. o homem na sociedade Emergente. Globaliza\u00e7\u00e3o e a realidade brasileira.",
+"programa": "Introdu\u00e7\u00e3o \u00e0s Ci\u00eancias Sociais\n- a posi\u00e7\u00e3o das Ci\u00eancias Sociais no quadro das ci\u00eancias \n- o papel das Ci\u00eancias Sociais na atualidade;\n\n2 - A Sociedade do Conhecimento \n- A evolu\u00e7\u00e3o do conhecimento \n- O paradigma cient\u00edfico e a revolu\u00e7\u00e3o cient\u00edfica- tecnol\u00f3gica\n- Mudan\u00e7as no paradigma cient\u00edfico\n- A quest\u00e3o s\u00f3cio-ambiental\n\n3 -  O homem na sociedade emergente\n- \u00e9tica nas rela\u00e7\u00f5es humanas\n- lideran\u00e7a pessoal e profissional\n\n4 - Globaliza\u00e7\u00e3o e a realidade brasileira\n- o sistema hegem\u00f4nico : o neoliberalismo;\n- a globaliza\u00e7\u00e3o econ\u00f4mica\n- a globaliza\u00e7\u00e3o social \n- a sociedade civil globalizada",
+"metodo": "A m\u00e9dia semestral e final dos alunos ser\u00e1 composta por: Prova Semestral  (PS) e outros instrumentos (T) empregados na avalia\u00e7\u00e3o do aluno, valorizando a sua participa\u00e7\u00e3o e colabora\u00e7\u00e3o nos trabalhos e atividades desenvolvidas individualmente e no Projeto de curso em equipe.",
+"criterio": "(PS+T) / 2",
+"exame": "-  Trabalho escrito, com questionamento, envolvendo o conte\u00fado do programa \n-   prova escrita",
+"bibliografia": "01  Constitui\u00e7\u00e3o da Rep\u00fablica Federativa do Brasil\n02  C\u00f3digo de \u00c9tica do Engenheiro, CREA: 2002.\n03 -  CAPRA, F.   A Teia da Vida.  S\u00e3o Paulo: Cultrix, 2003.\n03  CASTELLS, Manuel. O Poder da Identidade. A Era da Informa\u00e7\u00e3o: Economia, Sociedade e Cultura. Vol. 2 . S\u00e3o Paulo: Paz e Terra, 1999.\n04  - HUNTER, James C.  O Monge e o Executivo: uma hist\u00f3ria sobre a ess\u00eancia da lideran\u00e7a.  Rio de Janeiro: Sextante, 2004.\n05  NOVAES, Adauto ( org.) \u00c9tica. S\u00e3o Paulo: Secretaria Municipal de Cultura e Companhia das Letras, 1992.\n07  SADER, Emir. A Vingan\u00e7a da Hist\u00f3ria. S\u00e3o Paulo: Boitempo-Editorial, 2003.\n08  SANTOS, Boaventura de. Um Discurso sobre as Ci\u00eancias. Porto, Portugal: Afrontamentos, 1997.\n10 -  SCHAEFER, Richard T.  Sociologia. 6\u00aa. Ed.; S\u00e3o Paulo: McGraw-Hill, 2006.\n11  SODERO TOLEDO, Francisco. Outros Caminhos : Vale do Para\u00edba, do regional ao  internacional, do global ao local. S\u00e3o Paulo, Editora Salesiana, 2001.\n_____________  Eu,Tu,N\u00f3s  \u00c9tica e Cidadania para jovens. Cachoeira Paulista, S\u00e3o Paulo: Ed. Can\u00e7\u00e3o Nova, 2005\n\nArtigos de revistas especializadas e de jornais; \nEstudos, artigos, not\u00edcias e pesquisas via internet.",
+"docentes": [
+"7043088 - Ana Karine Furtado de Carvalho"
+],
+"oferecimento": {
+"20251P1": {
+"C\u00f3digo da Turma": "20251P1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  21:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "60",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
+},
+"LOM3271": {
+"sigla": "LOM3271",
+"nome": " Tutoria Acad\u00eamica em Engenharia F\u00edsica I",
+"nomeascii": " Tutoria Academica em Engenharia Fisica I",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3271&codcur=88301&codhab=0",
+"requisitos": {},
+"tipo": "Optativas",
+"semestre": "1",
+"unidade": "Escola de Engenharia de Lorena",
+"departamento": "Engenharia de Materiais",
+"nome_en": "Academic Tutoring in Engineering Physics I",
+"objectives": "To guide students at the beginning of their university career in the undergraduate course in Engineering XX at EEL-USP so that the student is able to: a) identify the academic opportunities and particularities of their course; b) recognize, under the supervision of a tutor, any difficulties throughout the course and understand mechanisms for them to be overcome, conducting the course with the desired success; c) develop technical and emotional skills, broadening the perspectives of professional training through systematized activities and meetings.",
+"abstract": "Engineering physics courses, respective pedagogical projects and their curricular components, including TCC, mandatory internship, Curricular Extension Projects, Complementary Academic Activities and Extracurricular Activities. Identification and adherence of the student with the course and with the chosen profession. The college course, the adolescent/young adult transition and the challenges in the student's life projects at the beginning of the undergraduate program. Relationship between the disciplines and the knowledge to be applied. Competencies and skills developed in your engineering course. Academic, sociocultural and scientific dimensions. Diversity and inclusion. Organization of studies.",
+"program": "",
+"ndoc": 0,
+"CA": "0",
+"CT": "1",
+"CH": "30 h",
+"periodicidade": "Semestral",
+"ativacao": "01/01/2025",
+"objetivos": "Orientar os estudantes no in\u00edcio de sua trajet\u00f3ria universit\u00e1ria no curso de gradua\u00e7\u00e3o em Engenharia XX na EEL-USP de modo que o estudante seja capaz de a) identificar as oportunidades acad\u00eamicas e as particularidades do seu curso; b) reconhecer, sob acompanhamento de um tutor, eventuais dificuldades ao longo do curso e compreender mecanismos para que estas sejam superadas, conduzindo o curso com o sucesso desejado; c) desenvolver habilidades t\u00e9cnicas e emocionais, ampliando as perspectivas de forma\u00e7\u00e3o profissional por meio de atividades e encontros sistematizados.",
+"resumo": "Os cursos de engenharia f\u00edsica, respectivos projetos pedag\u00f3gicos e seus componentes curriculares, incluindo TCC, est\u00e1gio obrigat\u00f3rio, Projetos de Extens\u00e3o Curricularizados, Atividades Acad\u00eamicas Complementares e Atividades extracurriculares. Identifica\u00e7\u00e3o e ader\u00eancia do estudante com o curso e com a profiss\u00e3o escolhida. O curso superior, a transi\u00e7\u00e3o adolescente/jovem adulto e os desafios nos projetos de vida do estudante no in\u00edcio da gradua\u00e7\u00e3o. Rela\u00e7\u00e3o entre as disciplinas e o conhecimento a ser aplicado. Compet\u00eancias e habilidades desenvolvidas no seu curso de engenharia. Dimens\u00f5es acad\u00eamicas, socioculturais e cient\u00edficas. Diversidade e inclus\u00e3o. Organiza\u00e7\u00e3o dos estudos.",
+"programa": "Apresenta\u00e7\u00e3o dos programas e servi\u00e7os oferecidos pela USP voltados aos estudantes e das oportunidades de realizar trabalhos extracurriculares. A din\u00e2mica das aulas, ferramentas de intera\u00e7\u00e3o. Desenvolvimento de atividades de grupo, com objetivo de desenvolver habilidades s\u00f3cio-comportamentais atrav\u00e9s de colabora\u00e7\u00e3o em temas do curso relacionados \u00e0 profiss\u00e3o escolhida. \u00c1reas de atua\u00e7\u00e3o do curso de engenharia, compet\u00eancias e habilidades a serem desenvolvidas. Interdisciplinaridade e a rela\u00e7\u00e3o entre as disciplinas e o conhecimento a ser aplicado. Planejamento de estudos. Formas de estudar e aprender.",
+"metodo": "Atividades realizadas na forma de din\u00e2micas de grupos, utiliza\u00e7\u00e3o de v\u00eddeos, textos, roda de discuss\u00e3o e/ou elabora\u00e7\u00e3o de pain\u00e9is. Participa\u00e7\u00e3o em encontros de orienta\u00e7\u00e3o promovidos pelo Programa de Tutoria Acad\u00eamica e a realiza\u00e7\u00e3o de atividades propostas pelo tutor/monitor/mentor, incluindo trabalhos em equipe e estudos dirigidos.",
+"criterio": "Participa\u00e7\u00e3o ativa nos encontros, apresenta\u00e7\u00e3o de estudos/pesquisa e de trabalhos realizados durante a disciplina, colabora\u00e7\u00e3o e engajamento nas atividades da disciplina. O estudante dever\u00e1 entregar um relat\u00f3rio final para a disciplina. A nota final \u00e9 dada pela m\u00e9dia ponderada das notas obtidas nas diversas atividades propostas.",
+"exame": "N\u00e3o se aplica.",
+"bibliografia": "[1] Peddy, S. The art of mentoring \u2013 Lead, follow and get out of the way. Houston: Bullion Books, 2001.[2] Zachary, L. J. The Mentor\u2019s Guide. San Francisco: Jossey-Bass Publishers, 2000. Pereira, A. Modelos de desenvolvimento do jovem adulto e promo\u00e7\u00e3o do bem-estar em estudantes do ensino superior. In: Programa de Monitoriza\u00e7\u00e3o e Tutorado: oito anos a promover a integra\u00e7\u00e3o e o sucesso acad\u00e9mico no IST. Lisboa: IST Press, 2011. p. 19-27.[3] Mueller, S. Electronic mentoring as an example for the use of information and communications technology in engineering education. European Journal of Engineering Education, 2004.[4] Kaul, S. Triangulated Mentorship of Engineering Students - Leveraging Peer Mentoring and Vertical Integration, Global Journal of Engineering Education, v. 21, p. 14-23,2019.[5] Diretrizes Curriculares Nacionais para os cursos de gradua\u00e7\u00e3o em Engenharia. Minist\u00e9rio da Educa\u00e7\u00e3o. CNE/CES, 2019.",
+"docentes": [],
+"oferecimento": null
+},
+"LOM3272": {
+"sigla": "LOM3272",
+"nome": " Tutoria Acad\u00eamica em Engenharia F\u00edsica II",
+"nomeascii": " Tutoria Academica em Engenharia Fisica II",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3272&codcur=88301&codhab=0",
+"requisitos": {
+"LOM3271": {
+"sigla": "LOM3271",
+"nome": " Tutoria Acad\u00eamica em Engenharia F\u00edsica I ",
+"tipo": "Requisito fraco"
+}
+},
+"tipo": "Optativas",
+"semestre": "2",
+"unidade": "Escola de Engenharia de Lorena",
+"departamento": "Engenharia de Materiais",
+"nome_en": "Academic Tutoring in Engineering Physics II",
+"objectives": "To guide students at the beginning of their university career in the undergraduate course in Engineering XX at EEL-USP so that the student is able to: a) identify the academic opportunities and particularities of their course; b) recognize, under the supervision of a tutor, any difficulties throughout the course and understand mechanisms for them to be overcome, conducting the course with the desired success; c) develop technical and emotional skills, broadening the perspectives of professional training through systematized activities and meetings.",
+"abstract": "Engineering physics courses, respective pedagogical projects and their curricular components, including TCC, mandatory internship, Curricular Extension Projects, Complementary Academic Activities and Extracurricular Activities. Identification and adherence of the student with the course and with the chosen profession. The college course, the adolescent/young adult transition and the challenges in the student's life projects at the beginning of the undergraduate program. Relationship between the disciplines and the knowledge to be applied. Competencies and skills developed in your engineering course. Academic, sociocultural and scientific dimensions. Diversity and inclusion. Organization of studies.",
+"program": "",
+"ndoc": 0,
+"CA": "0",
+"CT": "1",
+"CH": "30 h",
+"periodicidade": "Semestral",
+"ativacao": "01/01/2025",
+"objetivos": "Orientar os estudantes no in\u00edcio de sua trajet\u00f3ria universit\u00e1ria no curso de gradua\u00e7\u00e3o em Engenharia XX na EEL-USP de modo que o estudante seja capaz de a) identificar as oportunidades acad\u00eamicas e as particularidades do seu curso; b) reconhecer, sob acompanhamento de um tutor, eventuais dificuldades ao longo do curso e compreender mecanismos para que estas sejam superadas, conduzindo o curso com o sucesso desejado; c) desenvolver habilidades t\u00e9cnicas e emocionais, ampliando as perspectivas de forma\u00e7\u00e3o profissional por meio de atividades e encontros sistematizados.",
+"resumo": "Os cursos de engenharia f\u00edsica, respectivos projetos pedag\u00f3gicos e seus componentes curriculares, incluindo TCC, est\u00e1gio obrigat\u00f3rio, Projetos de Extens\u00e3o Curricularizados, Atividades Acad\u00eamicas Complementares e Atividades extracurriculares. Identifica\u00e7\u00e3o e ader\u00eancia do estudante com o curso e com a profiss\u00e3o escolhida. O curso superior, a transi\u00e7\u00e3o adolescente/jovem adulto e os desafios nos projetos de vida do estudante no in\u00edcio da gradua\u00e7\u00e3o. Rela\u00e7\u00e3o entre as disciplinas e o conhecimento a ser aplicado. Compet\u00eancias e habilidades desenvolvidas no seu curso de engenharia. Dimens\u00f5es acad\u00eamicas, socioculturais e cient\u00edficas. Diversidade e inclus\u00e3o. Organiza\u00e7\u00e3o dos estudos.",
+"programa": "Apresenta\u00e7\u00e3o dos programas e servi\u00e7os oferecidos pela USP voltados aos estudantes e das oportunidades de realizar trabalhos extracurriculares. A din\u00e2mica das aulas, ferramentas de intera\u00e7\u00e3o. Desenvolvimento de atividades de grupo, com objetivo de desenvolver habilidades s\u00f3cio-comportamentais atrav\u00e9s de colabora\u00e7\u00e3o em temas do curso relacionados \u00e0 profiss\u00e3o escolhida. \u00c1reas de atua\u00e7\u00e3o do curso de engenharia, compet\u00eancias e habilidades a serem desenvolvidas. Interdisciplinaridade e a rela\u00e7\u00e3o entre as disciplinas e o conhecimento a ser aplicado. Planejamento de estudos. Formas de estudar e aprender.",
+"metodo": "Atividades realizadas na forma de din\u00e2micas de grupos, utiliza\u00e7\u00e3o de v\u00eddeos, textos, roda de discuss\u00e3o e/ou elabora\u00e7\u00e3o de pain\u00e9is. Participa\u00e7\u00e3o em encontros de orienta\u00e7\u00e3o promovidos pelo Programa de Tutoria Acad\u00eamica e a realiza\u00e7\u00e3o de atividades propostas pelo tutor/monitor/mentor, incluindo trabalhos em equipe e estudos dirigidos.",
+"criterio": "Participa\u00e7\u00e3o ativa nos encontros, apresenta\u00e7\u00e3o de estudos/pesquisa e de trabalhos realizados durante a disciplina, colabora\u00e7\u00e3o e engajamento nas atividades da disciplina. O estudante dever\u00e1 entregar um relat\u00f3rio final para a disciplina. A nota final \u00e9 dada pela m\u00e9dia ponderada das notas obtidas nas diversas atividades propostas.",
+"exame": "N\u00e3o se aplica..",
+"bibliografia": "[1] Peddy, S. The art of mentoring \u2013 Lead, follow and get out of the way. Houston: Bullion Books, 2001.[2] Zachary, L. J. The Mentor\u2019s Guide. San Francisco: Jossey-Bass Publishers, 2000. Pereira, A. Modelos de desenvolvimento do jovem adulto e promo\u00e7\u00e3o do bem-estar em estudantes do ensino superior. In: Programa de Monitoriza\u00e7\u00e3o e Tutorado: oito anos a promover a integra\u00e7\u00e3o e o sucesso acad\u00e9mico no IST. Lisboa: IST Press, 2011. p. 19-27.[3] Mueller, S. Electronic mentoring as an example for the use of information and communications technology in engineering education. European Journal of Engineering Education, 2004.[4] Kaul, S. Triangulated Mentorship of Engineering Students - Leveraging Peer Mentoring and Vertical Integration, Global Journal of Engineering Education, v. 21, p. 14-23,2019.[5] Diretrizes Curriculares Nacionais para os cursos de gradua\u00e7\u00e3o em Engenharia. Minist\u00e9rio da Educa\u00e7\u00e3o. CNE/CES, 2019.",
+"docentes": [],
 "oferecimento": null
 },
 "LOM3105": {
@@ -4264,14 +3670,14 @@
 "nomeascii": " Termodinamica de Materiais",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3015&codcur=88301&codhab=0",
 "requisitos": {
-"LOB1004": {
-"sigla": "LOB1004",
-"nome": " C\u00e1lculo II ",
-"tipo": "Requisito fraco"
-},
 "LOQ4100": {
 "sigla": "LOQ4100",
 "nome": " Fundamentos de Qu\u00edmica para Engenharia I",
+"tipo": "Requisito fraco"
+},
+"LOB1004": {
+"sigla": "LOB1004",
+"nome": " C\u00e1lculo II ",
 "tipo": "Requisito fraco"
 }
 },
@@ -4300,38 +3706,7 @@
 "3577649 - Carlos Angelo Nunes",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": {
-"20242M1": {
-"C\u00f3digo da Turma": "20242M1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  14:00  16:00 ",
-"prof": "(R) Carlos Angelo Nunes "
-},
-"h1": {
-"horario": " qua  14:00  16:00 ",
-"prof": "(R) Carlos Angelo Nunes "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "6",
-"Pendentes": "0",
-"Matriculados": "6"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "45",
-"Inscritos": "6",
-"Pendentes": "0",
-"Matriculados": "6"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3268": {
 "sigla": "LOM3268",
@@ -4370,41 +3745,7 @@
 "7290967 - Emerson Gon\u00e7alves de Melo",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": {
-"20242F1": {
-"C\u00f3digo da Turma": "20242F1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"Observa\u00e7\u00f5es": "",
-"aulas": {
-"h0": {
-"horario": " seg  16:00  18:00 ",
-"prof": "(R) Luiz Tadeu Fernandes Eleno "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "0",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"EEL - Engenharia F\u00edsica": {
-"Vagas": "30",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-},
-"Qualquer Unidade da USP": {
-"Vagas": "0",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3005": {
 "sigla": "LOM3005",
@@ -4438,7 +3779,97 @@
 "5009972 - Gilberto Carvalho Coelho",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251M1": {
+"C\u00f3digo da Turma": "20251M1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  10:00  12:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " qui  10:00  12:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "45",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "45",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
+},
+"LOQ4234": {
+"sigla": "LOQ4234",
+"nome": " Empreendedorismo e Inova\u00e7\u00e3o",
+"nomeascii": " Empreendedorismo e Inovacao",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4234&codcur=88301&codhab=0",
+"requisitos": {},
+"tipo": "Optativas",
+"semestre": "5",
+"unidade": "Escola de Engenharia de Lorena",
+"departamento": "Engenharia Qu\u00edmica",
+"nome_en": "Entrepreneurship and Innovation",
+"objectives": "Foster a culture of entrepreneurship and innovation; Develop entrepreneurial skills; To present the necessary knowledge for the creation of startups. The discipline is applied through Project-Based Learning, where the project to be developed is the creation of a startup with an innovative product/service proposal throughout the semester.",
+"abstract": "Characteristics of Entrepreneurial Behavior. Business Model. Minimum Viable Product. Business Plan.",
+"program": "1. Characteristics of Entrepreneurial Behavior: Search for opportunities and initiative. Take calculated risks. Demand for quality and efficiency. Persistence. Commitment. Information search. Setting goals. Systematic monitoring and planning. Persuasion and networking. Independence and self-confidence.2. Strategy, Innovation and marketing.3. Design Thinking.4. Business Model (Business Model Canvas and Lean Startup - Lean Canvas): Problem. Customer Segment. Unique Value Proposition. Solution. Key Metrics. Channels. Cost Structure. Revenue Streams. Unfair Advantage.5. Minimum Viable Product: Build-Measure-Learn Cycle. Customer lifetime value. Rapid prototyping.6. Process Management and Agile Project Management7. Business Plan: Marketing, Finance, Human Resources, Product Development and Information and Communication Technology. 8. Proposal for the creation of a startup, from the business model to the business plan, including the assembly of the minimum viable product and a PITCH round. 9. Development of practical extension activity (production of digital content on entrepreneurship and innovation)10. Visit (complementary didactic trip) to an environment of innovation and entrepreneurship (eg incubator/accelerator or technology park), to understand the development of entrepreneurship and innovation processes.",
+"ndoc": 1,
+"CA": "2",
+"CT": "1",
+"CH": "60 h",
+"periodicidade": "Semestral",
+"ativacao": "01/01/2024",
+"objetivos": "Fomentar a cultura do empreendedorismo e da Inova\u00e7\u00e3o; Desenvolver habilidades empreendedoras; Apresentar conhecimentos necess\u00e1rios para a cria\u00e7\u00e3o de startups. A disciplina \u00e9 aplicada atrav\u00e9s de Aprendizagem baseada em Projetos, onde o projeto a ser desenvolvido \u00e9 da cria\u00e7\u00e3o de uma startup com uma proposta de produto/servi\u00e7o inovador ao longo do semestre.",
+"resumo": "Caracter\u00edsticas do Comportamento Empreendedor; Modelo de Neg\u00f3cios; Produto m\u00ednimo vi\u00e1vel; Plano de Neg\u00f3cios.",
+"programa": "1. Caracter\u00edsticas do Comportamento Empreendedor: Busca de oportunidades e iniciativa. Correr riscos calculados. Exig\u00eancia de qualidade e efici\u00eancia. Persist\u00eancia. Comprometimento. Busca de informa\u00e7\u00f5es. Estabelecimento de metas. Monitoramento e planejamento sistem\u00e1tico. Persuas\u00e3o e rede contatos. Independ\u00eancia e autoconfian\u00e7a.2. Estrat\u00e9gia, Inova\u00e7\u00e3o e Marketing.3. Design Thinking.4. Modelo de Neg\u00f3cios (Business Model Canvas e Lean Startup - Lean Canvas): Problema. Segmento de Clientes. Proposta de Valor \u00danica. Solu\u00e7\u00e3o. M\u00e9tricas-Chave. Canais. Estrutura de Custos. Fluxos de Receita. Vantagem Injusta.5. Produto m\u00ednimo vi\u00e1vel: Ciclo Construir-Mensurar-Aprender. Valor da vida \u00fatil do cliente. Prototipa\u00e7\u00e3o r\u00e1pida.6. Gest\u00e3o de processos e Gerenciamento \u00e1gil de projetos.7. Plano de Neg\u00f3cios: Marketing, Finan\u00e7as, Recursos Humanos, Desenvolvimento de Produtos e Tecnologia da Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o.8. Proposta da cria\u00e7\u00e3o de uma startup, do modelo de neg\u00f3cios ao plano de neg\u00f3cios, incluindo a montagem do produto m\u00ednimo vi\u00e1vel e uma rodada de PITCH.9. Desenvolvimento de atividade pr\u00e1tica extensionista (produ\u00e7\u00e3o de conte\u00fado digital sobre empreendedorismo e inova\u00e7\u00e3o)10. Visita (viagem did\u00e1tica complementar) a um ambiente de inova\u00e7\u00e3o e empreendedorismo (ex. incubadora/aceleradora ou parque tecnol\u00f3gico), para compreender o desenvolvimento dos processos de empreendedorismo e inova\u00e7\u00e3o.",
+"metodo": "Aulas expositivas e dialogadas; din\u00e2micas, projetos e trabalhos em grupo; exerc\u00edcios individuais; e, semin\u00e1rios, debates e palestras.",
+"criterio": "M\u00e9dia Aritm\u00e9tica dos Projetos, Trabalhos, Exerc\u00edcios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as quest\u00f5es relativas \u00e0s Compet\u00eancias (Conhecimento, Habilidade e Atitude, que incluem a presen\u00e7a e participa\u00e7\u00e3o dos alunos nas aulas) desenvolvidas",
+"exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o",
+"bibliografia": "BLANK, Steve Gary. Do Sonho a realiza\u00e7\u00e3o em 4 passos: Estrat\u00e9gias para a cria\u00e7\u00e3o de empresas de sucesso. Editora Evora. 3\u00aa edi\u00e7\u00e3o, 2008BLANK, Steve; DORF, Bob. STARTUP: Manual do Empreendedorismo. O guia passo a passo para construir uma grande empresa. Alta Books Editora.  1\u00aa edi\u00e7\u00e3o, 2014.CECCONELO, Antonio; AJZENTAL, Alberto. A constru\u00e7\u00e3o do plano de neg\u00f3cios. Ed. Saraiva, 1\u00aa edi\u00e7\u00e3o, 2008.CHIAVENATO, Idalberto. Empreendedorismo \u2013 dando asas ao esp\u00edrito empreendedor. Ed. Saraiva, 3\u00aa edi\u00e7\u00e3o, 2008.DOLABELA, Fernando. O Segredo de Lu\u00edsa. Rio de Janeiro: Sextante, 2008. DORNELAS, Jose. Empreendedorismo: transformando ideias em neg\u00f3cios. Editora Campus. 1\u00aa edi\u00e7\u00e3o, 2001DORNELAS, Jose. Empreendedorismo na pr\u00e1tica. LTC. 3\u00aa edi\u00e7\u00e3o, 2015DORNELAS, Jose Carlos Assis. Empreendedorismo na pr\u00e1tica \u2013 mitos e verdades do empreendedor de sucesso. Elsevier/Campus: Rio de Janeiro, 2007. FILION, L. J.; Vis\u00e3o e Rela\u00e7\u00f5es: Elementos para um Metamodelo da Atividade Empreendedora. International Small Business Journal, 1991. Tradu\u00e7\u00e3o de Costa, S.R. FILION, L. J.; - O planejamento do seu Sistema de Aprendizagem Empresarial: Identifique uma Vis\u00e3o e Avalie o seu Sistema de Rela\u00e7\u00f5es. Revista de Administra\u00e7\u00e3o de Empresas, FGV, S\u00e3o Paulo, jul/set. 1991, pag. 31(3): 63:71. HASHIMOTO, Marcos. Esp\u00edrito empreendedor nas organiza\u00e7\u00f5es \u2013 aumentando a competitividade atrav\u00e9s do intraempreendedorismo. S\u00e3o Paulo: Saraiva, 2006. HISRICH, Robert; PETERS, Michael.  Empreendedorismo. 5.ed. - Porto Alegre: Bookman, 2004. OSTERWALDER, Alexander. Inova\u00e7\u00e3o Em Modelos de Neg\u00f3cios \u2013 Business Model Generation. Editora Alta Books, 2011PINCHOT, Gifford; PELLMAN, Ron. Intraempreendedorismo na pr\u00e1tica: um guia de inova\u00e7\u00e3o. Campus: 2004RIES, Eric. A startup enxuta. Leya Editora. 1\u00aa edi\u00e7\u00e3o, 2011SANTOS. S.A. e CUNHA, N.C.V (orgs.). Empresas de Base Tecnol\u00f3gica: Conceitos, instrumentos e recursos. Unicorpore, 2005THIEL, Peter. De Zero a UM: O que aprender sobre empreendedorismo com Vale do Sil\u00edcio. Objetiva. 1\u00aa edi\u00e7\u00e3o, 2014TIMMONS; Jeffry; DORNELAS, Jos\u00e9. SPINELLI, Stephen. A cria\u00e7\u00e3o de novos neg\u00f3cios \u2013 empreendedorismo para o s\u00e9culo 21. Editora Campus. 2010.",
+"docentes": [
+"11079086 - Herland\u00ed de Souza Andrade"
+],
+"oferecimento": {
+"20251N1": {
+"C\u00f3digo da Turma": "20251N1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " ter  19:00  21:00 ",
+"prof": "Humberto Felipe da Silva "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "8",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "60",
+"Inscritos": "8",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3106": {
 "sigla": "LOM3106",
@@ -4476,66 +3907,6 @@
 "docentes": [
 "3480026 - Jo\u00e3o Paulo Pascon",
 "1176388 - Luiz Tadeu Fernandes Eleno"
-],
-"oferecimento": {
-"20242M1": {
-"C\u00f3digo da Turma": "20242M1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Pr\u00e1tica",
-"aulas": {
-"h0": {
-"horario": " seg  08:00  10:00 ",
-"prof": "(R) Luiz Tadeu Fernandes Eleno "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "30",
-"Inscritos": "11",
-"Pendentes": "0",
-"Matriculados": "10"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "30",
-"Inscritos": "10",
-"Pendentes": "0",
-"Matriculados": "10"
-}
-}
-}
-}
-},
-"LOM3095": {
-"sigla": "LOM3095",
-"nome": " Tecnologias Limpas para Gera\u00e7\u00e3o de Energia",
-"nomeascii": " Tecnologias Limpas para Geracao de Energia",
-"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3095&codcur=88301&codhab=0",
-"requisitos": {},
-"tipo": "Optativas",
-"semestre": "7",
-"unidade": "Escola de Engenharia de Lorena",
-"departamento": "Engenharia de Materiais",
-"nome_en": "Clean Technologies for Energy Generation",
-"objectives": "This discipline is part of the training of the materials engineer, contributing to generate general and specific skills.Present concepts and examples of clean technologies.Address fundamental concepts about renewable sources for thermal, electrical, vehicular energy generation, among others.Present examples of power generation systems based on renewable sources.To enable students to develop an integrated view of the technical-economic-environmental feasibility of clean technologies and power generation.Encourage group work, with emphasis on the integrated view on the aspects addressed in the discipline.Relate this discipline with others of the course grid, such as: Natural Resources, Thermodynamics of Machines, Introduction to Polymeric Materials, Ceramic Processing I, among others.",
-"abstract": "1. Clean technologies. 2. Renewable sources: solar thermal and photovoltaic, wind, ocean and biomass for power generation; its national and worldwide availability. 3. Treatment of waste for thermal, electrical, vehicular energy generation.4. Social, environmental and economic impacts of renewable energy generation.",
-"program": "1. Concept about clean technologies.2. National and global primary and secondary energy matrices. 3. Fundamental concepts about renewable sources: feasibility for power generation.4. Generation of energy by renewable sources: solar thermal and photovoltaic; Wind; oceanic and biomass.5. Urban, agricultural and industrial waste: National Policy on Solid Waste and waste treatment for energy generation.6. Integration of renewable sources for power generation: hybrid thermal cycles.7. Social, environmental and economic aspects of energy generation from renewable sources.",
-"ndoc": 2,
-"CA": "2",
-"CT": "2",
-"CH": "90 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2024",
-"objetivos": "Esta disciplina faz parte da forma\u00e7\u00e3o do engenheiro de materiais, contribuindo para gerar compet\u00eancias gerais e espec\u00edficas.Apresentar conceitos e exemplos de tecnologias limpas.Abordar conceitos fundamentais sobre fontes renov\u00e1veis para gera\u00e7\u00e3o de energia t\u00e9rmica, el\u00e9trica, veicular, dentre outras.Apresentar exemplos de sistemas de gera\u00e7\u00e3o de energia baseados em fontes renov\u00e1veis.Capacitar os alunos a desenvolverem uma vis\u00e3o integrada da viabilidade t\u00e9cnico-econ\u00f4mica-ambiental das tecnologias limpas e gera\u00e7\u00e3o de energia.Incentivar trabalhos em grupo, com \u00eanfase na vis\u00e3o integrada sobre os aspectos abordados na disciplina.Relacionar esta disciplina com outras da grade do curso, como: Recursos Naturais, Termodin\u00e2mica de M\u00e1quinas, Introdu\u00e7\u00e3o aos Materiais Polim\u00e9ricos, Processamento de Cer\u00e2micas I, dentre outras.",
-"resumo": "1. Tecnologias limpas. 2. Fontes renov\u00e1veis: solar t\u00e9rmica e fotovoltaica, e\u00f3lica, oce\u00e2nica e biomassa para gera\u00e7\u00e3o de energia; sua disponibilidade nacional e mundial. 3. Tratamento de res\u00edduos para gera\u00e7\u00e3o de energias t\u00e9rmica, el\u00e9trica, veicular.4. Impactos sociais, ambientais e econ\u00f4micos da gera\u00e7\u00e3o de energia por fontes renov\u00e1veis.",
-"programa": "1. Conceito sobre tecnologias limpas.2. Matrizes energ\u00e9ticas prim\u00e1rias e secund\u00e1rias nacionais e mundiais. 3. Conceitos fundamentais sobre fontes renov\u00e1veis: viabilidade para gera\u00e7\u00e3o de energias.4. Gera\u00e7\u00e3o de energia por fontes renov\u00e1veis: solar t\u00e9rmica e fotovoltaica; e\u00f3lica; oce\u00e2nica e biomassa.5. Res\u00edduos urbanos, agr\u00edcolas e industriais: Pol\u00edtica Nacional de Res\u00edduos S\u00f3lidos e tratamento de res\u00edduos para gera\u00e7\u00e3o de energia.6. Integra\u00e7\u00e3o de fontes renov\u00e1veis para gera\u00e7\u00e3o de energia: ciclos t\u00e9rmicos h\u00edbridos.7. Aspectos sociais, ambientais e econ\u00f4micos da gera\u00e7\u00e3o de energia por fontes renov\u00e1veis.",
-"metodo": "aulas expositivas complementadas pelo docente e trabalhos em grupo sobre temas abrangentes do programa.",
-"criterio": "Os alunos receber\u00e3o nota pelos trabalhos em grupo, que ter\u00e3o peso 0,6. Ser\u00e1 aplicada uma prova escrita sobre todos os t\u00f3picos abordados, com peso 0,4. A nota final (NF) ser\u00e1 calculada pela equa\u00e7\u00e3o: NF = Trabalhos em grupo x 0,6 + prova escrita x 0,4.",
-"exame": "Para a recupera\u00e7\u00e3o ser\u00e1 realizada uma prova (PR) abrangendo toda a mat\u00e9ria lecionada no semestre e apresentada nos trabalhos, valendo de 0 (zero) a 10 (dez). M\u00e9dia final = (NF + PR)/2.",
-"bibliografia": "DA Rosa, A. V. BOEKER, E., 2015, Processos de Energias Renov\u00e1veis, Rio de Janeiro: Elsevier; ROCHA, J.C.; ROSA, A.H.; CARDOSO, A.A. Introdu\u00e7\u00e3o \u00e0 Qu\u00edmica do Meio Ambiente, Porto Alegre: Bookman, 2004 GON\u00c7ALVES DA SILVA, C. De Sol a Sol, S\u00e3o Paulo: Oficina de Textos, 2010 \u00c7ENGEL, Y.A.; BOLES, M.A. Thermodynamics An Engineering Approach, 6th ed., New York: McGraw Hill, 2008; BORGNAKKE, C; SONNTAG, R.E. Fundamentos da termodin\u00e2mica, S\u00e3o Paulo: Blucher, 2013; Vilhena, A. (coord.) Lixo Municipal: manual de gerenciamento integrado, S\u00e3o Paulo: CEMPRE, 3a. ed., 2010; S\u00edtios eletr\u00f4nicos sobre Reciclagem de Materiais. Cada um desses s\u00edtios tem uma apresenta\u00e7\u00e3o de programas de reciclagem nas suas \u00e1reas de atua\u00e7\u00e3o e oferece ampla oferta de literatura, textos e muitas vezes, v\u00eddeos sobre reciclagem espec\u00edfica de certos materiais. Links \u00fateis tamb\u00e9m s\u00e3o apresentados, levando a sites de empresas que apresentam seus programas de reciclagem; SUN, Y.P. Supercritical fluid technology in materials science and engineering: syntheses, properties, and applications. Marcel Dekker, 2002; MATHIAS, M.C. P.P. A FORMA\u00c7\u00c3O DA IND\u00daSTRIA GLOBAL DE G\u00c1S NATURAL - Defini\u00e7\u00e3o, Condicionantes e Desafios, Interci\u00eancias, 2010; ABREU, F. V. BIOG\u00c1S - Economia, regula\u00e7\u00e3o e sustentabilidade, Interci\u00eancia, 2014; BRAND , M.A. ENERGIA DE BIOMASSA FLORESTAL, Interci\u00eancia, 2010; CORR\u00caA, O.L.S. PETR\u00d3LEO - No\u00e7\u00f5es sobre Explora\u00e7\u00e3o, Perfura\u00e7\u00e3o, Produ\u00e7\u00e3o e Microbiologia, Interci\u00eancia, 2003.",
-"docentes": [
-"5840963 - Daniela Camargo Vernilli",
-"5840521 - Rosa Ana Conte"
 ],
 "oferecimento": null
 },
@@ -4680,6 +4051,65 @@
 ],
 "oferecimento": null
 },
+"LOQ4257": {
+"sigla": "LOQ4257",
+"nome": " Gest\u00e3o de Projetos",
+"nomeascii": " Gestao de Projetos",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4257&codcur=88301&codhab=0",
+"requisitos": {},
+"tipo": "Optativas",
+"semestre": "7",
+"unidade": "Escola de Engenharia de Lorena",
+"departamento": "Engenharia Qu\u00edmica",
+"nome_en": "Project Management",
+"objectives": "Provide an overview of project management in an organization, its stages and interrelationships with other organizational areasand their importance in the competitive world of business",
+"abstract": "General considerations about project management, Project initiation, Planning and Management Plan, Monitoring and EvaluationStructure, Execution and Control.",
+"program": "1. Project Concept 2. Predictive, Adaptive (Incremental and Interactive) and Hybrid Approach 3. Soft and hard Project Management Approaches 4. Project Scope and Vision Management 5. Project Time Management 6. Project Cost Management Project 7. Project Quality Management 8. Project Resource Management 9. Project Communications Management 10. Project Risk Management 11. Project Procurement Management 12. Project Stakeholder Management 13. Project Management Maturity Projects 14. Project Portfolio Management 15. Project Management Skills 16. Agile and Lean Project Management. 17. Development of a project proposal to create a new product/process/enterprise.18. Visit (complementary educational trip) to a company to learn about and understand aspects related to Project Management.",
+"ndoc": 1,
+"CA": "2",
+"CT": "2",
+"CH": "90 h",
+"periodicidade": "Semestral",
+"ativacao": "01/01/2024",
+"objetivos": "Fornecer uma vis\u00e3o geral sobre gest\u00e3o de projetos em uma organiza\u00e7\u00e3o, suas etapas e inter-rela\u00e7\u00e3o com as demais \u00e1reasorganizacionais e sua import\u00e2ncia no mundo competitivo dos neg\u00f3cios.",
+"resumo": "Considera\u00e7\u00f5es gerais sobre gerenciamento de projetos, Inicia\u00e7\u00e3o de projetos, Planejamento e Plano de Gerenciamento,Estrutura de Monitoramento e Avalia\u00e7\u00e3o, Execu\u00e7\u00e3o e Controle.",
+"programa": "1.Conceito de Projeto 2. Abordagem Preditiva, Adaptativa (Incremental e Interativo) e H\u00edbrida 3. Abordagens Soft e hard de Gest\u00e3o de Projetos 4. Gest\u00e3o do Escopo e Vis\u00e3o do Projeto 5. Gest\u00e3o do Tempo do Projeto 6. Gest\u00e3o do Custo do Projeto 7. Gest\u00e3o da Qualidade do Projeto 8. Gest\u00e3o da Recursos do Projeto 9. Gest\u00e3o das Comunica\u00e7\u00f5es do Projeto 10. Gest\u00e3o dos Riscos do Projeto 11. Gest\u00e3o das Aquisi\u00e7\u00f5es do Projeto 12. Gest\u00e3o das Partes Interessadas do Projeto 13. Maturidade em Gerenciamento de Projetos 14. Gest\u00e3o de Portf\u00f3lio de Projeto 15. Compet\u00eancias em Gest\u00e3o de Projetos 16. Gest\u00e3o \u00c1gil e Lean de Projetos.17. Desenvolvimento de uma proposta de projeto para cria\u00e7\u00e3o de um novo produto/processo/empreendimento.18. Visita (viagem did\u00e1tica complementar) a uma empresa para conhecer e entender os aspectos relacionados \u00e0 Gest\u00e3o de Projetos.",
+"metodo": "Aulas expositivas e dialogadas; din\u00e2micas, projetos e trabalhos em grupo; exerc\u00edcios individuais; e, semin\u00e1rios, debates e palestras.",
+"criterio": "M\u00e9dia Aritm\u00e9tica dos Projetos, Trabalhos, Exerc\u00edcios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as quest\u00f5es relativas \u00e0s Compet\u00eancias (Conhecimento, Habilidade e Atitude, que incluem a presen\u00e7a e participa\u00e7\u00e3o dos alunos nas aulas) desenvolvidas",
+"exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o",
+"bibliografia": "1. PMBOK. Um Guia Do Conhecimento em Gerenciamento de projetos. 5 ed. Project Management Institute. 20122. CLAUSING, D. Total quality development a step by step guide to world class concurrent engineering. New York: ASME Press,1994.3. MEREDITH, J R; MANTEL, S J; WILEY, J. Project Management: a managerial approach. 1995.4. MAXIMIANO, A . C. Administra\u00e7\u00e3o de projetos, Atlas: S\u00e3o Paulo, 1997.5. SHTUB, A BARD J. F. e GLOBERSON S. Project management, Prentice hall, 1994.",
+"docentes": [
+"5840917 - Fabricio Maciel Gomes"
+],
+"oferecimento": {
+"20251P1": {
+"C\u00f3digo da Turma": "20251P1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  19:00  21:00 ",
+"prof": "C\u00e9lia Regina Tomachuk dos Santos Catuogno "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "50",
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "50",
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
+},
 "LOM3066": {
 "sigla": "LOM3066",
 "nome": " Materiais Comp\u00f3sitos",
@@ -4694,7 +4124,7 @@
 "objectives": "",
 "abstract": "",
 "program": "",
-"ndoc": 3,
+"ndoc": 4,
 "CA": "4",
 "CT": "0",
 "CH": "60 h",
@@ -4709,42 +4139,11 @@
 "bibliografia": "1. REZENDE, M. C.; COSTA, M. L.; BOTELHO, E. C. Comp\u00f3sitos estruturais: tecnologia e pr\u00e1tica. S\u00e3o Paulo: Artliber, 2011. 396p. 2 MALLICK, P.K. Composites Engineering Handbook. New York: Marcel Dekker, 1997. 3. MATTHEWS, F.L. & RAWLINGS, R.D. Composite Materials: Engineering and Science. London: Chapman & Hall, 1994. 4. OBRAZTSOV, I.F. Mechanics of Composites. Moscow: MIR Publishers, 1982. 5. JONES R. Mechanics of Composite Materials. New York: McGraw-Hill, 1975. 6. UPADHYAYA, G.S. Sintered Metal-Ceramic Composites. Elsevier, 1984. 7. HARPER, C. A. Handbook of Plastics, Elastomers and Composites. New York: McGraw-Hill, 1992. 8. GOLDSTEIN, A.N. Handbook of Nanophase Materials. CRC Press, 1997. 9. DRESSELHAUS, M.S. Graphite Fibers and Filaments. New York: Springer-Verlag, 1988.",
 "docentes": [
 "519033 - Carlos Yujiro Shigue",
+"3586455 - Cassius Olivio Figueiredo Terra Ruchert",
 "1033242 - F\u00e1bio Herbst Florenzano",
 "1922320 - Sebastiao Ribeiro"
 ],
-"oferecimento": {
-"20242M1": {
-"C\u00f3digo da Turma": "20242M1",
-"In\u00edcio": "05/08/2024",
-"Fim": "12/12/2024",
-"Tipo da Turma": "Te\u00f3rica",
-"Observa\u00e7\u00f5es": "",
-"aulas": {
-"h0": {
-"horario": " ter  16:00  18:00 ",
-"prof": "Cassius Olivio Figueiredo Terra Ruchert "
-},
-"h1": {
-"horario": " qui  16:00  18:00 ",
-"prof": "Cassius Olivio Figueiredo Terra Ruchert "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "5",
-"Pendentes": "0",
-"Matriculados": "5"
-},
-"EEL - Engenharia  de Materiais": {
-"Vagas": "45",
-"Inscritos": "5",
-"Pendentes": "0",
-"Matriculados": "5"
-}
-}
-}
-}
+"oferecimento": null
 },
 "LOM3249": {
 "sigla": "LOM3249",
@@ -4777,6 +4176,110 @@
 "5840730 - Antonio Jefferson da Silva Machado"
 ],
 "oferecimento": null
+},
+"LOM3266": {
+"sigla": "LOM3266",
+"nome": " Fot\u00f4nica Integrada",
+"nomeascii": " Fotonica Integrada",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOM3266&codcur=88301&codhab=0",
+"requisitos": {
+"LOB1053": {
+"sigla": "LOB1053",
+"nome": " F\u00edsica III ",
+"tipo": "Requisito fraco"
+}
+},
+"tipo": "Optativas",
+"semestre": "8",
+"unidade": "Escola de Engenharia de Lorena",
+"departamento": "Engenharia de Materiais",
+"nome_en": "Integrated Photonics",
+"objectives": "As an important requirement for the specific and the general engineering studies, the course aims to (a) provide the fundamental concepts concerning the photonics integrated devices, which are important for the learning process in physics engineering; (b) enable the student, to work as individually as in groups, to model and solve problems of interest regarding the most important passive photonic integrated devices, including the adequate choice of hypotheses and the application of suitable solution tools; (c) to introduce the components, techniques, software, and equipment employed in the analysis, design, and fabrication of photonic integrated circuits; and (d) apply and extend the previously learned physical concepts.",
+"abstract": "Introduction to integrated photonics. Light propagation in homogeneous media. Planar and rectangular dielectric waveguides. Numerical methods. Modal analysis. Dispersion parameters. Fabrication and characterization of integrated waveguides. Analysis and design of passive optical elements.",
+"program": "1. Introduction to integrated photonics; Light propagation in homogeneous media; Boundary conditions at dielectric interfaces. Fresnel coefficients. Snell's Law; Total internal reflection.2. Planar dielectric waveguide (slab waveguide). Optical modes. Analytical solution for TE and TM polarizations. Effective index. Dispersion relations. Rectangular dielectric waveguide.3. Numerical methods applied to the analysis and design of integrated photonic devices.4. Modal analysis; Dispersion parameters; Transmission and reflection spectra.5. Methods for fabrication and characterization of integrated photonic waveguides.6. Design of curves, beam splitters, couplers and optical filters.",
+"ndoc": 2,
+"CA": "4",
+"CT": "0",
+"CH": "60 h",
+"periodicidade": "Semestral",
+"ativacao": "01/01/2023",
+"objetivos": "Como parte fundamental da forma\u00e7\u00e3o espec\u00edfica e geral, a disciplina tem por objetivos (a) fornecer os conceitos fundamentais sobre dispositivos fot\u00f4nicos integrados, que s\u00e3o importantes para a forma\u00e7\u00e3o em engenharia f\u00edsica; (b) capacitar o aluno, trabalhando individualmente e em grupo, a modelar e resolver problemas de interesse envolvendo dispositivos fot\u00f4nicos integrados, com escolhas adequadas de hip\u00f3teses e aplica\u00e7\u00e3o de ferramentas correspondentes de solu\u00e7\u00e3o; (c) introduzir os componentes, t\u00e9cnicas, softwares e equipamentos utilizados na an\u00e1lise, projeto, e fabrica\u00e7\u00e3o de dispositivos fot\u00f4nicos integrados; e (d) aplicar e estender os conceitos f\u00edsicos aprendidos previamente.",
+"resumo": "Introdu\u00e7\u00e3o \u00e0 fot\u00f4nica integrada. Propaga\u00e7\u00e3o da luz em meios homog\u00eaneos. Guias de onda planares e retangulares. M\u00e9todos num\u00e9ricos. An\u00e1lise modal. Par\u00e2metros de dispers\u00e3o. Fabrica\u00e7\u00e3o e caracteriza\u00e7\u00e3o de guias de onda integrados. An\u00e1lise e dimensionamento de elementos \u00f3pticos passivos",
+"programa": "1. Introdu\u00e7\u00e3o \u00e0 fot\u00f4nica integrada; Propaga\u00e7\u00e3o da luz em meios homog\u00eaneos; Condi\u00e7\u00f5es de contorno em interfaces diel\u00e9tricas. Coeficientes de Fresnel. Lei de Snell; Reflex\u00e3o interna total.    2. Guia de onda diel\u00e9trico planar (slab waveguide). Modos \u00f3pticos. Solu\u00e7\u00e3o anal\u00edtica para as polariza\u00e7\u00f5es TE e TM. \u00cdndice efetivo. Rela\u00e7\u00e3o de dispers\u00e3o. Guia de onda diel\u00e9trico retangular.    3. M\u00e9todos num\u00e9ricos aplicados \u00e0 an\u00e1lise e projeto de dispositivos fot\u00f4nicos integrados.    4. An\u00e1lise modal; Par\u00e2metros de dispers\u00e3o; Espectros de transmiss\u00e3o e reflex\u00e3o.    5. M\u00e9todos de fabrica\u00e7\u00e3o e caracteriza\u00e7\u00e3o de guias de onda integrados.    6. Projeto de curvas, divisores de feixe, acopladores e filtros \u00f3pticos.",
+"metodo": "Aulas expositivas e pr\u00e1ticas de laborat\u00f3rio com intera\u00e7\u00f5es em grupo para a solu\u00e7\u00e3o de problemas.",
+"criterio": "M\u00e9dia aritm\u00e9tica (M) de provas individuais (P1 e P2) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,3*P1+0,3*P2+0.4*T",
+"exame": "M\u00e9dia aritm\u00e9tica (M) de uma prova individual (P1) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,5*P1+0.5*T",
+"bibliografia": "[1] Graham T. Reed e Andrew P. Knights, \u201cSilicon Photonics: An Introduction\u201d, John Wiley & Sons, West Sussex, 2004.[2] Katsunari Okamoto, \u201cFundamentals of Optical Waveguides (Second Edition)\u201d, Academic Press, San Diego, 2006.[3] Lukas Chrostowski e Michael Hochberg, \u201cSilicon Photonics Design\u201d, Cambridge University Press, Cambridge, 2015.[4] Bahaa E. A. Saleh e Malvin C. Teich, \u201cFundamentals of Photonics\u201d, John Wiley & Sons, New York, 1991.[5] Kleber D. Machado, Eletromagnetismo Vol. 3, Todapalavra, 2014.[6] David J. Griffiths, Eletrodin\u00e2mica, Pearson, 2011.",
+"docentes": [
+"519033 - Carlos Yujiro Shigue",
+"7290967 - Emerson Gon\u00e7alves de Melo"
+],
+"oferecimento": null
+},
+"LOQ4209": {
+"sigla": "LOQ4209",
+"nome": " Engenharia da Qualidade",
+"nomeascii": " Engenharia da Qualidade",
+"link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4209&codcur=88301&codhab=0",
+"requisitos": {
+"LOB1012": {
+"sigla": "LOB1012",
+"nome": " Estat\u00edstica ",
+"tipo": "Requisito fraco"
+}
+},
+"tipo": "Optativas",
+"semestre": "8",
+"unidade": "Escola de Engenharia de Lorena",
+"departamento": "Engenharia Qu\u00edmica",
+"nome_en": "Quality Engineering",
+"objectives": "Bring students to develop a critical sense in Quality International Certification, Total Quality, Sistemic Management in the World Class context.",
+"abstract": "1-Philosophy, basic concepts. 2 \u2013 Total Quality Management Tools. 3 \u2013 Quality Management Systems",
+"program": "1-PHILOSOPHY, BASIC CONCEPTSDefinition of Quality. Competitiveness. Quality History. Internal and External Benefits of Quality2 \u2013 TOTAL QUALITY MANAGEMENT TOOLSRoutine management: MASP Solving Problem Method, Brainstorming, Flowcharts, PDCA and SDCA, Basic Management Units, 5S Program, Operating Procedures and Work Instructions, Internal Audits, Education Program, Visual Management, Customer Monitoring, Kaizen Groups.3 \u2013 QUALITY MANAGEMENT SYSTEMSCertification Systems: ISO (9001, 14001, 17025 and 65), SA 8000, OHSAS 18000Implementation methodology, documentation, requirements, participation of staff, middle management and operational instances.Pre-audit, certification audit, maintenance audits.",
+"ndoc": 1,
+"CA": "2",
+"CT": "0",
+"CH": "30 h",
+"periodicidade": "Semestral",
+"ativacao": "01/01/2022",
+"objetivos": "Desenvolver no aluno senso cr\u00edtico em Gest\u00e3o Sist\u00eamica, Qualidade Total, Certifica\u00e7\u00e3o Internacional da Qualidade, no contexto Classe Mundial.",
+"resumo": "1 - Filosofia, conceitos b\u00e1sicos. 2 - Ferramentas da gest\u00e3o pela qualidade total. 3 - Sistemas de garantia da qualidade.",
+"programa": "1 - FILOSOFIA, CONCEITOS B\u00c1SICOS.Defini\u00e7\u00e3o de Qualidade. Competitividade. Hist\u00f3rico da Qualidade.  Benef\u00edcios Internos e Externos da Qualidade. A Gest\u00e3o pela Qualidade Total (TQC, CWQC, Toyota, TQM, BSC, 6 Sigma e Lean 6 Sigma)2 - FERRAMENTAS DA GEST\u00c3O PELA QUALIDADE TOTAL.Gest\u00e3o da rotina: MASP, Brainstorming, Fluxogramas, PDCA e SDCA, Unidades Gerenciais B\u00e1sicas, Programa 5S, Procedimentos Operacionais e Instru\u00e7\u00f5es de Trabalho, Auditorias Internas, Programa de Educa\u00e7\u00e3o, Reuni\u00f5es Rel\u00e2mpago, Administra\u00e7\u00e3o Vis\u00edvel, Monitora\u00e7\u00e3o de Clientes, Grupos Kaizen.3 -SISTEMAS DE GARANTIA DA QUALIDADE: Sistemas de Certifica\u00e7\u00e3o: ISO (9001, 14001, 17025 e 65), SA 8000, OHSAS 18000Metodologia de implanta\u00e7\u00e3o, documenta\u00e7\u00e3o, requisitos, participa\u00e7\u00e3o da alta administra\u00e7\u00e3o, ger\u00eancia m\u00e9dia e inst\u00e2ncias operacionais.Pr\u00e9-auditoria, auditoria de certifica\u00e7\u00e3o, auditorias de manuten\u00e7\u00e3o.",
+"metodo": "Provas, relat\u00f3rios e apresenta\u00e7\u00e3o de semin\u00e1rios.",
+"criterio": "MF = (0,7*P&R + 0,3*S), onde P&R= Prova e relat\u00f3rios e S= Semin\u00e1rio.",
+"exame": "\u00c9 feita sob a forma de uma prova, com toda a mat\u00e9ria dada, com duas horas de dura\u00e7\u00e3o, aplicada no per\u00edodo determinado pela USP. A m\u00e9dia final ser\u00e1 a m\u00e9dia aritm\u00e9tica entre a nota desta prova e a m\u00e9dia obtida no semestre.",
+"bibliografia": "ASSOCIA\u00c7\u00c3O BRASILEIRA DE NORMAS T\u00c9CNICAS. Gest\u00e3o da qualidade e garantia da qualidade - terminologia - NBR ISO 8402. Rio de Janeiro: ABNT, 1994a. 15 p.\nBRUE G., Six Sigma for Managers, McGrawHill, New York, 2005.\nEUTACHEM. 1995. Quantifying Uncertainty in Analytical Measurement. Londres. 92 p.\nKUME, H. (Tradu\u00e7\u00e3o Miyake, D.I.). 1993. M\u00e9todos Estat\u00edsticos para Melhoria da Qualidade. S\u00e3o Paulo. Editora Gente, 245 p.\nHARRY, M. , LINSENMANND.R., The Six Sigma Fieldbook, Doubleday, New York, 2006\nISHIKAWA, K. Guide to quality control. Tokyo: Kraus Asian Productivity Organization, 1982. 221p.\nJURAN, J.M.; GRYNA, F.M. Juran controle da qualidade: m\u00e9todos especiais de apoio \u00e0 qualidade. S\u00e3o Paulo: Makron Books, 1993. 193p. \nLIKER, K. & MEIER D. O Modelo Toyota, Manual de Aplica\u00e7\u00e3o. Porto Alegre: Bookman, 2007. 432p.\nMARANH\u00c3O, M. ISO S\u00e9rie 9000-Guia de Implementa\u00e7\u00e3o, Qualitymark, Rio de Janeiro, 2001, 220p\nMONTGOMERY, D.C. 1991. Introduction to Statistical Quality Control. New York. John Wiley & Sons Inc., 674 p.\nOAKLAND, J.S. (Tradu\u00e7\u00e3o PEREIRA, A.G.). 1994. Gerenciamento da Qualidade Total. S\u00e3o Paulo. Nobel, 501 p.\nTURBAN, E. & RAINER, R. K. & PORTTER, R. E. Introdu\u00e7\u00e3o a Sistemas de Informa\u00e7\u00e3o uma Abordagem Gerencial. S\u00e3o Paulo: Editora Campus. 2007, 457p.\nVIEIRA, S. Estat\u00edstica para qualidade. Rio de Janeiro: Campus, 1997. 472p.",
+"docentes": [
+"5840535 - Messias Borges Silva"
+],
+"oferecimento": {
+"20251D1": {
+"C\u00f3digo da Turma": "20251D1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  16:00  18:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "60",
+"Inscritos": "11",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "11",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOM3220": {
 "sigla": "LOM3220",
