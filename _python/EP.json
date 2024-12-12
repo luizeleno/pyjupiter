@@ -38,11 +38,11 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 }
 },
 "vagas": {
@@ -95,7 +95,7 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Eduardo Ferro dos Santos "
 }
 },
 "vagas": {
@@ -148,11 +148,11 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "Fl\u00e1vio Jos\u00e9 da Silva "
 },
 "h1": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "Fl\u00e1vio Jos\u00e9 da Silva "
 }
 },
 "vagas": {
@@ -480,23 +480,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "Ant\u00f4nio S\u00e9rgio Cobianchi "
 },
 "h1": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "Ant\u00f4nio S\u00e9rgio Cobianchi "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "3",
+"Inscritos": "6",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
-"Inscritos": "3",
+"Vagas": "52",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -543,22 +579,58 @@
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 },
 "h1": {
 "horario": " qui  16:00  18:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
+"Vagas": "52",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
@@ -612,22 +684,58 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "0",
+"Inscritos": "3",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
+"Vagas": "52",
+"Inscritos": "3",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
@@ -675,7 +783,7 @@
 "aulas": {
 "h0": {
 "horario": " sex  14:00  16:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 }
 },
 "vagas": {
@@ -742,13 +850,43 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "7",
+"Inscritos": "24",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "7",
+"Vagas": "38",
+"Inscritos": "24",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -871,23 +1009,23 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Mariana Pereira de Melo "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Mariana Pereira de Melo "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "13",
+"Inscritos": "50",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "60",
-"Inscritos": "13",
+"Inscritos": "50",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -901,14 +1039,14 @@
 "nomeascii": " Fisica II",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1019&codcur=88352&codhab=4",
 "requisitos": {
-"LOB1003": {
-"sigla": "LOB1003",
-"nome": " C\u00e1lculo I ",
-"tipo": "Requisito fraco"
-},
 "LOB1018": {
 "sigla": "LOB1018",
 "nome": " F\u00edsica I ",
+"tipo": "Requisito fraco"
+},
+"LOB1003": {
+"sigla": "LOB1003",
+"nome": " C\u00e1lculo I ",
 "tipo": "Requisito fraco"
 }
 },
@@ -945,23 +1083,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
-"prof": " "
+"prof": "Bertha Mar\u00eda Cuadros Melgar "
 },
 "h1": {
 "horario": " qui  16:00  18:00 ",
-"prof": " "
+"prof": "Bertha Mar\u00eda Cuadros Melgar "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "8",
+"Inscritos": "17",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "60",
-"Inscritos": "8",
+"Vagas": "52",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -975,14 +1149,14 @@
 "nomeascii": " Fisica Experimental II",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1041&codcur=88352&codhab=4",
 "requisitos": {
-"LOB1038": {
-"sigla": "LOB1038",
-"nome": " F\u00edsica Experimental I ",
-"tipo": "Requisito fraco"
-},
 "LOB1018": {
 "sigla": "LOB1018",
 "nome": " F\u00edsica I ",
+"tipo": "Requisito fraco"
+},
+"LOB1038": {
+"sigla": "LOB1038",
+"nome": " F\u00edsica Experimental I ",
 "tipo": "Requisito fraco"
 }
 },
@@ -1019,19 +1193,19 @@
 "aulas": {
 "h0": {
 "horario": " seg  21:00  23:00 ",
-"prof": " "
+"prof": "Jo\u00e3o Bosco Nunes Romeiro "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "15",
+"Inscritos": "31",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "15",
+"Inscritos": "31",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1084,23 +1258,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 },
 "h1": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "3",
+"Inscritos": "14",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "60",
-"Inscritos": "3",
+"Vagas": "52",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1160,13 +1370,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "9",
+"Inscritos": "27",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "45",
-"Inscritos": "9",
+"Inscritos": "27",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1219,13 +1429,19 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "12",
+"Inscritos": "28",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "50",
-"Inscritos": "12",
+"Vagas": "49",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1239,14 +1455,14 @@
 "nomeascii": " Calculo IV",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1006&codcur=88352&codhab=4",
 "requisitos": {
-"LOB1037": {
-"sigla": "LOB1037",
-"nome": " \u00c1lgebra Linear ",
-"tipo": "Requisito fraco"
-},
 "LOB1004": {
 "sigla": "LOB1004",
 "nome": " C\u00e1lculo II ",
+"tipo": "Requisito fraco"
+},
+"LOB1037": {
+"sigla": "LOB1037",
+"nome": " \u00c1lgebra Linear ",
 "tipo": "Requisito fraco"
 }
 },
@@ -1283,23 +1499,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Adriano Francisco Siqueira "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Adriano Francisco Siqueira "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "10",
+"Inscritos": "28",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
-"Inscritos": "10",
+"Vagas": "52",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1352,19 +1604,19 @@
 "aulas": {
 "h0": {
 "horario": " qui  16:00  18:00 ",
-"prof": " "
+"prof": "(R) Carlos Renato Menegatti "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "6",
+"Inscritos": "11",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
-"Inscritos": "6",
+"Inscritos": "11",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1460,23 +1712,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  14:00  16:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 },
 "h1": {
 "horario": " qui  14:00  16:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "2",
+"Inscritos": "5",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
-"Inscritos": "2",
+"Vagas": "52",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1535,13 +1823,31 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "11",
+"Inscritos": "34",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "60",
-"Inscritos": "11",
+"Vagas": "57",
+"Inscritos": "34",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1659,29 +1965,29 @@
 "aulas": {
 "h0": {
 "horario": " ter  14:00  16:00 ",
-"prof": " "
+"prof": "Fabiano Fernandes Bargos "
 },
 "h1": {
 "horario": " qui  14:00  16:00 ",
-"prof": " "
+"prof": "Fabiano Fernandes Bargos "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "24",
+"Inscritos": "47",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "30",
-"Inscritos": "16",
+"Inscritos": "30",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "30",
-"Inscritos": "8",
+"Inscritos": "17",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1728,19 +2034,37 @@
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
-"prof": " "
+"prof": "Teresa Cristina Brazil de Paiva "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "10",
+"Inscritos": "31",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "60",
-"Inscritos": "10",
+"Vagas": "56",
+"Inscritos": "31",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1798,19 +2122,19 @@
 "aulas": {
 "h0": {
 "horario": " qua  08:00  12:00 ",
-"prof": " "
+"prof": "Henrique Ot\u00e1vio Queiroz de Aquino "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "2",
+"Inscritos": "11",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "40",
-"Inscritos": "2",
+"Inscritos": "11",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1947,13 +2271,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "24",
+"Inscritos": "43",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "45",
-"Inscritos": "24",
+"Inscritos": "43",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2006,13 +2330,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "30",
-"Inscritos": "10",
+"Inscritos": "33",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "30",
-"Inscritos": "10",
+"Inscritos": "33",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2065,25 +2389,49 @@
 "aulas": {
 "h0": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Fernando Catalani "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "5",
+"Inscritos": "12",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
-"Inscritos": "4",
+"Vagas": "35",
+"Inscritos": "6",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "20",
-"Inscritos": "1",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2136,19 +2484,19 @@
 "aulas": {
 "h0": {
 "horario": " seg  16:00  18:00 ",
-"prof": " "
+"prof": "Carlos Renato Menegatti "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "4",
+"Inscritos": "17",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "40",
-"Inscritos": "4",
+"Inscritos": "17",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2210,13 +2558,49 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "6",
+"Inscritos": "10",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "6",
+"Vagas": "37",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2307,13 +2691,31 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "8",
+"Inscritos": "27",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "60",
-"Inscritos": "8",
+"Vagas": "57",
+"Inscritos": "27",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2480,13 +2882,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "17",
+"Inscritos": "38",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "17",
+"Inscritos": "38",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2539,13 +2941,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "18",
+"Inscritos": "43",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "50",
-"Inscritos": "18",
+"Inscritos": "43",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2604,13 +3006,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "14",
+"Inscritos": "24",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "14",
+"Inscritos": "24",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2663,13 +3065,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "18",
+"Inscritos": "30",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "18",
+"Inscritos": "30",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2728,13 +3130,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "15",
+"Inscritos": "36",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "60",
-"Inscritos": "15",
+"Inscritos": "36",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2793,13 +3195,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "17",
+"Inscritos": "27",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "45",
-"Inscritos": "17",
+"Inscritos": "27",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2863,13 +3265,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "13",
+"Inscritos": "22",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "13",
+"Inscritos": "22",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2922,13 +3324,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "15",
+"Inscritos": "32",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "60",
-"Inscritos": "15",
+"Inscritos": "32",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3197,13 +3599,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "13",
+"Inscritos": "19",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "13",
+"Inscritos": "19",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3262,13 +3664,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "6",
+"Inscritos": "10",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "6",
+"Inscritos": "10",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3282,69 +3684,24 @@
 "nomeascii": " Trabalho de Graduacao em Engenharia de Producao I",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4228&codcur=88352&codhab=4",
 "requisitos": {
-"LOB1055": {
-"sigla": "LOB1055",
-"nome": " Fundamentos de Engenharia de Seguran\u00e7a no Trabalho ",
+"LOQ4204": {
+"sigla": "LOQ4204",
+"nome": " Economia Geral ",
 "tipo": "Requisito"
 },
-"LOM3081": {
-"sigla": "LOM3081",
-"nome": " Introdu\u00e7\u00e3o \u00e0 Mec\u00e2nica dos S\u00f3lidos ",
+"LOQ4240": {
+"sigla": "LOQ4240",
+"nome": " Administra\u00e7\u00e3o e Organiza\u00e7\u00e3o II ",
 "tipo": "Requisito"
 },
-"LOQ4076": {
-"sigla": "LOQ4076",
-"nome": " Termodin\u00e2mica Aplicada ",
+"LOB1019": {
+"sigla": "LOB1019",
+"nome": " F\u00edsica II ",
 "tipo": "Requisito"
 },
-"LOQ4095": {
-"sigla": "LOQ4095",
-"nome": " Qu\u00edmica Geral Experimental ",
-"tipo": "Requisito"
-},
-"LOQ4245": {
-"sigla": "LOQ4245",
-"nome": " Ergonomia ",
-"tipo": "Requisito"
-},
-"LOQ4251": {
-"sigla": "LOQ4251",
-"nome": " Fundamentos de Qu\u00edmica ",
-"tipo": "Requisito"
-},
-"LOQ4252": {
-"sigla": "LOQ4252",
-"nome": " Fundamentos de Fen\u00f4menos de Transporte ",
-"tipo": "Requisito"
-},
-"LOQ4260": {
-"sigla": "LOQ4260",
-"nome": " Controle Estat\u00edstico da Qualidade ",
-"tipo": "Requisito"
-},
-"LOQ4262": {
-"sigla": "LOQ4262",
-"nome": " Automa\u00e7\u00e3o e Controle ",
-"tipo": "Requisito"
-},
-"LOQ4263": {
-"sigla": "LOQ4263",
-"nome": " Planejamento e Gest\u00e3o da Manuten\u00e7\u00e3o ",
-"tipo": "Requisito"
-},
-"LOQ4270": {
-"sigla": "LOQ4270",
-"nome": " Planejamento, Programa\u00e7\u00e3o e Controle da Produ\u00e7\u00e3o II ",
-"tipo": "Requisito"
-},
-"LOQ4271": {
-"sigla": "LOQ4271",
-"nome": " Planejamento de Experimentos ",
-"tipo": "Requisito"
-},
-"LOQ4272": {
-"sigla": "LOQ4272",
-"nome": " Projeto da Fabrica ",
+"LOQ4203": {
+"sigla": "LOQ4203",
+"nome": " Sistemas Produtivos ",
 "tipo": "Requisito"
 },
 "LOB1006": {
@@ -3352,29 +3709,19 @@
 "nome": " C\u00e1lculo IV ",
 "tipo": "Requisito"
 },
-"LOB1040": {
-"sigla": "LOB1040",
-"nome": " Laborat\u00f3rio de Eletricidade ",
+"LOQ4209": {
+"sigla": "LOQ4209",
+"nome": " Engenharia da Qualidade ",
 "tipo": "Requisito"
 },
-"LOB1046": {
-"sigla": "LOB1046",
-"nome": " Engenharia do Meio Ambiente ",
+"LOQ4095": {
+"sigla": "LOQ4095",
+"nome": " Qu\u00edmica Geral Experimental ",
 "tipo": "Requisito"
 },
-"LOB1053": {
-"sigla": "LOB1053",
-"nome": " F\u00edsica III ",
-"tipo": "Requisito"
-},
-"LOB1056": {
-"sigla": "LOB1056",
-"nome": " Introdu\u00e7\u00e3o aos M\u00e9todos Num\u00e9ricos e Computacionais ",
-"tipo": "Requisito"
-},
-"LOQ4213": {
-"sigla": "LOQ4213",
-"nome": " Contabilidade e Custos ",
+"LOQ4201": {
+"sigla": "LOQ4201",
+"nome": " Introdu\u00e7\u00e3o \u00e0 Engenharia de Produ\u00e7\u00e3o ",
 "tipo": "Requisito"
 },
 "LOQ4236": {
@@ -3382,24 +3729,24 @@
 "nome": " Projeto Integrado de Engenharia de Produ\u00e7\u00e3o I ",
 "tipo": "Requisito"
 },
-"LOQ4237": {
-"sigla": "LOQ4237",
-"nome": " Projeto Integrado de Engenharia de Produ\u00e7\u00e3o II ",
+"LOQ4239": {
+"sigla": "LOQ4239",
+"nome": " Administra\u00e7\u00e3o e Organiza\u00e7\u00e3o I ",
 "tipo": "Requisito"
 },
-"LOQ4238": {
-"sigla": "LOQ4238",
-"nome": " Projeto Integrado em Engenharia de Produ\u00e7\u00e3o III ",
+"LOQ4251": {
+"sigla": "LOQ4251",
+"nome": " Fundamentos de Qu\u00edmica ",
 "tipo": "Requisito"
 },
-"LOQ4241": {
-"sigla": "LOQ4241",
-"nome": " Sistemas de Apoio \u00e0 Decis\u00e3o ",
+"LOB1004": {
+"sigla": "LOB1004",
+"nome": " C\u00e1lculo II ",
 "tipo": "Requisito"
 },
-"LOQ4255": {
-"sigla": "LOQ4255",
-"nome": " Inova\u00e7\u00e3o Tecnol\u00f3gica ",
+"LOB1018": {
+"sigla": "LOB1018",
+"nome": " F\u00edsica I ",
 "tipo": "Requisito"
 },
 "LOQ4257": {
@@ -3407,19 +3754,24 @@
 "nome": " Gest\u00e3o de Projetos ",
 "tipo": "Requisito"
 },
-"LOQ4258": {
-"sigla": "LOQ4258",
-"nome": " Pesquisa Operacional II ",
+"LOB1039": {
+"sigla": "LOB1039",
+"nome": " F\u00edsica Experimental III ",
 "tipo": "Requisito"
 },
-"LOQ4259": {
-"sigla": "LOQ4259",
-"nome": " Processos de Desenvolvimento de Servi\u00e7os ",
+"LOQ4264": {
+"sigla": "LOQ4264",
+"nome": " Engenharia da Sustentabilidade ",
 "tipo": "Requisito"
 },
-"LOQ4261": {
-"sigla": "LOQ4261",
-"nome": " Planejamento, Programa\u00e7\u00e3o e Controle da Produ\u00e7\u00e3o I ",
+"LOQ4262": {
+"sigla": "LOQ4262",
+"nome": " Automa\u00e7\u00e3o e Controle ",
+"tipo": "Requisito"
+},
+"LOQ4271": {
+"sigla": "LOQ4271",
+"nome": " Planejamento de Experimentos ",
 "tipo": "Requisito"
 },
 "LOB1003": {
@@ -3427,19 +3779,9 @@
 "nome": " C\u00e1lculo I ",
 "tipo": "Requisito"
 },
-"LOB1011": {
-"sigla": "LOB1011",
-"nome": " Eletricidade Aplicada ",
-"tipo": "Requisito"
-},
-"LOB1012": {
-"sigla": "LOB1012",
-"nome": " Estat\u00edstica ",
-"tipo": "Requisito"
-},
-"LOB1024": {
-"sigla": "LOB1024",
-"nome": " Mec\u00e2nica ",
+"LOB1009": {
+"sigla": "LOB1009",
+"nome": " Leitura e Interpreta\u00e7\u00e3o de Desenho T\u00e9cnico ",
 "tipo": "Requisito"
 },
 "LOB1036": {
@@ -3452,9 +3794,14 @@
 "nome": " F\u00edsica Experimental I ",
 "tipo": "Requisito"
 },
-"LOB1039": {
-"sigla": "LOB1039",
-"nome": " F\u00edsica Experimental III ",
+"LOM3016": {
+"sigla": "LOM3016",
+"nome": " Introdu\u00e7\u00e3o \u00e0  Ci\u00eancia dos Materiais ",
+"tipo": "Requisito"
+},
+"LOB1012": {
+"sigla": "LOB1012",
+"nome": " Estat\u00edstica ",
 "tipo": "Requisito"
 },
 "LOB1041": {
@@ -3467,69 +3814,34 @@
 "nome": " C\u00e1lculo III ",
 "tipo": "Requisito"
 },
-"LOM3016": {
-"sigla": "LOM3016",
-"nome": " Introdu\u00e7\u00e3o \u00e0  Ci\u00eancia dos Materiais ",
-"tipo": "Requisito"
-},
-"LOQ4201": {
-"sigla": "LOQ4201",
-"nome": " Introdu\u00e7\u00e3o \u00e0 Engenharia de Produ\u00e7\u00e3o ",
-"tipo": "Requisito"
-},
-"LOQ4203": {
-"sigla": "LOQ4203",
-"nome": " Sistemas Produtivos ",
-"tipo": "Requisito"
-},
-"LOQ4239": {
-"sigla": "LOQ4239",
-"nome": " Administra\u00e7\u00e3o e Organiza\u00e7\u00e3o I ",
-"tipo": "Requisito"
-},
-"LOQ4240": {
-"sigla": "LOQ4240",
-"nome": " Administra\u00e7\u00e3o e Organiza\u00e7\u00e3o II ",
-"tipo": "Requisito"
-},
-"LOQ4253": {
-"sigla": "LOQ4253",
-"nome": " Processos Qu\u00edmicos Industriais ",
-"tipo": "Requisito"
-},
-"LOQ4264": {
-"sigla": "LOQ4264",
-"nome": " Engenharia da Sustentabilidade ",
-"tipo": "Requisito"
-},
-"LOB1004": {
-"sigla": "LOB1004",
-"nome": " C\u00e1lculo II ",
-"tipo": "Requisito"
-},
-"LOB1009": {
-"sigla": "LOB1009",
-"nome": " Leitura e Interpreta\u00e7\u00e3o de Desenho T\u00e9cnico ",
-"tipo": "Requisito"
-},
-"LOB1018": {
-"sigla": "LOB1018",
-"nome": " F\u00edsica I ",
-"tipo": "Requisito"
-},
-"LOB1019": {
-"sigla": "LOB1019",
-"nome": " F\u00edsica II ",
-"tipo": "Requisito"
-},
 "LOB1049": {
 "sigla": "LOB1049",
 "nome": " Estat\u00edstica Multivariada ",
 "tipo": "Requisito"
 },
-"LOQ4204": {
-"sigla": "LOQ4204",
-"nome": " Economia Geral ",
+"LOB1053": {
+"sigla": "LOB1053",
+"nome": " F\u00edsica III ",
+"tipo": "Requisito"
+},
+"LOQ4237": {
+"sigla": "LOQ4237",
+"nome": " Projeto Integrado de Engenharia de Produ\u00e7\u00e3o II ",
+"tipo": "Requisito"
+},
+"LOB1024": {
+"sigla": "LOB1024",
+"nome": " Mec\u00e2nica ",
+"tipo": "Requisito"
+},
+"LOB1046": {
+"sigla": "LOB1046",
+"nome": " Engenharia do Meio Ambiente ",
+"tipo": "Requisito"
+},
+"LOB1056": {
+"sigla": "LOB1056",
+"nome": " Introdu\u00e7\u00e3o aos M\u00e9todos Num\u00e9ricos e Computacionais ",
 "tipo": "Requisito"
 },
 "LOQ4206": {
@@ -3537,9 +3849,89 @@
 "nome": " Pesquisa Operacional I ",
 "tipo": "Requisito"
 },
-"LOQ4209": {
-"sigla": "LOQ4209",
-"nome": " Engenharia da Qualidade ",
+"LOQ4252": {
+"sigla": "LOQ4252",
+"nome": " Fundamentos de Fen\u00f4menos de Transporte ",
+"tipo": "Requisito"
+},
+"LOQ4253": {
+"sigla": "LOQ4253",
+"nome": " Processos Qu\u00edmicos Industriais ",
+"tipo": "Requisito"
+},
+"LOB1011": {
+"sigla": "LOB1011",
+"nome": " Eletricidade Aplicada ",
+"tipo": "Requisito"
+},
+"LOB1040": {
+"sigla": "LOB1040",
+"nome": " Laborat\u00f3rio de Eletricidade ",
+"tipo": "Requisito"
+},
+"LOM3081": {
+"sigla": "LOM3081",
+"nome": " Introdu\u00e7\u00e3o \u00e0 Mec\u00e2nica dos S\u00f3lidos ",
+"tipo": "Requisito"
+},
+"LOQ4076": {
+"sigla": "LOQ4076",
+"nome": " Termodin\u00e2mica Aplicada ",
+"tipo": "Requisito"
+},
+"LOQ4234": {
+"sigla": "LOQ4234",
+"nome": " Empreendedorismo e Inova\u00e7\u00e3o ",
+"tipo": "Requisito"
+},
+"LOQ4255": {
+"sigla": "LOQ4255",
+"nome": " Inova\u00e7\u00e3o Tecnol\u00f3gica ",
+"tipo": "Requisito"
+},
+"LOQ4258": {
+"sigla": "LOQ4258",
+"nome": " Pesquisa Operacional II ",
+"tipo": "Requisito"
+},
+"LOQ4263": {
+"sigla": "LOQ4263",
+"nome": " Planejamento e Gest\u00e3o da Manuten\u00e7\u00e3o ",
+"tipo": "Requisito"
+},
+"LOQ4213": {
+"sigla": "LOQ4213",
+"nome": " Contabilidade e Custos ",
+"tipo": "Requisito"
+},
+"LOQ4238": {
+"sigla": "LOQ4238",
+"nome": " Projeto Integrado em Engenharia de Produ\u00e7\u00e3o III ",
+"tipo": "Requisito"
+},
+"LOQ4241": {
+"sigla": "LOQ4241",
+"nome": " Sistemas de Apoio \u00e0 Decis\u00e3o ",
+"tipo": "Requisito"
+},
+"LOQ4245": {
+"sigla": "LOQ4245",
+"nome": " Ergonomia ",
+"tipo": "Requisito"
+},
+"LOQ4259": {
+"sigla": "LOQ4259",
+"nome": " Processos de Desenvolvimento de Servi\u00e7os ",
+"tipo": "Requisito"
+},
+"LOQ4261": {
+"sigla": "LOQ4261",
+"nome": " Planejamento, Programa\u00e7\u00e3o e Controle da Produ\u00e7\u00e3o I ",
+"tipo": "Requisito"
+},
+"LOB1055": {
+"sigla": "LOB1055",
+"nome": " Fundamentos de Engenharia de Seguran\u00e7a no Trabalho ",
 "tipo": "Requisito"
 },
 "LOQ4222": {
@@ -3547,9 +3939,19 @@
 "nome": " Engenharia Econ\u00f4mica e Finan\u00e7as ",
 "tipo": "Requisito"
 },
-"LOQ4234": {
-"sigla": "LOQ4234",
-"nome": " Empreendedorismo e Inova\u00e7\u00e3o ",
+"LOQ4260": {
+"sigla": "LOQ4260",
+"nome": " Controle Estat\u00edstico da Qualidade ",
+"tipo": "Requisito"
+},
+"LOQ4270": {
+"sigla": "LOQ4270",
+"nome": " Planejamento, Programa\u00e7\u00e3o e Controle da Produ\u00e7\u00e3o II ",
+"tipo": "Requisito"
+},
+"LOQ4272": {
+"sigla": "LOQ4272",
+"nome": " Projeto da Fabrica ",
 "tipo": "Requisito"
 }
 },
@@ -3592,13 +3994,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "5",
+"Inscritos": "26",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "60",
-"Inscritos": "5",
+"Inscritos": "26",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3657,13 +4059,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "22",
+"Inscritos": "36",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "22",
+"Inscritos": "36",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3716,13 +4118,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "21",
+"Inscritos": "32",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "45",
-"Inscritos": "21",
+"Inscritos": "32",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3782,13 +4184,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "15",
+"Inscritos": "26",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "15",
+"Inscritos": "26",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3835,19 +4237,43 @@
 "aulas": {
 "h0": {
 "horario": " seg  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Maria Auxiliadora Motta Barreto "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "16",
+"Inscritos": "44",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "60",
-"Inscritos": "16",
+"Vagas": "56",
+"Inscritos": "44",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3861,59 +4287,9 @@
 "nomeascii": " Estagio em Engenharia de Producao",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4230&codcur=88352&codhab=4",
 "requisitos": {
-"LOQ4251": {
-"sigla": "LOQ4251",
-"nome": " Fundamentos de Qu\u00edmica ",
-"tipo": "Requisito"
-},
-"LOB1006": {
-"sigla": "LOB1006",
-"nome": " C\u00e1lculo IV ",
-"tipo": "Requisito"
-},
-"LOB1053": {
-"sigla": "LOB1053",
-"nome": " F\u00edsica III ",
-"tipo": "Requisito"
-},
-"LOB1056": {
-"sigla": "LOB1056",
-"nome": " Introdu\u00e7\u00e3o aos M\u00e9todos Num\u00e9ricos e Computacionais ",
-"tipo": "Requisito"
-},
-"LOB1003": {
-"sigla": "LOB1003",
-"nome": " C\u00e1lculo I ",
-"tipo": "Requisito"
-},
-"LOB1012": {
-"sigla": "LOB1012",
-"nome": " Estat\u00edstica ",
-"tipo": "Requisito"
-},
-"LOB1024": {
-"sigla": "LOB1024",
-"nome": " Mec\u00e2nica ",
-"tipo": "Requisito"
-},
-"LOB1036": {
-"sigla": "LOB1036",
-"nome": " Geometria Anal\u00edtica ",
-"tipo": "Requisito"
-},
-"LOB1037": {
-"sigla": "LOB1037",
-"nome": " \u00c1lgebra Linear ",
-"tipo": "Requisito"
-},
 "LOB1038": {
 "sigla": "LOB1038",
 "nome": " F\u00edsica Experimental I ",
-"tipo": "Requisito"
-},
-"LOB1039": {
-"sigla": "LOB1039",
-"nome": " F\u00edsica Experimental III ",
 "tipo": "Requisito"
 },
 "LOB1041": {
@@ -3921,14 +4297,49 @@
 "nome": " F\u00edsica Experimental II ",
 "tipo": "Requisito"
 },
-"LOB1052": {
-"sigla": "LOB1052",
-"nome": " C\u00e1lculo III ",
+"LOB1009": {
+"sigla": "LOB1009",
+"nome": " Leitura e Interpreta\u00e7\u00e3o de Desenho T\u00e9cnico ",
 "tipo": "Requisito"
 },
-"LOM3016": {
-"sigla": "LOM3016",
-"nome": " Introdu\u00e7\u00e3o \u00e0  Ci\u00eancia dos Materiais ",
+"LOB1003": {
+"sigla": "LOB1003",
+"nome": " C\u00e1lculo I ",
+"tipo": "Requisito"
+},
+"LOB1006": {
+"sigla": "LOB1006",
+"nome": " C\u00e1lculo IV ",
+"tipo": "Requisito"
+},
+"LOB1012": {
+"sigla": "LOB1012",
+"nome": " Estat\u00edstica ",
+"tipo": "Requisito"
+},
+"LOB1036": {
+"sigla": "LOB1036",
+"nome": " Geometria Anal\u00edtica ",
+"tipo": "Requisito"
+},
+"LOB1039": {
+"sigla": "LOB1039",
+"nome": " F\u00edsica Experimental III ",
+"tipo": "Requisito"
+},
+"LOQ4251": {
+"sigla": "LOQ4251",
+"nome": " Fundamentos de Qu\u00edmica ",
+"tipo": "Requisito"
+},
+"LOB1019": {
+"sigla": "LOB1019",
+"nome": " F\u00edsica II ",
+"tipo": "Requisito"
+},
+"LOB1024": {
+"sigla": "LOB1024",
+"nome": " Mec\u00e2nica ",
 "tipo": "Requisito"
 },
 "LOB1004": {
@@ -3936,9 +4347,19 @@
 "nome": " C\u00e1lculo II ",
 "tipo": "Requisito"
 },
-"LOB1009": {
-"sigla": "LOB1009",
-"nome": " Leitura e Interpreta\u00e7\u00e3o de Desenho T\u00e9cnico ",
+"LOB1053": {
+"sigla": "LOB1053",
+"nome": " F\u00edsica III ",
+"tipo": "Requisito"
+},
+"LOM3016": {
+"sigla": "LOM3016",
+"nome": " Introdu\u00e7\u00e3o \u00e0  Ci\u00eancia dos Materiais ",
+"tipo": "Requisito"
+},
+"LOB1052": {
+"sigla": "LOB1052",
+"nome": " C\u00e1lculo III ",
 "tipo": "Requisito"
 },
 "LOB1018": {
@@ -3946,9 +4367,14 @@
 "nome": " F\u00edsica I ",
 "tipo": "Requisito"
 },
-"LOB1019": {
-"sigla": "LOB1019",
-"nome": " F\u00edsica II ",
+"LOB1037": {
+"sigla": "LOB1037",
+"nome": " \u00c1lgebra Linear ",
+"tipo": "Requisito"
+},
+"LOB1056": {
+"sigla": "LOB1056",
+"nome": " Introdu\u00e7\u00e3o aos M\u00e9todos Num\u00e9ricos e Computacionais ",
 "tipo": "Requisito"
 }
 },
@@ -4416,21 +4842,64 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " seg  19:00  21:00 ",
-"prof": " "
+"prof": "(R) Ana Karine Furtado de Carvalho "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "60",
+"Vagas": "54",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"

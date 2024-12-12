@@ -38,11 +38,11 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 }
 },
 "vagas": {
@@ -95,7 +95,7 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Eduardo Ferro dos Santos "
 }
 },
 "vagas": {
@@ -148,11 +148,11 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "Fl\u00e1vio Jos\u00e9 da Silva "
 },
 "h1": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "Fl\u00e1vio Jos\u00e9 da Silva "
 }
 },
 "vagas": {
@@ -379,13 +379,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "13",
+"Inscritos": "47",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "13",
+"Inscritos": "47",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -443,23 +443,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "Ant\u00f4nio S\u00e9rgio Cobianchi "
 },
 "h1": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "Ant\u00f4nio S\u00e9rgio Cobianchi "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "3",
+"Inscritos": "6",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
-"Inscritos": "3",
+"Vagas": "52",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -506,22 +542,58 @@
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 },
 "h1": {
 "horario": " qui  16:00  18:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
+"Vagas": "52",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
@@ -575,22 +647,58 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "0",
+"Inscritos": "3",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
+"Vagas": "52",
+"Inscritos": "3",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
@@ -638,7 +746,7 @@
 "aulas": {
 "h0": {
 "horario": " sex  14:00  16:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 }
 },
 "vagas": {
@@ -929,23 +1037,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
-"prof": " "
+"prof": "Bertha Mar\u00eda Cuadros Melgar "
 },
 "h1": {
 "horario": " qui  16:00  18:00 ",
-"prof": " "
+"prof": "Bertha Mar\u00eda Cuadros Melgar "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "8",
+"Inscritos": "17",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "60",
-"Inscritos": "8",
+"Vagas": "52",
+"Inscritos": "17",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -959,14 +1103,14 @@
 "nomeascii": " Mecanica",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOB1024&codcur=88152&codhab=0",
 "requisitos": {
-"LOB1036": {
-"sigla": "LOB1036",
-"nome": " Geometria Anal\u00edtica ",
-"tipo": "Requisito fraco"
-},
 "LOB1018": {
 "sigla": "LOB1018",
 "nome": " F\u00edsica I ",
+"tipo": "Requisito fraco"
+},
+"LOB1036": {
+"sigla": "LOB1036",
+"nome": " Geometria Anal\u00edtica ",
 "tipo": "Requisito fraco"
 }
 },
@@ -1003,29 +1147,29 @@
 "aulas": {
 "h0": {
 "horario": " ter  14:00  16:00 ",
-"prof": " "
+"prof": "Fabiano Fernandes Bargos "
 },
 "h1": {
 "horario": " qui  14:00  16:00 ",
-"prof": " "
+"prof": "Fabiano Fernandes Bargos "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "24",
+"Inscritos": "47",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "30",
-"Inscritos": "16",
+"Inscritos": "30",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "30",
-"Inscritos": "8",
+"Inscritos": "17",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1078,23 +1222,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 },
 "h1": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "Estaner Claro Rom\u00e3o "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "3",
+"Inscritos": "14",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "60",
-"Inscritos": "3",
+"Vagas": "52",
+"Inscritos": "14",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1152,19 +1332,19 @@
 "aulas": {
 "h0": {
 "horario": " qua  08:00  12:00 ",
-"prof": " "
+"prof": "Henrique Ot\u00e1vio Queiroz de Aquino "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "2",
+"Inscritos": "11",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "40",
-"Inscritos": "2",
+"Inscritos": "11",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1217,19 +1397,19 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "12",
+"Inscritos": "30",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "30",
-"Inscritos": "3",
+"Inscritos": "6",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "30",
-"Inscritos": "9",
+"Inscritos": "24",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1293,13 +1473,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "17",
+"Inscritos": "44",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "17",
+"Inscritos": "44",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1364,13 +1544,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "20",
+"Inscritos": "48",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "20",
+"Inscritos": "48",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1428,23 +1608,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Adriano Francisco Siqueira "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Adriano Francisco Siqueira "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "10",
+"Inscritos": "28",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
-"Inscritos": "10",
+"Vagas": "52",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1497,19 +1713,19 @@
 "aulas": {
 "h0": {
 "horario": " qui  16:00  18:00 ",
-"prof": " "
+"prof": "(R) Carlos Renato Menegatti "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "6",
+"Inscritos": "11",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
-"Inscritos": "6",
+"Inscritos": "11",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1567,23 +1783,59 @@
 "aulas": {
 "h0": {
 "horario": " ter  14:00  16:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 },
 "h1": {
 "horario": " qui  14:00  16:00 ",
-"prof": " "
+"prof": "Carlos Jos\u00e9 Todero Peixoto "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "2",
+"Inscritos": "5",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "60",
-"Inscritos": "2",
+"Vagas": "52",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1651,19 +1903,31 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "15",
+"Inscritos": "34",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "30",
-"Inscritos": "8",
+"Vagas": "28",
+"Inscritos": "14",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "30",
-"Inscritos": "7",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1677,6 +1941,11 @@
 "nomeascii": " Termodinamica Quimica Aplicada I",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4087&codcur=88152&codhab=0",
 "requisitos": {
+"LOB1019": {
+"sigla": "LOB1019",
+"nome": " F\u00edsica II ",
+"tipo": "Requisito fraco"
+},
 "LOQ4053": {
 "sigla": "LOQ4053",
 "nome": " Balan\u00e7os de Massa e Energia ",
@@ -1685,11 +1954,6 @@
 "LOB1004": {
 "sigla": "LOB1004",
 "nome": " C\u00e1lculo II ",
-"tipo": "Requisito fraco"
-},
-"LOB1019": {
-"sigla": "LOB1019",
-"nome": " F\u00edsica II ",
 "tipo": "Requisito fraco"
 }
 },
@@ -1734,19 +1998,19 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "17",
+"Inscritos": "57",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "45",
-"Inscritos": "12",
+"Inscritos": "41",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "5",
-"Inscritos": "5",
+"Inscritos": "16",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1799,14 +2063,14 @@
 "nomeascii": " Bioquimica I",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2007&codcur=88152&codhab=0",
 "requisitos": {
-"LOT2059": {
-"sigla": "LOT2059",
-"nome": " Qu\u00edmica Org\u00e2nica Fundamental ",
-"tipo": "Requisito fraco"
-},
 "LOT2002": {
 "sigla": "LOT2002",
 "nome": " Biologia Celular ",
+"tipo": "Requisito fraco"
+},
+"LOT2059": {
+"sigla": "LOT2059",
+"nome": " Qu\u00edmica Org\u00e2nica Fundamental ",
 "tipo": "Requisito fraco"
 }
 },
@@ -1921,25 +2185,49 @@
 "aulas": {
 "h0": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Fernando Catalani "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "5",
+"Inscritos": "12",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
-"Inscritos": "4",
+"Vagas": "35",
+"Inscritos": "6",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "20",
-"Inscritos": "1",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -1992,23 +2280,23 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Mariana Pereira de Melo "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Mariana Pereira de Melo "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "13",
+"Inscritos": "50",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "60",
-"Inscritos": "13",
+"Inscritos": "50",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2061,19 +2349,19 @@
 "aulas": {
 "h0": {
 "horario": " seg  16:00  18:00 ",
-"prof": " "
+"prof": "Carlos Renato Menegatti "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "4",
+"Inscritos": "17",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "40",
-"Inscritos": "4",
+"Inscritos": "17",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2128,13 +2416,43 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "7",
+"Inscritos": "24",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "45",
-"Inscritos": "7",
+"Vagas": "38",
+"Inscritos": "24",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "2",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2148,11 +2466,6 @@
 "nomeascii": " Fenomenos de Transporte II",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4084&codcur=88152&codhab=0",
 "requisitos": {
-"LOQ4083": {
-"sigla": "LOQ4083",
-"nome": " Fen\u00f4menos de Transporte I ",
-"tipo": "Requisito fraco"
-},
 "LOB1006": {
 "sigla": "LOB1006",
 "nome": " C\u00e1lculo IV ",
@@ -2161,6 +2474,11 @@
 "LOB1019": {
 "sigla": "LOB1019",
 "nome": " F\u00edsica II ",
+"tipo": "Requisito fraco"
+},
+"LOQ4083": {
+"sigla": "LOQ4083",
+"nome": " Fen\u00f4menos de Transporte I ",
 "tipo": "Requisito fraco"
 }
 },
@@ -2207,19 +2525,19 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "13",
+"Inscritos": "41",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "40",
-"Inscritos": "7",
+"Inscritos": "28",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "5",
-"Inscritos": "6",
+"Inscritos": "13",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2282,19 +2600,19 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "15",
+"Inscritos": "38",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "40",
-"Inscritos": "7",
+"Inscritos": "24",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "5",
-"Inscritos": "8",
+"Inscritos": "14",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2351,20 +2669,32 @@
 "prof": "Luiz Claudio Antunes Bastos "
 },
 "h1": {
-"horario": " qui  10:00  12:00 ",
+"horario": " qua  16:00  18:00 ",
 "prof": "Luiz Claudio Antunes Bastos "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "8",
+"Inscritos": "20",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
-"Inscritos": "8",
+"Vagas": "38",
+"Inscritos": "20",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2424,13 +2754,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "20",
-"Inscritos": "4",
+"Inscritos": "16",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "20",
-"Inscritos": "4",
+"Inscritos": "16",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2494,13 +2824,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "8",
+"Inscritos": "30",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "8",
+"Inscritos": "30",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2564,13 +2894,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "15",
+"Inscritos": "44",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "15",
+"Inscritos": "44",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2623,23 +2953,23 @@
 "aulas": {
 "h0": {
 "horario": " seg  10:00  12:00 ",
-"prof": "Daniela Helena Pelegrine Guimar\u00e3es "
+"prof": "(R) Gilberto Garcia Cortez "
 },
 "h1": {
 "horario": " qua  10:00  12:00 ",
-"prof": "Daniela Helena Pelegrine Guimar\u00e3es "
+"prof": "(R) Gilberto Garcia Cortez "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "15",
+"Inscritos": "26",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "40",
-"Inscritos": "15",
+"Inscritos": "26",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2703,13 +3033,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "7",
+"Inscritos": "12",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "35",
-"Inscritos": "7",
+"Inscritos": "12",
 "Pendentes": "0",
 "Matriculados": "0"
 },
@@ -2729,14 +3059,14 @@
 "nomeascii": " Tecnologia de Processos Fermentativos",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2028&codcur=88152&codhab=0",
 "requisitos": {
-"LOT2008": {
-"sigla": "LOT2008",
-"nome": " Bioqu\u00edmica II ",
-"tipo": "Requisito fraco"
-},
 "LOT2053": {
 "sigla": "LOT2053",
 "nome": " Microbiologia ",
+"tipo": "Requisito fraco"
+},
+"LOT2008": {
+"sigla": "LOT2008",
+"nome": " Bioqu\u00edmica II ",
 "tipo": "Requisito fraco"
 }
 },
@@ -2780,13 +3110,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "3",
+"Inscritos": "6",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "3",
+"Inscritos": "6",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -2911,9 +3241,9 @@
 "nomeascii": " Quimica Analitica Aplicada a Bioprocessos",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2061&codcur=88152&codhab=0",
 "requisitos": {
-"LOQ4095": {
-"sigla": "LOQ4095",
-"nome": " Qu\u00edmica Geral Experimental ",
+"LOT2005": {
+"sigla": "LOT2005",
+"nome": " Bioqu\u00edmica Experimental I ",
 "tipo": "Requisito fraco"
 },
 "LOQ4098": {
@@ -2921,9 +3251,9 @@
 "nome": " Fundamentos de Qu\u00edmica para Engenharia II",
 "tipo": "Requisito fraco"
 },
-"LOT2005": {
-"sigla": "LOT2005",
-"nome": " Bioqu\u00edmica Experimental I ",
+"LOQ4095": {
+"sigla": "LOQ4095",
+"nome": " Qu\u00edmica Geral Experimental ",
 "tipo": "Requisito fraco"
 }
 },
@@ -2993,23 +3323,29 @@
 "aulas": {
 "h0": {
 "horario": " qua  08:00  10:00 ",
-"prof": " "
+"prof": "(R) C\u00e9lia Regina Tomachuk dos Santos Catuogno "
 },
 "h1": {
 "horario": " sex  08:00  10:00 ",
-"prof": " "
+"prof": "(R) C\u00e9lia Regina Tomachuk dos Santos Catuogno "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "3",
+"Inscritos": "6",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "40",
-"Inscritos": "3",
+"Vagas": "38",
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "2",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3068,19 +3404,25 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "7",
+"Inscritos": "16",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "40",
-"Inscritos": "6",
+"Vagas": "39",
+"Inscritos": "11",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "5",
-"Inscritos": "1",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3141,13 +3483,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "19",
+"Inscritos": "37",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "19",
+"Inscritos": "37",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3161,11 +3503,6 @@
 "nomeascii": " Enzimologia",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2017&codcur=88152&codhab=0",
 "requisitos": {
-"LOT2053": {
-"sigla": "LOT2053",
-"nome": " Microbiologia ",
-"tipo": "Requisito fraco"
-},
 "LOT2007": {
 "sigla": "LOT2007",
 "nome": " Bioqu\u00edmica I ",
@@ -3174,6 +3511,11 @@
 "LOT2040": {
 "sigla": "LOT2040",
 "nome": " Engenharia Gen\u00e9tica ",
+"tipo": "Requisito fraco"
+},
+"LOT2053": {
+"sigla": "LOT2053",
+"nome": " Microbiologia ",
 "tipo": "Requisito fraco"
 }
 },
@@ -3217,13 +3559,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "15",
+"Inscritos": "35",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "15",
+"Inscritos": "35",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3372,13 +3714,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "11",
+"Inscritos": "20",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "11",
+"Inscritos": "20",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3397,14 +3739,14 @@
 "nome": " Bioqu\u00edmica II ",
 "tipo": "Requisito fraco"
 },
-"LOT2053": {
-"sigla": "LOT2053",
-"nome": " Microbiologia ",
-"tipo": "Requisito fraco"
-},
 "LOT2040": {
 "sigla": "LOT2040",
 "nome": " Engenharia Gen\u00e9tica ",
+"tipo": "Requisito fraco"
+},
+"LOT2053": {
+"sigla": "LOT2053",
+"nome": " Microbiologia ",
 "tipo": "Requisito fraco"
 }
 },
@@ -3448,13 +3790,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "25",
+"Inscritos": "46",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "60",
-"Inscritos": "25",
+"Inscritos": "46",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3504,14 +3846,14 @@
 "nomeascii": " Laboratorio de Engenharia Quimica III",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOQ4062&codcur=88152&codhab=0",
 "requisitos": {
-"LOQ4086": {
-"sigla": "LOQ4086",
-"nome": " Opera\u00e7\u00f5es Unit\u00e1rias II ",
-"tipo": "Requisito fraco"
-},
 "LOQ4085": {
 "sigla": "LOQ4085",
 "nome": " Opera\u00e7\u00f5es Unit\u00e1rias I ",
+"tipo": "Requisito fraco"
+},
+"LOQ4086": {
+"sigla": "LOQ4086",
+"nome": " Opera\u00e7\u00f5es Unit\u00e1rias II ",
 "tipo": "Requisito fraco"
 }
 },
@@ -3555,13 +3897,25 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "30",
-"Inscritos": "5",
+"Inscritos": "8",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "30",
-"Inscritos": "5",
+"Vagas": "28",
+"Inscritos": "8",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "1",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3794,13 +4148,13 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "17",
+"Inscritos": "40",
 "Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "40",
-"Inscritos": "17",
+"Inscritos": "40",
 "Pendentes": "0",
 "Matriculados": "0"
 }
@@ -3814,11 +4168,6 @@
 "nomeascii": " Solucao de Problemas de Engenharia",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2062&codcur=88152&codhab=0",
 "requisitos": {
-"LOT2060": {
-"sigla": "LOT2060",
-"nome": " Tecnologia de Biopol\u00edmeros ",
-"tipo": "Requisito"
-},
 "LOT2013": {
 "sigla": "LOT2013",
 "nome": " Engenharia Bioqu\u00edmica I ",
@@ -3842,6 +4191,11 @@
 "LOT2049": {
 "sigla": "LOT2049",
 "nome": " Gen\u00e9tica e Biotecnologia Vegetal ",
+"tipo": "Requisito"
+},
+"LOT2060": {
+"sigla": "LOT2060",
+"nome": " Tecnologia de Biopol\u00edmeros ",
 "tipo": "Requisito"
 }
 },
@@ -3923,19 +4277,14 @@
 "nomeascii": " Estagio Supervisionado",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2044&codcur=88152&codhab=0",
 "requisitos": {
-"LOQ4095": {
-"sigla": "LOQ4095",
-"nome": " Qu\u00edmica Geral Experimental ",
+"LOB1003": {
+"sigla": "LOB1003",
+"nome": " C\u00e1lculo I ",
 "tipo": "Requisito"
 },
-"LOQ4098": {
-"sigla": "LOQ4098",
-"nome": " Fundamentos de Qu\u00edmica para Engenharia II",
-"tipo": "Requisito"
-},
-"LOQ4100": {
-"sigla": "LOQ4100",
-"nome": " Fundamentos de Qu\u00edmica para Engenharia I",
+"LOB1004": {
+"sigla": "LOB1004",
+"nome": " C\u00e1lculo II ",
 "tipo": "Requisito"
 },
 "LOB1006": {
@@ -3943,24 +4292,9 @@
 "nome": " C\u00e1lculo IV ",
 "tipo": "Requisito"
 },
-"LOB1040": {
-"sigla": "LOB1040",
-"nome": " Laborat\u00f3rio de Eletricidade ",
-"tipo": "Requisito"
-},
-"LOB1053": {
-"sigla": "LOB1053",
-"nome": " F\u00edsica III ",
-"tipo": "Requisito"
-},
-"LOB1056": {
-"sigla": "LOB1056",
-"nome": " Introdu\u00e7\u00e3o aos M\u00e9todos Num\u00e9ricos e Computacionais ",
-"tipo": "Requisito"
-},
-"LOB1003": {
-"sigla": "LOB1003",
-"nome": " C\u00e1lculo I ",
+"LOB1009": {
+"sigla": "LOB1009",
+"nome": " Leitura e Interpreta\u00e7\u00e3o de Desenho T\u00e9cnico ",
 "tipo": "Requisito"
 },
 "LOB1011": {
@@ -3968,9 +4302,14 @@
 "nome": " Eletricidade Aplicada ",
 "tipo": "Requisito"
 },
-"LOB1012": {
-"sigla": "LOB1012",
-"nome": " Estat\u00edstica ",
+"LOB1018": {
+"sigla": "LOB1018",
+"nome": " F\u00edsica I ",
+"tipo": "Requisito"
+},
+"LOB1019": {
+"sigla": "LOB1019",
+"nome": " F\u00edsica II ",
 "tipo": "Requisito"
 },
 "LOB1024": {
@@ -3998,9 +4337,24 @@
 "nome": " F\u00edsica Experimental III ",
 "tipo": "Requisito"
 },
+"LOB1040": {
+"sigla": "LOB1040",
+"nome": " Laborat\u00f3rio de Eletricidade ",
+"tipo": "Requisito"
+},
 "LOB1052": {
 "sigla": "LOB1052",
 "nome": " C\u00e1lculo III ",
+"tipo": "Requisito"
+},
+"LOB1053": {
+"sigla": "LOB1053",
+"nome": " F\u00edsica III ",
+"tipo": "Requisito"
+},
+"LOB1056": {
+"sigla": "LOB1056",
+"nome": " Introdu\u00e7\u00e3o aos M\u00e9todos Num\u00e9ricos e Computacionais ",
 "tipo": "Requisito"
 },
 "LOM3016": {
@@ -4008,24 +4362,24 @@
 "nome": " Introdu\u00e7\u00e3o \u00e0  Ci\u00eancia dos Materiais ",
 "tipo": "Requisito"
 },
-"LOB1004": {
-"sigla": "LOB1004",
-"nome": " C\u00e1lculo II ",
+"LOQ4095": {
+"sigla": "LOQ4095",
+"nome": " Qu\u00edmica Geral Experimental ",
 "tipo": "Requisito"
 },
-"LOB1009": {
-"sigla": "LOB1009",
-"nome": " Leitura e Interpreta\u00e7\u00e3o de Desenho T\u00e9cnico ",
+"LOQ4098": {
+"sigla": "LOQ4098",
+"nome": " Fundamentos de Qu\u00edmica para Engenharia II",
 "tipo": "Requisito"
 },
-"LOB1018": {
-"sigla": "LOB1018",
-"nome": " F\u00edsica I ",
+"LOQ4100": {
+"sigla": "LOQ4100",
+"nome": " Fundamentos de Qu\u00edmica para Engenharia I",
 "tipo": "Requisito"
 },
-"LOB1019": {
-"sigla": "LOB1019",
-"nome": " F\u00edsica II ",
+"LOB1012": {
+"sigla": "LOB1012",
+"nome": " Estat\u00edstica ",
 "tipo": "Requisito"
 }
 },
@@ -4190,14 +4544,14 @@
 "nome": " Bioqu\u00edmica II ",
 "tipo": "Requisito fraco"
 },
-"LOT2053": {
-"sigla": "LOT2053",
-"nome": " Microbiologia ",
-"tipo": "Requisito fraco"
-},
 "LOT2040": {
 "sigla": "LOT2040",
 "nome": " Engenharia Gen\u00e9tica ",
+"tipo": "Requisito fraco"
+},
+"LOT2053": {
+"sigla": "LOT2053",
+"nome": " Microbiologia ",
 "tipo": "Requisito fraco"
 }
 },
@@ -4231,14 +4585,14 @@
 "nomeascii": " Biotecnologia Farmaceutica",
 "link": "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2067&codcur=88152&codhab=0",
 "requisitos": {
-"LOT2053": {
-"sigla": "LOT2053",
-"nome": " Microbiologia ",
-"tipo": "Requisito fraco"
-},
 "LOT2040": {
 "sigla": "LOT2040",
 "nome": " Engenharia Gen\u00e9tica ",
+"tipo": "Requisito fraco"
+},
+"LOT2053": {
+"sigla": "LOT2053",
+"nome": " Microbiologia ",
 "tipo": "Requisito fraco"
 }
 },
@@ -4328,8 +4682,20 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
+"Vagas": "10",
 "Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "15",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "15",
+"Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
 },
