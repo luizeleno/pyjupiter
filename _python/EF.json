@@ -68,21 +68,21 @@
 "departamento": "Ci\u00eancias B\u00e1sicas e Ambientais",
 "nome_en": "Physics I",
 "objectives": "Presenting to the students the introductory concepts of Physics and in particular, of Mechanics including kinematics and dynamics, including basic concepts of statistical and data analysis.",
-"abstract": "Introdu\u00e7\u00e3o a f\u00edsica, Cinem\u00e1tica, Din\u00e2mica, Trabalho, Torque e Momento Angular.",
-"program": "1) Introduction to Physics:  significant algharisms, dimensional analysis, units systems.2) Kinematics: Newton's laws and applications.3) Work: energy conservation, conservative forces, applications.4) Impulse: momentum and conservation.5) Torque and Angular Momentum: angular momentum conservation, pendulum.",
+"abstract": "Introduction to Physics, Kinematics, Dynamics, Energy, Linear momentum, Rotation",
+"program": "1) Introduction to Physics: unit systems, review of vectors, dimensional analysis. 2) Kinematics: one dimensional motion, free fall, bidimensional motion, projectile.  3) Dynamics: Newton\u2019s laws, friction force, drag force, terminal speed, uniform circular motion, gravitation, applications.4) Energy: work, conservative forces, mechanical energy conservation, friction, applications.5)  Linear momentum: center of mass, system of particles, conservation of linear momentum, collisions, impulse.6) Rotation: rotational variables, kinetic energy of rotation, rotational inertia, torque, rolling, conservation of angular momentum",
 "ndoc": 1,
 "CA": "4",
 "CT": "0",
 "CH": "60 h",
 "periodicidade": "Semestral",
-"ativacao": "01/01/2018",
+"ativacao": "01/01/2025",
 "objetivos": "Apresentar aos alunos os conceitos introdut\u00f3rios de F\u00edsica e em particular, da Mec\u00e2nica incluindo cinem\u00e1tica e din\u00e2mica, al\u00e9m de conceitos de estat\u00edstica b\u00e1sica e an\u00e1lise de dados.",
-"resumo": "Introdu\u00e7\u00e3o a f\u00edsica, Cinem\u00e1tica, Din\u00e2mica, Trabalho, Torque e Momento Angular.",
-"programa": "1) Introdu\u00e7\u00e3o a F\u00edsica: no\u00e7\u00f5es de algarismos, an\u00e1lise dimensional, sistemas de unidades.2) Cinem\u00e1tica: leis de Newton e aplica\u00e7\u00f5es.3) Trabalho: conserva\u00e7\u00e3o de energia, for\u00e7as conservativas, aplica\u00e7\u00f5es.4) Impulso: momento linear e conserva\u00e7\u00e3o de momento linear.5) Torque e momento angular: conserva\u00e7\u00e3o de momento angular, p\u00eandulo.",
-"metodo": "NF=A avalia\u00e7\u00e3o ser\u00e1 composta por provas, listas, projetos, semin\u00e1rios e outras formas que far\u00e3o a composi\u00e7\u00e3o das notas, sendo estipulada a m\u00e9dia final a somat\u00f3ria destas notas (N), com no m\u00ednimo duas avalia\u00e7\u00f5es, sendo: (N1+...+Nn)/n.",
-"criterio": "NF\u2265 5,0.",
-"exame": "(NF+RC)/2 \u2265 5,0, onde RC \u00e9 uma prova de recupera\u00e7\u00e3o a ser aplicada",
-"bibliografia": "NUSSENZVEIG, H.M. Curso de F\u00edsica B\u00e1sica. Vol. 1, Edgard Blucher (2008).RESNICK, R.; HALLIDAY, D. Fundamentos de F\u00edsica. Vol.1, LTC (2008).TIPLER, P.; MOSCA, G. F\u00edsica para Cientistas e Engenheiros. Vol.1, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. F\u00edsica I, Vol. 1, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princ\u00edpios de F\u00edsica. Vol. 1, Thomson Pioneira (2008).",
+"resumo": "Introdu\u00e7\u00e3o a f\u00edsica, Cinem\u00e1tica, Din\u00e2mica, Energia, Momento linear, Rota\u00e7\u00e3o.",
+"programa": "1) Introdu\u00e7\u00e3o a F\u00edsica: sistemas de unidades, revis\u00e3o de vetores, an\u00e1lise dimensional.2) Cinem\u00e1tica: movimento unidimensional, queda livre, movimento bidimensional, proj\u00e9teis. 3) Din\u00e2mica: leis de Newton, for\u00e7as, for\u00e7a de atrito, for\u00e7a de resist\u00eancia do ar, velocidade terminal, movimento circular uniforme, gravita\u00e7\u00e3o, aplica\u00e7\u00f5es.4) Energia: trabalho, for\u00e7as conservativas, conserva\u00e7\u00e3o de energia mec\u00e2nica, atrito, aplica\u00e7\u00f5es.5)  Momento linear: centro de massa, sistema de part\u00edculas, conserva\u00e7\u00e3o do momento linear, colis\u00f5es, impulso.6) Rota\u00e7\u00e3o: vari\u00e1veis do movimento rotacional, energia cin\u00e9tica rotacional, momento de in\u00e9rcia, torque, rolamento, conserva\u00e7\u00e3o do momento angular.",
+"metodo": "As avalia\u00e7\u00f5es ser\u00e3o compostas por provas, projetos, semin\u00e1rios e outras formas que ser\u00e3o utilizadas para a composi\u00e7\u00e3o das notas. A m\u00e9dia final (NF) \u00e9 calculada pela m\u00e9dia simples das notas (N), levando em conta o n\u00famero n de avalia\u00e7\u00f5es, sendo no m\u00ednimo duas avalia\u00e7\u00f5es: NF= (N1+...+Nn)/n.",
+"criterio": "NF \u2265 5,0",
+"exame": "(NF+REC)/2 \u2265 5,0, onde REC \u00e9 uma prova de recupera\u00e7\u00e3o a ser aplicada, seguindo as regras da EEL.",
+"bibliografia": "HALLIDAY, D; RESNICK, R. Fundamentos de F\u00edsica. Vol.1, LTC (2008).SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D.; FREEDMAN, R. A. F\u00edsica I, Vol. 1, Pearson Addison Wesley (2009).JEWETT Jr, John W.; SERWAY, Raymond A. Princ\u00edpios de F\u00edsica. Vol. 1, Thomson Pioneira (2008).NUSSENZVEIG, H.M. Curso de F\u00edsica B\u00e1sica. Vol. 1, Edgard Blucher (2008).TIPLER, P.; MOSCA, G. F\u00edsica para Cientistas e Engenheiros. Vol.1, LTC (2008).",
 "docentes": [
 "8711686 - Flavia Reis Cardoso Rojas"
 ],
@@ -105,51 +105,51 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "1",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "60",
+"Pendentes": "15",
+"Matriculados": "44"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "52",
-"Inscritos": "1",
+"Vagas": "3",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "5",
+"Inscritos": "5",
+"Pendentes": "2",
+"Matriculados": "3"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "12",
+"Inscritos": "12",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "12"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "11",
+"Inscritos": "11",
+"Pendentes": "2",
+"Matriculados": "9"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "6",
+"Inscritos": "6",
+"Pendentes": "3",
+"Matriculados": "3"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "3",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "20",
+"Inscritos": "20",
+"Pendentes": "5",
+"Matriculados": "15"
 }
 }
 }
@@ -257,15 +257,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "0",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
-"Inscritos": "0",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 }
 }
 }
@@ -282,7 +282,7 @@
 "unidade": "Escola de Engenharia de Lorena",
 "departamento": "Engenharia de Materiais",
 "nome_en": "Introduction to Engineering Physics",
-"objectives": "To introduce new students to an understanding of what a career is and the conceptual bases of Physical Engineering.",
+"objectives": "To introduce new students to an understanding of what a career is and the conceptual bases of Physical Engineering, as well as ventures in the area.",
 "abstract": "The Physics Engineering career. Basic engineering concepts. Skills and Abilities of an Engineer. Conceptual physics. Realization of experiments and projects of Physical Engineering.",
 "program": "The career of Engineering Physics. Scientists x engineers: the interdisciplinary role of Engineering Physics. Fields of action.Physics as a conceptual science: How to learn Physics. Realization of demonstrations and significant scientific experiments in Physics.Basic engineering concepts. Skills and competences of an engineer.Development of a thematic project of Physical Engineering.Competition between projects from different groups.Evaluation of competitions and the discipline as a whole.",
 "ndoc": 2,
@@ -290,8 +290,8 @@
 "CT": "0",
 "CH": "30 h",
 "periodicidade": "Semestral",
-"ativacao": "01/01/2023",
-"objetivos": "Apresentar aos alunos ingressantes o entendimento do que seja a carreira e as bases conceituais da Engenharia F\u00edsica.",
+"ativacao": "01/01/2025",
+"objetivos": "Apresentar aos alunos ingressantes o entendimento do que seja a carreira profissional e as bases conceituais da Engenharia F\u00edsica, assim como empreendimentos na \u00e1rea.",
 "resumo": "A carreira de Engenharia F\u00edsica. Conceitos b\u00e1sicos de Engenharia. Compet\u00eancias e habilidades de um engenheiro. F\u00edsica conceitual. Realiza\u00e7\u00e3o de experimentos e projetos de Engenharia F\u00edsica.",
 "programa": "A carreira de Engenharia F\u00edsica. Cientistas x engenheiros: o papel interdisciplinar da Engenharia F\u00edsica. Campos de atua\u00e7\u00e3o. A F\u00edsica como ci\u00eancia conceitual: Como aprender F\u00edsica. Realiza\u00e7\u00e3o de demonstra\u00e7\u00f5es e experimentos cient\u00edficos significativos de F\u00edsica.Conceitos b\u00e1sicos de Engenharia. Habilidades e compet\u00eancias de um engenheiro.Desenvolvimento de um projeto tem\u00e1tico de Engenharia F\u00edsica.Competi\u00e7\u00e3o entre projetos de diferentes grupos.Avalia\u00e7\u00e3o das competi\u00e7\u00f5es e da disciplina como um todo.",
 "metodo": "As atividades pr\u00e1ticas e os projetos que ser\u00e3o desenvolvidos durante as aulas ser\u00e3o avaliados por docentes e pelos alunos (processo de avalia\u00e7\u00e3o cr\u00edtica).",
@@ -299,7 +299,7 @@
 "exame": "Devido \u00e0s caracter\u00edsticas da disciplina, n\u00e3o ser\u00e1 oferecida recupera\u00e7\u00e3o.",
 "bibliografia": "ARA\u00daJO-MOREIRA, F. M. Engenharia F\u00edsica: a Carreira do Novo Mil\u00eanio, S\u00e3o Carlos: Gr\u00e1fica e Editora Guillen & Andriolli, 2014.\nBAZZO, A. B.; PEREIRA, L.T.V. Introdu\u00e7\u00e3o \u00e0 Engenharia. Editora da UFSC, Florian\u00f3polis, 1993.\nALEXANDER, C. K.; WATSON, J. A. Habilidades para uma carreira de sucesso na engenharia, Porto Alegre: AMGH Editora, 2015.\nBROCKMAN, J. B. Introdu\u00e7\u00e3o \u00e0 Engenharia. LTC, Rio de Janeiro, 2009.\nKNOWLEDGE FLOW. Engineering Physics - Ebook, \u00cdndia, 2015.\nCHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplica\u00e7\u00f5es da F\u00edsica Qu\u00e2ntica do Transistor \u00e0 Nanotecnologia, S\u00e3o Paulo: Livraria da F\u00edsica, 2005.",
 "docentes": [
-"519033 - Carlos Yujiro Shigue",
+"5817692 - Katia Cristiane Gandolpho Candioto",
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
 "oferecimento": {
@@ -311,7 +311,7 @@
 "aulas": {
 "h0": {
 "horario": " qua  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Katia Cristiane Gandolpho Candioto "
 }
 },
 "vagas": {
@@ -366,25 +366,25 @@
 "aulas": {
 "h0": {
 "horario": " seg  14:00  16:00 ",
-"prof": " "
+"prof": "(R) Luiz Tadeu Fernandes Eleno "
 },
 "h1": {
 "horario": " sex  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Luiz Tadeu Fernandes Eleno "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "20",
 "Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
+"Pendentes": "1",
+"Matriculados": "16"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "20",
 "Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
+"Pendentes": "1",
+"Matriculados": "16"
 }
 }
 }
@@ -404,7 +404,7 @@
 "objectives": "The objective is to carry out a critical review of some content of High School Mathematics, with a certain depth of these ideas. It is expected that there will be sedimentation of the mathematical base that will allow better use in other undergraduate subjects. The program refers to concepts immediately necessary for the Calculus I and, therefore, should be taught at the beginning of the academic period.",
 "abstract": "Real numbers, fractions, powers, roots, equations, inequalities, functions.",
 "program": "Real numbers; intervals. Fractions: operations with fractions. Powers, roots, notable products, rationalization. Polynomials: factorization, operations with polynomials. Identities and equations: root of an equation, degree of an equation, first degree equation, common factor, solution set, modules. Second degree equation. Inequalities: solving inequalities. Functions: domain, image, root of a function, types of functions. First degree function. Quadratic function. Module function. Inverse and composite function. Trigonometric functions: sine, cosine, tangent. Exponential functions: equations and inequalities. Logarithm function: properties, change of base, Neperian logarithm, logarithmic equations and inequalities.",
-"ndoc": 0,
+"ndoc": 2,
 "CA": "2",
 "CT": "0",
 "CH": "30 h",
@@ -417,7 +417,10 @@
 "criterio": "Avalia\u00e7\u00e3o por meio de duas provas: a primeira com peso 1 e a segunda com peso 2. A m\u00e9dia do semestre ser\u00e1 a m\u00e9dia ponderada das duas provas. MS maior ou igual a 5,0: aluno aprovado na disciplina.",
 "exame": "(MS+RC)/2 \u2265 5,0, onde RC \u00e9 uma prova de recupera\u00e7\u00e3o a ser aplicada.",
 "bibliografia": "IEZZI, G.; MURAKAMI, C. Fundamentos de matem\u00e1tica elementar - Volume 1: Conjuntos e fun\u00e7\u00f5es. S\u00e3o Paulo: Saraiva Did\u00e1ticos, 2019. CASTRUCCI, B.; GIOVANNI, J.R.; GIOVANNI JR., J.R. A Conquista da Matem\u00e1tica - 6\u00ba ano. S\u00e3o Paulo: FTD Educa\u00e7\u00e3o, 2022.FILHO, B. B.; SILVA, C. X. Matem\u00e1tica aula por aula. S\u00e3o Paulo: FTD, 2000.WAGNER, E. Matem\u00e1tica 1. 1\u00aa ed. Rio de Janeiro: FGV, 2011. ADAMI, A. M.; DORNELLES FILHO, A. A.; LORANDI, M. M.: Pr\u00e9-C\u00e1lculo. S\u00e3o Paulo: BookmanEditora, 2015STEWART, J., REDLIN, L. e WATSON, S. Precalculus: Mathematics for Calculus.S\u00e3o Paulo: Cengage Learning, 7a ed., 2014.",
-"docentes": [],
+"docentes": [
+"1176388 - Luiz Tadeu Fernandes Eleno",
+"5840521 - Rosa Ana Conte"
+],
 "oferecimento": {
 "20251F2": {
 "C\u00f3digo da Turma": "20251F2",
@@ -427,7 +430,7 @@
 "aulas": {
 "h0": {
 "horario": " seg  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Rosa Ana Conte "
 }
 },
 "vagas": {
@@ -559,51 +562,51 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "6",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "63",
+"Pendentes": "7",
+"Matriculados": "51"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "52",
-"Inscritos": "6",
+"Vagas": "14",
+"Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "6",
+"Inscritos": "5",
+"Pendentes": "1",
+"Matriculados": "4"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "6",
+"Inscritos": "6",
+"Pendentes": "3",
+"Matriculados": "3"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "5",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "5"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "6",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "5"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "12",
+"Inscritos": "12",
+"Pendentes": "3",
+"Matriculados": "9"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "11",
+"Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "11"
 }
 }
 }
@@ -669,27 +672,27 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "26",
+"Pendentes": "6",
+"Matriculados": "20"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "52",
-"Inscritos": "17",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "13",
+"Inscritos": "13",
+"Pendentes": "3",
+"Matriculados": "10"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "2",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "6",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "1",
@@ -698,21 +701,21 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "1",
+"Matriculados": "2"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
+"Inscritos": "1",
+"Pendentes": "1",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
+"Inscritos": "1",
+"Pendentes": "1",
 "Matriculados": "0"
 }
 }
@@ -737,21 +740,21 @@
 "departamento": "Ci\u00eancias B\u00e1sicas e Ambientais",
 "nome_en": "Linear algebra",
 "objectives": "To provide the student with basic concepts in linear algebra, for application in subsequent courses and engineering problems.",
-"abstract": "Vector Spaces, linear Transformations, eigenvalues and eigenvectors, Diagonalization, Inner product in vectorial Spaces, applications to differential Equations.",
+"abstract": "Vector spaces, linear transformations, diagonalization of linear operators, Jordan canonical form, inner product spaces, applications to dynamical systems.",
 "program": "\u2022Vector spaces: Definition, Properties of Vector Spaces. Vector Subspaces. Theorems. Linear Combinations. Linear dependence and independence. Finitely Generated Vector Spaces.  Base and dimension of Vector Spaces. \u2022Linear transformations: Definition. Properties. Kernel and image of a linear transformation, dimension theorem. Linear Operators, Inverse of linear transformation.\u2022Eigenvalues and eigenvectors: Definition. Theorems. Eigenvalues and Eigenvectors of matrices. Characteristic Polynomial, Minimal Polynomial.\u2022Diagonalization: Bases of Eigenvectors, Simultaneous Diagonalization of Two Operators,  Jordan Form.\u2022Inner vectorial spaces: Definitions and Properties, Cauchy-Schwarz inequality, Orthonormal bases, Gram-Schmidt orthogonally process, Projections, Adjoint operator.\u2022Applications: Equations and Systems of linear differential Equations with constants coefficients, Homogeneous differential equations with constant coefficients, Difference equations.",
 "ndoc": 1,
 "CA": "4",
 "CT": "0",
 "CH": "60 h",
 "periodicidade": "Semestral",
-"ativacao": "01/01/2018",
+"ativacao": "01/01/2025",
 "objetivos": "Proporcionar ao aluno conceitos b\u00e1sicos de \u00c1lgebra Linear, para posterior aplica\u00e7\u00e3o nos cursos subsequentes em in\u00fameros problemas de engenharia.",
-"resumo": "Espa\u00e7os vetoriais, Transforma\u00e7\u00f5es lineares, auto-valores e auto-vetores, diagonaliza\u00e7\u00e3o de Operadores, espa\u00e7os vetoriais com produto interno, aplica\u00e7\u00f5es as equa\u00e7\u00f5es diferenciais.",
-"programa": "spa\u00e7os vetoriais: Defini\u00e7\u00e3o, Propriedades dos Espa\u00e7os Vetoriais, Subespa\u00e7os Vetoriais, Combina\u00e7\u00e3o Linear, Depend\u00eancia e Independ\u00eancia Linear, Espa\u00e7os Vetoriais Finitamente Gerados. Base e Dimens\u00e3o de um Espa\u00e7o Vetorial, mudan\u00e7a de Base.\u2022Transforma\u00e7\u00f5es lineares: Defini\u00e7\u00e3o, Propriedades, N\u00facleo e Imagem de uma Transforma\u00e7\u00e3o Linear, Teorema da Dimens\u00e3o, Operadores Lineares, Inversa de uma transforma\u00e7\u00e3o Linear. \u2022Auto-valores e auto-vetores: Defini\u00e7\u00e3o. Auto-valores e Auto-vetores de um Operador Linear. Polin\u00f4mio Caracter\u00edstico.\u2022Diagonaliza\u00e7\u00e3o de operadores: Base de auto-vetores. Polin\u00f4mio M\u00ednimo. Diagonaliza\u00e7\u00e3o Simult\u00e2nea de dois Operadores. Forma de Jordan.\u2022Espa\u00e7os vetoriais com produto interno: Defini\u00e7\u00e3o e Propriedades, desigualdade de Cauchy-Schwarz, Ortogonalidade, bases ortonormais, processo de Gram-Schmidt, proje\u00e7\u00e3o ortogonal, Operador adjunto.\u2022Aplica\u00e7\u00f5es: Equa\u00e7\u00f5es e sistemas de equa\u00e7\u00f5es diferenciais lineares de primeira ordem com coeficientes constantes, equa\u00e7\u00f5es diferenciais homog\u00eaneas com coeficientes constantes. Equa\u00e7\u00f5es em Diferen\u00e7a.",
+"resumo": "Espa\u00e7os vetoriais, transforma\u00e7\u00f5es lineares, diagonaliza\u00e7\u00e3o de operadores lineares, forma can\u00f4nica de Jordan, espa\u00e7os vetoriais com produto interno, aplica\u00e7\u00f5es a sistemas din\u00e2micos.",
+"programa": "Espa\u00e7os vetoriais: Defini\u00e7\u00e3o, Propriedades dos Espa\u00e7os Vetoriais, Subespa\u00e7os Vetoriais, Combina\u00e7\u00e3o Linear, Depend\u00eancia e Independ\u00eancia Linear, Espa\u00e7os Vetoriais Finitamente Gerados. Base e Dimens\u00e3o de um Espa\u00e7o Vetorial, mudan\u00e7a de Base.\u2022Transforma\u00e7\u00f5es lineares: Defini\u00e7\u00e3o, Propriedades, N\u00facleo e Imagem de uma Transforma\u00e7\u00e3o Linear, Teorema da Dimens\u00e3o, Operadores Lineares, Inversa de uma transforma\u00e7\u00e3o Linear. \u2022Auto-valores e auto-vetores: Defini\u00e7\u00e3o. Auto-valores e Auto-vetores de um Operador Linear. Polin\u00f4mio Caracter\u00edstico.\u2022Diagonaliza\u00e7\u00e3o de operadores: Base de auto-vetores. Polin\u00f4mio M\u00ednimo. Diagonaliza\u00e7\u00e3o Simult\u00e2nea de dois Operadores. Forma de Jordan.\u2022Espa\u00e7os vetoriais com produto interno: Defini\u00e7\u00e3o e Propriedades, desigualdade de Cauchy-Schwarz, Ortogonalidade, bases ortonormais, processo de Gram-Schmidt, proje\u00e7\u00e3o ortogonal, Operador adjunto.\u2022Aplica\u00e7\u00f5es: Equa\u00e7\u00f5es e sistemas de equa\u00e7\u00f5es diferenciais lineares de primeira ordem com coeficientes constantes, equa\u00e7\u00f5es diferenciais homog\u00eaneas com coeficientes constantes. Equa\u00e7\u00f5es em Diferen\u00e7a.",
 "metodo": "NF=A avalia\u00e7\u00e3o ser\u00e1 composta por provas, listas, projetos, semin\u00e1rios e outras formas que far\u00e3o a composi\u00e7\u00e3o das notas, sendo estipulada a m\u00e9dia final a somat\u00f3ria destas notas (N), com no m\u00ednimo duas avalia\u00e7\u00f5es, sendo: (N1+...+Nn)/n.",
 "criterio": "NF\u2265 5,0.",
 "exame": "(NF+RC)/2 \u2265 5,0, onde RC \u00e9 uma prova de recupera\u00e7\u00e3o a ser aplicada.",
-"bibliografia": "01.STRANG, Gilbert. \u00c1lgebra linear e suas aplica\u00e7\u00f5es, S\u00e3o Paulo: Cengage Learning, 2010.02.LIPSCHUTZ, Seymour . Algebra linear. 3. ed. S\u00e3o Paulo: Ed. McGrawHill. 1990.03.HOWARD, Anton \u037e RORRES,Chris. \u00c1lgebra linear com aplica\u00e7\u00f5es. 8. ed., Ed. Bookman, 2001.04.MICHOLSON, W. Keith. \u00c1lgebra linear. 2. ed. S\u00e3o Paulo: Ed. Mc GrawHill,  2006.05.BOLDRINI, Jos\u00e9 Luiz \u037e COSTA Sueli I. Rodrigues\u037e FIGUEIREDO Vera L\u00facia\u037e WETZLER Henry G. \u00c1lgebra linear., 3. ed. S\u00e3o Paulo: Editora Harbra Ltda, 1986.06.POOLE, David. \u00c1lgebra linear. S\u00e3o Paulo: Pioneira Thomson Learning, 2004.",
+"bibliografia": "1.LIMA, Elon Lages. \u00c1lgebra Linear, IMPA, 2020. ISBN: 978-65-990528-3-5. 10\u00aa edi\u00e7\u00e3o.2.HOFFMAN, Kennethe; KUNZE, Ray. Linear Algebra. Pearson. 1971. 2nd Edition.3. STRANG, Gilbert. \u00c1lgebra linear e suas aplica\u00e7\u00f5es, S\u00e3o Paulo: Cengage Learning, 2010.4.LIPSCHUTZ, Seymour. \u00c1lgebra linear. 3. ed. S\u00e3o Paulo: Ed. McGrawHill. 1990.5.HOWARD, Anton \u037e RORRES, Chris. \u00c1lgebra linear com aplica\u00e7\u00f5es. 8. ed., Ed. Bookman, 2001.6.MICHOLSON, W. Keith. \u00c1lgebra linear. 2. ed. S\u00e3o Paulo: Ed. Mc GrawHill, 2006.7.BOLDRINI, Jos\u00e9 Luiz \u037e COSTA Sueli I. Rodrigues\u037e FIGUEIREDO Vera L\u00facia\u037e WETZLER Henry G. \u00c1lgebra linear., 3. ed. S\u00e3o Paulo: Editora Harbra Ltda, 1986.8.POOLE, David. \u00c1lgebra linear. S\u00e3o Paulo: Pioneira Thomson Learning, 2004.",
 "docentes": [
 "3682251 - Gabrielle Weber Martins"
 ],
@@ -764,61 +767,61 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
+"prof": "Fl\u00e1vio Jos\u00e9 da Silva "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": "Oswaldo Luiz Cobra Guimar\u00e3es "
+"prof": "Fl\u00e1vio Jos\u00e9 da Silva "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "3",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "62",
+"Pendentes": "2",
+"Matriculados": "57"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "52",
-"Inscritos": "3",
+"Vagas": "14",
+"Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "6",
+"Inscritos": "6",
+"Pendentes": "1",
+"Matriculados": "5"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "6",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "6",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "6",
+"Inscritos": "5",
+"Pendentes": "1",
+"Matriculados": "4"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "11",
+"Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "11"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "11",
+"Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "11"
 }
 }
 }
@@ -880,15 +883,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "31",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "36",
+"Pendentes": "6",
+"Matriculados": "30"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "31",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "36",
+"Pendentes": "6",
+"Matriculados": "30"
 }
 }
 }
@@ -940,27 +943,27 @@
 "aulas": {
 "h0": {
 "horario": " qua  14:00  16:00 ",
-"prof": " "
+"prof": "(R) Daniela Camargo Vernilli "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "20",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "25",
+"Pendentes": "1",
+"Matriculados": "24"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "43",
-"Inscritos": "20",
+"Vagas": "39",
+"Inscritos": "19",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "19"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "6",
+"Inscritos": "6",
+"Pendentes": "1",
+"Matriculados": "5"
 }
 }
 }
@@ -977,25 +980,30 @@
 "unidade": "Escola de Engenharia de Lorena",
 "departamento": "Engenharia de Materiais",
 "nome_en": "Technical and Computer Aided Design",
-"objectives": "Develop knowledge in order to make the student capable of correctly interpreting the technical drawing, knowing the methodologies and tools used in the industry, giving subsidies so that they can execute, interact and modify drawings and projects throughout their professional life.",
-"abstract": "Context of the technical drawing in the industry, main tools and techniques used in drawings for the elaboration of projects. Introduction to computer-aided design (CAD).",
+"objectives": "Develop knowledge in order to make the student capable of correctly interpreting the technical drawing, knowing the methodologies and tools used in the industry, giving subsidies so that they can execute, interact and modify drawings and projects throughout their professional life",
+"abstract": "Context of the technical drawing in the industry, main tools and techniques used in drawings for the elaboration of projects. Introduction to computer-aided design (CAD)",
 "program": "Technical drawing standards. Technical terminology and materials for drawing. Perspective representation. Orthogonal design. Scaling and scaling. Cut and section. Auxiliary view and details. Geometric tolerances. Representation of machine elements. Use of software for technical design. Computer-aided design in three dimensions (Solid Modeling). Computer-aided design in two dimensions.",
-"ndoc": 2,
+"ndoc": 7,
 "CA": "4",
 "CT": "0",
 "CH": "60 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2024",
-"objetivos": "Desenvolver conhecimentos de forma a tornar o aluno capaz de interpretar corretamente o desenho t\u00e9cnico, conhecer as metodologias e ferramentas utilizadas na ind\u00fastria, dando subs\u00eddios para que possa executar, interagir e modificar desenhos e projetos ao longo de sua vida profissional.",
-"resumo": "Contexto do desenho t\u00e9cnico na ind\u00fastria, principais ferramentas e t\u00e9cnicas utilizadas em desenhos para elabora\u00e7\u00e3o de projetos. Introdu\u00e7\u00e3o ao desenho assistido por computador (CAD).",
-"programa": "Normas do desenho t\u00e9cnico. Terminologia t\u00e9cnica e materiais para desenho. Representa\u00e7\u00e3o em perspectiva. Projeto ortogonal. Dimensionamento e escala. Corte e sec\u00e7\u00e3o. Vista Auxiliar e detalhes. Toler\u00e2ncias geom\u00e9tricas. Representa\u00e7\u00e3o de elementos de m\u00e1quinas. Utiliza\u00e7\u00e3o de software para desenho t\u00e9cnico. Desenho assistido por computador em tr\u00eas dimens\u00f5es (Modelagem de S\u00f3lidos). Desenho assistido por computador em duas dimens\u00f5es.",
-"metodo": "Aulas expositivas, trabalhos e aulas pr\u00e1ticas. Aulas com softwares para desenho t\u00e9cnico. Ser\u00e3o realizadas visitas t\u00e9cnicas em empresas no campo de engenharia e projetos para consolida\u00e7\u00e3o de pr\u00e1ticas da profiss\u00e3o e conceitos de desenho em projetos de engenharia.",
-"criterio": "M\u00e9dia aritm\u00e9tica das notas de atividades em aula e extra aula.",
-"exame": "Devido \u00e0s caracter\u00edsticas pr\u00e1ticas da disciplina, n\u00e3o ser\u00e1 oferecida recupera\u00e7\u00e3o",
-"bibliografia": "FRENCH, T. E.; VIERCK, C. J. Desenho T\u00e9cnico e Tecnologia Gr\u00e1fica, Editora Globo, 1999.\nGIESECKE, F. E. Comunica\u00e7\u00e3o Gr\u00e1fica Moderna, Editora Bookman, 2002.\nRIBEIRO, A. C.; PERES, M. P.; IZIDORO, N. Curso de Desenho T\u00e9cnico e AutoCAD, Pearson, 2013.\nSILVA, A.; RIBEIRO, C. T.; DIAS, J.; SOUSA, L. Desenho T\u00e9cnico Moderno, LTC, 2013.\nCRUZ, M. D. Catia V5r20 - Modelagem, Montagem e Detalhamento, ERICA, 2010.\nLIMA, C.C. Estudo dirigido de AutoCAD 2015. \u00c9RICA, 2015.\nLEAKE, J. Manual de Desenho t\u00e9cnico para engenharia, LTC, 2010.\nFISCHER, U; GOMERINGER, R; HEINZLER, M; ET AL. Manual de Tecnologia Metal Mec\u00e2nica, Blucher, 2011.\nPROVENZA, F. Desenhista de M\u00e1quinas . Editora Protec, 1991.\nPROVENZA, F. Projetista de M\u00e1quinas . Editora Protec, 1991.",
+"periodicidade": "60 h",
+"ativacao": "Semestral",
+"objetivos": "01/01/2025",
+"resumo": "Devido \u00e0s caracter\u00edsticas pr\u00e1ticas da disciplina, n\u00e3o ser\u00e1 oferecida recupera\u00e7\u00e3o",
+"programa": "FRENCH, T. E.; VIERCK, C. J. Desenho T\u00e9cnico e Tecnologia Gr\u00e1fica, Editora Globo, 1999.GIESECKE, F. E. Comunica\u00e7\u00e3o Gr\u00e1fica Moderna, Editora Bookman, 2002.RIBEIRO, A. C.; PERES, M. P.; IZIDORO, N. Curso de Desenho T\u00e9cnico e AutoCAD, Pearson, 2013.SILVA, A.; RIBEIRO, C. T.; DIAS, J.; SOUSA, L. Desenho T\u00e9cnico Moderno, LTC, 2013.CRUZ, M. D. Catia V5r20 - Modelagem, Montagem e Detalhamento, ERICA, 2010.LIMA, C.C. Estudo dirigido de AutoCAD 2015. \u00c9RICA, 2015.LEAKE, J. Manual de Desenho t\u00e9cnico para engenharia, LTC, 2010.FISCHER, U; GOMERINGER, R; HEINZLER, M; ET AL. Manual de Tecnologia Metal Mec\u00e2nica, Blucher, 2011.PROVENZA, F. Desenhista de M\u00e1quinas. Editora Protec, 1991.PROVENZA, F. Projetista de M\u00e1quinas. Editora Protec, 1991.",
+"metodo": "Pessoas com defici\u00eancias f\u00edsicas ou cognitivas. Inclui indiv\u00edduos de todas as idades e origens que podem se beneficiar de dispositivos e solu\u00e7\u00f5es que facilitem sua vida di\u00e1ria, promovam a independ\u00eancia e melhorem sua qualidade de vida.",
+"criterio": "Para os assistidos: Melhorar a qualidade de vida; promover a inclus\u00e3o; facilitar a acessibilidade; personaliza\u00e7\u00e3o e adapta\u00e7\u00e3o; promover a independ\u00eancia.Para a forma\u00e7\u00e3o dos discentes: Desenvolver conceitos de inova\u00e7\u00e3o e avan\u00e7o tecnol\u00f3gico",
+"exame": "- Identifica\u00e7\u00e3o das necessidades do grupo social: pesquisas, entrevistas e observa\u00e7\u00f5es para entender as necessidades, desafios e prefer\u00eancias dos usu\u00e1rios com defici\u00eancias.- Defini\u00e7\u00e3o de objetivos e requisitos do projeto para que as solu\u00e7\u00f5es desenvolvidas devem atender: identificar funcionalidades, restri\u00e7\u00f5es de or\u00e7amento e cronograma, e quaisquer outras considera\u00e7\u00f5es importantes.- Pesquisa e desenvolvimento de solu\u00e7\u00f5es: cria\u00e7\u00e3o de prot\u00f3tipos, desenvolvimento de software, fabrica\u00e7\u00e3o de dispositivos e realiza\u00e7\u00e3o de testes preliminares para garantir que as solu\u00e7\u00f5es atendam \u00e0s necessidades dos usu\u00e1rios.- Avalia\u00e7\u00e3o e testes: garantir sua efic\u00e1cia, seguran\u00e7a e usabilidade. Testes preliminares de laborat\u00f3rio, testes de campo com usu\u00e1rios reais e itera\u00e7\u00f5es subsequentes com base no feedback recebido.- Refinamento e otimiza\u00e7\u00e3o: solu\u00e7\u00f5es que possam ser refinadas e otimizadas para melhor atender \u00e0s necessidades dos usu\u00e1rios. Ajustes no design, na funcionalidade ou no desempenho das solu\u00e7\u00f5es, bem como a incorpora\u00e7\u00e3o de feedback adicional dos usu\u00e1rios.- Implementa\u00e7\u00e3o e distribui\u00e7\u00e3o: Visita e distribui\u00e7\u00e3o em casas de centros de apoio de usu\u00e1rios com as caracter\u00edsticas de defici\u00eancia do projeto proposto.",
+"bibliografia": "Os indicadores ser\u00e3o obtidos por question\u00e1rio de avalia\u00e7\u00e3o pelos usu\u00e1rios quanto aos seguintes quesitos: usabilidade; desempenho; impacto; satisfa\u00e7\u00e3o do usu\u00e1rio e custo-benef\u00edcio.",
 "docentes": [
+"Desenvolver conhecimentos de forma a tornar o aluno capaz de interpretar corretamente o desenho t\u00e9cnico, conhecer as metodologias e ferramentas utilizadas na ind\u00fastria, dando subs\u00eddios para que possa executar, interagir e modificar desenhos e projetos ao longo de sua vida profissional.",
 "519033 - Carlos Yujiro Shigue",
-"5817692 - Katia Cristiane Gandolpho Candioto"
+"5817692 - Katia Cristiane Gandolpho Candioto",
+"Contexto do desenho t\u00e9cnico na ind\u00fastria, principais ferramentas e t\u00e9cnicas utilizadas em desenhos para elabora\u00e7\u00e3o de projetos. Introdu\u00e7\u00e3o ao desenho assistido por computador (CAD).",
+"Normas do desenho t\u00e9cnico. Terminologia t\u00e9cnica e materiais para desenho. Representa\u00e7\u00e3o em perspectiva. Projeto ortogonal. Dimensionamento e escala. Corte e sec\u00e7\u00e3o. Vista Auxiliar e detalhes. Toler\u00e2ncias geom\u00e9tricas. Representa\u00e7\u00e3o de elementos de m\u00e1quinas. Utiliza\u00e7\u00e3o de software para desenho t\u00e9cnico. Desenho assistido por computador em tr\u00eas dimens\u00f5es (Modelagem de S\u00f3lidos). Desenho assistido por computador em duas dimens\u00f5es.",
+"Aulas expositivas, trabalhos, aulas pr\u00e1ticas, planejamento, gest\u00e3o e execu\u00e7\u00e3o de projeto de engenharia. Aulas com softwares para desenho t\u00e9cnico. Ser\u00e3o realizadas visitas t\u00e9cnicas em empresas no campo de engenharia e projetos para consolida\u00e7\u00e3o de pr\u00e1ticas da profiss\u00e3o e conceitos de desenho em projetos de engenharia.",
+"M\u00e9dia aritm\u00e9tica das notas de atividades em aula e extra aula, assim como nota do projeto de engenharia executado."
 ],
 "oferecimento": {
 "20251M1": {
@@ -1006,7 +1014,7 @@
 "aulas": {
 "h0": {
 "horario": " sex  08:00  12:00 ",
-"prof": " "
+"prof": "(R) Katia Cristiane Gandolpho Candioto "
 }
 },
 "vagas": {
@@ -1140,51 +1148,51 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "60",
+"Pendentes": "3",
+"Matriculados": "57"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "52",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "30",
+"Inscritos": "30",
+"Pendentes": "2",
+"Matriculados": "28"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "6",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "8",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "2",
+"Inscritos": "2",
+"Pendentes": "1",
+"Matriculados": "1"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "8",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 }
 }
 }
@@ -1241,15 +1249,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "11",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
-"Inscritos": "11",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 }
 }
 }
@@ -1310,45 +1318,45 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "14",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "32",
+"Pendentes": "1",
+"Matriculados": "31"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "52",
-"Inscritos": "14",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "5",
+"Inscritos": "5",
+"Pendentes": "1",
+"Matriculados": "4"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "7",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "6",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "5"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "7",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "8",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "1",
@@ -1420,51 +1428,51 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "5",
+"Inscritos": "59",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "58"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "52",
-"Inscritos": "5",
+"Vagas": "10",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "10"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "4",
+"Inscritos": "4",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "4"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "8",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "8",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "8"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "5",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "5"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "13",
+"Inscritos": "11",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "11"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "12",
+"Inscritos": "12",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "12"
 }
 }
 }
@@ -1511,51 +1519,51 @@
 "aulas": {
 "h0": {
 "horario": " seg  14:00  16:00 ",
-"prof": " "
+"prof": "Miguel Justino Ribeiro Barboza "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "24",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "40",
+"Pendentes": "12",
+"Matriculados": "28"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "38",
-"Inscritos": "24",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "21",
+"Inscritos": "19",
+"Pendentes": "4",
+"Matriculados": "15"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "6",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "6"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
+"Vagas": "5",
+"Inscritos": "4",
+"Pendentes": "4",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "1",
+"Matriculados": "2"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "9",
+"Inscritos": "7",
+"Pendentes": "3",
+"Matriculados": "4"
 }
 }
 }
@@ -1580,23 +1588,28 @@
 "nome_en": "Manufacturing Processes",
 "objectives": "Develop theoretical and practical knowledge of the manufacturing processes of equipment and devices required for the development of products and prototypes. Know the requirements and effects of manufacturing processes in order to allow, interact, create and execute projects throughout your professional life.",
 "abstract": "Introduction to manufacturing processes. Material joining processes. Computer-aided design (CAD) review. Computer Aided Manufacturing (CAM). Flexible production systems. Rapid prototyping.",
-"program": "Classification of manufacturing processes. Foundry. Powder metallurgy. Machining: processes, fundamentals and economic conditions. Machine tools. Mechanical conformation. Material joining processes. Computer Aided Manufacturing (CAM). Programming languages for numerical control. Numerical control machine tools. Product manufacturing sequence. Notions of automation of manufacturing processes. Rapid prototyping. Rapid prototyping systems (solid, liquid and powder).",
-"ndoc": 2,
+"program": "Classification of manufacturing processes. Foundry. Powder metallurgy. Machining: processes, fundamentals and economic conditions. Machine tools. Mechanical conformation. Material joining processes. Introduction to numerical control machine tools. Product manufacturing sequence. Notions of automation of manufacturing processes. Prototyping.",
+"ndoc": 7,
 "CA": "4",
 "CT": "0",
 "CH": "60 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2024",
-"objetivos": "Desenvolver conhecimento te\u00f3rico e pr\u00e1tico dos processos de fabrica\u00e7\u00e3o de equipamentos e dispositivos requeridos para o desenvolvimento de produtos e prot\u00f3tipos. Conhecer os requisitos e efeitos dos processos de fabrica\u00e7\u00e3o de forma a permitir, interagir, criar e executar projetos ao longo de sua vida profissional.",
-"resumo": "Introdu\u00e7\u00e3o aos processos de fabrica\u00e7\u00e3o. Processos de uni\u00e3o de materiais. Revis\u00e3o de projeto assistido por computador (CAD). Manufatura auxiliada por computador (CAM). Sistemas de produ\u00e7\u00e3o flex\u00edveis. Prototipa\u00e7\u00e3o r\u00e1pida.",
-"programa": "Classifica\u00e7\u00e3o dos processos de fabrica\u00e7\u00e3o. Fundi\u00e7\u00e3o. Metalurgia do p\u00f3. Usinagem: processos, fundamentos e condi\u00e7\u00f5es econ\u00f4micas. M\u00e1quinas-ferramentas. Conforma\u00e7\u00e3o mec\u00e2nica. Processos de uni\u00e3o de materiais. Manufatura auxiliada por computador (CAM). Linguagens de programa\u00e7\u00e3o para controle num\u00e9rico. M\u00e1quinas ferramentas de controle num\u00e9rico. Sequ\u00eancia de fabrica\u00e7\u00e3o de produtos. No\u00e7\u00f5es de automa\u00e7\u00e3o dos processos de manufatura. Prototipa\u00e7\u00e3o r\u00e1pida. Sistemas de prototipa\u00e7\u00e3o r\u00e1pida (s\u00f3lido, l\u00edquido e p\u00f3).",
-"metodo": "Aulas expositivas e aulas pr\u00e1ticas em laborat\u00f3rios de usinagem. Projeto e fabrica\u00e7\u00e3o de prot\u00f3tipos. Ser\u00e3o realizadas visitas t\u00e9cnicas em empresas no campo de engenharia e projetos para consolida\u00e7\u00e3o de pr\u00e1ticas da profiss\u00e3o e conceitos de manufatura de produtos.",
-"criterio": "M\u00e9dia ponderada das atividades pr\u00e1ticas desenvolvidas, trabalhos e relat\u00f3rios.",
-"exame": "Devido \u00e0s caracter\u00edsticas da disciplina, n\u00e3o ser\u00e1 oferecida recupera\u00e7\u00e3o.",
-"bibliografia": "SMID, P. CNC Programming Handbook, Industrial Press, 2007.\nGROOVER, M.; ZIMEMERS, E. Computer Aided Design and Manufacturing, Prentice-Hall, 1984.\nSTENERSON, J.; CURRAN, K. Computer Numerical Control: Operation and Programming, Prentice Hall, 2006.\nSIMON, W. Numerical Control of Machine Tools, Edward Arnold, 1973. \nMILNER, D.; VASILOV, V.: Computer Aided Engineering for Manufacture. Kogan Page, 1986.\nCHUA, C. K.; LEONG, K. F. Rapid Prototyping: Principles and Applications, World Scientific Publishing, 2010. MESSLER, R. W. Joining of Materials and Structures, Butterworth-Heinemann, 2004.\nKIMINAMI, C. S.; CASTRO, W. B.; OLIVEIRA, M. F. Introdu\u00e7\u00e3o aos processos de Fabrica\u00e7\u00e3o de Produtos Met\u00e1licos, Blucher, 2013.\nMEYERS, M.A. AND CHAWLA, K.K.; Mechanical Behavior of Materials, Prentice-Hall, Upper Saddle River-NJ (EUA), 1999.\nGIESECKE, F. E. Comunica\u00e7\u00e3o Gr\u00e1fica Moderna, Editora Bookman, 2002.\nCRUZ, M. D. Catia V5r20 - Modelagem, Montagem e Detalhamento, ERICA, 2010.\nFISCHER, U; GOMERINGER, R; HEINZLER, M; ET AL. Manual de Tecnologia Metal Mec\u00e2nica, Blucher, 2011.\nJACK, H. Projeto, Planejamento e Gest\u00e3o de Produtos  Uma abordagem para engenharia, Campus-Elsevier, 2014.\nSWIFT, K.G.; BOOKER, P.D. Sele\u00e7\u00e3o de processos de manufatura, Campus-Elsevier, 2014.",
+"periodicidade": "60 h",
+"ativacao": "Semestral",
+"objetivos": "01/01/2025",
+"resumo": "Devido \u00e0s caracter\u00edsticas da disciplina, n\u00e3o ser\u00e1 oferecida recupera\u00e7\u00e3o.",
+"programa": "SMID, P. CNC Programming Handbook, Industrial Press, 2007.GROOVER, M.; ZIMEMERS, E. Computer Aided Design and Manufacturing, Prentice-Hall, 1984.STENERSON, J.; CURRAN, K. Computer Numerical Control: Operation and Programming, Prentice Hall, 2006.SIMON, W. Numerical Control of Machine Tools, Edward Arnold, 1973.MILNER, D.; VASILOV, V.: Computer Aided Engineering for Manufacture. Kogan Page, 1986.CHUA, C. K.; LEONG, K. F. Rapid Prototyping: Principles and Applications, World Scientific Publishing, 2010. MESSLER, R. W. Joining of Materials and Structures, Butterworth-Heinemann, 2004.KIMINAMI, C. S.; CASTRO, W. B.; OLIVEIRA, M. F. Introdu\u00e7\u00e3o aos processos de Fabrica\u00e7\u00e3o de Produtos Met\u00e1licos, Blucher, 2013.MEYERS, M.A. AND CHAWLA, K.K.; Mechanical Behavior of Materials, Prentice-Hall, Upper Saddle River-NJ (EUA), 1999.GIESECKE, F. E. Comunica\u00e7\u00e3o Gr\u00e1fica Moderna, Editora Bookman, 2002.CRUZ, M. D. Catia V5r20 - Modelagem, Montagem e Detalhamento, ERICA, 2010.FISCHER, U; GOMERINGER, R; HEINZLER, M; ET AL. Manual de Tecnologia Metal Mec\u00e2nica, Blucher, 2011.JACK, H. Projeto, Planejamento e Gest\u00e3o de Produtos: Uma abordagem para engenharia, Campus-Elsevier, 2014.SWIFT, K.G.; BOOKER, P.D. Sele\u00e7\u00e3o de processos de manufatura, Campus-Elsevier, 2014.",
+"metodo": "A comunidade local ser\u00e1 o p\u00fablico-alvo deste projeto, incluindo trabalhadores de pequenas empresas, artes\u00e3os, jovens em busca de capacita\u00e7\u00e3o profissional e outros membros da comunidade interessados em aprender sobre fabrica\u00e7\u00e3o segura e sustent\u00e1vel.",
+"criterio": "O projeto extensionista proposto visa capacitar a comunidade local em pr\u00e1ticas seguras e sustent\u00e1veis de fabrica\u00e7\u00e3o, com foco em temas relacionados \u00e0 Engenharia F\u00edsica., incluindo possibilidade de fabrica\u00e7\u00e3o de prot\u00f3tipos. Atrav\u00e9s de oficinas de constru\u00e7\u00e3o utilizando ferramentas manuais e Equipamentos de Prote\u00e7\u00e3o Individual (EPIs), os alunos do curso ser\u00e3o protagonistas no desenvolvimento e execu\u00e7\u00e3o das atividades, enquanto a comunidade ser\u00e1 contemplada com conhecimentos importantes para a seguran\u00e7a no trabalho e a conscientiza\u00e7\u00e3o ambiental.Atrav\u00e9s de oficinas pr\u00e1ticas, os participantes ser\u00e3o capacitados a adotar medidas de seguran\u00e7a no trabalho e a incorporar princ\u00edpios de sustentabilidade em suas atividades de fabrica\u00e7\u00e3o, contribuindo para um ambiente de trabalho mais seguro e para a promo\u00e7\u00e3o do desenvolvimento sustent\u00e1vel na comunidade.",
+"exame": "Os alunos do curso de Engenharia F\u00edsica ser\u00e3o os protagonistas no desenvolvimento e execu\u00e7\u00e3o das atividades do projeto. As etapas incluir\u00e3o:\u2022Planejamento e Prepara\u00e7\u00e3o: Os alunos ir\u00e3o pesquisar e selecionar os conte\u00fados a serem abordados nas oficinas, al\u00e9m de preparar o material did\u00e1tico necess\u00e1rio.\u2022Divulga\u00e7\u00e3o e Inscri\u00e7\u00e3o: Divulga\u00e7\u00e3o do projeto na comunidade atrav\u00e9s de panfletos, redes sociais e parcerias com institui\u00e7\u00f5es locais, parcerias com escolas, associa\u00e7\u00f5es comunit\u00e1rias e empresas locais. As inscri\u00e7\u00f5es ser\u00e3o abertas para os interessados em participar das oficinas.\u2022Realiza\u00e7\u00e3o das Oficinas: As oficinas ser\u00e3o realizadas em um local adequado, com equipamentos de seguran\u00e7a e materiais necess\u00e1rios fornecidos. Os alunos ser\u00e3o respons\u00e1veis por ministrar as aulas pr\u00e1ticas, abordando os temas propostos.\u2022Avalia\u00e7\u00e3o dos Participantes: Ao final de cada oficina, os participantes ser\u00e3o avaliados quanto ao conhecimento adquirido, habilidades pr\u00e1ticas desenvolvidas e percep\u00e7\u00e3o sobre a import\u00e2ncia da seguran\u00e7a e sustentabilidade na fabrica\u00e7\u00e3o.\u2022Feedback e Melhoria Cont\u00ednua: Os alunos ir\u00e3o coletar feedback dos participantes e utilizar essas informa\u00e7\u00f5es para aprimorar as pr\u00f3ximas edi\u00e7\u00f5es das oficinas.",
+"bibliografia": "\u2022Question\u00e1rios de satisfa\u00e7\u00e3o ao final de cada oficina.\u2022Acompanhamento do n\u00famero de participantes que adotam pr\u00e1ticas seguras e sustent\u00e1veis em seus trabalhos ap\u00f3s a participa\u00e7\u00e3o nas oficinas.\u2022Question\u00e1rios de satisfa\u00e7\u00e3o ao final de cada oficina.\u2022Acompanhamento do n\u00famero de participantes que adotam pr\u00e1ticas seguras e sustent\u00e1veis em seus trabalhos ap\u00f3s a participa\u00e7\u00e3o nas oficinas.\u2022Feedback verbal durante as intera\u00e7\u00f5es com os participantes (sinalizar aqui como o grupo social externo \u00e0 Universidade poder\u00e1 avaliar a atividade realizada conjuntamente com os estudantes, durante sua realiza\u00e7\u00e3o e ao final)",
 "docentes": [
+"Desenvolver conhecimento te\u00f3rico e pr\u00e1tico dos processos de fabrica\u00e7\u00e3o de equipamentos e dispositivos requeridos para o desenvolvimento de produtos e prot\u00f3tipos. Conhecer os requisitos e efeitos dos processos de fabrica\u00e7\u00e3o de forma a permitir, interagir, criar e executar projetos ao longo de sua vida profissional.",
 "519033 - Carlos Yujiro Shigue",
-"5817692 - Katia Cristiane Gandolpho Candioto"
+"5817692 - Katia Cristiane Gandolpho Candioto",
+"Introdu\u00e7\u00e3o aos processos de fabrica\u00e7\u00e3o. Processos de uni\u00e3o de materiais. Revis\u00e3o de projeto assistido por computador (CAD). Manufatura auxiliada por computador (CAM). Sistemas de produ\u00e7\u00e3o flex\u00edveis. Prototipa\u00e7\u00e3o r\u00e1pida.",
+"Classifica\u00e7\u00e3o dos processos de fabrica\u00e7\u00e3o. Fundi\u00e7\u00e3o. Metalurgia do p\u00f3. Usinagem: processos, fundamentos e condi\u00e7\u00f5es econ\u00f4micas. M\u00e1quinas-ferramentas. Conforma\u00e7\u00e3o mec\u00e2nica. Processos de uni\u00e3o de materiais. Introdu\u00e7\u00e3o \u00e0s m\u00e1quinas ferramentas de controle num\u00e9rico. Sequ\u00eancia de fabrica\u00e7\u00e3o de produtos. No\u00e7\u00f5es de automa\u00e7\u00e3o dos processos de manufatura. Prototipa\u00e7\u00e3o.",
+"M\u00e9todo: Aulas expositivas e aulas pr\u00e1ticas em laborat\u00f3rios de manufatura. Haver\u00e1 o desenvolvimento de um projeto de extens\u00e3o com um tema amplo do projeto em \"Fabrica\u00e7\u00e3o Sustent\u00e1vel e Segura\". Ser\u00e3o realizadas visitas t\u00e9cnicas em empresas no campo de engenharia e projetos para consolida\u00e7\u00e3o de pr\u00e1ticas da profiss\u00e3o e conceitos de manufatura de produtos.",
+"M\u00e9dia ponderada das atividades pr\u00e1ticas desenvolvidas, trabalhos, relat\u00f3rios e o desenvolvimento do projeto de extens\u00e3o desenvolvido."
 ],
 "oferecimento": {
 "20251F1": {
@@ -1607,21 +1620,21 @@
 "aulas": {
 "h0": {
 "horario": " qua  14:00  18:00 ",
-"prof": " "
+"prof": "(R) Katia Cristiane Gandolpho Candioto "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "16",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "15",
+"Pendentes": "3",
+"Matriculados": "12"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "16",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "15",
+"Pendentes": "3",
+"Matriculados": "12"
 }
 }
 }
@@ -1673,25 +1686,25 @@
 "aulas": {
 "h0": {
 "horario": " qua  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Antonio Jefferson da Silva Machado "
 },
 "h1": {
 "horario": " sex  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Antonio Jefferson da Silva Machado "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "16",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "22",
+"Pendentes": "8",
+"Matriculados": "14"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "16",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "22",
+"Pendentes": "8",
+"Matriculados": "14"
 }
 }
 }
@@ -1748,25 +1761,25 @@
 "aulas": {
 "h0": {
 "horario": " qua  08:00  10:00 ",
-"prof": " "
+"prof": "Sandra Giacomin Schneider "
 },
 "h1": {
 "horario": " sex  08:00  10:00 ",
-"prof": " "
+"prof": "Sandra Giacomin Schneider "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "25",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "24",
+"Pendentes": "2",
+"Matriculados": "22"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "25",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "24",
+"Pendentes": "2",
+"Matriculados": "22"
 }
 }
 }
@@ -1827,15 +1840,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "50",
+"Inscritos": "36",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "35"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "60",
-"Inscritos": "50",
+"Inscritos": "35",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "35"
 }
 }
 }
@@ -2189,21 +2202,21 @@
 "aulas": {
 "h0": {
 "horario": " sex  08:00  10:00 ",
-"prof": " "
+"prof": "(R) S\u00e9rgio Schneider "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "10",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "36",
+"Pendentes": "1",
+"Matriculados": "35"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "37",
+"Vagas": "14",
 "Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "10"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
@@ -2212,10 +2225,10 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "8",
+"Inscritos": "8",
+"Pendentes": "1",
+"Matriculados": "7"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
@@ -2224,22 +2237,22 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "7",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "7"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "10",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "9"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "2",
-"Inscritos": "0",
+"Vagas": "4",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "2"
 }
 }
 }
@@ -2296,25 +2309,25 @@
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
-"prof": " "
+"prof": "(R) Paulo Atsushi Suzuki "
 },
 "h1": {
 "horario": " qui  16:00  18:00 ",
-"prof": " "
+"prof": "(R) Paulo Atsushi Suzuki "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "24",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "23",
+"Pendentes": "2",
+"Matriculados": "21"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "24",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "23",
+"Pendentes": "2",
+"Matriculados": "21"
 }
 }
 }
@@ -2377,25 +2390,25 @@
 "aulas": {
 "h0": {
 "horario": " ter  14:00  16:00 ",
-"prof": " "
+"prof": "(R) Luiz Tadeu Fernandes Eleno "
 },
 "h1": {
 "horario": " qui  14:00  16:00 ",
-"prof": " "
+"prof": "(R) Luiz Tadeu Fernandes Eleno "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "21",
+"Inscritos": "22",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "22"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "21",
+"Inscritos": "22",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "22"
 }
 }
 }
@@ -2452,25 +2465,25 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Luiz Tadeu Fernandes Eleno "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Luiz Tadeu Fernandes Eleno "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "28",
+"Pendentes": "1",
+"Matriculados": "27"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "40",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "28",
+"Pendentes": "1",
+"Matriculados": "27"
 }
 }
 }
@@ -2521,21 +2534,21 @@
 "aulas": {
 "h0": {
 "horario": " qua  08:00  12:00 ",
-"prof": " "
+"prof": "Antonio Fernando Sartori "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "25",
+"Pendentes": "1",
+"Matriculados": "24"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "40",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "25",
+"Pendentes": "1",
+"Matriculados": "24"
 }
 }
 }
@@ -2552,7 +2565,7 @@
 "unidade": "Escola de Engenharia de Lorena",
 "departamento": "Engenharia de Materiais",
 "nome_en": "Seminars in Engineering Physics",
-"objectives": "Provide student seminars on current topics in Physics, Technology and Engineering.",
+"objectives": "Offering seminars to students on current science, engineering and entrepreneurship topics.",
 "abstract": "Seminars covering the current and future scenarios of the high technology industry and the field of activity of the physical engineer.",
 "program": "Seminars followed by debates with professionals and undergraduate and graduate students on relevant and current topics in the areas of Physics, Technology and Engineering, ranging from basic research to the industrial and services segment.",
 "ndoc": 2,
@@ -2560,8 +2573,8 @@
 "CT": "1",
 "CH": "60 h",
 "periodicidade": "Semestral",
-"ativacao": "01/01/2023",
-"objetivos": "Fornecer ao aluno semin\u00e1rios sobre temas atuais de F\u00edsica, Tecnologia e Engenharia.",
+"ativacao": "01/01/2025",
+"objetivos": "Oferecimento de semin\u00e1rios aos alunos sobre temas atuais de  Ci\u00eancias, Engenharia e Empreendedorismo.",
 "resumo": "Semin\u00e1rios abrangendo os cen\u00e1rios atuais e futuros da ind\u00fastria de alta tecnologia e do campo de atua\u00e7\u00e3o do engenheiro f\u00edsico.",
 "programa": "Semin\u00e1rios seguido de debates com profissionais e estudantes de gradua\u00e7\u00e3o e p\u00f3s-gradua\u00e7\u00e3o sobre temas relevantes e atuais das \u00e1reas de F\u00edsica, Tecnologia e Engenharia, abrangendo desde as pesquisas b\u00e1sicas at\u00e9 o segmento industrial e de servi\u00e7os.",
 "metodo": "Os semin\u00e1rios proferidos por estudantes de gradua\u00e7\u00e3o e p\u00f3s-gradua\u00e7\u00e3o, professores e convidados ser\u00e3o debatidos e analisados pelos alunos em forma de relat\u00f3rio. Os semin\u00e1rios apresentados pelos alunos ser\u00e3o avaliados na disciplina.",
@@ -2581,21 +2594,21 @@
 "aulas": {
 "h0": {
 "horario": " qua  14:00  16:00 ",
-"prof": " "
+"prof": "(R) Carlos Angelo Nunes "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "36",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "39",
+"Pendentes": "9",
+"Matriculados": "30"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "36",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "39",
+"Pendentes": "9",
+"Matriculados": "30"
 }
 }
 }
@@ -2647,25 +2660,25 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "(R) Carlos Yujiro Shigue "
 },
 "h1": {
-"horario": " qui  08:00  10:00 ",
-"prof": " "
+"horario": "Andy Blanco Rodriguez   qui  08:00",
+"prof": " 10:00 "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "21",
+"Inscritos": "22",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "22"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "21",
+"Inscritos": "22",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "22"
 }
 }
 }
@@ -2710,31 +2723,31 @@
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
-"prof": " "
+"prof": "(R) Rosa Ana Conte "
 },
 "h1": {
 "horario": " qui  08:00  10:00 ",
-"prof": " "
+"prof": "(R) Rosa Ana Conte "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "16",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "30",
+"Pendentes": "9",
+"Matriculados": "21"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "43",
-"Inscritos": "16",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "30",
+"Inscritos": "15",
+"Pendentes": "7",
+"Matriculados": "8"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "2",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "15",
+"Inscritos": "15",
+"Pendentes": "2",
+"Matriculados": "13"
 }
 }
 }
@@ -2923,24 +2936,29 @@
 "departamento": "Engenharia de Materiais",
 "nome_en": "Integrated Project",
 "objectives": "Introduce students to the principles and methodology of scientific research.",
-"abstract": "Initiation into a research project under the guidance of a professor.",
-"program": "Organization and formalism of the development of scientific work or engineering project. Scientific writing techniques, use of search tools, bibliographic references and formal structures of scientific dissemination. Development of an individual research or engineering project topic, with the format of a Scientific Initiation work, under the guidance of a professor or researcher authorized by the Course Committee. Delivery and presentation of research project document at the end of the course.",
-"ndoc": 2,
+"abstract": "Initiation to a research project under the guidance of a professor.",
+"program": "Organization and formalism of the development of scientific work or engineering design. Scientific writing techniques, use of search tools, bibliographic references and formal structures of scientific dissemination. Development of a research topic or engineering project, in the format of a scientific initiation work, under the guidance of a professor or researcher authorized by the Course Committee. Delivery and presentation of technical document at the end of the course.",
+"ndoc": 7,
 "CA": "2",
 "CT": "4",
 "CH": "150 h",
-"periodicidade": "Semestral",
-"ativacao": "15/07/2024",
-"objetivos": "Introduzir aos estudantes os princ\u00edpios e a metodologia da pesquisa cient\u00edfica.",
-"resumo": "Inicia\u00e7\u00e3o a um projeto de pesquisa sob orienta\u00e7\u00e3o de um professor.",
-"programa": "Organiza\u00e7\u00e3o e o formalismo do desenvolvimento do trabalho cient\u00edfico ou projeto de engenharia. T\u00e9cnicas de reda\u00e7\u00e3o cient\u00edfica, uso de ferramentas de busca, refer\u00eancias bibliogr\u00e1ficas e estruturas formais de divulga\u00e7\u00e3o cient\u00edfica. Desenvolvimento de um tema de pesquia ou projeto de engenharia, com o formato de um trabalho de inicia\u00e7\u00e3o cient\u00edfica, sob a orienta\u00e7\u00e3o de um professor ou pesquisador autorizado pela Comiss\u00e3o de Curso. Entrega e apresenta\u00e7\u00e3o de documento t\u00e9cnico no final da disciplina.",
-"metodo": "Aulas expositivas, reuni\u00f5es com professor orientador, desenvolvimento de projeto de pesquisa e/ou engenharia e elabora\u00e7\u00e3o de projeto de pesquisa e/ou engenharia. Visitas t\u00e9cnicas em institutos ou empresas da \u00e1rea cient\u00edfica ou de engenharia.",
-"criterio": "Nota de avalia\u00e7\u00e3o do projeto e demais documentos.",
-"exame": "Devido \u00e0s caracter\u00edsticas do curso, n\u00e3o ser\u00e1 oferecida recupera\u00e7\u00e3o.",
-"bibliografia": "ASTI VERA, A. Metodologia da pesquisa cient\u00edfica. Porto Alegre: Ed. Globo, 1973.\nBARRAS, R. Os cientistas precisam escrever: guia de reda\u00e7\u00e3o para cientistas, engenheiros e estudantes. S\u00e3o Paulo: TAQ/EDUSP, 1979.\nCERVO, A. L.; BERVIAN, P. A. Metodologia cient\u00edfica. S\u00e3o Paulo: Mc-Graw-Hill do Brasil, 1973.\nANDRADE, M. M. Introdu\u00e7\u00e3o \u00e0 Metodologia do Trabalho Cient\u00edfico S\u00e3o Paulo: Atlas, 2005.",
+"periodicidade": "120 h",
+"ativacao": "Semestral",
+"objetivos": "01/01/2025",
+"resumo": "Devido \u00e0s caracter\u00edsticas pr\u00e1ticas da disciplina, n\u00e3o ser\u00e1 oferecida recupera\u00e7\u00e3o",
+"programa": "ASTI VERA, A. Metodologia da pesquisa cient\u00edfica. Porto Alegre: Ed. Globo, 1973. BARRAS, R. Os cientistas precisam escrever: guia de reda\u00e7\u00e3o para cientistas, engenheiros e estudantes. S\u00e3o Paulo: TAQ/EDUSP, 1979. CERVO, A. L.; BERVIAN, P. A. Metodologia cient\u00edfica. S\u00e3o Paulo: Mc-Graw-Hill do Brasil, 1973. ANDRADE, M. M. Introdu\u00e7\u00e3o \u00e0 Metodologia do Trabalho Cient\u00edfico S\u00e3o Paulo: Atlas, 2005.",
+"metodo": "Estudantes de ensino infantil, fundamental ou m\u00e9dio.",
+"criterio": "Para os estudantes: despertar interesse na engenharia.Para a forma\u00e7\u00e3o dos discentes: Desenvolver conceitos de engenharia com aplica\u00e7\u00f5es profissionais",
+"exame": "- Identifica\u00e7\u00e3o das necessidades do grupo social: pesquisas, entrevistas e observa\u00e7\u00f5es para entender as necessidades, desafios e prefer\u00eancias dos estudantes.- Defini\u00e7\u00e3o de objetivos e requisitos do projeto para que as solu\u00e7\u00f5es desenvolvidas devem atender: identificar funcionalidades, restri\u00e7\u00f5es de or\u00e7amento e cronograma, e quaisquer outras considera\u00e7\u00f5es importantes.- Pesquisa e desenvolvimento projetos relacionados \u00e0 engenharia: cria\u00e7\u00e3o de prot\u00f3tipos, desenvolvimento de software, fabrica\u00e7\u00e3o de dispositivos e apresenta\u00e7\u00e3o de aplica\u00e7\u00f5es para garantir que haja dissemina\u00e7\u00e3o do conhecimento sobre a profiss\u00e3o engenharia.- Avalia\u00e7\u00e3o: feedback recebido quanto ao conhecimento sobre o tema.- Implementa\u00e7\u00e3o e distribui\u00e7\u00e3o: Visita e apresenta\u00e7\u00f5es em escolas de ensino infantil, fundamental ou m\u00e9dio.",
+"bibliografia": "Os indicadores ser\u00e3o obtidos por question\u00e1rio de avalia\u00e7\u00e3o pelos usu\u00e1rios quanto aos seguintes quesitos: conhecimento adquirido e satisfa\u00e7\u00e3o do usu\u00e1rio nas apresenta\u00e7\u00f5es e formas de divulga\u00e7\u00e3o.",
 "docentes": [
+"Introduzir aos estudantes os princ\u00edpios e a metodologia da pesquisa cient\u00edfica.",
 "519033 - Carlos Yujiro Shigue",
-"5817692 - Katia Cristiane Gandolpho Candioto"
+"5817692 - Katia Cristiane Gandolpho Candioto",
+"Inicia\u00e7\u00e3o a um projeto de pesquisa sob orienta\u00e7\u00e3o de um professor.",
+"Organiza\u00e7\u00e3o e o formalismo do desenvolvimento do trabalho cient\u00edfico ou projeto de engenharia. T\u00e9cnicas de reda\u00e7\u00e3o cient\u00edfica, uso de ferramentas de busca, refer\u00eancias bibliogr\u00e1ficas e estruturas formais de divulga\u00e7\u00e3o cient\u00edfica. Desenvolvimento de um tema de pesquisa ou projeto de engenharia, com o formato de um trabalho de inicia\u00e7\u00e3o cient\u00edfica, sob a orienta\u00e7\u00e3o de um professor ou pesquisador autorizado pela Comiss\u00e3o de Curso. Entrega e apresenta\u00e7\u00e3o de documento t\u00e9cnico no final da disciplina.",
+"Aulas expositivas, reuni\u00f5es com professor orientador, desenvolvimento de projeto de pesquisa e/ou engenharia e elabora\u00e7\u00e3o de projeto de pesquisa e/ou engenharia. Visitas t\u00e9cnicas em institutos ou empresas da \u00e1rea cient\u00edfica ou de engenharia.",
+"Nota de avalia\u00e7\u00e3o do projeto e demais documentos."
 ],
 "oferecimento": null
 },
@@ -3003,25 +3021,30 @@
 "unidade": "Escola de Engenharia de Lorena",
 "departamento": "Engenharia de Materiais",
 "nome_en": "Clean Technologies for Energy Generation",
-"objectives": "This discipline is part of the training of the materials engineer, contributing to generate general and specific skills.Present concepts and examples of clean technologies.Address fundamental concepts about renewable sources for thermal, electrical, vehicular energy generation, among others.Present examples of power generation systems based on renewable sources.To enable students to develop an integrated view of the technical-economic-environmental feasibility of clean technologies and power generation.Encourage group work, with emphasis on the integrated view on the aspects addressed in the discipline.Relate this discipline with others of the course grid, such as: Natural Resources, Thermodynamics of Machines, Introduction to Polymeric Materials, Ceramic Processing I, among others.",
-"abstract": "1. Clean technologies. 2. Renewable sources: solar thermal and photovoltaic, wind, ocean and biomass for power generation; its national and worldwide availability. 3. Treatment of waste for thermal, electrical, vehicular energy generation.4. Social, environmental and economic impacts of renewable energy generation.",
-"program": "1. Concept about clean technologies.2. National and global primary and secondary energy matrices. 3. Fundamental concepts about renewable sources: feasibility for power generation.4. Generation of energy by renewable sources: solar thermal and photovoltaic; Wind; oceanic and biomass.5. Urban, agricultural and industrial waste: National Policy on Solid Waste and waste treatment for energy generation.6. Integration of renewable sources for power generation: hybrid thermal cycles.7. Social, environmental and economic aspects of energy generation from renewable sources.",
-"ndoc": 2,
+"objectives": "To present concepts about renewable sources for the generation of thermal, electrical and vehicular energy, among others, and concepts and case studies based on sustainability engineering.",
+"abstract": "Renewable sources and clean technologies for energy generation. Study of current national and global systems. Sustainability engineering concepts and case studies.",
+"program": "National and global energy systems: renewable and fossil sources. Energy generation from renewable sources: solar thermal and photovoltaic; wind; maritime. Biomass generation for energy purposes. Integration of renewable sources for energy generation: hybrid thermal cycles. Reforestation; Processing of household solid waste. Sustainability: classification and techniques for minimizing waste; management of urban and industrial solid waste: recyclable and non-recyclable; integration of environmental, social and economic actions; Case Study.",
+"ndoc": 7,
 "CA": "2",
 "CT": "2",
 "CH": "90 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2024",
-"objetivos": "Esta disciplina faz parte da forma\u00e7\u00e3o do engenheiro de materiais, contribuindo para gerar compet\u00eancias gerais e espec\u00edficas.Apresentar conceitos e exemplos de tecnologias limpas.Abordar conceitos fundamentais sobre fontes renov\u00e1veis para gera\u00e7\u00e3o de energia t\u00e9rmica, el\u00e9trica, veicular, dentre outras.Apresentar exemplos de sistemas de gera\u00e7\u00e3o de energia baseados em fontes renov\u00e1veis.Capacitar os alunos a desenvolverem uma vis\u00e3o integrada da viabilidade t\u00e9cnico-econ\u00f4mica-ambiental das tecnologias limpas e gera\u00e7\u00e3o de energia.Incentivar trabalhos em grupo, com \u00eanfase na vis\u00e3o integrada sobre os aspectos abordados na disciplina.Relacionar esta disciplina com outras da grade do curso, como: Recursos Naturais, Termodin\u00e2mica de M\u00e1quinas, Introdu\u00e7\u00e3o aos Materiais Polim\u00e9ricos, Processamento de Cer\u00e2micas I, dentre outras.",
-"resumo": "1. Tecnologias limpas. 2. Fontes renov\u00e1veis: solar t\u00e9rmica e fotovoltaica, e\u00f3lica, oce\u00e2nica e biomassa para gera\u00e7\u00e3o de energia; sua disponibilidade nacional e mundial. 3. Tratamento de res\u00edduos para gera\u00e7\u00e3o de energias t\u00e9rmica, el\u00e9trica, veicular.4. Impactos sociais, ambientais e econ\u00f4micos da gera\u00e7\u00e3o de energia por fontes renov\u00e1veis.",
-"programa": "1. Conceito sobre tecnologias limpas.2. Matrizes energ\u00e9ticas prim\u00e1rias e secund\u00e1rias nacionais e mundiais. 3. Conceitos fundamentais sobre fontes renov\u00e1veis: viabilidade para gera\u00e7\u00e3o de energias.4. Gera\u00e7\u00e3o de energia por fontes renov\u00e1veis: solar t\u00e9rmica e fotovoltaica; e\u00f3lica; oce\u00e2nica e biomassa.5. Res\u00edduos urbanos, agr\u00edcolas e industriais: Pol\u00edtica Nacional de Res\u00edduos S\u00f3lidos e tratamento de res\u00edduos para gera\u00e7\u00e3o de energia.6. Integra\u00e7\u00e3o de fontes renov\u00e1veis para gera\u00e7\u00e3o de energia: ciclos t\u00e9rmicos h\u00edbridos.7. Aspectos sociais, ambientais e econ\u00f4micos da gera\u00e7\u00e3o de energia por fontes renov\u00e1veis.",
-"metodo": "aulas expositivas complementadas pelo docente e trabalhos em grupo sobre temas abrangentes do programa.",
-"criterio": "Os alunos receber\u00e3o nota pelos trabalhos em grupo, que ter\u00e3o peso 0,6. Ser\u00e1 aplicada uma prova escrita sobre todos os t\u00f3picos abordados, com peso 0,4. A nota final (NF) ser\u00e1 calculada pela equa\u00e7\u00e3o: NF = Trabalhos em grupo x 0,6 + prova escrita x 0,4.",
-"exame": "Para a recupera\u00e7\u00e3o ser\u00e1 realizada uma prova (PR) abrangendo toda a mat\u00e9ria lecionada no semestre e apresentada nos trabalhos, valendo de 0 (zero) a 10 (dez). M\u00e9dia final = (NF + PR)/2.",
-"bibliografia": "DA Rosa, A. V. BOEKER, E., 2015, Processos de Energias Renov\u00e1veis, Rio de Janeiro: Elsevier; ROCHA, J.C.; ROSA, A.H.; CARDOSO, A.A. Introdu\u00e7\u00e3o \u00e0 Qu\u00edmica do Meio Ambiente, Porto Alegre: Bookman, 2004 GON\u00c7ALVES DA SILVA, C. De Sol a Sol, S\u00e3o Paulo: Oficina de Textos, 2010 \u00c7ENGEL, Y.A.; BOLES, M.A. Thermodynamics An Engineering Approach, 6th ed., New York: McGraw Hill, 2008; BORGNAKKE, C; SONNTAG, R.E. Fundamentos da termodin\u00e2mica, S\u00e3o Paulo: Blucher, 2013; Vilhena, A. (coord.) Lixo Municipal: manual de gerenciamento integrado, S\u00e3o Paulo: CEMPRE, 3a. ed., 2010; S\u00edtios eletr\u00f4nicos sobre Reciclagem de Materiais. Cada um desses s\u00edtios tem uma apresenta\u00e7\u00e3o de programas de reciclagem nas suas \u00e1reas de atua\u00e7\u00e3o e oferece ampla oferta de literatura, textos e muitas vezes, v\u00eddeos sobre reciclagem espec\u00edfica de certos materiais. Links \u00fateis tamb\u00e9m s\u00e3o apresentados, levando a sites de empresas que apresentam seus programas de reciclagem; SUN, Y.P. Supercritical fluid technology in materials science and engineering: syntheses, properties, and applications. Marcel Dekker, 2002; MATHIAS, M.C. P.P. A FORMA\u00c7\u00c3O DA IND\u00daSTRIA GLOBAL DE G\u00c1S NATURAL - Defini\u00e7\u00e3o, Condicionantes e Desafios, Interci\u00eancias, 2010; ABREU, F. V. BIOG\u00c1S - Economia, regula\u00e7\u00e3o e sustentabilidade, Interci\u00eancia, 2014; BRAND , M.A. ENERGIA DE BIOMASSA FLORESTAL, Interci\u00eancia, 2010; CORR\u00caA, O.L.S. PETR\u00d3LEO - No\u00e7\u00f5es sobre Explora\u00e7\u00e3o, Perfura\u00e7\u00e3o, Produ\u00e7\u00e3o e Microbiologia, Interci\u00eancia, 2003.",
+"periodicidade": "60 h",
+"ativacao": "Semestral",
+"objetivos": "01/01/2025",
+"resumo": "Devido \u00e0 caracter\u00edstica da disciplina, n\u00e3o haver\u00e1 prova de recupera\u00e7\u00e3o.",
+"programa": "DA Rosa, A. V. BOEKER, E., 2015, Processos de Energias Renov\u00e1veis, Rio de Janeiro: Elsevier; ROCHA, J.C.; ROSA, A.H.; CARDOSO, A.A. Introdu\u00e7\u00e3o \u00e0 Qu\u00edmica do Meio Ambiente, Porto Alegre: Bookman, 2004 GON\u00c7ALVES DA SILVA, C. De Sol a Sol, S\u00e3o Paulo: Oficina de Textos, 2010 \u00c7ENGEL, Y.A.; BOLES, M.A. Thermodynamics An Engineering Approach, 6th ed., New York: McGraw Hill, 2008; BORGNAKKE, C; SONNTAG, R.E. Fundamentos da termodin\u00e2mica, S\u00e3o Paulo: Blucher, 2013; Vilhena, A. (coord.) Lixo Municipal: manual de gerenciamento integrado, S\u00e3o Paulo: CEMPRE, 3a. ed., 2010; S\u00edtios eletr\u00f4nicos sobre Reciclagem de Materiais. Cada um desses s\u00edtios tem uma apresenta\u00e7\u00e3o de programas de reciclagem nas suas \u00e1reas de atua\u00e7\u00e3o e oferece ampla oferta de literatura, textos e muitas vezes, v\u00eddeos sobre reciclagem espec\u00edfica de certos materiais. Links \u00fateis tamb\u00e9m s\u00e3o apresentados, levando a sites de empresas que apresentam seus programas de reciclagem; SUN, Y.P. Supercritical fluid technology in materials science and engineering: syntheses, properties, and applications. Marcel Dekker, 2002; MATHIAS, M.C. P.P. A FORMA\u00c7\u00c3O DA IND\u00daSTRIA GLOBAL DE G\u00c1S NATURAL - Defini\u00e7\u00e3o, Condicionantes e Desafios, Interci\u00eancias, 2010; ABREU, F. V. BIOG\u00c1S - Economia, regula\u00e7\u00e3o e sustentabilidade, Interci\u00eancia, 2014; BRAND , M.A. ENERGIA DE BIOMASSA FLORESTAL, Interci\u00eancia, 2010; CORR\u00caA, O.L.S. PETR\u00d3LEO - No\u00e7\u00f5es sobre Explora\u00e7\u00e3o, Perfura\u00e7\u00e3o, Produ\u00e7\u00e3o e Microbiologia, Interci\u00eancia, 2003; QASSIM, Raad Yahya; VASCONCELLOS, R. Minimiza\u00e7\u00e3o de Rejeitos: Gerenciamento de Res\u00edduos Industriais. In: III SEMIN\u00c1RIO DE TRANSFER\u00caNCIA DETECNOLOGIA, 1995, Rio de Janeiro. Rio de Janeiro: Livraria LMC, 1995. p. 63 \u2013105; Ayoub, Julianno Pizzano Oliveira, Marcel Ricardo Nogueira de (org.), AMBI\u00caNCIA, ENGENHARIA E SUSTENTABILIDADE EM DIFERENTES ESPA\u00c7OS E DIRE\u00c7\u00d5ES - VOLUME 2, Editora Cient\u00edfica Digital, 240p.,2023; Literatura dispon\u00edvel sobre estudo de casos.",
+"metodo": "escolas p\u00fablicas de ensino fundamental e m\u00e9dio, comunidades de baixa renda, pequenos com\u00e9rcios, pequenos empreendedores na \u00e1rea de reciclagem de res\u00edduos s\u00f3lidos, atendendo aos munic\u00edpios de Lorena e seu entorno.",
+"criterio": "suporte \u00e0s aulas de termodin\u00e2mica e meio ambiente de escolas p\u00fablicas, com demonstra\u00e7\u00e3o dos princ\u00edpios b\u00e1sicos de gera\u00e7\u00e3o de energia e frio; identifica\u00e7\u00e3o e proposi\u00e7\u00e3o de solu\u00e7\u00f5es de baixo custo para melhoria da qualidade ambiental (ar condicionado, aumento de umidade, dentre outras) de resid\u00eancias e pequenos com\u00e9rcios; incentivo ao empreendedorismo para diminuir passivos ambientais baseados em res\u00edduos s\u00f3lidos domiciliares.",
+"exame": "desenvolvimentos de bancadas did\u00e1ticas reproduzindo ciclos t\u00e9rmicos de gera\u00e7\u00e3o de energia por fontes de recursos variadas, e de ciclos de refrigera\u00e7\u00e3o, com \u00eanfase na reutiliza\u00e7\u00e3o de res\u00edduos s\u00f3lidos descartados como inserv\u00edveis; desenvolvimento de projetos de baixo custo para melhoria de condi\u00e7\u00f5es em ambientes dom\u00e9sticos e de trabalho; desenvolvimento de materiais ou processos que deem destino \u00fatil aos res\u00edduos s\u00f3lidos domiciliares ou mesmo do com\u00e9rcio. Os projetos desenvolvidos dever\u00e3o compor um trabalho final escrito contendo as informa\u00e7\u00f5es pertinentes, conforme o tipo de projeto.",
+"bibliografia": "as atividades ser\u00e3o avaliadas pelo p\u00fablico social envolvido, que indicar\u00e1 os resultados alcan\u00e7ados pelos projetos implantados. Os beneficiados responder\u00e3o a question\u00e1rios simples indicando o grau de satisfa\u00e7\u00e3o e propondo altera\u00e7\u00f5es que permitam a melhoria dos projetos. A avalia\u00e7\u00e3o final da atividade dever\u00e1 ser uma apresenta\u00e7\u00e3o \u00e0 comunidade, como parte de um evento ou em escolas para uma ampla divulga\u00e7\u00e3o dos projetos.",
 "docentes": [
+"Apresentar conceitos sobre fontes renov\u00e1veis para gera\u00e7\u00e3o de energia t\u00e9rmica, el\u00e9trica e veicular, dentre outras, e de conceitos e estudo de casos baseados em engenharia de sustentabilidade.",
 "5840963 - Daniela Camargo Vernilli",
-"5840521 - Rosa Ana Conte"
+"5840521 - Rosa Ana Conte",
+"Fontes renov\u00e1veis e tecnologias limpas para gera\u00e7\u00e3o de energia. Estudo dos sistemas atuais nacionais e mundiais. Conceitos de engenharia de sustentabilidade e estudo de casos.",
+"Sistemas energ\u00e9ticos nacionais e mundiais: fontes renov\u00e1veis e f\u00f3sseis. Gera\u00e7\u00e3o de energia por fontes renov\u00e1veis: solar t\u00e9rmica e fotovoltaica; e\u00f3lica; mar\u00edtima. Gera\u00e7\u00e3o de biomassa para fins energ\u00e9ticos. Integra\u00e7\u00e3o de fontes renov\u00e1veis para gera\u00e7\u00e3o de energia: ciclos t\u00e9rmicos h\u00edbridos; reflorestamento; processamento de res\u00edduos s\u00f3lidos domiciliares. Sustentabilidade: classifica\u00e7\u00e3o e t\u00e9cnica para minimiza\u00e7\u00e3o de res\u00edduos; gerenciamento de res\u00edduos s\u00f3lidos urbanos e industriais: recicl\u00e1veis e n\u00e3o recicl\u00e1veis; integra\u00e7\u00e3o de a\u00e7\u00f5es ambientais, sociais e econ\u00f4micas; estudo de casos.",
+"Aulas expositivas, semin\u00e1rios, trabalho em grupo e projetos extensionistas.",
+"A nota final ser\u00e1 a m\u00e9dia ponderada dos trabalhos apresentados pelos alunos durante o curso (peso 1) e do projeto extensionista realizado (peso 2)."
 ],
 "oferecimento": {
 "20251F1": {
@@ -3032,21 +3055,21 @@
 "aulas": {
 "h0": {
 "horario": " qua  14:00  16:00 ",
-"prof": " "
+"prof": "(R) Rosa Ana Conte "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "25",
+"Pendentes": "3",
+"Matriculados": "22"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "25",
+"Pendentes": "3",
+"Matriculados": "22"
 }
 }
 }
@@ -3104,21 +3127,21 @@
 "aulas": {
 "h0": {
 "horario": " qua  08:00  12:00 ",
-"prof": " "
+"prof": "(R) Cristina Bormio Nunes "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "24",
+"Pendentes": "5",
+"Matriculados": "19"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "23",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "24",
+"Pendentes": "5",
+"Matriculados": "19"
 }
 }
 }
@@ -3169,21 +3192,21 @@
 "aulas": {
 "h0": {
 "horario": " ter  14:00  18:00 ",
-"prof": " "
+"prof": "(R) Cristina Bormio Nunes "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
 "Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "0"
+"Pendentes": "3",
+"Matriculados": "18"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "40",
 "Inscritos": "21",
-"Pendentes": "0",
-"Matriculados": "0"
+"Pendentes": "3",
+"Matriculados": "18"
 }
 }
 }
@@ -3209,7 +3232,7 @@
 "objectives": "As an important requirement for the specific and the general engineering studies, the course aims to (a) provide the fundamental concepts concerning the control theory, which are important for the learning process in physics engineering; (b) enable the student, to work as individually as in groups, to model and solve problems of interest regarding control techniques, including the adequate choice of hypotheses and the application of suitable solution tools; (c) to introduce the components, techniques, software, and equipment employed in the analysis and design of control systems; and (d) apply and extend the previously learned physical concepts.",
 "abstract": "Introduction to fundamentals of control theory; Transient response and steady state regime; Controller types; Root Locus Analysis; Frequency Response Analysis; Computational tools.",
 "program": "1. Laplace transform.2. Basic concepts: Transfer function; open-loop and closed-loop control systems;3. Mathematical modeling of mechanical and electrical systems.4. Computational aided design, analysis and simulation.5. Transient and steady-state response analysis; Performance; Routh-Hurwitz Criterion; Steady-state error.6. Proportional, integral and derivative control actions; PID controller; Ziegler-Nichols method.7. Analysis and design of control systems using the Root Locus method.8. Analysis and design of control systems using the frequency response method; Goat Diagrams; Polar charts; Nyquist stability criterion.",
-"ndoc": 2,
+"ndoc": 1,
 "CA": "4",
 "CT": "0",
 "CH": "60 h",
@@ -3223,8 +3246,7 @@
 "exame": "M\u00e9dia aritm\u00e9tica (M) de uma prova individual (P1) e trabalhos em grupo ao longo do semestre (T), tal que M = 0,5*P1+0.5*T",
 "bibliografia": "OGATA, K. Engenharia de Controle Moderno, Prentice-Hall, 1997.DORF, R.C.; Bishop, R.H. Modern Control Systems, Addison-Wesley, 1995.D'AZZO; HOUPIS. An\u00e1lise e Projeto de Sistema de Controle Lineares, Guanabara Dois, 1984.KUO, B.C. Automatic Control Systems, 5th ed., Prentice-Hall, 1987.COUGHANOWR; KOPPEL. An\u00e1lise e Controle de Processos, Guanabara Dois, 1978.DISTEFANO, J. J.; STUBBERUD, A. R.; WILLIANS, I. J. Theory and Problems of Feedback and Control Systems with Applications to the Engineering, Physical and Life Sciences, McGraw-Hill, 1976.PHILLIPS, C.L.; Harbor, R.D. Sistemas de Controle e Realimenta\u00e7\u00e3o, Makron Books, 1996.GROOVER, M. P.; ZIMMERS Jr., E. W. CAD/CAM - Computer-aided design and manufacturing. Prentice-Hall, Englewood Ciffs, 1984.",
 "docentes": [
-"519033 - Carlos Yujiro Shigue",
-"7290967 - Emerson Gon\u00e7alves de Melo"
+"519033 - Carlos Yujiro Shigue"
 ],
 "oferecimento": {
 "20251F1": {
@@ -3235,25 +3257,25 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "Andy Blanco Rodriguez "
 },
 "h1": {
 "horario": " qui  10:00  12:00 ",
-"prof": " "
+"prof": "Andy Blanco Rodriguez "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "25",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "26",
+"Pendentes": "2",
+"Matriculados": "24"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "25",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "26",
+"Pendentes": "2",
+"Matriculados": "24"
 }
 }
 }
@@ -3301,6 +3323,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " qua  16:00  18:00 ",
@@ -3309,28 +3332,28 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "45",
-"Inscritos": "22",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "60",
+"Inscritos": "57",
+"Pendentes": "9",
+"Matriculados": "48"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "43",
+"Vagas": "23",
 "Inscritos": "22",
-"Pendentes": "0",
-"Matriculados": "0"
+"Pendentes": "3",
+"Matriculados": "19"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "19",
+"Inscritos": "18",
+"Pendentes": "6",
+"Matriculados": "12"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "18",
+"Inscritos": "17",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "17"
 }
 }
 }
@@ -3358,22 +3381,22 @@
 "unidade": "Escola de Engenharia de Lorena",
 "departamento": "Engenharia de Materiais",
 "nome_en": "Introduction to Nanotechnology",
-"objectives": "Present the concepts of nanoscience and nanotechnology. The physical and chemical properties of materials on a nanometer scale are described by the laws of quantum mechanics, presenting in these dimensions different characteristics of materials on a macroscopic scale. The knowledge of this interdisciplinary area is fundamental in the formation of a researcher and/or a professional working in the area of materials.",
+"objectives": "Nanotechnology maturation has revealed that it is a unique and distinct discipline rather than a specialization within a larger field. A course on this subject involves chemistry, physics and engineering focused on Nano. It must be integrated, multidisciplinary and specifically in nano. The idea is to build a solid foundation on characterization and manufacturing methods while integrating with physical and chemistry relevant to the problems involved. Examining engineering aspects as well as nanomaterials and specific applications in the energy and electronics sectors.",
 "abstract": "Nanoscience and nanotechnology: principles and applications.",
-"program": "Conceptualization: nanoscience and nanotechnology. Low-dimensional systems. Quantum Confinement. Chemical bonds: molecules and clusters. Electronic and structural properties. Synthesis and fabrication of materials at the nanometer scale: bottom-up and top-down techniques. Fullerenes and carbon nanotubes. Molecular self-organization and supramolecular systems. Quantum wires and dots. Magnetic nanoparticles. Characterization techniques: X-ray diffraction, scattering and absorption, scanning tunneling microscopy (STM), atomic force microscopy (AFM), transmission electron microscopy. Transport properties: ballistic transport, quantum conductance, Coulomb blocking. Molecular devices. Diffusive transport. Nanomagnetism: magnetic order, superparamagnetism and spintronics. Applications.",
+"program": "Perspectives: Nanoscience and Nanotechnology\u2014The Distinction; Societal Implications of NanoNanotools: Characterization Methods; Fabrication MethodsPhysics: Properties and Phenomena: Materials, Structure, and the Nanosurface; Energy at the NanoscaleChemistry: Synthesis and Modification: Carbon-Based Nanomaterials; Chemical Interactions at the NanoscaleApplications: nanoeletronics; nanomagnetism; nanomechanics",
 "ndoc": 2,
 "CA": "2",
 "CT": "0",
 "CH": "30 h",
 "periodicidade": "Semestral",
-"ativacao": "01/01/2023",
-"objetivos": "Apresentar os conceitos de nanoci\u00eancia e nanotecnologia. As propriedades f\u00edsicas e qu\u00edmicas dos materiais em escala nanom\u00e9trica s\u00e3o descritas pelas leis da mec\u00e2nica qu\u00e2ntica, apresentando nessas dimens\u00f5es caracter\u00edsticas distintas dos materiais em escala macrosc\u00f3pica. O conhecimento dessa \u00e1rea interdisciplinar \u00e9 fundamental na forma\u00e7\u00e3o de um pesquisador e/ou um profissional atuando na \u00e1rea de materiais.",
+"ativacao": "01/01/2025",
+"objetivos": "A matura\u00e7\u00e3o da nanotecnologia revelou que se trata de uma disciplina \u00fanica e distinta, em vez de uma especializa\u00e7\u00e3o dentro de um campo maior. Um curso sobre esse assunto envolve qu\u00edmica, f\u00edsica e engenharia focada em Nano. Deve ser integrado, multidisciplinar e especificamente em Nano. A ideia \u00e9 construir uma base s\u00f3lida nos m\u00e9todos de caracteriza\u00e7\u00e3o e fabrica\u00e7\u00e3o enquanto integra a f\u00edsicas e a qu\u00edmica relevantes aos problemas envolvidos. Examinando os aspectos de engenharia, bem como nanomateriais e aplica\u00e7\u00f5es espec\u00edficas nos setores de energia e eletr\u00f4nica.",
 "resumo": "Nanoci\u00eancia e nanotecnologia: princ\u00edpios e aplica\u00e7\u00f5es.",
-"programa": "Conceitua\u00e7\u00e3o: nanoci\u00eancia e nanotecnologia. Sistemas de baixa dimensionalidade. Confinamento qu\u00e2ntico. Liga\u00e7\u00f5es qu\u00edmicas: mol\u00e9culas e aglomerados. Propriedades eletr\u00f4nicas e estruturais. S\u00edntese e fabrica\u00e7\u00e3o de materiais em escala nanom\u00e9trica: t\u00e9cnicas de baixo para cima (bottom-up) e de cima para baixo (top-down). Fullerenos e nanotubos de carbono. Autoorganiza\u00e7\u00e3o molecular e sistemas supramoleculares. Fios e pontos qu\u00e2nticos. Nanopart\u00edculas magn\u00e9ticas. T\u00e9cnicas de caracteriza\u00e7\u00e3o: difra\u00e7\u00e3o, espalhamento e absor\u00e7\u00e3o de raios X, microscopia de varredura por tunelamento (STM), microscopia de for\u00e7a at\u00f4mica (AFM), microscopia eletr\u00f4nica de transmiss\u00e3o. Propriedades de transporte: transporte bal\u00edstico, condut\u00e2ncia qu\u00e2ntica, bloqueio coulombiano. Dispositivos moleculares. Transporte difusivo. Nanomagnetismo: ordem magn\u00e9tica, superparamagnetismo e Spintr\u00f4nica. Aplica\u00e7\u00f5es.",
-"metodo": "Aulas expositivas e semin\u00e1rios.",
+"programa": "Perspectivas: nanoci\u00eancia e nanotecnologia - a distin\u00e7\u00e3o; Implica\u00e7\u00f5es sociais de nanoNanotools: m\u00e9todos de caracteriza\u00e7\u00e3o; M\u00e9todos de fabrica\u00e7\u00e3oF\u00edsica: Propriedades e fen\u00f4menos: materiais, estrutura e nanosurface; Energia na nanoescalaQu\u00edmica: s\u00edntese e modifica\u00e7\u00e3o: nanomateriais \u00e0 base de carbono; Intera\u00e7\u00f5es qu\u00edmicas na nanoescalaAplica\u00e7\u00f5es: nanoetronics; nanomagnetismo; nanomec\u00e2nica",
+"metodo": "Aulas expositivas e semin\u00e1rios.Crit\u00e9rioDuas provas escritas: conceitos P1 e P2. Conceito Final = (P1 + 2P2)/3Norma de Recupera\u00e7\u00e3oAplica\u00e7\u00e3o de uma prova escrita dentro do prazo regimental antes do in\u00edcio do pr\u00f3ximo semestre letivo. A nota da segunda avalia\u00e7\u00e3o ser\u00e1 a m\u00e9dia aritm\u00e9tica entre a nota da prova de recupera\u00e7\u00e3o e a nota final da primeira avalia\u00e7\u00e3o",
 "criterio": "Duas provas escritas: conceitos P1 e P2. Conceito Final = (P1 + 2P2)/3",
 "exame": "Aplica\u00e7\u00e3o de uma prova escrita dentro do prazo regimental antes do in\u00edcio do pr\u00f3ximo semestre letivo. A nota da segunda avalia\u00e7\u00e3o ser\u00e1 a m\u00e9dia aritm\u00e9tica entre a nota da prova de recupera\u00e7\u00e3o e a nota final da primeira avalia\u00e7\u00e3o",
-"bibliografia": "TIMP, G. Nanotechnology, Springer, 1998. FERRY, D. K. Transport in Nanostructures, Cambridge University Press, 1999. WASER, R. Nanoelectronics and Information Technology, Wiley-UCM, 2003. DATTA, S. Quantum Transport: Atom to Transistor, Cambridge University Press, 2005. RATNER, M.; RATNER, D. Nanotechnology, Prentice Hall, 2003. DRESSELHAUS, M. Physical Properties of Carbon Nanotubes, Imperial College Press, 1998.",
+"bibliografia": "Gabor L. Hornyak, H.F. Tibbals, Joydeep Dutta, John J. Moore. Introduction to Nanoscience and Nanotechnology. CRC Press. 2009TIMP, G. Nanotechnology, Springer, 1998.Bhushan, B. (ed.) Springer Handbook of Nanotechnology, Springer, 2010.",
 "docentes": [
 "7290967 - Emerson Gon\u00e7alves de Melo",
 "1176388 - Luiz Tadeu Fernandes Eleno"
@@ -3515,25 +3538,25 @@
 "aulas": {
 "h0": {
 "horario": " qua  18:00  19:00 ",
-"prof": " "
+"prof": "(R) Antonio Jefferson da Silva Machado "
 },
 "h1": {
 "horario": " qui  18:00  19:00 ",
-"prof": " "
+"prof": "(R) Antonio Jefferson da Silva Machado "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "12",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "9",
+"Pendentes": "2",
+"Matriculados": "7"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "12",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "9",
+"Pendentes": "2",
+"Matriculados": "7"
 }
 }
 }
@@ -3550,24 +3573,29 @@
 "unidade": "Escola de Engenharia de Lorena",
 "departamento": "Ci\u00eancias B\u00e1sicas e Ambientais",
 "nome_en": "Organizational and work psychology",
-"objectives": "Enable the students with the knowledge needed to use the concepts of psychology in the workplace.\nPromote the recognition of workers' needs, both in its area of operation as in human relationships that have in the company.",
-"abstract": "Introduction to Psychology applied to work.\nConcept of Communication. \nHuman Relations at Work. \nPsychology in Work Organizations .\nRecruitment and Selection and \nMotivation",
-"program": "Introduction : conceptualize psychology as science and application; psychology applied to work. The psychology of human relations at work.\nConcept of Communication : Systems, functions , axioms of human communication. Communication processes and the social and communicative interaction in the company.\nHuman relations at work: the role of masks in human interaction; human relations in groups; how to be a part of a workgroup.\nPsychology in Work Organizations : Organization concepts and work. Organization and work and their importance in mental health and worker productivity: stress, burnout , Karoshi syndrome ; L.E.R .; quality of life; sexual and moral harassment in the workplace ; alcohol and drugs at work; mental disorders in the company.\nRecruitment and Selection: recruitment and selection of personnel ; placement and monitoring; performance evaluation; training and education; evaluation measures and their importance in the selection ; practical experiences in the classroom as facilitators in the selection process .\nMotivation : the basic and psychological needs of human beings; motivation and conflicts; forgotten factors as motivators in the company : envy, jealousy , fear, abuse of power . Motivation Assessment.",
-"ndoc": 1,
+"objectives": "Enable the students with the knowledge needed to use the concepts of psychology in the workplace.Promote the recognition of workers' needs, both in its area of operation as in human relationships that have in the company.Promote strategies for the development of transversal skills necessary for the future engineer: effective communication, teamwork, commitment, initiative, responsibility, ethics, among others.",
+"abstract": "Introduction to Psychology applied to work. Concept of Communication. Human Relations at Work. Psychology in Work Organizations: groups and teams. Recruitment and Selection. Motivation. Leadership. Training and Development. Performance evaluation.",
+"program": "Introduction : conceptualize psychology as science and application; psychology applied to work. The psychology of human relations at work. Concept of Communication : Systems, functions , axioms of human communication. Communication processes and the social and communicative interaction in the company. Human relations at work: the role of masks in human interaction; human relations in groups; how to be a part of a workgroup, teamwork and group dynamics Psychology in Work Organizations : Organization concepts and work. Organization and work and their importance in mental health and worker productivity: stress, burnout , Karoshi syndrome ; L.E.R .; quality of life; sexual and moral harassment in the workplace ; alcohol and drugs at work; mental disorders in the company. Recruitment and Selection: recruitment and selection of personnel ; placement and monitoring; performance evaluation; training and education; evaluation measures and their importance in the selection ; practical experiences in the classroom as facilitators in the selection process . Motivation : the basic and psychological needs of human beings; motivation and conflicts; forgotten factors as motivators in the company : envy, jealousy , fear, abuse of power . Motivation Assessment.- Leadership: definition, theories and leadership development- Training and Development: definition, differentiation, stages, difficulties- Performance evaluation: definition, types, frequency, importance",
+"ndoc": 6,
 "CA": "2",
 "CT": "0",
 "CH": "30 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2012",
-"objetivos": "Possibilitar aos alunos da disciplina o conhecimento necess\u00e1rio para a utiliza\u00e7\u00e3o dos conceitos da psicologia em ambiente de trabalho.\n Favorecer o reconhecimento das necessidades dos trabalhadores tanto na sua \u00e1rea de atua\u00e7\u00e3o quanto nos relacionamentos humanos que ter\u00e1 na empresa.",
-"resumo": "1 - Introdu\u00e7\u00e3o a Psicologia aplicada ao trabalho.  2 - Conceito de Comunica\u00e7\u00e3o. 3 - Rela\u00e7\u00f5es Humanas no Trabalho. 4 - Psicologia nas Organiza\u00e7\u00f5es de Trabalho. 5 - Recrutamento e Sele\u00e7\u00e3o e 6 - Motiva\u00e7\u00e3o.",
-"programa": "1.Introdu\u00e7\u00e3o: conceituar psicologia como ci\u00eancia e como aplica\u00e7\u00e3o; a psicologia aplicada ao trabalho. A psicologia nas rela\u00e7\u00f5es humanas no trabalho.\n2.Conceito de Comunica\u00e7\u00e3o: sistemas, fun\u00e7\u00f5es, axiomas da comunica\u00e7\u00e3o humana. Processos de comunica\u00e7\u00e3o e o conv\u00edvio s\u00f3cio-comunicacional na empresa.\n3.Rela\u00e7\u00f5es Humanas no Trabalho: o papel das m\u00e1scaras na intera\u00e7\u00e3o humana; rela\u00e7\u00f5es humanas em grupos; como participar de um grupo de trabalho.\n4.Psicologia nas Organiza\u00e7\u00f5es de Trabalho: conceitos de organiza\u00e7\u00e3o e de trabalho. Organiza\u00e7\u00e3o e trabalho e sua import\u00e2ncia na sa\u00fade mental e produtividade do trabalhador: estresse, s\u00edndrome de burnout, s\u00edndrome de Karoshi; L.E.R.; qualidade de vida; ass\u00e9dios sexual e moral no ambiente de trabalho; \u00e1lcool e drogas no trabalho; transtornos mentais na empresa.\n5.Recrutamento e Sele\u00e7\u00e3o: recrutamento e sele\u00e7\u00e3o de pessoal; coloca\u00e7\u00e3o e acompanhamento; avalia\u00e7\u00e3o de desempenho; treinamento e educa\u00e7\u00e3o; medidas de avalia\u00e7\u00e3o e sua import\u00e2ncia na sele\u00e7\u00e3o; experi\u00eancias pr\u00e1ticas em sala de aula como facilitadoras do processo de sele\u00e7\u00e3o.\n6.Motiva\u00e7\u00e3o: as necessidades b\u00e1sicas e psicol\u00f3gicas do ser humano; motiva\u00e7\u00e3o e conflitos; fatores esquecidos como motivadores na empresa: inveja, ci\u00fame, medo, abuso de poder. Avalia\u00e7\u00e3o de motiva\u00e7\u00e3o.",
-"metodo": "utilizar-se-\u00e1 provas dissertativas com estudo de caso, para levar os alunos \u00e0 maior reflex\u00e3o sobre a utiliza\u00e7\u00e3o dessa ci\u00eancia para o futuro engenheiro em seu trabalho cotidiano em empresas.",
-"criterio": "(P1+ P2) : 2 = M\u00e9dia.",
-"exame": "Trabalho e nova avalia\u00e7\u00e3o para recupera\u00e7\u00e3o da nota necess\u00e1ria para aprova\u00e7\u00e3o.",
-"bibliografia": "CARVALHO, A.V. e NASCIMENTO, L.P.  Administra\u00e7\u00e3o de Recursos Humanos. 3\u00aa. Ed., S\u00e3o Paulo: Pioneira, 2002.\nCHIAVENATO, I.  Recursos Humanos. 5\u00aa. Ed., S\u00e3o Paulo: Atlas, 2002.\nCHIAVENATO, I. Introdu\u00e7\u00e3o \u00e0 Teoria Geral da Administra\u00e7\u00e3o. 3a. Ed., Rio de Janeiro: Elsevier, 2004.\nMAXIMIANO, A.C. AMARU  Teoria Geral da Administra\u00e7\u00e3o: da Revolu\u00e7\u00e3o Urbana \u00e0 Revolu\u00e7\u00e3o Digital. 6\u00aa. Ed., S\u00e3o Paulo: Atlas, 2008.\nNEWSTROM, J. W. Comportamento Organizacional: o Comportamento Humano no Trabalho. S\u00e3o Paulo: McGraw-Hill, 2008.\nSPECTOR, P. Psicologia nas Organiza\u00e7\u00f5es. S\u00e3o Paulo: McGraw-Hill, 2002.\nROBBINS, S. P. Fundamentos do Comportamento Organizacional. 8\u00aa. Ed., S\u00e3o Paulo: Pearson Prentice Hall, 2009.\nTOLEDO, F.  O que s\u00e3o Recursos Humanos- Primeiros Passos. S\u00e3o Paulo: Brasiliense, 2001.",
+"periodicidade": "3 h",
+"ativacao": "Semestral",
+"objetivos": "01/01/2025",
+"resumo": "Nova avalia\u00e7\u00e3o, similar \u00e0 P2.",
+"programa": "1.ROBBINS, S. P. Fundamentos do Comportamento Organizacional. 8\u00aa. Ed., S\u00e3o Paulo: Pearson Prentice Hall, 2009.2.CHIAVENATO, I. Gest\u00e3o de Pessoas: o novo papel da Gest\u00e3o do Talento Humano. 5\u00aa.ed., S\u00e3o Paulo: Atlas, 2020.3.SHILD, M (trad) A arte de dar feedback. Harvard Business Review. Rio de Janeiro: Sextante, 2019.4.BROWNIE, S. HR on Purpose: Developing Deliberate People Passion \u2014 Steve Browne. Alexandria: Society for Human Resource Management, 2017.5.BERGAMINI, C.W. Motiva\u00e7\u00e3o nas Organiza\u00e7\u00f5es.7\u00aa.Ed. S\u00e3o Paulo: Atlas, 2018.6.ROSENBERG, M.B. Comunica\u00e7\u00e3o N\u00e3o-Violenta. Rio de Janeiro: Sextante, 2018.",
+"metodo": "Os alunos poder\u00e3o participar de eventos, como feiras de ci\u00eancias, ou fazer contato com escolas ou entidades estudantis cujos participantes estejam em momento de busca de trabalho. Poder\u00e3o ser estudantes de curso t\u00e9cnico, de final de gradua\u00e7\u00e3o ou pessoas da comunidade que participem das diversas entidades estudantis da EEL.",
+"criterio": "Espera-se que o aluno de gradua\u00e7\u00e3o consiga aplicar conhecimento aprendido na disciplina LOB 1031, ajudando o publico-alvo a aprimorar e ampliar sua possibilidade de empregabilidade, uma vez que o curr\u00edculum vitae \u00e9 exig\u00eancia em praticamente todos os processos de recrutamento e sele\u00e7\u00e3o.Espera-se que o grupo social atendido tenha mais condi\u00e7\u00f5es de aumentar suas possibilidades de participa\u00e7\u00e3o em processos seletivos.",
+"exame": "O aluno dever\u00e1, no \u00faltimo m\u00eas de aula do semestre:- fazer uma pesquisa aprofundada sobre formas e formatos de curriculum vitae- fazer contato com entidades ou organizadores de evento para oferecer e acertar detalhes da aplica\u00e7\u00e3o da atividade- reunir-se com o participante e desenvolver a atividade proposta: explicar do que se trata um CV, coletar as informa\u00e7\u00f5es necess\u00e1rias, elaborar conjuntamente o CV, fornecer orienta\u00e7\u00f5es b\u00e1sicas para apresenta\u00e7\u00e3o em entrevista de emprego, aplicar o question\u00e1rio de satisfa\u00e7\u00e3o",
+"bibliografia": "Cada participante atendido preencher\u00e1 um formul\u00e1rio de satisfa\u00e7\u00e3o, ao final da atividade.",
 "docentes": [
-"8188658 - Maria Auxiliadora Motta Barreto"
+"Possibilitar aos alunos da disciplina o conhecimento necess\u00e1rio para a utiliza\u00e7\u00e3o dos conceitos da psicologia em ambiente de trabalho.Favorecer o reconhecimento das necessidades dos trabalhadores tanto na sua \u00e1rea de atua\u00e7\u00e3o quanto nos relacionamentos humanos que ter\u00e1 na empresa.Promover estrat\u00e9gias para o desenvolvimento de compet\u00eancias transversais necess\u00e1rias ao futuro engenheiro: comunica\u00e7\u00e3o eficaz, trabalho em equipe, comprometimento, iniciativa, responsabilidade, \u00e9tica, entre outras.",
+"8188658 - Maria Auxiliadora Motta Barreto",
+"1 - Introdu\u00e7\u00e3o a Psicologia aplicada ao trabalho.  2 - Conceito de Comunica\u00e7\u00e3o. 3 - Rela\u00e7\u00f5es Humanas no Trabalho. 4 - Psicologia nas Organiza\u00e7\u00f5es de Trabalho: grupos e equipes. 5 - Recrutamento e Sele\u00e7\u00e3o. 6 - Motiva\u00e7\u00e3o. 7 \u2013 Lideran\u00e7a.   8 \u2013 Treinamento e Desenvolvimento. 9- Avalia\u00e7\u00e3o de desempenho.",
+"1.Introdu\u00e7\u00e3o: conceituar psicologia como ci\u00eancia e como aplica\u00e7\u00e3o; a psicologia aplicada ao trabalho. A psicologia nas rela\u00e7\u00f5es humanas no trabalho.2.Conceito de Comunica\u00e7\u00e3o: sistemas, fun\u00e7\u00f5es, axiomas da comunica\u00e7\u00e3o humana. Processos de comunica\u00e7\u00e3o e o conv\u00edvio s\u00f3cio-comunicacional na empresa.3.Rela\u00e7\u00f5es Humanas no Trabalho: rela\u00e7\u00f5es humanas em grupos; como participar de um grupo de trabalho, trabalho em equipe, din\u00e2micas grupais.4.Psicologia nas Organiza\u00e7\u00f5es de Trabalho: conceitos de organiza\u00e7\u00e3o e de trabalho. Organiza\u00e7\u00e3o e trabalho e sua import\u00e2ncia na sa\u00fade mental e produtividade do trabalhador: estresse, s\u00edndrome de burnout, s\u00edndrome de Karoshi; L.E.R.; qualidade de vida; ass\u00e9dios sexual e moral no ambiente de trabalho.5.Recrutamento e Sele\u00e7\u00e3o: recrutamento e sele\u00e7\u00e3o de pessoal; coloca\u00e7\u00e3o e acompanhamento; avalia\u00e7\u00e3o de desempenho; medidas de avalia\u00e7\u00e3o e sua import\u00e2ncia na sele\u00e7\u00e3o; experi\u00eancias pr\u00e1ticas em sala de aula como facilitadoras do processo de sele\u00e7\u00e3o.6.Motiva\u00e7\u00e3o: as necessidades b\u00e1sicas e psicol\u00f3gicas do ser humano; motiva\u00e7\u00e3o e conflitos; fatores esquecidos como motivadores na empresa: inveja, ci\u00fame, medo, abuso de poder. Avalia\u00e7\u00e3o de motiva\u00e7\u00e3o.7. Lideran\u00e7a: defini\u00e7\u00e3o, teorias e desenvolvimento de lideran\u00e7as8. Treinamento e Desenvolvimento: defini\u00e7\u00e3o, diferencia\u00e7\u00e3o, etapas, dificuldades9. Avalia\u00e7\u00e3o de desempenho: defini\u00e7\u00e3o, tipos, periodicidade, import\u00e2ncia",
+"Ser\u00e3o aplicadas provas dissertativas com estudo de caso e situa\u00e7\u00f5es, para levar os alunos \u00e0 maior reflex\u00e3o sobre a utiliza\u00e7\u00e3o dos conceitos aprendidos para o futuro engenheiro em seu trabalho cotidiano em empresas.Ser\u00e1 solicitada a realiza\u00e7\u00e3o de atividades variadas (avalia\u00e7\u00e3o processual) sobre cada tema, com \u00eanfase no desenvolvimento das habilidades transversais. Tais atividades poder\u00e3o ser: apresenta\u00e7\u00f5es, elabora\u00e7\u00e3o de folder, mapas conceituais e pitch para processo seletivo, relat\u00f3rio e leitura ativa, entrevista com trabalhadores, etc.Ser\u00e1 realizada uma atividade extensionista de confec\u00e7\u00e3o de curr\u00edculo para a comunidade. Para tanto, os alunos dever\u00e3o participar de algum evento que ocorra durante o semestre (feiras de ci\u00eancias, feira de profiss\u00f5es, reuni\u00e3o com calouros de outras institui\u00e7\u00f5es). Caber\u00e1 ao aluno o planejamento e a execu\u00e7\u00e3o da atividade, com supervis\u00e3o da profa.",
+"P1 = soma de todas as atividades at\u00e9 8,0 + relat\u00f3rio do desenvolvimento da atividade de extens\u00e3o.P2 = prova dissertativa aplicada no final do semestre.M\u00e9dia = (P1+ P2)/ 2."
 ],
 "oferecimento": {
 "20251D1": {
@@ -3584,39 +3612,39 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "44",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "59",
+"Pendentes": "10",
+"Matriculados": "49"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "56",
-"Inscritos": "44",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "46",
+"Inscritos": "45",
+"Pendentes": "7",
+"Matriculados": "38"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "5",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "5"
 },
 "EEL - Engenharia F\u00edsica": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "1",
+"Matriculados": "2"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "1",
+"Matriculados": "2"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "1",
+"Matriculados": "2"
 }
 }
 }
@@ -3668,25 +3696,25 @@
 "aulas": {
 "h0": {
 "horario": " seg  18:00  19:00 ",
-"prof": " "
+"prof": "(R) Antonio Jefferson da Silva Machado "
 },
 "h1": {
 "horario": " ter  18:00  19:00 ",
-"prof": " "
+"prof": "(R) Antonio Jefferson da Silva Machado "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "10",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "17",
+"Pendentes": "11",
+"Matriculados": "6"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "45",
-"Inscritos": "10",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "17",
+"Pendentes": "11",
+"Matriculados": "6"
 }
 }
 }
@@ -3823,11 +3851,11 @@
 "abstract": "Participation in the selection process or indication of an institution to carry out an internship. Submission of the specific work plan. Conducting the internship and delivering the internship report.",
 "program": "Student participation in the selection process of companies, research institutions or in the academic sector. The internship will be carried out under the supervision of a professor appointed by the Physical Engineering Course Committee. The content will be established in the Work Plan between the supervisor responsible for the Internship and the supervising professor. Presentation of a final report on the activities carried out in the internship.",
 "ndoc": 1,
-"CA": "1",
+"CA": "0",
 "CT": "6",
-"CH": "195 h   (    Est\u00e1gio: 195 h         )",
+"CH": "180 h   (    Est\u00e1gio: 180 h         )",
 "periodicidade": "Semestral",
-"ativacao": "01/01/2023",
+"ativacao": "01/01/2025",
 "objetivos": "Oferecer oportunidade de realiza\u00e7\u00e3o de treinamento profissional em empresa ou institui\u00e7\u00e3o de pesquisa, sob supervis\u00e3o de docente do Departamento de Engenharia de Materiais da EEL. Complementar a forma\u00e7\u00e3o geral curricular e adaptar psicol\u00f3gica e socialmente o estudante \u00e0 sua futura atividade profissional.",
 "resumo": "Participa\u00e7\u00e3o em processo seletivo ou indica\u00e7\u00e3o de institui\u00e7\u00e3o para realiza\u00e7\u00e3o de est\u00e1gio. Submiss\u00e3o do plano de trabalho espec\u00edfico. Realiza\u00e7\u00e3o do est\u00e1gio e entrega do relat\u00f3rio de est\u00e1gio.",
 "programa": "Participa\u00e7\u00e3o do aluno em processo seletivo de empresas, institui\u00e7\u00f5es de pesquisa ou no setor acad\u00eamico. O est\u00e1gio ser\u00e1 realizado sob a supervis\u00e3o de docente designado pela Comiss\u00e3o de Curso de Engenharia F\u00edsica. O conte\u00fado ser\u00e1 estabelecido no Plano de Trabalho entre o supervisor respons\u00e1vel pelo Est\u00e1gio e o docente supervisor. Apresenta\u00e7\u00e3o de relat\u00f3rio final sobre as atividades desenvolvidas no est\u00e1gio.",
@@ -3892,9 +3920,9 @@
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "1",
@@ -3903,16 +3931,16 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "3",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "3"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "2",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
@@ -3927,10 +3955,10 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "54",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "51",
+"Inscritos": "2",
+"Pendentes": "1",
+"Matriculados": "1"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -3956,7 +3984,7 @@
 "objectives": "To guide students at the beginning of their university career in the undergraduate course in Engineering XX at EEL-USP so that the student is able to: a) identify the academic opportunities and particularities of their course; b) recognize, under the supervision of a tutor, any difficulties throughout the course and understand mechanisms for them to be overcome, conducting the course with the desired success; c) develop technical and emotional skills, broadening the perspectives of professional training through systematized activities and meetings.",
 "abstract": "Engineering physics courses, respective pedagogical projects and their curricular components, including TCC, mandatory internship, Curricular Extension Projects, Complementary Academic Activities and Extracurricular Activities. Identification and adherence of the student with the course and with the chosen profession. The college course, the adolescent/young adult transition and the challenges in the student's life projects at the beginning of the undergraduate program. Relationship between the disciplines and the knowledge to be applied. Competencies and skills developed in your engineering course. Academic, sociocultural and scientific dimensions. Diversity and inclusion. Organization of studies.",
 "program": "",
-"ndoc": 0,
+"ndoc": 2,
 "CA": "0",
 "CT": "1",
 "CH": "30 h",
@@ -3969,7 +3997,10 @@
 "criterio": "Participa\u00e7\u00e3o ativa nos encontros, apresenta\u00e7\u00e3o de estudos/pesquisa e de trabalhos realizados durante a disciplina, colabora\u00e7\u00e3o e engajamento nas atividades da disciplina. O estudante dever\u00e1 entregar um relat\u00f3rio final para a disciplina. A nota final \u00e9 dada pela m\u00e9dia ponderada das notas obtidas nas diversas atividades propostas.",
 "exame": "N\u00e3o se aplica.",
 "bibliografia": "[1] Peddy, S. The art of mentoring \u2013 Lead, follow and get out of the way. Houston: Bullion Books, 2001.[2] Zachary, L. J. The Mentor\u2019s Guide. San Francisco: Jossey-Bass Publishers, 2000. Pereira, A. Modelos de desenvolvimento do jovem adulto e promo\u00e7\u00e3o do bem-estar em estudantes do ensino superior. In: Programa de Monitoriza\u00e7\u00e3o e Tutorado: oito anos a promover a integra\u00e7\u00e3o e o sucesso acad\u00e9mico no IST. Lisboa: IST Press, 2011. p. 19-27.[3] Mueller, S. Electronic mentoring as an example for the use of information and communications technology in engineering education. European Journal of Engineering Education, 2004.[4] Kaul, S. Triangulated Mentorship of Engineering Students - Leveraging Peer Mentoring and Vertical Integration, Global Journal of Engineering Education, v. 21, p. 14-23,2019.[5] Diretrizes Curriculares Nacionais para os cursos de gradua\u00e7\u00e3o em Engenharia. Minist\u00e9rio da Educa\u00e7\u00e3o. CNE/CES, 2019.",
-"docentes": [],
+"docentes": [
+"5817692 - Katia Cristiane Gandolpho Candioto",
+"1176388 - Luiz Tadeu Fernandes Eleno"
+],
 "oferecimento": null
 },
 "LOM3272": {
@@ -3992,7 +4023,7 @@
 "objectives": "To guide students at the beginning of their university career in the undergraduate course in Engineering XX at EEL-USP so that the student is able to: a) identify the academic opportunities and particularities of their course; b) recognize, under the supervision of a tutor, any difficulties throughout the course and understand mechanisms for them to be overcome, conducting the course with the desired success; c) develop technical and emotional skills, broadening the perspectives of professional training through systematized activities and meetings.",
 "abstract": "Engineering physics courses, respective pedagogical projects and their curricular components, including TCC, mandatory internship, Curricular Extension Projects, Complementary Academic Activities and Extracurricular Activities. Identification and adherence of the student with the course and with the chosen profession. The college course, the adolescent/young adult transition and the challenges in the student's life projects at the beginning of the undergraduate program. Relationship between the disciplines and the knowledge to be applied. Competencies and skills developed in your engineering course. Academic, sociocultural and scientific dimensions. Diversity and inclusion. Organization of studies.",
 "program": "",
-"ndoc": 0,
+"ndoc": 2,
 "CA": "0",
 "CT": "1",
 "CH": "30 h",
@@ -4005,7 +4036,10 @@
 "criterio": "Participa\u00e7\u00e3o ativa nos encontros, apresenta\u00e7\u00e3o de estudos/pesquisa e de trabalhos realizados durante a disciplina, colabora\u00e7\u00e3o e engajamento nas atividades da disciplina. O estudante dever\u00e1 entregar um relat\u00f3rio final para a disciplina. A nota final \u00e9 dada pela m\u00e9dia ponderada das notas obtidas nas diversas atividades propostas.",
 "exame": "N\u00e3o se aplica..",
 "bibliografia": "[1] Peddy, S. The art of mentoring \u2013 Lead, follow and get out of the way. Houston: Bullion Books, 2001.[2] Zachary, L. J. The Mentor\u2019s Guide. San Francisco: Jossey-Bass Publishers, 2000. Pereira, A. Modelos de desenvolvimento do jovem adulto e promo\u00e7\u00e3o do bem-estar em estudantes do ensino superior. In: Programa de Monitoriza\u00e7\u00e3o e Tutorado: oito anos a promover a integra\u00e7\u00e3o e o sucesso acad\u00e9mico no IST. Lisboa: IST Press, 2011. p. 19-27.[3] Mueller, S. Electronic mentoring as an example for the use of information and communications technology in engineering education. European Journal of Engineering Education, 2004.[4] Kaul, S. Triangulated Mentorship of Engineering Students - Leveraging Peer Mentoring and Vertical Integration, Global Journal of Engineering Education, v. 21, p. 14-23,2019.[5] Diretrizes Curriculares Nacionais para os cursos de gradua\u00e7\u00e3o em Engenharia. Minist\u00e9rio da Educa\u00e7\u00e3o. CNE/CES, 2019.",
-"docentes": [],
+"docentes": [
+"5817692 - Katia Cristiane Gandolpho Candioto",
+"1176388 - Luiz Tadeu Fernandes Eleno"
+],
 "oferecimento": null
 },
 "LOM3105": {
@@ -4172,10 +4206,10 @@
 "program": "",
 "ndoc": 3,
 "CA": "4",
-"CT": "1",
-"CH": "90 h",
+"CT": "0",
+"CH": "60 h",
 "periodicidade": "Semestral",
-"ativacao": "01/01/2024",
+"ativacao": "01/01/2025",
 "objetivos": "1. Entendimento da rela\u00e7\u00e3o entre a termodin\u00e2mica de solu\u00e7\u00f5es e os diagramas de fases.2. Dom\u00ednio da leitura de diagramas un\u00e1rios, bin\u00e1rios e tern\u00e1rios (configura\u00e7\u00e3o do sistema para um estado termodin\u00e2mico, leitura de composi\u00e7\u00f5es de fases e c\u00e1lculo de suas quantidades).3. Relacionamento entre microestruturas e diagramas de fases.4. Entendimento da seq\u00fc\u00eancia de eventos que ocorrem no processo de solidifica\u00e7\u00e3o em equil\u00edbrio e fora de equil\u00edbrio.",
 "resumo": "A. Introdu\u00e7\u00e3o; teoria b\u00e1sica de equil\u00edbrio de fases;B. Sistemas un\u00e1rios; C. Sistemas bin\u00e1rios; D. Sistemas tern\u00e1rios; E. C\u00e1lculo termodin\u00e2mico de diagramas de fases; F. Trabalho Pr\u00e1tico.",
 "programa": "1. Introdu\u00e7\u00e3o; revis\u00e3o da termodin\u00e2mica de solu\u00e7\u00f5es; teoria b\u00e1sica de equil\u00edbrio de fases; curvas de energia livre versus composi\u00e7\u00e3o; regra das fases; 2. Sistemas un\u00e1rios, equil\u00edbrios bi-, mono- e invariantes;3. Sistemas bin\u00e1rios isomorfos; a regra da alavanca; solidifica\u00e7\u00e3o em equil\u00edbrio e fora de equil\u00edbrio; m\u00ednimos e m\u00e1ximos; 4. Sistemas eut\u00e9ticos bin\u00e1rios; solidifica\u00e7\u00e3o e microetruturas de ligas hipoeut\u00e9ticas, eut\u00e9ticas e hipereut\u00e9ticas; solidifica\u00e7\u00e3o unidirecional com eut\u00e9ticos; casos limites de eut\u00e9ticos; 5. Sistemas eutet\u00f3ides bin\u00e1rios; solidifica\u00e7\u00e3o e microetruturas de ligas hipoeutet\u00f3ides, eutet\u00f3i-des e hipereutet\u00f3ides; o sistema Fe-C; 6. Sistemas monot\u00e9ticos; sistemas monotet\u00f3ides; sistemas metat\u00e9ticos; transforma\u00e7\u00f5es congruentes; 7. Sistemas perit\u00e9ticos bin\u00e1rios; resfriamento em equil\u00edbrio e fora do equil\u00edbrio de ligas perit\u00e9ticas; sistemas peritet\u00f3ides bin\u00e1rios; sistemas sint\u00e9ticos bin\u00e1rios; 8. Sistemas tern\u00e1rios isomorfos; o tri\u00e2ngulo de Gibbs; se\u00e7\u00f5es isot\u00e9rmicas; proje\u00e7\u00f5es liquidus; se\u00e7\u00f5es verticais; m\u00e1ximos e m\u00ednimos; resfriamento em equil\u00edbrio; 9. Equil\u00edbrio tern\u00e1rio de tr\u00eas fases; regra da alavanca em campos trif\u00e1sicos; resfriamento em equil\u00edbrio; 10. Equil\u00edbrio tern\u00e1rio de quatro fases: equil\u00edbrio de classe I; equil\u00edbrio de classe II e equil\u00edbrio de classe III; 11. Transforma\u00e7\u00f5es congruentes em sistemas tern\u00e1rios; sistemas tern\u00e1rios complexos; 12. C\u00e1lculo termodin\u00e2mico de diagramas de fases; Trabalho pr\u00e1tico.",
@@ -4197,11 +4231,11 @@
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
-"prof": " "
+"prof": "(R) Carlos Angelo Nunes "
 },
 "h1": {
-"horario": " qui  10:00  12:00 ",
-"prof": " "
+"horario": "(R) Gilberto Carvalho Coelho   qui  10:00",
+"prof": " 12:00 "
 }
 },
 "vagas": {
@@ -4209,13 +4243,13 @@
 "Vagas": "45",
 "Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "45",
 "Inscritos": "14",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "14"
 }
 }
 }
@@ -4235,21 +4269,26 @@
 "objectives": "Foster a culture of entrepreneurship and innovation; Develop entrepreneurial skills; To present the necessary knowledge for the creation of startups. The discipline is applied through Project-Based Learning, where the project to be developed is the creation of a startup with an innovative product/service proposal throughout the semester.",
 "abstract": "Characteristics of Entrepreneurial Behavior. Business Model. Minimum Viable Product. Business Plan.",
 "program": "1. Characteristics of Entrepreneurial Behavior: Search for opportunities and initiative. Take calculated risks. Demand for quality and efficiency. Persistence. Commitment. Information search. Setting goals. Systematic monitoring and planning. Persuasion and networking. Independence and self-confidence.2. Strategy, Innovation and marketing.3. Design Thinking.4. Business Model (Business Model Canvas and Lean Startup - Lean Canvas): Problem. Customer Segment. Unique Value Proposition. Solution. Key Metrics. Channels. Cost Structure. Revenue Streams. Unfair Advantage.5. Minimum Viable Product: Build-Measure-Learn Cycle. Customer lifetime value. Rapid prototyping.6. Process Management and Agile Project Management7. Business Plan: Marketing, Finance, Human Resources, Product Development and Information and Communication Technology. 8. Proposal for the creation of a startup, from the business model to the business plan, including the assembly of the minimum viable product and a PITCH round. 9. Development of practical extension activity (production of digital content on entrepreneurship and innovation)10. Visit (complementary didactic trip) to an environment of innovation and entrepreneurship (eg incubator/accelerator or technology park), to understand the development of entrepreneurship and innovation processes.",
-"ndoc": 1,
+"ndoc": 6,
 "CA": "2",
 "CT": "1",
 "CH": "60 h",
-"periodicidade": "Semestral",
-"ativacao": "01/01/2024",
-"objetivos": "Fomentar a cultura do empreendedorismo e da Inova\u00e7\u00e3o; Desenvolver habilidades empreendedoras; Apresentar conhecimentos necess\u00e1rios para a cria\u00e7\u00e3o de startups. A disciplina \u00e9 aplicada atrav\u00e9s de Aprendizagem baseada em Projetos, onde o projeto a ser desenvolvido \u00e9 da cria\u00e7\u00e3o de uma startup com uma proposta de produto/servi\u00e7o inovador ao longo do semestre.",
-"resumo": "Caracter\u00edsticas do Comportamento Empreendedor; Modelo de Neg\u00f3cios; Produto m\u00ednimo vi\u00e1vel; Plano de Neg\u00f3cios.",
-"programa": "1. Caracter\u00edsticas do Comportamento Empreendedor: Busca de oportunidades e iniciativa. Correr riscos calculados. Exig\u00eancia de qualidade e efici\u00eancia. Persist\u00eancia. Comprometimento. Busca de informa\u00e7\u00f5es. Estabelecimento de metas. Monitoramento e planejamento sistem\u00e1tico. Persuas\u00e3o e rede contatos. Independ\u00eancia e autoconfian\u00e7a.2. Estrat\u00e9gia, Inova\u00e7\u00e3o e Marketing.3. Design Thinking.4. Modelo de Neg\u00f3cios (Business Model Canvas e Lean Startup - Lean Canvas): Problema. Segmento de Clientes. Proposta de Valor \u00danica. Solu\u00e7\u00e3o. M\u00e9tricas-Chave. Canais. Estrutura de Custos. Fluxos de Receita. Vantagem Injusta.5. Produto m\u00ednimo vi\u00e1vel: Ciclo Construir-Mensurar-Aprender. Valor da vida \u00fatil do cliente. Prototipa\u00e7\u00e3o r\u00e1pida.6. Gest\u00e3o de processos e Gerenciamento \u00e1gil de projetos.7. Plano de Neg\u00f3cios: Marketing, Finan\u00e7as, Recursos Humanos, Desenvolvimento de Produtos e Tecnologia da Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o.8. Proposta da cria\u00e7\u00e3o de uma startup, do modelo de neg\u00f3cios ao plano de neg\u00f3cios, incluindo a montagem do produto m\u00ednimo vi\u00e1vel e uma rodada de PITCH.9. Desenvolvimento de atividade pr\u00e1tica extensionista (produ\u00e7\u00e3o de conte\u00fado digital sobre empreendedorismo e inova\u00e7\u00e3o)10. Visita (viagem did\u00e1tica complementar) a um ambiente de inova\u00e7\u00e3o e empreendedorismo (ex. incubadora/aceleradora ou parque tecnol\u00f3gico), para compreender o desenvolvimento dos processos de empreendedorismo e inova\u00e7\u00e3o.",
-"metodo": "Aulas expositivas e dialogadas; din\u00e2micas, projetos e trabalhos em grupo; exerc\u00edcios individuais; e, semin\u00e1rios, debates e palestras.",
-"criterio": "M\u00e9dia Aritm\u00e9tica dos Projetos, Trabalhos, Exerc\u00edcios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as quest\u00f5es relativas \u00e0s Compet\u00eancias (Conhecimento, Habilidade e Atitude, que incluem a presen\u00e7a e participa\u00e7\u00e3o dos alunos nas aulas) desenvolvidas",
-"exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o",
-"bibliografia": "BLANK, Steve Gary. Do Sonho a realiza\u00e7\u00e3o em 4 passos: Estrat\u00e9gias para a cria\u00e7\u00e3o de empresas de sucesso. Editora Evora. 3\u00aa edi\u00e7\u00e3o, 2008BLANK, Steve; DORF, Bob. STARTUP: Manual do Empreendedorismo. O guia passo a passo para construir uma grande empresa. Alta Books Editora.  1\u00aa edi\u00e7\u00e3o, 2014.CECCONELO, Antonio; AJZENTAL, Alberto. A constru\u00e7\u00e3o do plano de neg\u00f3cios. Ed. Saraiva, 1\u00aa edi\u00e7\u00e3o, 2008.CHIAVENATO, Idalberto. Empreendedorismo \u2013 dando asas ao esp\u00edrito empreendedor. Ed. Saraiva, 3\u00aa edi\u00e7\u00e3o, 2008.DOLABELA, Fernando. O Segredo de Lu\u00edsa. Rio de Janeiro: Sextante, 2008. DORNELAS, Jose. Empreendedorismo: transformando ideias em neg\u00f3cios. Editora Campus. 1\u00aa edi\u00e7\u00e3o, 2001DORNELAS, Jose. Empreendedorismo na pr\u00e1tica. LTC. 3\u00aa edi\u00e7\u00e3o, 2015DORNELAS, Jose Carlos Assis. Empreendedorismo na pr\u00e1tica \u2013 mitos e verdades do empreendedor de sucesso. Elsevier/Campus: Rio de Janeiro, 2007. FILION, L. J.; Vis\u00e3o e Rela\u00e7\u00f5es: Elementos para um Metamodelo da Atividade Empreendedora. International Small Business Journal, 1991. Tradu\u00e7\u00e3o de Costa, S.R. FILION, L. J.; - O planejamento do seu Sistema de Aprendizagem Empresarial: Identifique uma Vis\u00e3o e Avalie o seu Sistema de Rela\u00e7\u00f5es. Revista de Administra\u00e7\u00e3o de Empresas, FGV, S\u00e3o Paulo, jul/set. 1991, pag. 31(3): 63:71. HASHIMOTO, Marcos. Esp\u00edrito empreendedor nas organiza\u00e7\u00f5es \u2013 aumentando a competitividade atrav\u00e9s do intraempreendedorismo. S\u00e3o Paulo: Saraiva, 2006. HISRICH, Robert; PETERS, Michael.  Empreendedorismo. 5.ed. - Porto Alegre: Bookman, 2004. OSTERWALDER, Alexander. Inova\u00e7\u00e3o Em Modelos de Neg\u00f3cios \u2013 Business Model Generation. Editora Alta Books, 2011PINCHOT, Gifford; PELLMAN, Ron. Intraempreendedorismo na pr\u00e1tica: um guia de inova\u00e7\u00e3o. Campus: 2004RIES, Eric. A startup enxuta. Leya Editora. 1\u00aa edi\u00e7\u00e3o, 2011SANTOS. S.A. e CUNHA, N.C.V (orgs.). Empresas de Base Tecnol\u00f3gica: Conceitos, instrumentos e recursos. Unicorpore, 2005THIEL, Peter. De Zero a UM: O que aprender sobre empreendedorismo com Vale do Sil\u00edcio. Objetiva. 1\u00aa edi\u00e7\u00e3o, 2014TIMMONS; Jeffry; DORNELAS, Jos\u00e9. SPINELLI, Stephen. A cria\u00e7\u00e3o de novos neg\u00f3cios \u2013 empreendedorismo para o s\u00e9culo 21. Editora Campus. 2010.",
+"periodicidade": "30 h",
+"ativacao": "Semestral",
+"objetivos": "01/01/2025",
+"resumo": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o",
+"programa": "BLANK, Steve Gary. Do Sonho a realiza\u00e7\u00e3o em 4 passos: Estrat\u00e9gias para a cria\u00e7\u00e3o de empresas de sucesso. Editora Evora. 3\u00aa edi\u00e7\u00e3o, 2008BLANK, Steve; DORF, Bob. STARTUP: Manual do Empreendedorismo. O guia passo a passo para construir uma grande empresa. Alta Books Editora.  1\u00aa edi\u00e7\u00e3o, 2014.CECCONELO, Antonio; AJZENTAL, Alberto. A constru\u00e7\u00e3o do plano de neg\u00f3cios. Ed. Saraiva, 1\u00aa edi\u00e7\u00e3o, 2008.CHIAVENATO, Idalberto. Empreendedorismo \u2013 dando asas ao esp\u00edrito empreendedor. Ed. Saraiva, 3\u00aa edi\u00e7\u00e3o, 2008.DOLABELA, Fernando. O Segredo de Lu\u00edsa. Rio de Janeiro: Sextante, 2008. DORNELAS, Jose. Empreendedorismo: transformando ideias em neg\u00f3cios. Editora Campus. 1\u00aa edi\u00e7\u00e3o, 2001DORNELAS, Jose. Empreendedorismo na pr\u00e1tica. LTC. 3\u00aa edi\u00e7\u00e3o, 2015DORNELAS, Jose Carlos Assis. Empreendedorismo na pr\u00e1tica \u2013 mitos e verdades do empreendedor de sucesso. Elsevier/Campus: Rio de Janeiro, 2007. FILION, L. J.; Vis\u00e3o e Rela\u00e7\u00f5es: Elementos para um Metamodelo da Atividade Empreendedora. International Small Business Journal, 1991. Tradu\u00e7\u00e3o de Costa, S.R. FILION, L. J.; - O planejamento do seu Sistema de Aprendizagem Empresarial: Identifique uma Vis\u00e3o e Avalie o seu Sistema de Rela\u00e7\u00f5es. Revista de Administra\u00e7\u00e3o de Empresas, FGV, S\u00e3o Paulo, jul/set. 1991, pag. 31(3): 63:71. HASHIMOTO, Marcos. Esp\u00edrito empreendedor nas organiza\u00e7\u00f5es \u2013 aumentando a competitividade atrav\u00e9s do intraempreendedorismo. S\u00e3o Paulo: Saraiva, 2006. HISRICH, Robert; PETERS, Michael.  Empreendedorismo. 5.ed. - Porto Alegre: Bookman, 2004. OSTERWALDER, Alexander. Inova\u00e7\u00e3o Em Modelos de Neg\u00f3cios \u2013 Business Model Generation. Editora Alta Books, 2011PINCHOT, Gifford; PELLMAN, Ron. Intraempreendedorismo na pr\u00e1tica: um guia de inova\u00e7\u00e3o. Campus: 2004RIES, Eric. A startup enxuta. Leya Editora. 1\u00aa edi\u00e7\u00e3o, 2011SANTOS. S.A. e CUNHA, N.C.V (orgs.). Empresas de Base Tecnol\u00f3gica: Conceitos, instrumentos e recursos. Unicorpore, 2005THIEL, Peter. De Zero a UM: O que aprender sobre empreendedorismo com Vale do Sil\u00edcio. Objetiva. 1\u00aa edi\u00e7\u00e3o, 2014TIMMONS; Jeffry; DORNELAS, Jos\u00e9. SPINELLI, Stephen. A cria\u00e7\u00e3o de novos neg\u00f3cios \u2013 empreendedorismo para o s\u00e9culo 21. Editora Campus. 2010.",
+"metodo": "O grupo social alvo s\u00e3o estudantes do ensino m\u00e9dio em escolas p\u00fablicas e/ou nas comunidades (associa\u00e7\u00f5es de bairros etc.) da cidade de Lorena/SP.",
+"criterio": "S\u00e3o objetivos da atividade Extensionista:- Disseminar a cultura empreendedora e inovadora aos estudantes de Ensino M\u00e9dio;- Estimular os estudantes de Ensino M\u00e9dio para o desenvolvimento de sua capacidade empreendedora, a busca de oportunidades, a gera\u00e7\u00e3o do autoemprego e o desenvolvimento de atitudes empreendedoras e criativas.",
+"exame": "Esta atividade \u00e9 denominada Engenharia e Neg\u00f3cios \u2013 Oficina de Empreendedorismo e Inova\u00e7\u00e3o.A atividade consiste na realiza\u00e7\u00e3o de uma oficina de Empreendedorismo e Inova\u00e7\u00e3o com estudantes do Ensino M\u00e9dio. Tal oficina poder\u00e1 ocorrer em escolas de ensino m\u00e9dio ou em organiza\u00e7\u00f5es sociais ou representativas das comunidades da cidade de Lorena (ex: associa\u00e7\u00f5es de bairros).Etapas:1.Planejamento da Oficina: defini\u00e7\u00e3o dos temas (na \u00e1rea de empreendedorismo e inova\u00e7\u00e3o) a serem desenvolvidos, que pode incluir concursos de ideias, desafios de neg\u00f3cios, exposi\u00e7\u00e3o de conte\u00fados, entre outras atividades, com a consequente prepara\u00e7\u00e3o dos materiais (slides, v\u00eddeos, exerc\u00edcios etc.) que ser\u00e3o utilizados nas oficinas. Os alunos ser\u00e3o os respons\u00e1veis por agendar a realiza\u00e7\u00e3o das oficinas com as escolas ou com outras organiza\u00e7\u00f5es previamente aprovadas pelo professor da disciplina.2.Realiza\u00e7\u00e3o da Oficina: poder\u00e1 ser aplicada em uma ou duas etapas (dias diferentes), somando no m\u00ednimo 4 horas totais de aplica\u00e7\u00e3o.3.Prepara\u00e7\u00e3o de Relatos em V\u00eddeo: cria\u00e7\u00e3o de um v\u00eddeo relatando o desenvolvimento da oficina, com os aprendizados adquiridos, para ser disponibilizado para a comunidade.4.Autoavalia\u00e7\u00e3o pelo Grupo: avaliar os resultados da avalia\u00e7\u00e3o da atividade aplicada aos estudantes do ensino m\u00e9dio, para identificar o aprendizado e os pontos a melhorar para as pr\u00f3ximas oficinas.",
+"bibliografia": "Ser\u00e1 realizada uma pesquisa de satisfa\u00e7\u00e3o com os participantes da oficina e para o respons\u00e1vel pela atividade na escola de ensino m\u00e9dio ou organiza\u00e7\u00e3o. Ap\u00f3s a pesquisa, o grupo de estudantes da disciplina, far\u00e1 uma an\u00e1lise dos resultados e uma autoavalia\u00e7\u00e3o e discutir\u00e1 tais resultados com o professor da disciplina",
 "docentes": [
-"11079086 - Herland\u00ed de Souza Andrade"
+"Fomentar a cultura do empreendedorismo e da Inova\u00e7\u00e3o; Desenvolver habilidades empreendedoras; Apresentar conhecimentos necess\u00e1rios para a cria\u00e7\u00e3o de startups. A disciplina \u00e9 aplicada atrav\u00e9s de Aprendizagem baseada em Projetos, onde o projeto a ser desenvolvido \u00e9 da cria\u00e7\u00e3o de uma startup com uma proposta de produto/servi\u00e7o inovador ao longo do semestre.",
+"11079086 - Herland\u00ed de Souza Andrade",
+"Caracter\u00edsticas do Comportamento Empreendedor; Modelo de Neg\u00f3cios; Produto m\u00ednimo vi\u00e1vel; Plano de Neg\u00f3cios.",
+"1. Caracter\u00edsticas do Comportamento Empreendedor: Busca de oportunidades e iniciativa. Correr riscos calculados. Exig\u00eancia de qualidade e efici\u00eancia. Persist\u00eancia. Comprometimento. Busca de informa\u00e7\u00f5es. Estabelecimento de metas. Monitoramento e planejamento sistem\u00e1tico. Persuas\u00e3o e rede contatos. Independ\u00eancia e autoconfian\u00e7a.2. Estrat\u00e9gia, Inova\u00e7\u00e3o e Marketing.3. Design Thinking.4. Modelo de Neg\u00f3cios (Business Model Canvas e Lean Startup - Lean Canvas): Problema. Segmento de Clientes. Proposta de Valor \u00danica. Solu\u00e7\u00e3o. M\u00e9tricas-Chave. Canais. Estrutura de Custos. Fluxos de Receita. Vantagem Injusta.5. Produto m\u00ednimo vi\u00e1vel: Ciclo Construir-Mensurar-Aprender. Valor da vida \u00fatil do cliente. Prototipa\u00e7\u00e3o r\u00e1pida.6. Gest\u00e3o de processos e Gerenciamento \u00e1gil de projetos.7. Plano de Neg\u00f3cios: Marketing, Finan\u00e7as, Recursos Humanos, Desenvolvimento de Produtos e Tecnologia da Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o.8. Proposta da cria\u00e7\u00e3o de uma startup, do modelo de neg\u00f3cios ao plano de neg\u00f3cios, incluindo a montagem do produto m\u00ednimo vi\u00e1vel e uma rodada de PITCH.9. Desenvolvimento de atividade pr\u00e1tica extensionista (produ\u00e7\u00e3o de conte\u00fado digital sobre empreendedorismo e inova\u00e7\u00e3o)10. Visita (viagem did\u00e1tica complementar) a um ambiente de inova\u00e7\u00e3o e empreendedorismo (ex. incubadora/aceleradora ou parque tecnol\u00f3gico), para compreender o desenvolvimento dos processos de empreendedorismo e inova\u00e7\u00e3o.",
+"Aulas expositivas e dialogadas; din\u00e2micas, projetos e trabalhos em grupo; exerc\u00edcios individuais; e, semin\u00e1rios, debates e palestras.",
+"M\u00e9dia Aritm\u00e9tica dos Projetos, Trabalhos, Exerc\u00edcios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as quest\u00f5es relativas \u00e0s Compet\u00eancias (Conhecimento, Habilidade e Atitude, que incluem a presen\u00e7a e participa\u00e7\u00e3o dos alunos nas aulas) desenvolvidas"
 ],
 "oferecimento": {
 "20251N1": {
@@ -4266,21 +4305,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "43",
+"Pendentes": "18",
+"Matriculados": "25"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "57",
+"Vagas": "43",
 "Inscritos": "27",
-"Pendentes": "0",
-"Matriculados": "0"
+"Pendentes": "9",
+"Matriculados": "18"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "8",
+"Inscritos": "8",
+"Pendentes": "2",
+"Matriculados": "6"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "1",
@@ -4289,10 +4328,10 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia  de Materiais": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "8",
+"Inscritos": "8",
+"Pendentes": "7",
+"Matriculados": "1"
 }
 }
 }
@@ -4476,7 +4515,45 @@
 "docentes": [
 "1176388 - Luiz Tadeu Fernandes Eleno"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251F1": {
+"C\u00f3digo da Turma": "20251F1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
+"aulas": {
+"h0": {
+"horario": " qui  16:00  18:00 ",
+"prof": " "
+},
+"h1": {
+"horario": " sex  08:00  10:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "45",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOQ4257": {
 "sigla": "LOQ4257",
@@ -4523,15 +4600,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "31",
+"Pendentes": "1",
+"Matriculados": "30"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "49",
-"Inscritos": "28",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "31",
+"Pendentes": "1",
+"Matriculados": "30"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "1",
@@ -4558,11 +4635,11 @@
 "abstract": "",
 "program": "",
 "ndoc": 4,
-"CA": "4",
+"CA": "2",
 "CT": "0",
-"CH": "60 h",
+"CH": "30 h",
 "periodicidade": "Semestral",
-"ativacao": "01/01/2022",
+"ativacao": "01/01/2025",
 "objetivos": "Fornecer aos estudantes uma vis\u00e3o abrangente e interdisciplinar sobre materiais comp\u00f3sitos, al\u00e9m de mostrar as especificidades de cada matriz, sendo ela met\u00e1lica, cer\u00e2mica ou polim\u00e9rica. Ademais, deseja-se apresentar os fundamentos te\u00f3ricos da mec\u00e2nica de estruturas refor\u00e7adas e a partir de atividades pr\u00e1ticas demostrar m\u00e9todos de caracteriza\u00e7\u00e3o de materiais comp\u00f3sitos e como prepara-los.",
 "resumo": "1.Introdu\u00e7\u00e2o 2. Conceitos b\u00e1sicos sobre materiais comp\u00f3sitos, suas matrizes e seus processo de fabrica\u00e7\u00e3o 3. Tipos de refor\u00e7os 4. Comp\u00f3sitos nanoestruturados, naturais e h\u00edbridos 5. Mec\u00e2nica da estrutura refor\u00e7ada 6. Atividade pr\u00e1tica",
 "programa": "1. Conceitos b\u00e1sicos sobre materiais comp\u00f3sitos: comp\u00f3sitos de matriz met\u00e1lica (CMM), comp\u00f3sitos de matriz cer\u00e2micos (CMC) e comp\u00f3sitos de matriz polim\u00e9rica (CMP) e nanocomp\u00f3sitos. 2. Tipos de Refor\u00e7os: Refor\u00e7os particulados, fibras curtas, fibras longas, mantas, tecidos e preformas. 3. Conceitos de Interface4. Comp\u00f3sitos de matriz met\u00e1lica: caracter\u00edsticas e processos de fabrica\u00e7\u00e3o. 5. Comp\u00f3sitos de matriz cer\u00e2mica: caracter\u00edsticas e processos de fabrica\u00e7\u00e3o. 6. Comp\u00f3sitos de matriz polim\u00e9rica: matrizes termopl\u00e1sticas e termorr\u00edgidas, caracter\u00edsticas f\u00edsicas e qu\u00edmicas e processos de fabrica\u00e7\u00e3o. 7. Comp\u00f3sitos nanoestruturados. 8. Comp\u00f3sitos Naturais. 9. Comp\u00f3sitos H\u00edbridos 10. Mec\u00e2nica de estruturas refor\u00e7adas. Conte\u00fado pr\u00e1tico: 1. Caracteriza\u00e7\u00e3o e an\u00e1lise de comp\u00f3sitos de matriz met\u00e1lica. 2. Prepara\u00e7\u00e3o e caracteriza\u00e7\u00e3o de comp\u00f3sitos de matriz polim\u00e9rica.(Sugest\u00e3o: Considerar substituir essa parte pr\u00e1tica pela realiza\u00e7\u00e3o do PBL descrito no item 3) 3. Visita a empresa produtora de comp\u00f3sitos e aulas especiais e/ou palestras com professores/pesquisadores convidados",
@@ -4694,27 +4771,27 @@
 "aulas": {
 "h0": {
 "horario": " seg  16:00  18:00 ",
-"prof": " "
+"prof": "Claudemir Leif Tramarico "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "34",
-"Pendentes": "0",
-"Matriculados": "0"
+"Inscritos": "56",
+"Pendentes": "2",
+"Matriculados": "54"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "57",
-"Inscritos": "34",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "34",
+"Inscritos": "31",
+"Pendentes": "1",
+"Matriculados": "30"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "1",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
+"Vagas": "15",
+"Inscritos": "15",
+"Pendentes": "1",
+"Matriculados": "14"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
@@ -4723,10 +4800,10 @@
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
-"Vagas": "1",
-"Inscritos": "0",
+"Vagas": "10",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "10"
 }
 }
 }
