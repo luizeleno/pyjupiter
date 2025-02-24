@@ -35,6 +35,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
@@ -47,10 +48,40 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "0",
-"Inscritos": "0",
+"Vagas": "66",
+"Inscritos": "57",
+"Pendentes": "1",
+"Matriculados": "56"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "50",
+"Inscritos": "41",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "41"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "0",
+"Matriculados": "3"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "2",
+"Inscritos": "2",
+"Pendentes": "1",
+"Matriculados": "1"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
+},
+"EEL - Engenharia Qu\u00edmica": {
+"Vagas": "10",
+"Inscritos": "10",
+"Pendentes": "0",
+"Matriculados": "10"
 }
 }
 }
@@ -92,6 +123,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " ter  10:00  12:00 ",
@@ -100,6 +132,42 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
+"Vagas": "59",
+"Inscritos": "35",
+"Pendentes": "2",
+"Matriculados": "33"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "52",
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "28"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "2",
+"Matriculados": "1"
+},
+"EEL - Engenharia Qu\u00edmica": {
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "0",
+"Matriculados": "3"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
+},
+"Qualquer Unidade da USP": {
 "Vagas": "0",
 "Inscritos": "0",
 "Pendentes": "0",
@@ -145,6 +213,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " ter  08:00  10:00 ",
@@ -157,10 +226,46 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "0",
-"Inscritos": "0",
+"Vagas": "60",
+"Inscritos": "48",
+"Pendentes": "2",
+"Matriculados": "46"
+},
+"EEL - Engenharia Bioqu\u00edmica": {
+"Vagas": "48",
+"Inscritos": "36",
 "Pendentes": "0",
+"Matriculados": "36"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "2",
+"Inscritos": "2",
+"Pendentes": "0",
+"Matriculados": "2"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "1",
+"Inscritos": "1",
+"Pendentes": "1",
 "Matriculados": "0"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "0",
+"Matriculados": "3"
+},
+"EEL - Engenharia F\u00edsica": {
+"Vagas": "2",
+"Inscritos": "2",
+"Pendentes": "0",
+"Matriculados": "2"
+},
+"EEL - Engenharia Qu\u00edmica": {
+"Vagas": "4",
+"Inscritos": "4",
+"Pendentes": "1",
+"Matriculados": "3"
 }
 }
 }
@@ -207,6 +312,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " qua  14:00  16:00 ",
@@ -215,10 +321,16 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "0",
-"Inscritos": "0",
+"Vagas": "60",
+"Inscritos": "34",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "34"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "34",
+"Pendentes": "0",
+"Matriculados": "34"
 }
 }
 }
@@ -261,6 +373,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " ter  16:00  18:00 ",
@@ -273,6 +386,30 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
+"Vagas": "59",
+"Inscritos": "35",
+"Pendentes": "0",
+"Matriculados": "35"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "54",
+"Inscritos": "30",
+"Pendentes": "0",
+"Matriculados": "30"
+},
+"EEL - Engenharia Qu\u00edmica": {
+"Vagas": "5",
+"Inscritos": "5",
+"Pendentes": "0",
+"Matriculados": "5"
+},
+"EEL -  para toda a Unidade": {
+"Vagas": "1",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
+},
+"Qualquer Unidade da USP": {
 "Vagas": "0",
 "Inscritos": "0",
 "Pendentes": "0",
@@ -320,6 +457,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " qua  14:00  16:00 ",
@@ -328,10 +466,22 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "0",
-"Inscritos": "0",
+"Vagas": "60",
+"Inscritos": "41",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "41"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "59",
+"Inscritos": "40",
+"Pendentes": "0",
+"Matriculados": "40"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "1",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
 }
 }
 }
@@ -376,6 +526,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " sex  10:00  12:00 ",
@@ -384,10 +535,16 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "0",
-"Inscritos": "0",
+"Vagas": "60",
+"Inscritos": "40",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "40"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "60",
+"Inscritos": "40",
+"Pendentes": "0",
+"Matriculados": "40"
 }
 }
 }
@@ -452,10 +609,10 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
+"Vagas": "64",
 "Inscritos": "63",
-"Pendentes": "7",
-"Matriculados": "51"
+"Pendentes": "0",
+"Matriculados": "63"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "14",
@@ -466,20 +623,20 @@
 "EEL - Engenharia  de Materiais": {
 "Vagas": "6",
 "Inscritos": "5",
-"Pendentes": "1",
-"Matriculados": "4"
+"Pendentes": "0",
+"Matriculados": "5"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "6",
 "Inscritos": "6",
-"Pendentes": "3",
-"Matriculados": "3"
+"Pendentes": "0",
+"Matriculados": "6"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "5",
-"Inscritos": "5",
+"Inscritos": "4",
 "Pendentes": "0",
-"Matriculados": "5"
+"Matriculados": "4"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "6",
@@ -490,8 +647,8 @@
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "12",
 "Inscritos": "12",
-"Pendentes": "3",
-"Matriculados": "9"
+"Pendentes": "0",
+"Matriculados": "12"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "11",
@@ -551,10 +708,10 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "60",
-"Pendentes": "15",
-"Matriculados": "44"
+"Vagas": "71",
+"Inscritos": "71",
+"Pendentes": "6",
+"Matriculados": "65"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "3",
@@ -565,8 +722,8 @@
 "EEL - Engenharia  de Materiais": {
 "Vagas": "5",
 "Inscritos": "5",
-"Pendentes": "2",
-"Matriculados": "3"
+"Pendentes": "0",
+"Matriculados": "5"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "12",
@@ -577,26 +734,26 @@
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "11",
 "Inscritos": "11",
-"Pendentes": "2",
-"Matriculados": "9"
+"Pendentes": "1",
+"Matriculados": "10"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "6",
 "Inscritos": "6",
-"Pendentes": "3",
-"Matriculados": "3"
+"Pendentes": "2",
+"Matriculados": "4"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "3",
-"Inscritos": "3",
-"Pendentes": "3",
-"Matriculados": "0"
+"Inscritos": "2",
+"Pendentes": "1",
+"Matriculados": "1"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "20",
 "Inscritos": "20",
-"Pendentes": "5",
-"Matriculados": "15"
+"Pendentes": "2",
+"Matriculados": "18"
 }
 }
 }
@@ -656,10 +813,10 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "62",
-"Pendentes": "2",
-"Matriculados": "57"
+"Vagas": "71",
+"Inscritos": "70",
+"Pendentes": "1",
+"Matriculados": "68"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "14",
@@ -669,9 +826,9 @@
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "6",
-"Inscritos": "6",
-"Pendentes": "1",
-"Matriculados": "5"
+"Inscritos": "4",
+"Pendentes": "0",
+"Matriculados": "4"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "6",
@@ -752,9 +909,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "3",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "2"
+"Matriculados": "9"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
@@ -813,15 +970,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "40",
-"Pendentes": "12",
-"Matriculados": "28"
+"Inscritos": "46",
+"Pendentes": "5",
+"Matriculados": "36"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "21",
 "Inscritos": "19",
-"Pendentes": "4",
-"Matriculados": "15"
+"Pendentes": "0",
+"Matriculados": "19"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "6",
@@ -832,8 +989,8 @@
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "5",
 "Inscritos": "4",
-"Pendentes": "4",
-"Matriculados": "0"
+"Pendentes": "3",
+"Matriculados": "1"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "1",
@@ -844,14 +1001,14 @@
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "3",
 "Inscritos": "3",
-"Pendentes": "1",
-"Matriculados": "2"
+"Pendentes": "0",
+"Matriculados": "3"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "9",
 "Inscritos": "7",
-"Pendentes": "3",
-"Matriculados": "4"
+"Pendentes": "2",
+"Matriculados": "5"
 }
 }
 }
@@ -907,21 +1064,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "40",
-"Pendentes": "12",
-"Matriculados": "27"
+"Inscritos": "44",
+"Pendentes": "6",
+"Matriculados": "35"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "30",
 "Inscritos": "9",
-"Pendentes": "1",
-"Matriculados": "8"
+"Pendentes": "0",
+"Matriculados": "9"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "30",
-"Inscritos": "30",
-"Pendentes": "11",
-"Matriculados": "19"
+"Inscritos": "29",
+"Pendentes": "6",
+"Matriculados": "23"
 }
 }
 }
@@ -970,6 +1127,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Pr\u00e1tica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " sex  08:00  10:00 ",
@@ -978,7 +1136,13 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "0",
+"Vagas": "40",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "40",
 "Inscritos": "0",
 "Pendentes": "0",
 "Matriculados": "0"
@@ -1070,21 +1234,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "43",
-"Pendentes": "18",
-"Matriculados": "25"
+"Inscritos": "47",
+"Pendentes": "5",
+"Matriculados": "33"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "43",
-"Inscritos": "27",
-"Pendentes": "9",
-"Matriculados": "18"
+"Inscritos": "26",
+"Pendentes": "2",
+"Matriculados": "24"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "8",
-"Inscritos": "8",
-"Pendentes": "2",
-"Matriculados": "6"
+"Inscritos": "7",
+"Pendentes": "0",
+"Matriculados": "7"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "1",
@@ -1094,9 +1258,9 @@
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "8",
-"Inscritos": "8",
-"Pendentes": "7",
-"Matriculados": "1"
+"Inscritos": "5",
+"Pendentes": "3",
+"Matriculados": "2"
 }
 }
 }
@@ -1157,9 +1321,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "36",
+"Inscritos": "52",
 "Pendentes": "0",
-"Matriculados": "35"
+"Matriculados": "52"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "60",
@@ -1231,15 +1395,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "26",
-"Pendentes": "6",
-"Matriculados": "20"
+"Inscritos": "24",
+"Pendentes": "1",
+"Matriculados": "23"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "13",
-"Inscritos": "13",
-"Pendentes": "3",
-"Matriculados": "10"
+"Inscritos": "12",
+"Pendentes": "0",
+"Matriculados": "12"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "2",
@@ -1249,9 +1413,9 @@
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "6",
-"Inscritos": "6",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "6"
+"Matriculados": "5"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "1",
@@ -1262,13 +1426,13 @@
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "3",
 "Inscritos": "3",
-"Pendentes": "1",
-"Matriculados": "2"
+"Pendentes": "0",
+"Matriculados": "3"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "2",
-"Inscritos": "1",
-"Pendentes": "1",
+"Inscritos": "0",
+"Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
@@ -1341,9 +1505,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "44",
-"Pendentes": "3",
-"Matriculados": "41"
+"Inscritos": "48",
+"Pendentes": "2",
+"Matriculados": "46"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "30",
@@ -1353,8 +1517,8 @@
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "30",
-"Inscritos": "22",
-"Pendentes": "2",
+"Inscritos": "21",
+"Pendentes": "1",
 "Matriculados": "20"
 }
 }
@@ -1416,7 +1580,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "32",
+"Inscritos": "40",
 "Pendentes": "1",
 "Matriculados": "31"
 },
@@ -1522,9 +1686,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "8",
+"Inscritos": "17",
 "Pendentes": "0",
-"Matriculados": "7"
+"Matriculados": "17"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "40",
@@ -1597,15 +1761,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "54",
-"Inscritos": "54",
-"Pendentes": "38",
-"Matriculados": "15"
+"Inscritos": "64",
+"Pendentes": "17",
+"Matriculados": "36"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "49",
 "Inscritos": "48",
-"Pendentes": "37",
-"Matriculados": "11"
+"Pendentes": "16",
+"Matriculados": "32"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "5",
@@ -1667,10 +1831,10 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "50",
-"Inscritos": "50",
-"Pendentes": "2",
-"Matriculados": "47"
+"Vagas": "52",
+"Inscritos": "52",
+"Pendentes": "0",
+"Matriculados": "52"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "40",
@@ -1681,8 +1845,8 @@
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "10",
 "Inscritos": "10",
-"Pendentes": "2",
-"Matriculados": "8"
+"Pendentes": "0",
+"Matriculados": "10"
 }
 }
 }
@@ -1733,15 +1897,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "33",
-"Pendentes": "10",
-"Matriculados": "23"
+"Inscritos": "41",
+"Pendentes": "3",
+"Matriculados": "30"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "59",
-"Inscritos": "32",
-"Pendentes": "10",
-"Matriculados": "22"
+"Inscritos": "31",
+"Pendentes": "3",
+"Matriculados": "28"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "1",
@@ -1814,14 +1978,14 @@
 "Obrigat\u00f3ria": {
 "Vagas": "60",
 "Inscritos": "60",
-"Pendentes": "3",
-"Matriculados": "57"
+"Pendentes": "2",
+"Matriculados": "58"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "30",
 "Inscritos": "30",
-"Pendentes": "2",
-"Matriculados": "28"
+"Pendentes": "1",
+"Matriculados": "29"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "3",
@@ -1914,15 +2078,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "9",
+"Inscritos": "15",
 "Pendentes": "0",
-"Matriculados": "8"
+"Matriculados": "15"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
-"Inscritos": "8",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "8"
+"Matriculados": "6"
 }
 }
 }
@@ -1987,10 +2151,10 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "59",
+"Vagas": "67",
+"Inscritos": "67",
 "Pendentes": "0",
-"Matriculados": "58"
+"Matriculados": "67"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "10",
@@ -2092,15 +2256,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "36",
+"Inscritos": "43",
 "Pendentes": "1",
-"Matriculados": "35"
+"Matriculados": "34"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "14",
-"Inscritos": "10",
+"Inscritos": "9",
 "Pendentes": "0",
-"Matriculados": "10"
+"Matriculados": "9"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
@@ -2195,13 +2359,13 @@
 "Vagas": "45",
 "Inscritos": "28",
 "Pendentes": "0",
-"Matriculados": "28"
+"Matriculados": "27"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "18",
-"Inscritos": "18",
+"Inscritos": "17",
 "Pendentes": "0",
-"Matriculados": "18"
+"Matriculados": "17"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "11",
@@ -2275,7 +2439,7 @@
 "Vagas": "60",
 "Inscritos": "56",
 "Pendentes": "2",
-"Matriculados": "53"
+"Matriculados": "54"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "15",
@@ -2297,9 +2461,9 @@
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "11",
-"Inscritos": "11",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "11"
+"Matriculados": "10"
 }
 }
 }
@@ -2368,7 +2532,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "46",
+"Inscritos": "52",
 "Pendentes": "1",
 "Matriculados": "45"
 },
@@ -2439,9 +2603,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "26",
+"Inscritos": "35",
 "Pendentes": "1",
-"Matriculados": "25"
+"Matriculados": "33"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "33",
@@ -2536,16 +2700,16 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "60",
-"Pendentes": "5",
-"Matriculados": "55"
+"Vagas": "62",
+"Inscritos": "62",
+"Pendentes": "2",
+"Matriculados": "60"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "60",
 "Inscritos": "60",
-"Pendentes": "5",
-"Matriculados": "55"
+"Pendentes": "2",
+"Matriculados": "58"
 }
 }
 }
@@ -2601,13 +2765,13 @@
 "aulas": {
 "h0": {
 "horario": " seg  14:00  18:00 ",
-"prof": "(R) Luiz Carlos de Queiroz "
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "40",
+"Inscritos": "45",
 "Pendentes": "4",
 "Matriculados": "36"
 },
@@ -2683,13 +2847,13 @@
 "aulas": {
 "h0": {
 "horario": " sex  14:00  18:00 ",
-"prof": "(R) H\u00e9lcio Jos\u00e9 Iz\u00e1rio Filho "
+"prof": " "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "35",
-"Inscritos": "31",
+"Inscritos": "33",
 "Pendentes": "2",
 "Matriculados": "29"
 },
@@ -2754,7 +2918,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "30",
-"Inscritos": "14",
+"Inscritos": "18",
 "Pendentes": "0",
 "Matriculados": "14"
 },
@@ -2839,7 +3003,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "41",
+"Inscritos": "52",
 "Pendentes": "0",
 "Matriculados": "41"
 },
@@ -2914,7 +3078,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "38",
+"Inscritos": "42",
 "Pendentes": "0",
 "Matriculados": "38"
 },
@@ -2990,15 +3154,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "25",
-"Pendentes": "16",
-"Matriculados": "9"
+"Inscritos": "26",
+"Pendentes": "15",
+"Matriculados": "10"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "31",
 "Inscritos": "16",
-"Pendentes": "12",
-"Matriculados": "4"
+"Pendentes": "11",
+"Matriculados": "5"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "2",
@@ -3106,9 +3270,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "55",
-"Inscritos": "38",
+"Inscritos": "46",
 "Pendentes": "7",
-"Matriculados": "30"
+"Matriculados": "39"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "45",
@@ -3229,7 +3393,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "20",
+"Inscritos": "45",
 "Pendentes": "3",
 "Matriculados": "17"
 },
@@ -3299,9 +3463,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "12",
+"Inscritos": "21",
 "Pendentes": "0",
-"Matriculados": "12"
+"Matriculados": "19"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "40",
@@ -3349,45 +3513,7 @@
 "docentes": [
 "8151869 - Livia Chaguri e Carvalho",
 "5817372 - Simone de F\u00e1tima Medeiros Sampaio"
-],
-"oferecimento": {
-"20251B1": {
-"C\u00f3digo da Turma": "20251B1",
-"In\u00edcio": "24/02/2025",
-"Fim": "07/07/2025",
-"Tipo da Turma": "Te\u00f3rica",
-"aulas": {
-"h0": {
-"horario": " seg  08:00  10:00 ",
-"prof": " "
-},
-"h1": {
-"horario": " qua  08:00  10:00 ",
-"prof": " "
-}
-},
-"vagas": {
-"Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "10",
-"Pendentes": "0",
-"Matriculados": "10"
-},
-"EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "35",
-"Inscritos": "10",
-"Pendentes": "0",
-"Matriculados": "10"
-},
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "5",
-"Inscritos": "0",
-"Pendentes": "0",
-"Matriculados": "0"
-}
-}
-}
-}
+]
 },
 "LOT2004": {
 "sigla": "LOT2004",
@@ -3441,7 +3567,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "58",
+"Inscritos": "67",
 "Pendentes": "0",
 "Matriculados": "58"
 },
@@ -3505,15 +3631,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "59",
-"Pendentes": "10",
-"Matriculados": "49"
+"Inscritos": "68",
+"Pendentes": "3",
+"Matriculados": "55"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "46",
-"Inscritos": "45",
-"Pendentes": "7",
-"Matriculados": "38"
+"Inscritos": "44",
+"Pendentes": "1",
+"Matriculados": "43"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "5",
@@ -3536,8 +3662,8 @@
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "3",
 "Inscritos": "3",
-"Pendentes": "1",
-"Matriculados": "2"
+"Pendentes": "0",
+"Matriculados": "3"
 }
 }
 }
@@ -3594,15 +3720,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "47",
-"Pendentes": "3",
-"Matriculados": "44"
+"Inscritos": "49",
+"Pendentes": "1",
+"Matriculados": "46"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "33",
 "Inscritos": "32",
-"Pendentes": "2",
-"Matriculados": "30"
+"Pendentes": "1",
+"Matriculados": "31"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "10",
@@ -3613,8 +3739,8 @@
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
 "Inscritos": "1",
-"Pendentes": "1",
-"Matriculados": "0"
+"Pendentes": "0",
+"Matriculados": "1"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "4",
@@ -3678,7 +3804,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "28",
+"Inscritos": "41",
 "Pendentes": "7",
 "Matriculados": "21"
 },
@@ -3749,9 +3875,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "17",
-"Pendentes": "4",
-"Matriculados": "13"
+"Inscritos": "18",
+"Pendentes": "3",
+"Matriculados": "15"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "37",
@@ -3768,8 +3894,8 @@
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "3",
 "Inscritos": "3",
-"Pendentes": "1",
-"Matriculados": "2"
+"Pendentes": "0",
+"Matriculados": "3"
 }
 }
 }
@@ -3914,7 +4040,7 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "35",
-"Inscritos": "2",
+"Inscritos": "8",
 "Pendentes": "0",
 "Matriculados": "2"
 },
@@ -3979,9 +4105,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "56",
+"Inscritos": "60",
 "Pendentes": "2",
-"Matriculados": "54"
+"Matriculados": "58"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "34",
@@ -3991,9 +4117,9 @@
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "15",
-"Inscritos": "15",
+"Inscritos": "14",
 "Pendentes": "1",
-"Matriculados": "14"
+"Matriculados": "13"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
@@ -4006,6 +4132,12 @@
 "Inscritos": "10",
 "Pendentes": "0",
 "Matriculados": "10"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 }
 }
 }
@@ -4061,21 +4193,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "59",
-"Pendentes": "11",
-"Matriculados": "48"
+"Inscritos": "66",
+"Pendentes": "4",
+"Matriculados": "55"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "26",
 "Inscritos": "26",
-"Pendentes": "2",
-"Matriculados": "24"
+"Pendentes": "1",
+"Matriculados": "25"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "33",
 "Inscritos": "33",
-"Pendentes": "9",
-"Matriculados": "24"
+"Pendentes": "3",
+"Matriculados": "30"
 }
 }
 }
@@ -4133,15 +4265,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "61",
-"Pendentes": "9",
-"Matriculados": "50"
+"Inscritos": "60",
+"Pendentes": "8",
+"Matriculados": "52"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "60",
 "Inscritos": "59",
-"Pendentes": "9",
-"Matriculados": "50"
+"Pendentes": "8",
+"Matriculados": "51"
 }
 }
 }
@@ -4204,8 +4336,8 @@
 "Obrigat\u00f3ria": {
 "Vagas": "60",
 "Inscritos": "60",
-"Pendentes": "18",
-"Matriculados": "42"
+"Pendentes": "17",
+"Matriculados": "43"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "40",
@@ -4216,8 +4348,8 @@
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "20",
 "Inscritos": "20",
-"Pendentes": "7",
-"Matriculados": "13"
+"Pendentes": "6",
+"Matriculados": "14"
 }
 }
 }
@@ -4275,15 +4407,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "57",
+"Inscritos": "70",
 "Pendentes": "9",
-"Matriculados": "48"
+"Matriculados": "47"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "23",
-"Inscritos": "22",
+"Inscritos": "21",
 "Pendentes": "3",
-"Matriculados": "19"
+"Matriculados": "18"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "19",
@@ -4353,15 +4485,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "48",
-"Pendentes": "12",
-"Matriculados": "36"
+"Inscritos": "65",
+"Pendentes": "11",
+"Matriculados": "37"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "41",
 "Inscritos": "39",
-"Pendentes": "10",
-"Matriculados": "29"
+"Pendentes": "9",
+"Matriculados": "30"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "9",
@@ -4424,21 +4556,21 @@
 "aulas": {
 "h0": {
 "horario": " qua  19:00  23:00 ",
-"prof": "Geronimo Virginio Tagliaferro "
+"prof": "Ana Karine Furtado de Carvalho "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "38",
-"Pendentes": "27",
-"Matriculados": "11"
+"Inscritos": "40",
+"Pendentes": "17",
+"Matriculados": "21"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "40",
-"Inscritos": "38",
-"Pendentes": "27",
-"Matriculados": "11"
+"Inscritos": "36",
+"Pendentes": "17",
+"Matriculados": "19"
 }
 }
 }
@@ -4495,15 +4627,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "35",
-"Inscritos": "26",
-"Pendentes": "21",
-"Matriculados": "5"
+"Inscritos": "33",
+"Pendentes": "17",
+"Matriculados": "9"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "35",
 "Inscritos": "26",
-"Pendentes": "21",
-"Matriculados": "5"
+"Pendentes": "17",
+"Matriculados": "9"
 }
 }
 }
@@ -4571,9 +4703,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "38",
-"Inscritos": "37",
-"Pendentes": "17",
-"Matriculados": "20"
+"Inscritos": "38",
+"Pendentes": "15",
+"Matriculados": "23"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "19",
@@ -4584,8 +4716,8 @@
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "19",
 "Inscritos": "18",
-"Pendentes": "10",
-"Matriculados": "8"
+"Pendentes": "8",
+"Matriculados": "10"
 }
 }
 }
@@ -4653,21 +4785,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "19",
-"Pendentes": "6",
-"Matriculados": "13"
+"Inscritos": "26",
+"Pendentes": "5",
+"Matriculados": "20"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "25",
 "Inscritos": "7",
-"Pendentes": "3",
-"Matriculados": "4"
+"Pendentes": "2",
+"Matriculados": "5"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "25",
-"Inscritos": "12",
+"Inscritos": "11",
 "Pendentes": "3",
-"Matriculados": "9"
+"Matriculados": "8"
 }
 }
 }
@@ -4725,9 +4857,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "26",
-"Pendentes": "9",
-"Matriculados": "16"
+"Inscritos": "29",
+"Pendentes": "8",
+"Matriculados": "17"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "43",
@@ -4738,8 +4870,8 @@
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "17",
 "Inscritos": "15",
-"Pendentes": "6",
-"Matriculados": "9"
+"Pendentes": "5",
+"Matriculados": "10"
 }
 }
 }
@@ -4801,21 +4933,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "100",
-"Inscritos": "46",
-"Pendentes": "34",
-"Matriculados": "10"
+"Inscritos": "86",
+"Pendentes": "23",
+"Matriculados": "25"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "50",
-"Inscritos": "18",
-"Pendentes": "17",
-"Matriculados": "1"
+"Inscritos": "20",
+"Pendentes": "13",
+"Matriculados": "7"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "50",
-"Inscritos": "26",
-"Pendentes": "17",
-"Matriculados": "9"
+"Inscritos": "28",
+"Pendentes": "10",
+"Matriculados": "18"
 }
 }
 }
@@ -5025,21 +5157,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "100",
-"Inscritos": "39",
-"Pendentes": "26",
-"Matriculados": "12"
+"Inscritos": "58",
+"Pendentes": "23",
+"Matriculados": "35"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "50",
-"Inscritos": "15",
+"Inscritos": "16",
 "Pendentes": "12",
-"Matriculados": "3"
+"Matriculados": "4"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "50",
 "Inscritos": "23",
-"Pendentes": "14",
-"Matriculados": "9"
+"Pendentes": "11",
+"Matriculados": "12"
 }
 }
 }
@@ -5107,7 +5239,28 @@
 "docentes": [
 "6270264 - Juan Fernando Zapata Zapata"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251T1": {
+"C\u00f3digo da Turma": "20251T1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Te\u00f3rica",
+"aulas": {
+"h0": {
+"horario": " seg  10:00  12:00 ",
+"prof": "(R) Juan Fernando Zapata Zapata "
+}
+},
+"vagas": {
+"Obrigat\u00f3ria": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+}
+}
+}
+}
 },
 "LOB1008": {
 "sigla": "LOB1008",
@@ -5198,8 +5351,8 @@
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "51",
 "Inscritos": "2",
-"Pendentes": "1",
-"Matriculados": "1"
+"Pendentes": "0",
+"Matriculados": "2"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -5389,14 +5542,14 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "18",
-"Pendentes": "9",
-"Matriculados": "9"
+"Inscritos": "34",
+"Pendentes": "8",
+"Matriculados": "24"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "40",
-"Inscritos": "18",
-"Pendentes": "9",
+"Inscritos": "17",
+"Pendentes": "8",
 "Matriculados": "9"
 }
 }
@@ -5543,9 +5696,9 @@
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "15",
-"Inscritos": "1",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "1"
+"Matriculados": "0"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -5616,8 +5769,8 @@
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "15",
 "Inscritos": "1",
-"Pendentes": "1",
-"Matriculados": "0"
+"Pendentes": "0",
+"Matriculados": "1"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
