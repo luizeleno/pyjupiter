@@ -783,7 +783,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4264.html",
       "nome"      : " Engenharia da Sustentabilidade",
       "nomeascii" : " Engenharia da Sustentabilidade",
-      "docentes"     : "5840535 - Messias Borges Silva"
+      "docentes"     : "3295113 - José Eduardo Holler Branco5840535 - Messias Borges Silva"
     } ,
   
     {
@@ -1787,26 +1787,10 @@
     } ,
   
     {
-      "title"     : "LOT2040",
-      "url"       : "/pyjupiter/disciplinas/lot2040.html",
-      "nome"      : " Engenharia Genética",
-      "nomeascii" : " Engenharia Genetica",
-      "docentes"     : "8711290 - Elisson Antônio da Costa Romanel8853480 - Tatiane da Franca Silva"
-    } ,
-  
-    {
-      "title"     : "LOT2050",
-      "url"       : "/pyjupiter/disciplinas/lot2050.html",
-      "nome"      : " Microbiologia Experimental",
-      "nomeascii" : " Microbiologia Experimental",
-      "docentes"     : "1304060 - Maria das Graças de Almeida Felipe8853480 - Tatiane da Franca Silva"
-    } ,
-  
-    {
       "title"     : "LOT2053",
       "url"       : "/pyjupiter/disciplinas/lot2053.html",
-      "nome"      : " Microbiologia",
-      "nomeascii" : " Microbiologia",
+      "nome"      : " Microbiologia: da Teoria à Prática",
+      "nomeascii" : " Microbiologia: da Teoria a Pratica",
       "docentes"     : "4873328 - Fernando Segato8853480 - Tatiane da Franca Silva"
     } ,
   
@@ -1915,6 +1899,14 @@
     } ,
   
     {
+      "title"     : "LOT2040",
+      "url"       : "/pyjupiter/disciplinas/lot2040.html",
+      "nome"      : " Engenharia Genética Teórica e Prática",
+      "nomeascii" : " Engenharia Genetica Teorica e Pratica",
+      "docentes"     : "8711290 - Elisson Antônio da Costa Romanel8853480 - Tatiane da Franca Silva"
+    } ,
+  
+    {
       "title"     : "LOT2054",
       "url"       : "/pyjupiter/disciplinas/lot2054.html",
       "nome"      : " Engenharia de Segurança do Trabalho e Biossegurança",
@@ -1925,8 +1917,8 @@
     {
       "title"     : "LOT2058",
       "url"       : "/pyjupiter/disciplinas/lot2058.html",
-      "nome"      : " Engenharia Econômica",
-      "nomeascii" : " Engenharia Economica",
+      "nome"      : " Análise Técnico-Econômica de Bioprocessos",
+      "nomeascii" : " Analise Tecnico-Economica de Bioprocessos",
       "docentes"     : "3444370 - Rita de Cássia Lacerda Brambilla Rodrigues5817181 - Valdeir Arantes"
     } ,
   
@@ -2091,22 +2083,6 @@
     } ,
   
     {
-      "title"     : "LOT2066",
-      "url"       : "/pyjupiter/disciplinas/lot2066.html",
-      "nome"      : " Introdução à Bioinformática",
-      "nomeascii" : " Introducao a Bioinformatica",
-      "docentes"     : "8711290 - Elisson Antônio da Costa Romanel"
-    } ,
-  
-    {
-      "title"     : "LOT2067",
-      "url"       : "/pyjupiter/disciplinas/lot2067.html",
-      "nome"      : " Biotecnologia Farmacêutica",
-      "nomeascii" : " Biotecnologia Farmaceutica",
-      "docentes"     : "4873328 - Fernando Segato"
-    } ,
-  
-    {
       "title"     : "LOQ4099",
       "url"       : "/pyjupiter/disciplinas/loq4099.html",
       "nome"      : " Engenharia de Cristais Moleculares",
@@ -2139,11 +2115,27 @@
     } ,
   
     {
+      "title"     : "LOT2066",
+      "url"       : "/pyjupiter/disciplinas/lot2066.html",
+      "nome"      : " Introdução à Bioinformática",
+      "nomeascii" : " Introducao a Bioinformatica",
+      "docentes"     : "8711290 - Elisson Antônio da Costa Romanel"
+    } ,
+  
+    {
+      "title"     : "LOT2067",
+      "url"       : "/pyjupiter/disciplinas/lot2067.html",
+      "nome"      : " Biotecnologia Farmacêutica",
+      "nomeascii" : " Biotecnologia Farmaceutica",
+      "docentes"     : "4873328 - Fernando Segato"
+    } ,
+  
+    {
       "title"     : "LOQ4201",
       "url"       : "/pyjupiter/disciplinas/loq4201.html",
       "nome"      : " Introdução à Engenharia de Produção",
       "nomeascii" : " Introducao a Engenharia de Producao",
-      "docentes"     : "11079086 - Herlandí de Souza Andrade"
+      "docentes"     : "5840535 - Messias Borges Silva"
     } ,
   
     {
@@ -2191,7 +2183,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4204.html",
       "nome"      : " Economia Geral",
       "nomeascii" : " Economia Geral",
-      "docentes"     : "11079086 - Herlandí de Souza Andrade3295113 - José Eduardo Holler Branco"
+      "docentes"     : "7811306 - Diogo Ferraz"
     } ,
   
     {
@@ -2247,7 +2239,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4255.html",
       "nome"      : " Inovação Tecnológica",
       "nomeascii" : " Inovacao Tecnologica",
-      "docentes"     : "5701460 - Antonio Iacono"
+      "docentes"     : "11079086 - Herlandí de Souza Andrade"
     } ,
   
     {
@@ -2263,7 +2255,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4263.html",
       "nome"      : " Planejamento e Gestão da Manutenção",
       "nomeascii" : " Planejamento e Gestao da Manutencao",
-      "docentes"     : "5840535 - Messias Borges Silva"
+      "docentes"     : "3295113 - José Eduardo Holler Branco"
     } ,
   
     {
@@ -2271,7 +2263,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4213.html",
       "nome"      : " Contabilidade e Custos",
       "nomeascii" : " Contabilidade e Custos",
-      "docentes"     : "11079086 - Herlandí de Souza Andrade"
+      "docentes"     : "7811306 - Diogo Ferraz"
     } ,
   
     {
@@ -2295,7 +2287,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4245.html",
       "nome"      : " Ergonomia",
       "nomeascii" : " Ergonomia",
-      "docentes"     : "8767640 - Eduardo Ferro dos Santos"
+      "docentes"     : "5840917 - Fabricio Maciel Gomes"
     } ,
   
     {
@@ -2303,7 +2295,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4259.html",
       "nome"      : " Processos de Desenvolvimento de Serviços",
       "nomeascii" : " Processos de Desenvolvimento de Servicos",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira"
+      "docentes"     : "6046221 - Camila Fabricio Poltronieri"
     } ,
   
     {
@@ -2311,7 +2303,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4261.html",
       "nome"      : " Planejamento, Programação e Controle da Produção I",
       "nomeascii" : " Planejamento, Programacao e Controle da Producao I",
-      "docentes"     : "5701460 - Antonio Iacono"
+      "docentes"     : "8971158 - Claudemir Leif Tramarico"
     } ,
   
     {
@@ -2319,7 +2311,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4262.html",
       "nome"      : " Automação e Controle",
       "nomeascii" : " Automacao e Controle",
-      "docentes"     : "8767640 - Eduardo Ferro dos Santos"
+      "docentes"     : "5840917 - Fabricio Maciel Gomes"
     } ,
   
     {
@@ -2327,7 +2319,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4222.html",
       "nome"      : " Engenharia Econômica e Finanças",
       "nomeascii" : " Engenharia Economica e Financas",
-      "docentes"     : "11079086 - Herlandí de Souza Andrade"
+      "docentes"     : "7811306 - Diogo Ferraz"
     } ,
   
     {
@@ -2343,7 +2335,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4270.html",
       "nome"      : " Planejamento, Programação e Controle da Produção II",
       "nomeascii" : " Planejamento, Programacao e Controle da Producao II",
-      "docentes"     : "5701460 - Antonio Iacono"
+      "docentes"     : "8971158 - Claudemir Leif Tramarico"
     } ,
   
     {
@@ -2359,7 +2351,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4272.html",
       "nome"      : " Projeto da Fabrica",
       "nomeascii" : " Projeto da Fabrica",
-      "docentes"     : "5701460 - Antonio Iacono"
+      "docentes"     : "8971158 - Claudemir Leif Tramarico"
     } ,
   
     {
@@ -2383,7 +2375,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4228.html",
       "nome"      : " Trabalho de Graduação em Engenharia de Produção I",
       "nomeascii" : " Trabalho de Graduacao em Engenharia de Producao I",
-      "docentes"     : "198273 - Domingos Savio Giordani"
+      "docentes"     : "3295113 - José Eduardo Holler Branco"
     } ,
   
     {
@@ -2399,7 +2391,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4268.html",
       "nome"      : " Gestão da Tecnologia da Informação",
       "nomeascii" : " Gestao da Tecnologia da Informacao",
-      "docentes"     : "11079086 - Herlandí de Souza Andrade"
+      "docentes"     : "5840917 - Fabricio Maciel Gomes"
     } ,
   
     {
@@ -2407,7 +2399,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4273.html",
       "nome"      : " Gestão de Novos Produtos",
       "nomeascii" : " Gestao de Novos Produtos",
-      "docentes"     : "5701460 - Antonio Iacono"
+      "docentes"     : "6046221 - Camila Fabricio Poltronieri"
     } ,
   
     {
@@ -2431,7 +2423,7 @@
       "url"       : "/pyjupiter/disciplinas/loq4265.html",
       "nome"      : " Trabalho de Graduação em Engenharia de Produção II",
       "nomeascii" : " Trabalho de Graduacao em Engenharia de Producao II",
-      "docentes"     : "5840560 - Marco Antonio Carvalho Pereira1285870 - Marcos Villela Barcza"
+      "docentes"     : "5840917 - Fabricio Maciel Gomes"
     } ,
   
     {

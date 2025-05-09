@@ -65,14 +65,14 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "66"
-          Inscritos: "57"
-          Pendentes: "1"
-          Matriculados: "56"
+          Inscritos: "62"
+          Pendentes: "0"
+          Matriculados: "62"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "50"
-          Inscritos: "41"
+          Inscritos: "29"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "29"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "3"
           Inscritos: "3"
@@ -81,8 +81,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "2"
           Inscritos: "2"
-          Pendentes: "1"
-          Matriculados: "1"
+          Pendentes: "0"
+          Matriculados: "2"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "1"
           Inscritos: "1"
@@ -151,9 +151,9 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "71"
-          Inscritos: "71"
-          Pendentes: "6"
-          Matriculados: "65"
+          Inscritos: "64"
+          Pendentes: "2"
+          Matriculados: "62"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "3"
           Inscritos: "2"
@@ -161,9 +161,9 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
           Matriculados: "2"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "5"
-          Inscritos: "5"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "5"
+          Matriculados: "3"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "12"
           Inscritos: "12"
@@ -171,14 +171,14 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
           Matriculados: "12"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "11"
-          Inscritos: "11"
-          Pendentes: "1"
+          Inscritos: "10"
+          Pendentes: "0"
           Matriculados: "10"
         - EEL_-_Engenharia_Fisica:
           Vagas: "6"
-          Inscritos: "6"
-          Pendentes: "2"
-          Matriculados: "4"
+          Inscritos: "4"
+          Pendentes: "1"
+          Matriculados: "3"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "3"
           Inscritos: "2"
@@ -187,8 +187,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "20"
           Inscritos: "20"
-          Pendentes: "2"
-          Matriculados: "18"
+          Pendentes: "0"
+          Matriculados: "20"
 - LOB1036:
   sigla: "LOB1036"
   nome: " Geometria Analítica"
@@ -248,23 +248,23 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
-          Pendentes: "2"
-          Matriculados: "46"
+          Inscritos: "52"
+          Pendentes: "0"
+          Matriculados: "52"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "48"
-          Inscritos: "36"
+          Inscritos: "26"
           Pendentes: "0"
-          Matriculados: "36"
+          Matriculados: "26"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "2"
-          Inscritos: "2"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "1"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "1"
-          Inscritos: "1"
-          Pendentes: "1"
+          Inscritos: "0"
+          Pendentes: "0"
           Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "3"
@@ -279,8 +279,8 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
         - EEL_-_Engenharia_Quimica:
           Vagas: "4"
           Inscritos: "4"
-          Pendentes: "1"
-          Matriculados: "3"
+          Pendentes: "0"
+          Matriculados: "4"
 - LOB1038:
   sigla: "LOB1038"
   nome: " Física Experimental I"
@@ -340,10 +340,15 @@ FLEMMING, Diva M.; GONÇALVES, Mirian B. Cálculo A. São Paulo: Pearson Prentic
           Pendentes: "0"
           Matriculados: "9"
         - EEL_-_Engenharia_Ambiental:
-          Vagas: "40"
+          Vagas: "35"
           Inscritos: "2"
           Pendentes: "0"
           Matriculados: "2"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "5"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOM3218:
   sigla: "LOM3218"
   nome: " Introdução à Engenharia Física"
@@ -393,14 +398,14 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "30"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "36"
         - EEL_-_Engenharia_Fisica:
           Vagas: "50"
-          Inscritos: "30"
+          Inscritos: "21"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "21"
 - LOM3260:
   sigla: "LOM3260"
   nome: " Computação Científica em Python"
@@ -450,19 +455,24 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "47"
+          Inscritos: "50"
           Pendentes: "0"
-          Matriculados: "45"
+          Matriculados: "50"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "20"
-          Inscritos: "15"
+          Inscritos: "14"
           Pendentes: "0"
-          Matriculados: "15"
+          Matriculados: "14"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "30"
+          Inscritos: "20"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "20"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3270:
   sigla: "LOM3270"
   nome: " Matemática Preliminar"
@@ -509,19 +519,19 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "34"
+          Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "37"
         - EEL_-_Engenharia_Fisica:
           Vagas: "48"
-          Inscritos: "32"
+          Inscritos: "22"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "22"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "2"
-          Inscritos: "2"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "1"
 - LOQ4100:
   sigla: "LOQ4100"
   nome: " Fundamentos de Química para Engenharia I-B"
@@ -573,24 +583,24 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "58"
-          Inscritos: "31"
+          Inscritos: "44"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "44"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "56"
-          Inscritos: "31"
+          Inscritos: "26"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "26"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "2"
-          Inscritos: "0"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "2"
-          Inscritos: "0"
+          Inscritos: "2"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "2"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -662,14 +672,14 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "64"
-          Inscritos: "63"
+          Inscritos: "62"
           Pendentes: "0"
-          Matriculados: "63"
+          Matriculados: "62"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "14"
-          Inscritos: "14"
+          Inscritos: "13"
           Pendentes: "0"
-          Matriculados: "14"
+          Matriculados: "13"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "6"
           Inscritos: "5"
@@ -766,8 +776,8 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "24"
-          Pendentes: "1"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "13"
@@ -776,9 +786,9 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           Matriculados: "12"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "2"
-          Inscritos: "2"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "1"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "6"
           Inscritos: "5"
@@ -802,8 +812,8 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "2"
           Inscritos: "1"
-          Pendentes: "1"
-          Matriculados: "0"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOB1037:
   sigla: "LOB1037"
   nome: " Álgebra Linear"
@@ -866,24 +876,24 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "71"
-          Inscritos: "70"
-          Pendentes: "1"
-          Matriculados: "68"
+          Inscritos: "65"
+          Pendentes: "0"
+          Matriculados: "65"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "14"
-          Inscritos: "14"
+          Inscritos: "13"
           Pendentes: "0"
-          Matriculados: "14"
+          Matriculados: "13"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "6"
-          Inscritos: "4"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "4"
+          Matriculados: "3"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "6"
-          Inscritos: "6"
+          Inscritos: "5"
           Pendentes: "0"
-          Matriculados: "6"
+          Matriculados: "5"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "6"
           Inscritos: "6"
@@ -891,9 +901,9 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           Matriculados: "6"
         - EEL_-_Engenharia_Fisica:
           Vagas: "6"
-          Inscritos: "5"
-          Pendentes: "1"
-          Matriculados: "4"
+          Inscritos: "6"
+          Pendentes: "0"
+          Matriculados: "6"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "11"
           Inscritos: "11"
@@ -901,9 +911,9 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           Matriculados: "11"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "11"
-          Inscritos: "11"
+          Inscritos: "10"
           Pendentes: "0"
-          Matriculados: "11"
+          Matriculados: "10"
 - LOB1041:
   sigla: "LOB1041"
   nome: " Física Experimental II"
@@ -961,9 +971,9 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "53"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "32"
+          Matriculados: "40"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "32"
@@ -1018,19 +1028,24 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "24"
+          Inscritos: "22"
           Pendentes: "1"
-          Matriculados: "23"
+          Matriculados: "21"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "39"
-          Inscritos: "18"
+          Inscritos: "17"
           Pendentes: "0"
-          Matriculados: "18"
+          Matriculados: "17"
         - EEL_-_Engenharia_Fisica:
           Vagas: "6"
-          Inscritos: "6"
+          Inscritos: "5"
           Pendentes: "1"
-          Matriculados: "5"
+          Matriculados: "4"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3204:
   sigla: "LOM3204"
   nome: " Desenho Técnico e Projeto Assistido por Computador"
@@ -1077,14 +1092,14 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "25"
+          Inscritos: "38"
           Pendentes: "0"
-          Matriculados: "25"
+          Matriculados: "38"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
-          Inscritos: "25"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "25"
+          Matriculados: "24"
 - LOQ4095:
   sigla: "LOQ4095"
   nome: " Química Geral Experimental"
@@ -1107,7 +1122,7 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
     EM: "2"
     EB: "2"
     EP: "1"
-    EQD: "2"
+    EQD: "1"
     EQN: "2"
   unidade: "Escola de Engenharia de Lorena"
   departamento: "Engenharia Química"
@@ -1142,10 +1157,10 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           prof: "Antonio Aarão Serra "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "0"
+          Vagas: "41"
+          Inscritos: "41"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
           Inscritos: "0"
@@ -1217,13 +1232,13 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "2"
-          Matriculados: "58"
+          Inscritos: "59"
+          Pendentes: "0"
+          Matriculados: "59"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "30"
-          Inscritos: "30"
-          Pendentes: "1"
+          Inscritos: "29"
+          Pendentes: "0"
           Matriculados: "29"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "3"
@@ -1248,8 +1263,8 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "2"
           Inscritos: "2"
-          Pendentes: "1"
-          Matriculados: "1"
+          Pendentes: "0"
+          Matriculados: "2"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "8"
           Inscritos: "8"
@@ -1314,9 +1329,9 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "15"
+          Inscritos: "20"
           Pendentes: "0"
-          Matriculados: "15"
+          Matriculados: "20"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
           Inscritos: "6"
@@ -1385,12 +1400,12 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "40"
-          Pendentes: "1"
-          Matriculados: "31"
+          Pendentes: "0"
+          Matriculados: "40"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "5"
-          Inscritos: "5"
-          Pendentes: "1"
+          Inscritos: "4"
+          Pendentes: "0"
           Matriculados: "4"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "1"
@@ -1590,24 +1605,24 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "46"
-          Pendentes: "5"
-          Matriculados: "36"
+          Inscritos: "28"
+          Pendentes: "0"
+          Matriculados: "28"
         - EEL_-_Engenharia_Fisica:
           Vagas: "21"
-          Inscritos: "19"
+          Inscritos: "16"
           Pendentes: "0"
-          Matriculados: "19"
+          Matriculados: "16"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "6"
-          Inscritos: "6"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "6"
+          Matriculados: "3"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "5"
-          Inscritos: "4"
-          Pendentes: "3"
-          Matriculados: "1"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "1"
           Inscritos: "1"
@@ -1615,14 +1630,19 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
           Matriculados: "1"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "3"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "9"
           Inscritos: "3"
           Pendentes: "0"
           Matriculados: "3"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "9"
-          Inscritos: "7"
-          Pendentes: "2"
-          Matriculados: "5"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3236:
   sigla: "LOM3236"
   nome: " Processos de Fabricação"
@@ -1670,14 +1690,14 @@ CHAVES, A. S.; VALADARES, E. C.; ALVES, E. G. Aplicações da Física Quântica 
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "13"
+          Inscritos: "12"
           Pendentes: "0"
-          Matriculados: "13"
+          Matriculados: "12"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
-          Inscritos: "13"
+          Inscritos: "12"
           Pendentes: "0"
-          Matriculados: "13"
+          Matriculados: "12"
 - LOM3241:
   sigla: "LOM3241"
   nome: " Química de Materiais"
@@ -1731,14 +1751,14 @@ LENG, Y. Materials Characterization: Introduction to Microscopic and Spectroscop
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "29"
-          Pendentes: "3"
-          Matriculados: "17"
+          Inscritos: "25"
+          Pendentes: "0"
+          Matriculados: "25"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
-          Inscritos: "20"
-          Pendentes: "3"
-          Matriculados: "17"
+          Inscritos: "18"
+          Pendentes: "0"
+          Matriculados: "18"
 - LOM3257:
   sigla: "LOM3257"
   nome: " Mecânica Clássica"
@@ -1794,13 +1814,13 @@ LENG, Y. Materials Characterization: Introduction to Microscopic and Spectroscop
         - Obrigatoria:
           Vagas: "45"
           Inscritos: "24"
-          Pendentes: "1"
-          Matriculados: "22"
+          Pendentes: "0"
+          Matriculados: "24"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
           Inscritos: "23"
-          Pendentes: "1"
-          Matriculados: "22"
+          Pendentes: "0"
+          Matriculados: "23"
 - LOB1012:
   sigla: "LOB1012"
   nome: " Estatística"
@@ -1875,14 +1895,29 @@ RUNGER, George C.; MONTGOMERY, Douglas. Estatística aplicada e probabilidade pa
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "52"
+          Inscritos: "59"
           Pendentes: "0"
-          Matriculados: "52"
+          Matriculados: "59"
         - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "60"
-          Inscritos: "35"
+          Vagas: "54"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "35"
+          Matriculados: "36"
+        - EEL_-_Engenharia_Ambiental:
+          Vagas: "3"
+          Inscritos: "3"
+          Pendentes: "0"
+          Matriculados: "3"
+        - EEL_-_Engenharia_de_Producao:
+          Vagas: "1"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "2"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOB1021:
   sigla: "LOB1021"
   nome: " Física IV"
@@ -2218,9 +2253,9 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "43"
-          Pendentes: "1"
-          Matriculados: "34"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
         - EEL_-_Engenharia_Fisica:
           Vagas: "14"
           Inscritos: "9"
@@ -2234,8 +2269,8 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
         - EEL_-_Engenharia_Ambiental:
           Vagas: "8"
           Inscritos: "8"
-          Pendentes: "1"
-          Matriculados: "7"
+          Pendentes: "0"
+          Matriculados: "8"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "1"
           Inscritos: "0"
@@ -2243,9 +2278,9 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
           Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "7"
-          Inscritos: "7"
+          Inscritos: "4"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "4"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "10"
           Inscritos: "9"
@@ -2256,6 +2291,11 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
           Inscritos: "2"
           Pendentes: "0"
           Matriculados: "2"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3217:
   sigla: "LOM3217"
   nome: " Física Estatística"
@@ -2310,14 +2350,14 @@ RAMO, WHINNERY E VAN DUZER, Fields and Waves in Communication Electronics, Wiley
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "23"
-          Pendentes: "2"
-          Matriculados: "21"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
-          Inscritos: "23"
-          Pendentes: "2"
-          Matriculados: "21"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
 - LOM3226:
   sigla: "LOM3226"
   nome: " Mecânica Quântica"
@@ -2444,13 +2484,13 @@ KOONIN, S. E. Computational Physics. Benjamin Cummings, 1986."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "28"
-          Pendentes: "1"
+          Inscritos: "27"
+          Pendentes: "0"
           Matriculados: "27"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "28"
-          Pendentes: "1"
+          Inscritos: "27"
+          Pendentes: "0"
           Matriculados: "27"
 - LOM3228:
   sigla: "LOM3228"
@@ -2499,18 +2539,18 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       aulas:
         - h0:
           horario: " qua  08:00  12:00 "
-          prof: "Antonio Fernando Sartori "
+          prof: "(R) Durval Rodrigues Junior "
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "25"
-          Pendentes: "1"
-          Matriculados: "24"
+          Inscritos: "26"
+          Pendentes: "0"
+          Matriculados: "26"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
-          Inscritos: "25"
-          Pendentes: "1"
-          Matriculados: "24"
+          Inscritos: "26"
+          Pendentes: "0"
+          Matriculados: "26"
 - LOM3243:
   sigla: "LOM3243"
   nome: " Seminários em Engenharia Física"
@@ -2555,13 +2595,13 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
         - Obrigatoria:
           Vagas: "45"
           Inscritos: "38"
-          Pendentes: "6"
-          Matriculados: "32"
+          Pendentes: "2"
+          Matriculados: "36"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
-          Inscritos: "38"
-          Pendentes: "6"
-          Matriculados: "32"
+          Inscritos: "37"
+          Pendentes: "2"
+          Matriculados: "35"
 - LOM3263:
   sigla: "LOM3263"
   nome: " Eletrônica Fundamental e Aplicada"
@@ -2668,19 +2708,19 @@ WEISEND, J. G. The Handbook of Cryogenic Engineering, Boca Raton: CRC Press, 199
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "36"
-          Pendentes: "8"
-          Matriculados: "27"
+          Inscritos: "39"
+          Pendentes: "1"
+          Matriculados: "38"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "30"
-          Inscritos: "15"
-          Pendentes: "6"
-          Matriculados: "9"
+          Inscritos: "16"
+          Pendentes: "1"
+          Matriculados: "15"
         - EEL_-_Engenharia_Fisica:
           Vagas: "15"
-          Inscritos: "14"
-          Pendentes: "2"
-          Matriculados: "12"
+          Inscritos: "15"
+          Pendentes: "0"
+          Matriculados: "15"
 - LOM3215:
   sigla: "LOM3215"
   nome: " Física do Estado Sólido"
@@ -2972,14 +3012,14 @@ SCHRAMM, G. Reologia e Reometria. Editora Artliber, 2006."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "28"
-          Pendentes: "2"
-          Matriculados: "26"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
-          Inscritos: "25"
-          Pendentes: "2"
-          Matriculados: "23"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
 - LOM3223:
   sigla: "LOM3223"
   nome: " Materiais e Dispositivos Magnéticos e Supercondutores"
@@ -3038,14 +3078,14 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "24"
-          Pendentes: "3"
-          Matriculados: "20"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "23"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
           Inscritos: "23"
-          Pendentes: "3"
-          Matriculados: "20"
+          Pendentes: "0"
+          Matriculados: "23"
 - LOM3230:
   sigla: "LOM3230"
   nome: " Métodos Experimentais da Física III"
@@ -3094,13 +3134,13 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "20"
-          Pendentes: "2"
-          Matriculados: "18"
+          Pendentes: "0"
+          Matriculados: "20"
         - EEL_-_Engenharia_Fisica:
           Vagas: "40"
           Inscritos: "20"
-          Pendentes: "2"
-          Matriculados: "18"
+          Pendentes: "0"
+          Matriculados: "20"
 - LOM3264:
   sigla: "LOM3264"
   nome: " Fundamentos de Controle"
@@ -3151,13 +3191,13 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "25"
-          Pendentes: "2"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
-          Inscritos: "25"
-          Pendentes: "2"
+          Inscritos: "23"
+          Pendentes: "0"
           Matriculados: "23"
 - LOQ4050:
   sigla: "LOQ4050"
@@ -3212,25 +3252,30 @@ LEE, P. J. Engineering Superconductivity, Wiley-IEEE Press, 2001."
           prof: "(R) Francisco José Moreira Chaves "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "70"
-          Pendentes: "9"
-          Matriculados: "47"
+          Vagas: "65"
+          Inscritos: "62"
+          Pendentes: "1"
+          Matriculados: "61"
         - EEL_-_Engenharia_Fisica:
           Vagas: "23"
-          Inscritos: "21"
-          Pendentes: "3"
-          Matriculados: "18"
+          Inscritos: "20"
+          Pendentes: "1"
+          Matriculados: "19"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "19"
-          Inscritos: "18"
-          Pendentes: "6"
-          Matriculados: "12"
+          Inscritos: "16"
+          Pendentes: "0"
+          Matriculados: "16"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "18"
-          Inscritos: "17"
+          Inscritos: "14"
           Pendentes: "0"
-          Matriculados: "17"
+          Matriculados: "14"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3219:
   sigla: "LOM3219"
   nome: " Introdução à Nanotecnologia"
@@ -3409,13 +3454,13 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
         - Obrigatoria:
           Vagas: "45"
           Inscritos: "12"
-          Pendentes: "1"
-          Matriculados: "8"
+          Pendentes: "0"
+          Matriculados: "12"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
           Inscritos: "9"
-          Pendentes: "1"
-          Matriculados: "8"
+          Pendentes: "0"
+          Matriculados: "9"
 - LOB1031:
   sigla: "LOB1031"
   nome: " Psicologia Organizacional e do Trabalho"
@@ -3468,30 +3513,30 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
           prof: "(R) Maria Auxiliadora Motta Barreto "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "68"
-          Pendentes: "3"
-          Matriculados: "55"
+          Vagas: "66"
+          Inscritos: "63"
+          Pendentes: "0"
+          Matriculados: "63"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "46"
-          Inscritos: "44"
-          Pendentes: "1"
-          Matriculados: "43"
+          Inscritos: "41"
+          Pendentes: "0"
+          Matriculados: "41"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "5"
-          Inscritos: "5"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "5"
+          Matriculados: "3"
         - EEL_-_Engenharia_Fisica:
           Vagas: "3"
           Inscritos: "3"
-          Pendentes: "1"
-          Matriculados: "2"
+          Pendentes: "0"
+          Matriculados: "3"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "3"
           Inscritos: "3"
-          Pendentes: "1"
-          Matriculados: "2"
+          Pendentes: "0"
+          Matriculados: "3"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "3"
           Inscritos: "3"
@@ -3547,14 +3592,14 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "23"
-          Pendentes: "10"
-          Matriculados: "7"
+          Inscritos: "19"
+          Pendentes: "0"
+          Matriculados: "19"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
-          Inscritos: "17"
-          Pendentes: "10"
-          Matriculados: "7"
+          Inscritos: "14"
+          Pendentes: "0"
+          Matriculados: "14"
 - LOM3210:
   sigla: "LOM3210"
   nome: " Estágio Supervisionado"
@@ -3677,7 +3722,18 @@ VIVES, A. A. Piezoelectric Transducer and Applications, Springer, 2008."
   exame: "Devido às características da disciplina, não será oferecida recuperação."
   bibliografia: "A ser definida com o orientador em função das atividades desenvolvidas no estágio."
   docentes: ['1176388 - Luiz Tadeu Fernandes Eleno']
-  oferecimento: "None"
+  oferecimento:
+    - 20251F1:
+      Codigo_da_Turma: "20251F1"
+      Inicio: "24/02/2025"
+      Fim: "07/07/2025"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " sex  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Atividades_Didaticas:
 - LOB1008:
   sigla: "LOB1008"
   nome: " Ciência, Tecnologia e Sociedade"
@@ -3770,9 +3826,9 @@ Estudos, artigos, notícias e pesquisas via internet."
           Matriculados: "0"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "1"
-          Inscritos: "1"
+          Inscritos: "0"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "0"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "1"
           Inscritos: "0"
@@ -3785,9 +3841,9 @@ Estudos, artigos, notícias e pesquisas via internet."
           Matriculados: "3"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "2"
-          Inscritos: "1"
+          Inscritos: "0"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "1"
           Inscritos: "0"
@@ -3800,9 +3856,9 @@ Estudos, artigos, notícias e pesquisas via internet."
           Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "51"
-          Inscritos: "2"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "1"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -4123,19 +4179,19 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "47"
-          Pendentes: "5"
-          Matriculados: "33"
+          Inscritos: "49"
+          Pendentes: "0"
+          Matriculados: "49"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "43"
           Inscritos: "26"
-          Pendentes: "2"
-          Matriculados: "24"
+          Pendentes: "0"
+          Matriculados: "26"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "8"
-          Inscritos: "7"
+          Inscritos: "6"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "6"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "1"
           Inscritos: "0"
@@ -4143,9 +4199,14 @@ BLUM, J. Exploring Arduino, New York: John Wiley, 2013."
           Matriculados: "0"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "8"
-          Inscritos: "5"
-          Pendentes: "3"
-          Matriculados: "2"
+          Inscritos: "6"
+          Pendentes: "0"
+          Matriculados: "6"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3106:
   sigla: "LOM3106"
   nome: " Ciência dos Materiais Computacional"
@@ -4350,9 +4411,9 @@ Cambridge."
           Matriculados: "0"
         - EEL_-_Engenharia_Fisica:
           Vagas: "45"
-          Inscritos: "0"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -4396,6 +4457,7 @@ Cambridge."
       Inicio: "24/02/2025"
       Fim: "07/07/2025"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  19:00  21:00 "
@@ -4403,14 +4465,14 @@ Cambridge."
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "31"
-          Pendentes: "1"
-          Matriculados: "30"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "49"
-          Inscritos: "31"
-          Pendentes: "1"
-          Matriculados: "30"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
         - EEL_-_Engenharia_Fisica:
           Vagas: "1"
           Inscritos: "0"
@@ -4587,19 +4649,19 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "2"
-          Matriculados: "58"
+          Inscritos: "48"
+          Pendentes: "0"
+          Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "34"
-          Inscritos: "31"
-          Pendentes: "1"
-          Matriculados: "30"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "15"
-          Inscritos: "14"
-          Pendentes: "1"
-          Matriculados: "13"
+          Inscritos: "9"
+          Pendentes: "0"
+          Matriculados: "9"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "1"
           Inscritos: "0"
@@ -4607,9 +4669,9 @@ VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p."
           Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "10"
-          Inscritos: "10"
+          Inscritos: "8"
           Pendentes: "0"
-          Matriculados: "10"
+          Matriculados: "8"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -4734,14 +4796,14 @@ CREATH, H.; WYANT, J. Measurement of ultraprecision components using non-contact
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "33"
-          Pendentes: "2"
-          Matriculados: "31"
+          Inscritos: "42"
+          Pendentes: "0"
+          Matriculados: "42"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "50"
-          Inscritos: "33"
-          Pendentes: "2"
-          Matriculados: "31"
+          Inscritos: "29"
+          Pendentes: "0"
+          Matriculados: "29"
 - LOB1046:
   sigla: "LOB1046"
   nome: " Engenharia do Meio Ambiente"
@@ -4797,24 +4859,24 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
-          Pendentes: "1"
-          Matriculados: "46"
+          Inscritos: "45"
+          Pendentes: "0"
+          Matriculados: "45"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "33"
-          Inscritos: "32"
-          Pendentes: "1"
+          Inscritos: "31"
+          Pendentes: "0"
           Matriculados: "31"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "10"
-          Inscritos: "10"
+          Inscritos: "7"
           Pendentes: "0"
-          Matriculados: "10"
+          Matriculados: "7"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "1"
-          Inscritos: "1"
+          Inscritos: "0"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "4"
           Inscritos: "4"
@@ -4899,13 +4961,13 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
         - Obrigatoria:
           Vagas: "45"
           Inscritos: "15"
-          Pendentes: "1"
-          Matriculados: "14"
+          Pendentes: "0"
+          Matriculados: "15"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
           Inscritos: "15"
-          Pendentes: "1"
-          Matriculados: "14"
+          Pendentes: "0"
+          Matriculados: "15"
 - LOQ4098:
   sigla: "LOQ4098"
   nome: " Fundamentos de Química para Engenharia II-A"
@@ -4995,14 +5057,14 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "24"
-          Pendentes: "1"
-          Matriculados: "23"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
-          Inscritos: "24"
-          Pendentes: "1"
-          Matriculados: "23"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
 - LOM3056:
   sigla: "LOM3056"
   nome: " Fundamentos de Química Orgânica"
@@ -5053,14 +5115,14 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "27"
-          Pendentes: "1"
-          Matriculados: "25"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
-          Inscritos: "26"
-          Pendentes: "1"
-          Matriculados: "25"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
 - LOB1011:
   sigla: "LOB1011"
   nome: " Eletricidade Aplicada"
@@ -5118,9 +5180,9 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "1"
-          Matriculados: "33"
+          Inscritos: "36"
+          Pendentes: "0"
+          Matriculados: "36"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "33"
           Inscritos: "13"
@@ -5129,8 +5191,8 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "18"
           Inscritos: "7"
-          Pendentes: "1"
-          Matriculados: "6"
+          Pendentes: "0"
+          Matriculados: "7"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "6"
           Inscritos: "5"
@@ -5148,9 +5210,9 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
           Matriculados: "1"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "1"
-          Inscritos: "0"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
 - LOM3046:
   sigla: "LOM3046"
   nome: " Técnicas de Análise Microestrutural"
@@ -5443,13 +5505,13 @@ VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgotos
         - Obrigatoria:
           Vagas: "45"
           Inscritos: "13"
-          Pendentes: "1"
-          Matriculados: "12"
+          Pendentes: "0"
+          Matriculados: "13"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
           Inscritos: "13"
-          Pendentes: "1"
-          Matriculados: "12"
+          Pendentes: "0"
+          Matriculados: "13"
 - LOM3082:
   sigla: "LOM3082"
   nome: " Cerâmica Física"
@@ -5622,13 +5684,13 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
         - Obrigatoria:
           Vagas: "45"
           Inscritos: "9"
-          Pendentes: "1"
-          Matriculados: "8"
+          Pendentes: "0"
+          Matriculados: "9"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
           Inscritos: "9"
-          Pendentes: "1"
-          Matriculados: "8"
+          Pendentes: "0"
+          Matriculados: "9"
 - LOM3122:
   sigla: "LOM3122"
   nome: " Atividade Extensionista II"
@@ -5672,14 +5734,14 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "11"
-          Pendentes: "2"
-          Matriculados: "9"
+          Inscritos: "13"
+          Pendentes: "0"
+          Matriculados: "13"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
-          Inscritos: "11"
-          Pendentes: "2"
-          Matriculados: "9"
+          Inscritos: "13"
+          Pendentes: "0"
+          Matriculados: "13"
 - LOQ4264:
   sigla: "LOQ4264"
   nome: " Engenharia da Sustentabilidade"
@@ -5702,7 +5764,7 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
   objectives: "Provide knowledge and tools for analyzing the sustainability of production chains, developing an understanding of how to use engineering decisions to improve environmental, social and economic performance."
   abstract: "Planning sustainable supply chains."
   program: "i) Sustainability of the supply chain; ii) Planning focused in reducing energy consumption and fossil fuels; iii) Renewable fuels with low greenhouse gas emissions; iv) The carbon market; v) Certification programs and vi) Circular Economy and Reverse Logistics."
-  ndoc: "1"
+  ndoc: "2"
   CA: "2"
   CT: "0"
   CH: "30 h"
@@ -5715,7 +5777,7 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
   criterio: "Média das atividades avaliativas."
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "BOWERSOX, D. J.; CLOSS, D. J.; COOPER, M. B.; BOWERSOX, J. C. Gestão Logística da Cadeia de Suprimentos. [s.l.] AMGH, 2013. 472 p.BARBIERI, J. C. Gestão Ambiental Empresarial: conceitos, modelos e instrumentos. Editora Saraiva, 2004.ALLEN, D.T.; SHONNARD, D. R., Sustainable Engineering: concepts, design and case studies, Prentice Hall, 2015. AKKUCUK, U. Handbook of Research on Sustainable Supply Chain Management for the Global Economy. [s.l.] IGI Global, 2020. 409 p.BOUCHERY, Y.; CORBETT, C. J.; FRANSOO, J. C.; TAN, T. (ed.). Sustainable Supply Chains. Cham: Springer International Publishing, 2017. v. 4. 130 p.SCHMIDT, M.; GIOVANNUCCI, D.; PALEKHOV, D.; HANSMANN, B. (ed.). Sustainable Global Value Chains. Cham: Springer International Publishing, 2019. v. 2. 304 p.LAVE, L. B.; HENDRICKSON, C. T. Environmental Life Cycle Assessment of Goods and Services, Editora John Hopkins, 2006.LEITE, P. R. Logística Reversa - Meio Ambiente e Competitividade, Editora Prentice Hall: São Paulo, 2002."
-  docentes: ['5840535 - Messias Borges Silva']
+  docentes: ['3295113 - José Eduardo Holler Branco', '5840535 - Messias Borges Silva']
   oferecimento:
     - 20251D2:
       Codigo_da_Turma: "20251D2"
@@ -5729,19 +5791,19 @@ MALKIN, A. Rheology Fundamentals. ChemTec Publishing, 1994."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "3"
-          Matriculados: "30"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "59"
           Inscritos: "31"
-          Pendentes: "3"
-          Matriculados: "28"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "1"
-          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "31"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "55"
+          Inscritos: "19"
+          Pendentes: "0"
+          Matriculados: "19"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "5"
+          Inscritos: "2"
+          Pendentes: "0"
+          Matriculados: "2"
 - LOM3011:
   sigla: "LOM3011"
   nome: " Comportamento Mecânico dos Materiais"
@@ -6008,19 +6070,19 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "66"
-          Pendentes: "4"
-          Matriculados: "55"
+          Inscritos: "57"
+          Pendentes: "0"
+          Matriculados: "57"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "26"
-          Inscritos: "26"
-          Pendentes: "1"
-          Matriculados: "25"
+          Inscritos: "18"
+          Pendentes: "0"
+          Matriculados: "18"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "33"
-          Inscritos: "33"
-          Pendentes: "3"
-          Matriculados: "30"
+          Inscritos: "32"
+          Pendentes: "0"
+          Matriculados: "32"
 - LOM3004:
   sigla: "LOM3004"
   nome: " Processamento de Materiais Metálicos II"
@@ -6068,14 +6130,14 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "29"
-          Pendentes: "6"
-          Matriculados: "23"
+          Inscritos: "30"
+          Pendentes: "0"
+          Matriculados: "30"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
           Inscritos: "29"
-          Pendentes: "6"
-          Matriculados: "23"
+          Pendentes: "0"
+          Matriculados: "29"
 - LOM3048:
   sigla: "LOM3048"
   nome: " Tecnologia de Vidros"
@@ -6124,13 +6186,13 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
         - Obrigatoria:
           Vagas: "45"
           Inscritos: "14"
-          Pendentes: "1"
-          Matriculados: "13"
+          Pendentes: "0"
+          Matriculados: "14"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
           Inscritos: "14"
-          Pendentes: "1"
-          Matriculados: "13"
+          Pendentes: "0"
+          Matriculados: "14"
 - LOM3059:
   sigla: "LOM3059"
   nome: " Processamentos de Polímeros"
@@ -6234,13 +6296,13 @@ S. V. Canevarolo. Ciência dos Polímeros: um texto básico para Engenheiros e T
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "5"
-          Pendentes: "1"
-          Matriculados: "4"
+          Pendentes: "0"
+          Matriculados: "5"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "40"
           Inscritos: "5"
-          Pendentes: "1"
-          Matriculados: "4"
+          Pendentes: "0"
+          Matriculados: "5"
 - LOM3096:
   sigla: "LOM3096"
   nome: " Propriedades Elétricas, Magnéticas, Térmicas e Ópticas"
@@ -6299,14 +6361,14 @@ edição, 1993.
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "15"
-          Pendentes: "7"
-          Matriculados: "8"
+          Inscritos: "14"
+          Pendentes: "0"
+          Matriculados: "14"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
-          Inscritos: "15"
-          Pendentes: "7"
-          Matriculados: "8"
+          Inscritos: "14"
+          Pendentes: "0"
+          Matriculados: "14"
 - LOM3110:
   sigla: "LOM3110"
   nome: " Projeto Integrado em Engenharia de Materiais II"
@@ -6357,14 +6419,14 @@ edição, 1993.
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "26"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "4"
+          Matriculados: "24"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
-          Inscritos: "4"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "4"
+          Matriculados: "1"
 - LOM3111:
   sigla: "LOM3111"
   nome: " Processamento de Cerâmicas Experimental"
@@ -6412,14 +6474,14 @@ edição, 1993.
       vagas:
         - Obrigatoria:
           Vagas: "20"
-          Inscritos: "7"
-          Pendentes: "1"
-          Matriculados: "5"
+          Inscritos: "6"
+          Pendentes: "0"
+          Matriculados: "6"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "20"
           Inscritos: "6"
-          Pendentes: "1"
-          Matriculados: "5"
+          Pendentes: "0"
+          Matriculados: "6"
 - LOM3119:
   sigla: "LOM3119"
   nome: " Fadiga e Mecânica da Fratura"
@@ -6471,13 +6533,13 @@ edição, 1993.
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "6"
-          Pendentes: "2"
+          Inscritos: "4"
+          Pendentes: "0"
           Matriculados: "4"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "45"
-          Inscritos: "6"
-          Pendentes: "2"
+          Inscritos: "4"
+          Pendentes: "0"
           Matriculados: "4"
 - LOM3120:
   sigla: "LOM3120"
@@ -6853,14 +6915,14 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "13"
-          Pendentes: "4"
-          Matriculados: "5"
+          Inscritos: "14"
+          Pendentes: "0"
+          Matriculados: "14"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "60"
-          Inscritos: "9"
-          Pendentes: "4"
-          Matriculados: "5"
+          Inscritos: "10"
+          Pendentes: "0"
+          Matriculados: "10"
 - LOM3070:
   sigla: "LOM3070"
   nome: " Estágio Supervisionado"
@@ -6987,7 +7049,24 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
   exame: "Não será oferecida recuperação."
   bibliografia: "A ser definida com o supervisor responsável pelo estágio e pelo docente orientador em função das atividades desenvolvidas no estágio."
   docentes: ['3577649 - Carlos Angelo Nunes', '519033 - Carlos Yujiro Shigue']
-  oferecimento: "None"
+  oferecimento:
+    - 20251M1:
+      Codigo_da_Turma: "20251M1"
+      Inicio: "24/02/2025"
+      Fim: "07/07/2025"
+      Tipo_da_Turma: "Prática"
+      aulas:
+      vagas:
+        - Obrigatoria:
+          Vagas: "20"
+          Inscritos: "3"
+          Pendentes: "0"
+          Matriculados: "3"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "20"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3117:
   sigla: "LOM3117"
   nome: " Tutoria Acadêmica em Engenharia de Materiais I"
@@ -7018,7 +7097,33 @@ CARTZ, L. Nondestructive Testing. American Society for Testing and Materials, 19
   exame: "Não se aplica"
   bibliografia: "A bibliografia será recomendada pelos docentes responsáveis e obtida na busca realizada pelos próprios alunos no início dos projetos. Seguem referências no tópico de mentoria.[1] Peddy, S. The art of mentoring – Lead, follow and get out of the way. Houston: Bullion Books, 2001.[2] Zachary, L. J. The Mentor’s Guide. San Francisco: Jossey-Bass Publishers, 2000. Pereira, A. Modelos de desenvolvimento do jovem adulto e promoção do bem-estar em estudantes do ensino superior. In: Programa de Monitorização e Tutorado: oito anos a promover a integração e o sucesso académico no IST. Lisboa: IST Press, 2011. p. 19-27.[3] Mueller, S. Electronic mentoring as an example for the use of information and communications technology in engineering education. European Journal of Engineering Education, 2004.[4] Kaul, S. Triangulated Mentorship of Engineering Students - Leveraging Peer Mentoring and Vertical Integration, Global Journal of Engineering Education, v. 21, p. 14-23,2019.[5] Diretrizes Curriculares Nacionais para os cursos de graduação em Engenharia. Ministério da Educação. CNE/CES, 2019."
   docentes: ['144651 - Antonio Fernando Sartori', '3577649 - Carlos Angelo Nunes', '471420 - Carlos Antonio Reis Pereira Baptista', '519033 - Carlos Yujiro Shigue', '3586455 - Cassius Olivio Figueiredo Terra Ruchert', '5840897 - Clodoaldo Saron', '5840963 - Daniela Camargo Vernilli', '6495737 - Durval Rodrigues Junior', '1033242 - Fábio Herbst Florenzano', '5983729 - Fernando Vernilli Junior', '5009972 - Gilberto Carvalho Coelho', '984972 - Hugo Ricardo Zschommler Sandim', '1176388 - Luiz Tadeu Fernandes Eleno', '7459752 - Maria Ismenia Sodero Toledo Faria', '5840622 - Miguel Justino Ribeiro Barboza', '2166002 - Sandra Giacomin Schneider', '1922320 - Sebastiao Ribeiro', '5840793 - Sérgio Schneider']
-  oferecimento: "None"
+  oferecimento:
+    - 20251M1:
+      Codigo_da_Turma: "20251M1"
+      Inicio: "24/02/2025"
+      Fim: "07/07/2025"
+      Tipo_da_Turma: "Teórica"
+      Observacoes: ""
+      aulas:
+        - h0:
+          horario: " qua  08:00  10:00 "
+          prof: "(R) Carlos Angelo Nunes "
+      vagas:
+        - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_Engenharia_de_Materiais:
+          Vagas: "30"
+          Inscritos: "19"
+          Pendentes: "0"
+          Matriculados: "19"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOM3118:
   sigla: "LOM3118"
   nome: " Tutoria Acadêmica em Engenharia de Materiais II"
@@ -7596,19 +7701,19 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "59"
-          Inscritos: "35"
-          Pendentes: "2"
-          Matriculados: "33"
+          Inscritos: "34"
+          Pendentes: "0"
+          Matriculados: "34"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "52"
-          Inscritos: "28"
+          Inscritos: "19"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "19"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "3"
-          Inscritos: "3"
-          Pendentes: "2"
-          Matriculados: "1"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
         - EEL_-_Engenharia_Quimica:
           Vagas: "3"
           Inscritos: "3"
@@ -7621,9 +7726,9 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
           Matriculados: "1"
         - EEL_-_Engenharia_de_Materiais:
           Vagas: "1"
-          Inscritos: "1"
+          Inscritos: "0"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "0"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -7673,18 +7778,18 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "57"
-          Inscritos: "34"
+          Inscritos: "37"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "37"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "57"
-          Inscritos: "34"
+          Inscritos: "26"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "26"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "3"
-          Inscritos: "3"
-          Pendentes: "1"
+          Inscritos: "2"
+          Pendentes: "0"
           Matriculados: "2"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
@@ -7735,19 +7840,19 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "58"
-          Inscritos: "34"
-          Pendentes: "1"
-          Matriculados: "33"
+          Inscritos: "35"
+          Pendentes: "0"
+          Matriculados: "35"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "58"
-          Inscritos: "34"
-          Pendentes: "1"
-          Matriculados: "33"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "2"
-          Inscritos: "1"
+          Inscritos: "0"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "0"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -7797,19 +7902,19 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "58"
-          Inscritos: "32"
-          Pendentes: "1"
-          Matriculados: "31"
+          Inscritos: "34"
+          Pendentes: "0"
+          Matriculados: "34"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "58"
-          Inscritos: "32"
-          Pendentes: "1"
-          Matriculados: "31"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "23"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "2"
-          Inscritos: "2"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "1"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -7859,14 +7964,14 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "2"
+          Inscritos: "33"
+          Pendentes: "0"
           Matriculados: "33"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "2"
-          Matriculados: "33"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "23"
 - LOB1268:
   sigla: "LOB1268"
   nome: " Leitura, Escrita e Comunicação Científica"
@@ -7911,14 +8016,14 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "59"
-          Inscritos: "28"
+          Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "31"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "59"
-          Inscritos: "28"
+          Inscritos: "20"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "20"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "1"
           Inscritos: "1"
@@ -7973,14 +8078,14 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "59"
-          Inscritos: "37"
-          Pendentes: "2"
-          Matriculados: "35"
+          Inscritos: "38"
+          Pendentes: "0"
+          Matriculados: "38"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "59"
-          Inscritos: "37"
-          Pendentes: "2"
-          Matriculados: "35"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "1"
           Inscritos: "1"
@@ -8042,14 +8147,14 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
       vagas:
         - Obrigatoria:
           Vagas: "59"
-          Inscritos: "35"
+          Inscritos: "38"
           Pendentes: "0"
-          Matriculados: "35"
+          Matriculados: "38"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "54"
-          Inscritos: "30"
+          Inscritos: "23"
           Pendentes: "0"
-          Matriculados: "30"
+          Matriculados: "23"
         - EEL_-_Engenharia_Quimica:
           Vagas: "5"
           Inscritos: "5"
@@ -8057,9 +8162,9 @@ Será considerado aprovado o aluno com NF>= 5,0 e 70% de freqüência no curso."
           Matriculados: "5"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "1"
-          Inscritos: "1"
+          Inscritos: "0"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "0"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -8121,13 +8226,13 @@ SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "40"
-          Pendentes: "1"
-          Matriculados: "39"
+          Pendentes: "0"
+          Matriculados: "40"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "40"
-          Pendentes: "1"
-          Matriculados: "39"
+          Inscritos: "29"
+          Pendentes: "0"
+          Matriculados: "29"
 - LOB1206:
   sigla: "LOB1206"
   nome: " Solos I"
@@ -8287,19 +8392,24 @@ SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
+          Inscritos: "45"
           Pendentes: "2"
-          Matriculados: "46"
+          Matriculados: "43"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "30"
-          Inscritos: "22"
+          Inscritos: "17"
           Pendentes: "1"
-          Matriculados: "21"
+          Matriculados: "16"
         - EEL_-_Engenharia_Bioquimica:
-          Vagas: "30"
+          Vagas: "25"
           Inscritos: "21"
           Pendentes: "1"
           Matriculados: "20"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "5"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOB1213:
   sigla: "LOB1213"
   nome: " Climatologia"
@@ -8346,14 +8456,14 @@ SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "1"
+          Inscritos: "34"
+          Pendentes: "0"
           Matriculados: "34"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "35"
-          Pendentes: "1"
-          Matriculados: "34"
+          Inscritos: "33"
+          Pendentes: "0"
+          Matriculados: "33"
 - LOB1215:
   sigla: "LOB1215"
   nome: " Recursos Energéticos"
@@ -8417,14 +8527,14 @@ www.aneel.gov.br"
       vagas:
         - Obrigatoria:
           Vagas: "74"
-          Inscritos: "75"
-          Pendentes: "3"
+          Inscritos: "70"
+          Pendentes: "0"
           Matriculados: "70"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "74"
-          Inscritos: "72"
-          Pendentes: "3"
-          Matriculados: "69"
+          Inscritos: "68"
+          Pendentes: "0"
+          Matriculados: "68"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -8485,19 +8595,24 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "44"
-          Pendentes: "6"
-          Matriculados: "35"
+          Inscritos: "37"
+          Pendentes: "1"
+          Matriculados: "36"
         - EEL_-_Engenharia_Ambiental:
-          Vagas: "30"
-          Inscritos: "9"
+          Vagas: "25"
+          Inscritos: "8"
           Pendentes: "0"
-          Matriculados: "9"
+          Matriculados: "8"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "30"
-          Inscritos: "29"
-          Pendentes: "6"
-          Matriculados: "23"
+          Inscritos: "23"
+          Pendentes: "1"
+          Matriculados: "22"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "5"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4081:
   sigla: "LOQ4081"
   nome: " Química Orgânica"
@@ -8545,14 +8660,19 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "35"
-          Inscritos: "18"
-          Pendentes: "9"
-          Matriculados: "9"
+          Inscritos: "16"
+          Pendentes: "0"
+          Matriculados: "16"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "35"
-          Inscritos: "18"
-          Pendentes: "9"
-          Matriculados: "9"
+          Inscritos: "16"
+          Pendentes: "0"
+          Matriculados: "16"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1208:
   sigla: "LOB1208"
   nome: " Química Analítica Ambiental I"
@@ -8777,14 +8897,14 @@ BRASIL, N. I. Introdução à Engenharia Química.  2. ed. Rio de Janeiro: Edito
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "28"
-          Pendentes: "21"
-          Matriculados: "7"
+          Inscritos: "25"
+          Pendentes: "0"
+          Matriculados: "25"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "40"
-          Inscritos: "28"
-          Pendentes: "21"
-          Matriculados: "7"
+          Inscritos: "25"
+          Pendentes: "0"
+          Matriculados: "25"
 - LOB1221:
   sigla: "LOB1221"
   nome: " Legislação Ambiental"
@@ -8840,14 +8960,14 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "29"
-          Pendentes: "1"
-          Matriculados: "28"
+          Inscritos: "26"
+          Pendentes: "0"
+          Matriculados: "26"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "29"
-          Pendentes: "1"
-          Matriculados: "28"
+          Inscritos: "26"
+          Pendentes: "0"
+          Matriculados: "26"
 - LOB1256:
   sigla: "LOB1256"
   nome: " Cartografia e Topografia Aplicadas à Estudos Ambientais"
@@ -8894,14 +9014,14 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "49"
-          Pendentes: "1"
-          Matriculados: "48"
+          Inscritos: "45"
+          Pendentes: "0"
+          Matriculados: "45"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "49"
-          Pendentes: "1"
-          Matriculados: "48"
+          Inscritos: "45"
+          Pendentes: "0"
+          Matriculados: "45"
 - LOB1271:
   sigla: "LOB1271"
   nome: " Mudanças Climáticas e Sustentabilidade Global"
@@ -8949,14 +9069,19 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "12"
-          Pendentes: "3"
-          Matriculados: "9"
+          Inscritos: "10"
+          Pendentes: "0"
+          Matriculados: "10"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "12"
-          Pendentes: "3"
-          Matriculados: "9"
+          Inscritos: "10"
+          Pendentes: "0"
+          Matriculados: "10"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4079:
   sigla: "LOQ4079"
   nome: " Cinética Aplicada e Reatores"
@@ -9005,14 +9130,14 @@ MORAES, A. Direito Constitucional.. 7ª ed. revista, ampliada e atualizada, com 
       vagas:
         - Obrigatoria:
           Vagas: "46"
-          Inscritos: "43"
-          Pendentes: "28"
-          Matriculados: "15"
+          Inscritos: "42"
+          Pendentes: "0"
+          Matriculados: "42"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "46"
-          Inscritos: "43"
-          Pendentes: "28"
-          Matriculados: "15"
+          Inscritos: "42"
+          Pendentes: "0"
+          Matriculados: "42"
 - LOQ4083:
   sigla: "LOQ4083"
   nome: " Fenômenos de Transporte I"
@@ -9094,24 +9219,24 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "56"
-          Pendentes: "2"
-          Matriculados: "54"
+          Inscritos: "52"
+          Pendentes: "0"
+          Matriculados: "52"
         - EEL_-_Engenharia_Ambiental:
-          Vagas: "15"
-          Inscritos: "12"
-          Pendentes: "1"
-          Matriculados: "11"
+          Vagas: "13"
+          Inscritos: "10"
+          Pendentes: "0"
+          Matriculados: "10"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
-          Inscritos: "18"
-          Pendentes: "1"
+          Inscritos: "17"
+          Pendentes: "0"
           Matriculados: "17"
         - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "14"
-          Inscritos: "14"
+          Vagas: "16"
+          Inscritos: "13"
           Pendentes: "0"
-          Matriculados: "14"
+          Matriculados: "13"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "11"
           Inscritos: "10"
@@ -9172,14 +9297,19 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "34"
-          Pendentes: "8"
-          Matriculados: "24"
+          Inscritos: "38"
+          Pendentes: "0"
+          Matriculados: "38"
         - EEL_-_Engenharia_Bioquimica:
-          Vagas: "40"
+          Vagas: "35"
           Inscritos: "17"
-          Pendentes: "8"
-          Matriculados: "9"
+          Pendentes: "0"
+          Matriculados: "17"
+        - EEL_-_Engenharia_de_Producao:
+          Vagas: "2"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOB1056:
   sigla: "LOB1056"
   nome: " Introdução aos Métodos Numéricos e Computacionais"
@@ -9243,10 +9373,15 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
           Pendentes: "0"
           Matriculados: "17"
         - EEL_-_Engenharia_Bioquimica:
-          Vagas: "40"
-          Inscritos: "7"
+          Vagas: "30"
+          Inscritos: "6"
           Pendentes: "0"
-          Matriculados: "7"
+          Matriculados: "6"
+        - EEL_-_Engenharia_Quimica_-_Diurno:
+          Vagas: "5"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
 - LOB1214:
   sigla: "LOB1214"
   nome: " Sistemas de Informações Geográficas"
@@ -9481,15 +9616,15 @@ Fluidos e a hipótese do contínuo. Importância da análise dimensional e uso d
           prof: "(R) Daniela Helena Pelegrine Guimarães "
       vagas:
         - Obrigatoria:
-          Vagas: "45"
-          Inscritos: "52"
+          Vagas: "50"
+          Inscritos: "51"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "51"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "30"
-          Inscritos: "26"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "27"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "15"
           Inscritos: "15"
@@ -9555,20 +9690,20 @@ Project Management Institute. PMBok, 2013"
           prof: "(R) Célia Regina Tomachuk dos Santos Catuogno "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "39"
-          Pendentes: "7"
-          Matriculados: "32"
+          Vagas: "41"
+          Inscritos: "34"
+          Pendentes: "0"
+          Matriculados: "34"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "7"
-          Inscritos: "7"
-          Pendentes: "1"
-          Matriculados: "6"
+          Inscritos: "5"
+          Pendentes: "0"
+          Matriculados: "5"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "33"
-          Inscritos: "32"
-          Pendentes: "6"
-          Matriculados: "26"
+          Inscritos: "28"
+          Pendentes: "0"
+          Matriculados: "28"
 - LOB1209:
   sigla: "LOB1209"
   nome: " Gestão de Resíduos Sólidos"
@@ -9613,14 +9748,14 @@ Project Management Institute. PMBok, 2013"
       vagas:
         - Obrigatoria:
           Vagas: "64"
-          Inscritos: "63"
-          Pendentes: "9"
-          Matriculados: "54"
+          Inscritos: "58"
+          Pendentes: "0"
+          Matriculados: "58"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "64"
-          Inscritos: "63"
-          Pendentes: "9"
-          Matriculados: "54"
+          Inscritos: "58"
+          Pendentes: "0"
+          Matriculados: "58"
 - LOB1211:
   sigla: "LOB1211"
   nome: " Poluição Atmosférica I"
@@ -9665,14 +9800,19 @@ Project Management Institute. PMBok, 2013"
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "43"
-          Pendentes: "6"
-          Matriculados: "37"
+          Inscritos: "40"
+          Pendentes: "0"
+          Matriculados: "40"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "42"
-          Pendentes: "6"
-          Matriculados: "36"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOB1244:
   sigla: "LOB1244"
   nome: " Monitoramento Ambiental"
@@ -9721,14 +9861,14 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "31"
-          Pendentes: "2"
-          Matriculados: "29"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "2"
-          Matriculados: "28"
+          Inscritos: "23"
+          Pendentes: "0"
+          Matriculados: "23"
 - LOB1255:
   sigla: "LOB1255"
   nome: " Hidrologia Aplicada"
@@ -9773,13 +9913,13 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "21"
-          Pendentes: "1"
-          Matriculados: "20"
+          Pendentes: "0"
+          Matriculados: "21"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
           Inscritos: "20"
-          Pendentes: "1"
-          Matriculados: "19"
+          Pendentes: "0"
+          Matriculados: "20"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -9832,14 +9972,14 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "10"
-          Pendentes: "4"
-          Matriculados: "2"
+          Inscritos: "7"
+          Pendentes: "0"
+          Matriculados: "7"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "6"
-          Pendentes: "4"
-          Matriculados: "2"
+          Inscritos: "3"
+          Pendentes: "0"
+          Matriculados: "3"
 - LOB1266:
   sigla: "LOB1266"
   nome: " Introdução à Ciência de Dados e Aprendizado de Máquinas"
@@ -9888,14 +10028,14 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
       vagas:
         - Obrigatoria:
           Vagas: "25"
-          Inscritos: "3"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "3"
+          Matriculados: "1"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "25"
-          Inscritos: "3"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "3"
+          Matriculados: "1"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -9944,14 +10084,14 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "1"
-          Matriculados: "39"
+          Inscritos: "38"
+          Pendentes: "0"
+          Matriculados: "38"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "40"
-          Pendentes: "1"
-          Matriculados: "39"
+          Inscritos: "37"
+          Pendentes: "0"
+          Matriculados: "37"
 - LOB1273:
   sigla: "LOB1273"
   nome: " Restauração Ecológica"
@@ -10003,14 +10143,14 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "4"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "4"
+          Matriculados: "3"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "4"
+          Inscritos: "3"
           Pendentes: "0"
-          Matriculados: "4"
+          Matriculados: "3"
 - LOB1276:
   sigla: "LOB1276"
   nome: " Poluição do Solo e Água Subterrânea"
@@ -10062,14 +10202,14 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "12"
-          Pendentes: "2"
-          Matriculados: "9"
+          Inscritos: "7"
+          Pendentes: "0"
+          Matriculados: "7"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "11"
-          Pendentes: "2"
-          Matriculados: "9"
+          Inscritos: "6"
+          Pendentes: "0"
+          Matriculados: "6"
 - LOB1217:
   sigla: "LOB1217"
   nome: " Operações Unitárias e Processos"
@@ -10578,13 +10718,13 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
         - Obrigatoria:
           Vagas: "60"
           Inscritos: "25"
-          Pendentes: "11"
-          Matriculados: "7"
+          Pendentes: "0"
+          Matriculados: "25"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "18"
-          Pendentes: "11"
-          Matriculados: "7"
+          Inscritos: "17"
+          Pendentes: "0"
+          Matriculados: "17"
 - LOB1229:
   sigla: "LOB1229"
   nome: " Trabalho de Graduação II"
@@ -10632,14 +10772,14 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "20"
-          Pendentes: "14"
-          Matriculados: "5"
+          Inscritos: "19"
+          Pendentes: "0"
+          Matriculados: "19"
         - EEL_-_Engenharia_Ambiental:
           Vagas: "60"
-          Inscritos: "17"
-          Pendentes: "14"
-          Matriculados: "3"
+          Inscritos: "14"
+          Pendentes: "0"
+          Matriculados: "14"
 - LOB1237:
   sigla: "LOB1237"
   nome: " Estágio Supervisionado em Engenharia Ambiental"
@@ -10778,7 +10918,18 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
   exame: "Devido às características da disciplina, não será oferecida recuperação."
   bibliografia: "Não há."
   docentes: ['4780627 - Ana Lucia Gabas Ferreira']
-  oferecimento: "None"
+  oferecimento:
+    - 20251A1:
+      Codigo_da_Turma: "20251A1"
+      Inicio: "24/02/2025"
+      Fim: "07/07/2025"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " sex  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Atividades_Didaticas:
 - LOB1210:
   sigla: "LOB1210"
   nome: " Solos II"
@@ -10935,28 +11086,6 @@ Loeb, A. Biological monitoring of aquatic systems. McGraw-Hill. 1998."
   exame: "1 (uma) prova de recuperação (R), sendo considerado aprovado se R >= 5,0."
   bibliografia: "CHERNICHARO, C.A.L. (coord.). Pós-Tratamento de Efluentes de Reatores Anaeróbios - PROCOPE - PROSAB - ISBN - 85 - 901640-1-2, Belo Horizonte, MG, 220p.CAMPOS, J.R. (1994), Avaliação do Processo Eletrolítico para Tratamento de Esgoto Sanitário. Consórcio Intermunicipal das Bacias dos Rios Piracicaba e Capivari, Americana, SP, 12p.CAMPOS, J.R. (1994). Pré-tratamento de Águas para Abastecimento. ASSEMAE - Consórcio Intermunicipal das Bacias dos Rios Piracicaba e Capivari. Publ. n. 9, Americana, SP, 112p.DANIEL, L.A.; CAMPOS, J.R. (1993). Radiação Ultravioleta é Alternativa Viável para Desinfecção de Efluentes de Sistemas de Tratamento Aeróbio e Anaeróbio no Brasil, BIO, n. 5, set/out, p. 1-17.LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 76p. (apostila)"
   docentes: ['7455355 - Robson da Silva Rocha']
-  oferecimento:
-    - 20251A1:
-      Codigo_da_Turma: "20251A1"
-      Inicio: "24/02/2025"
-      Fim: "07/07/2025"
-      Tipo_da_Turma: "Teórica"
-      Observacoes: ""
-      aulas:
-        - h0:
-          horario: " qua  10:00  12:00 "
-          prof: "(R) Robson da Silva Rocha "
-      vagas:
-        - Obrigatoria:
-          Vagas: "0"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Ambiental:
-          Vagas: "60"
-          Inscritos: "1"
-          Pendentes: "0"
-          Matriculados: "1"
 - LOB1279:
   sigla: "LOB1279"
   nome: " Ecologia Urbana"
@@ -11175,9 +11304,9 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
           Matriculados: "0"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "5"
-          Inscritos: "1"
+          Inscritos: "0"
           Pendentes: "0"
-          Matriculados: "1"
+          Matriculados: "0"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "5"
           Inscritos: "2"
@@ -11190,9 +11319,9 @@ LAPOLLI, F.R. (1998). Processos de Separação por Membranas. São Carlos - SP, 
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "5"
-          Inscritos: "2"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "1"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "8"
           Inscritos: "7"
@@ -11781,14 +11910,14 @@ VAN ZATEN, R.V. (1986) Geotextiles and Geomembranes in Civil Engineering. A.A. B
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "31"
+          Inscritos: "44"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "44"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "31"
+          Inscritos: "28"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "28"
 - LOT2043:
   sigla: "LOT2043"
   nome: " Introdução à Engenharia Bioquímica"
@@ -11833,14 +11962,14 @@ VAN ZATEN, R.V. (1986) Geotextiles and Geomembranes in Civil Engineering. A.A. B
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "31"
+          Inscritos: "43"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "43"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "31"
+          Inscritos: "27"
           Pendentes: "0"
-          Matriculados: "31"
+          Matriculados: "27"
 - LOT2063:
   sigla: "LOT2063"
   nome: " Comunicação Científica em Biotecnologia"
@@ -11884,92 +12013,18 @@ VAN ZATEN, R.V. (1986) Geotextiles and Geomembranes in Civil Engineering. A.A. B
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
-          Pendentes: "5"
-          Matriculados: "35"
+          Inscritos: "38"
+          Pendentes: "1"
+          Matriculados: "37"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "40"
-          Pendentes: "5"
-          Matriculados: "35"
-- LOT2040:
-  sigla: "LOT2040"
-  nome: " Engenharia Genética"
-  nomeascii: " Engenharia Genetica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2040&codcur=88152&codhab=0"
-  requisitos:
-    - LOT2002:
-      sigla: "LOT2002"
-      nome: " Biologia Celular "
-      tipo: "Requisito fraco"
-  tipo:
-    EB: "Obrigatórias"
-  semestre:
-    EB: "2"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Biotecnologia"
-  nome_en: "Genetic Engineering"
-  objectives: "Introduce fundamental genetic principles while thoroughly covering essential concepts in classical genetics, molecular genetics, and genomics, alongside the techniques and applications of molecular genetics."
-  abstract: "Introduction to genetics; Structure and Molecular Replication of DNA; Transcription, Translation and Genetic Code; DNA Mutation and Repair; Regulation of Gene Expression; Genomics and Bioinformatics; Techniques and Applications of Molecular Genetics."
-  program: "1. Introduction to Genetics. 2. Nucleotides and DNA Structure 3. Genes and Chromosomes 4. DNA Replication 5. Transcription and RNA Processing 6. Genetic Code and Translation 7. DNA Cloning 8. Genomics 9. Bioinformatics 10. Regulation of Gene Expression 11. Elements Transposable Genetics 12. Mutation, DNA Repair and Recombination 13. Techniques and Applications of Molecular Genetics"
-  ndoc: "2"
-  CA: "3"
-  CT: "0"
-  CH: "45 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2025"
-  objetivos: "Introduzir os princípios básicos da genética com apresentação minuciosa dos importantes conceitos da genética clássica, genética molecular e genômica associada às técnicas e aplicações da genética molecular."
-  resumo: "Introdução à genética; Estrutura e Replicação Molecular do DNA; Transcrição, Tradução e Código Genético; Mutação e Reparo do DNA; Regulação da Expressão Gênica; Genômica e Bioinformática; Técnicas e Aplicações da Genética Molecular."
-  programa: "1. Introdução à Genética. 2. Nucleotídeos e Estrutura do DNA 3. Genes e Cromossomos 4. Replicação do DNA 5. Transcrição e Processamento do RNA 6. Código genético e Tradução 7. Clonagem de DNA 8. Genômica 9. Bioinformática 10. Regulação da Expressão Gênica 11. Elementos Genéticos Transponíveis 12. Mutação, Reparo de DNA e Recombinação 13. Técnicas e Aplicações da Genética Molecular."
-  metodo: "Notas - N distribuído no semestre. A composição das N fica critério do docente."
-  criterio: "MF = MF = (somatório de N)/número de N (adequando o valor de N, quando houver peso distinto para as Ns)"
-  exame: "Norma de Recuperação: NF = (MF + PR)/2, onde PR é uma prova de recuperação. Prova de Recuperação (PR) para alunos com Média Final (MF) maior ou igual a 3,0 e menor do que 5,0. Será considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maior do que 5,0."
-  bibliografia: "-Fundamentos de Genética. Peter Snustad e Michael Simmons (2017, 7ª Edição). Editora Guanabara Koogan. -Principles of Genetics. Dr. Peter Snustad and Michael Simmons (2019, 7th Edition). John Wiley and Sons. -Genética: Um enfoque conceitual. Benjamin Pierce (2016, 5ª Edição). Editora Guanabara Koogan. -Genetics: A Conceptual Approach. Benjamin Pierce (2019, 7th Edition). W. H. Freeman. -Introdução à genética. Griffiths, Doebley, Peichel e Wassarman (2022 – 12ª Edição). Guanabara Koogan. -An Introduction to Genetic Analysis. Anthony Griffiths, John Doebley, Catherine Peichel, David A. Wassarman (2020 12th Edition). W. H. Freeman."
-  docentes: ['8711290 - Elisson Antônio da Costa Romanel', '8853480 - Tatiane da Franca Silva']
-  oferecimento: "None"
-- LOT2050:
-  sigla: "LOT2050"
-  nome: " Microbiologia Experimental"
-  nomeascii: " Microbiologia Experimental"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2050&codcur=88152&codhab=0"
-  requisitos:
-    - LOT2053:
-      sigla: "LOT2053"
-      nome: " Microbiologia "
-      tipo: "Indicação de Conjunto"
-    - LOT2002:
-      sigla: "LOT2002"
-      nome: " Biologia Celular "
-      tipo: "Requisito fraco"
-  tipo:
-    EB: "Obrigatórias"
-  semestre:
-    EB: "2"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Biotecnologia"
-  nome_en: "Experimental Microbiology"
-  objectives: "To present the main techniques in Microbiology aimed at the isolation, cultivation, and characterization of microorganisms"
-  abstract: "Microscopy techniques for visualizing microbial cells. Cultivation and control of microbial growth. Cell quantification. Microorganism identification. Microbiological analysis of different types of samples."
-  program: "1- Application of biosafety concepts in the microbiology laboratory and perception of the presence of microorganisms in the environment.2- Optical microscopy and staining techniques.3- Preparation and sterilization of culture media - nutritional requirements.4- Techniques for microbial inoculation and isolation of strains in pure culture.5- Effect of physical and chemical agents on microbial growth.6- Microorganism quantification techniques: Colony Forming Unit (CFU), Turbidimetry, and Cell counting under a microscope.7- Biochemical tests in the identification and characterization of microorganisms.8- Bacterial analysis of water and milk samples."
-  ndoc: "2"
-  CA: "4"
-  CT: "0"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2025"
-  objetivos: "Apresentar as principais técnicas na área Microbiologia que visam o isolamento, cultivo e caracterização de microrganismos."
-  resumo: "Técnicas de microscopia para visualização de células microbianas. Cultivo e controle do crescimento de microrganismos. Quantificação de células. Identificação de microrganismos. Análise microbiológica de diferentes tipos de amostras."
-  programa: "presença de microrganismos no ambiente 2. Microscopia ótica e técnicas de coloração.3.  Preparo e esterilização de meios de cultura - exigências nutricionais.4. Técnicas de semeadura de microrganismos e isolamento de linhagem em cultura pura.5. Ação de agentes físicos e químicos sobre o crescimento microbiano.6. Técnicas de quantificação de microrganismos: Unidade formadora de colônias (UFC), Turbidimetria e Câmara de contagem celular em microscópio.7. Testes Bioquímicos na identificação e caracterização de microorganismos8. Análise bacteriana de amostras de água e leite"
-  metodo: "A avaliação será composta por provas, exercícios, projetos, seminários, relatórios e estudos de casos que poderão compor as notas, sendo estipulada a média final a somatória destas notas (N), com no mínimo duas avaliações, sendo: (N1+...+Nn)/n."
-  criterio: "MF≥ 5,0 para aprovação 5,0. Prova de recuperação para alunos com MF<5,0Norma de Recuperação: (MF+RC)/2 ≥ 5,0 para aprovação, onde RC é uma prova de recuperação a ser aplicada"
-  exame: "(MF+RC)/2 ≥ 5,0 para aprovação, onde RC é uma prova de recuperação a ser aplicada"
-  bibliografia: "1. MADIGAN, M.T., MARTINKO, J.M., PARKER, I. Microbiologia de Brock. São Paulo: Prentice Hall, 14a edição, 2016.2. TORTORA, G.J., FUNKE, B.R., CASE, C.L. Microbiologia, Artmed, Porto Alegre, RS, 12a edição, 2017. 3. VERMELHO, A.B., PEREIRA, A., COELHO, R. e SOUTO-PADRON, T. Práticas de Microbiologia, 2 edição. Rio de Janeiro: Guanabara-Koogan, 2019."
-  docentes: ['1304060 - Maria das Graças de Almeida Felipe', '8853480 - Tatiane da Franca Silva']
-  oferecimento: "None"
+          Inscritos: "37"
+          Pendentes: "1"
+          Matriculados: "36"
 - LOT2053:
   sigla: "LOT2053"
-  nome: " Microbiologia"
-  nomeascii: " Microbiologia"
+  nome: " Microbiologia: da Teoria à Prática"
+  nomeascii: " Microbiologia: da Teoria a Pratica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2053&codcur=88152&codhab=0"
   requisitos:
     - LOT2002:
@@ -12051,14 +12106,14 @@ VAN ZATEN, R.V. (1986) Geotextiles and Geomembranes in Civil Engineering. A.A. B
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "34"
-          Pendentes: "4"
-          Matriculados: "30"
+          Inscritos: "27"
+          Pendentes: "1"
+          Matriculados: "26"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "34"
-          Pendentes: "4"
-          Matriculados: "30"
+          Inscritos: "27"
+          Pendentes: "1"
+          Matriculados: "26"
 - LOT2059:
   sigla: "LOT2059"
   nome: " Química Orgânica Fundamental"
@@ -12110,13 +12165,13 @@ VAN ZATEN, R.V. (1986) Geotextiles and Geomembranes in Civil Engineering. A.A. B
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "40"
-          Pendentes: "4"
+          Inscritos: "36"
+          Pendentes: "1"
           Matriculados: "35"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "39"
-          Pendentes: "4"
+          Inscritos: "36"
+          Pendentes: "1"
           Matriculados: "35"
 - LOQ4087:
   sigla: "LOQ4087"
@@ -12177,14 +12232,14 @@ VAN ZATEN, R.V. (1986) Geotextiles and Geomembranes in Civil Engineering. A.A. B
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "52"
-          Pendentes: "1"
-          Matriculados: "45"
+          Inscritos: "48"
+          Pendentes: "0"
+          Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "42"
-          Inscritos: "39"
-          Pendentes: "1"
-          Matriculados: "38"
+          Inscritos: "36"
+          Pendentes: "0"
+          Matriculados: "36"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "8"
           Inscritos: "7"
@@ -12321,19 +12376,19 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "42"
+          Inscritos: "40"
           Pendentes: "0"
-          Matriculados: "38"
+          Matriculados: "40"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "33"
-          Inscritos: "26"
+          Inscritos: "25"
           Pendentes: "0"
-          Matriculados: "26"
+          Matriculados: "25"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "12"
-          Inscritos: "12"
+          Inscritos: "11"
           Pendentes: "0"
-          Matriculados: "12"
+          Matriculados: "11"
 - LOQ4088:
   sigla: "LOQ4088"
   nome: " Termodinâmica Química Aplicada II"
@@ -12403,6 +12458,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       Inicio: "24/02/2025"
       Fim: "07/07/2025"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  08:00  10:00 "
@@ -12413,24 +12469,24 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "26"
-          Pendentes: "15"
-          Matriculados: "10"
+          Inscritos: "25"
+          Pendentes: "0"
+          Matriculados: "25"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "31"
-          Inscritos: "16"
-          Pendentes: "11"
-          Matriculados: "5"
+          Inscritos: "15"
+          Pendentes: "0"
+          Matriculados: "15"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "2"
           Inscritos: "2"
-          Pendentes: "2"
-          Matriculados: "0"
+          Pendentes: "0"
+          Matriculados: "2"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "7"
-          Inscritos: "7"
-          Pendentes: "2"
-          Matriculados: "5"
+          Inscritos: "6"
+          Pendentes: "0"
+          Matriculados: "6"
 - LOT2006:
   sigla: "LOT2006"
   nome: " Bioquímica Experimental II"
@@ -12479,13 +12535,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
         - Obrigatoria:
           Vagas: "20"
           Inscritos: "13"
-          Pendentes: "1"
-          Matriculados: "12"
+          Pendentes: "0"
+          Matriculados: "13"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "20"
           Inscritos: "13"
-          Pendentes: "1"
-          Matriculados: "12"
+          Pendentes: "0"
+          Matriculados: "13"
 - LOT2008:
   sigla: "LOT2008"
   nome: " Bioquímica II"
@@ -12536,13 +12592,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "29"
-          Pendentes: "1"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "29"
-          Pendentes: "1"
+          Inscritos: "28"
+          Pendentes: "0"
           Matriculados: "28"
 - LOT2030:
   sigla: "LOT2030"
@@ -12596,14 +12652,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "44"
-          Pendentes: "6"
-          Matriculados: "38"
+          Inscritos: "43"
+          Pendentes: "0"
+          Matriculados: "43"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "44"
-          Pendentes: "6"
-          Matriculados: "38"
+          Inscritos: "43"
+          Pendentes: "0"
+          Matriculados: "43"
 - LOQ4054:
   sigla: "LOQ4054"
   nome: " Fenômenos de Transporte III"
@@ -12657,14 +12713,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           prof: "(R) Gilberto Garcia Cortez "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "45"
-          Pendentes: "3"
-          Matriculados: "17"
+          Vagas: "41"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "40"
-          Inscritos: "20"
-          Pendentes: "3"
+          Inscritos: "17"
+          Pendentes: "0"
           Matriculados: "17"
 - LOQ4086:
   sigla: "LOQ4086"
@@ -12738,13 +12794,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   nomeascii: " Tecnologia de Processos Fermentativos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2028&codcur=88152&codhab=0"
   requisitos:
-    - LOT2053:
-      sigla: "LOT2053"
-      nome: " Microbiologia "
-      tipo: "Requisito fraco"
     - LOT2008:
       sigla: "LOT2008"
       nome: " Bioquímica II "
+      tipo: "Requisito fraco"
+    - LOT2053:
+      sigla: "LOT2053"
+      nome: " Microbiologia: da Teoria à Prática "
       tipo: "Requisito fraco"
   tipo:
     EB: "Obrigatórias"
@@ -12783,14 +12839,53 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "9"
-          Pendentes: "2"
-          Matriculados: "5"
+          Inscritos: "11"
+          Pendentes: "0"
+          Matriculados: "11"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "7"
-          Pendentes: "2"
-          Matriculados: "5"
+          Inscritos: "9"
+          Pendentes: "0"
+          Matriculados: "9"
+- LOT2040:
+  sigla: "LOT2040"
+  nome: " Engenharia Genética Teórica e Prática"
+  nomeascii: " Engenharia Genetica Teorica e Pratica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2040&codcur=88152&codhab=0"
+  requisitos:
+    - LOT2053:
+      sigla: "LOT2053"
+      nome: " Microbiologia: da Teoria à Prática "
+      tipo: "Requisito fraco"
+    - LOT2002:
+      sigla: "LOT2002"
+      nome: " Biologia Celular "
+      tipo: "Requisito fraco"
+  tipo:
+    EB: "Obrigatórias"
+  semestre:
+    EB: "6"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Biotecnologia"
+  nome_en: "Genetic Engineering"
+  objectives: "Introduce fundamental genetic principles while thoroughly covering essential concepts in classical genetics, molecular genetics, and genomics, alongside the techniques and applications of molecular genetics."
+  abstract: "Introduction to genetics; Structure and Molecular Replication of DNA; Transcription, Translation and Genetic Code; DNA Mutation and Repair; Regulation of Gene Expression; Genomics and Bioinformatics; Techniques and Applications of Molecular Genetics."
+  program: "1. Introduction to Genetics. 2. Nucleotides and DNA Structure 3. Genes and Chromosomes 4. DNA Replication 5. Transcription and RNA Processing 6. Genetic Code and Translation 7. DNA Cloning 8. Genomics 9. Bioinformatics 10. Regulation of Gene Expression 11. Elements Transposable Genetics 12. Mutation, DNA Repair and Recombination 13. Techniques and Applications of Molecular Genetics"
+  ndoc: "2"
+  CA: "3"
+  CT: "0"
+  CH: "45 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2025"
+  objetivos: "Introduzir os princípios básicos da genética com apresentação minuciosa dos importantes conceitos da genética clássica, genética molecular e genômica associada às técnicas e aplicações da genética molecular."
+  resumo: "Introdução à genética; Estrutura e Replicação Molecular do DNA; Transcrição, Tradução e Código Genético; Mutação e Reparo do DNA; Regulação da Expressão Gênica; Genômica e Bioinformática; Técnicas e Aplicações da Genética Molecular."
+  programa: "1. Introdução à Genética. 2. Nucleotídeos e Estrutura do DNA 3. Genes e Cromossomos 4. Replicação do DNA 5. Transcrição e Processamento do RNA 6. Código genético e Tradução 7. Clonagem de DNA 8. Genômica 9. Bioinformática 10. Regulação da Expressão Gênica 11. Elementos Genéticos Transponíveis 12. Mutação, Reparo de DNA e Recombinação 13. Técnicas e Aplicações da Genética Molecular."
+  metodo: "Notas - N distribuído no semestre. A composição das N fica critério do docente."
+  criterio: "MF = MF = (somatório de N)/número de N (adequando o valor de N, quando houver peso distinto para as Ns)"
+  exame: "Norma de Recuperação: NF = (MF + PR)/2, onde PR é uma prova de recuperação. Prova de Recuperação (PR) para alunos com Média Final (MF) maior ou igual a 3,0 e menor do que 5,0. Será considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maior do que 5,0."
+  bibliografia: "-Fundamentos de Genética. Peter Snustad e Michael Simmons (2017, 7ª Edição). Editora Guanabara Koogan. -Principles of Genetics. Dr. Peter Snustad and Michael Simmons (2019, 7th Edition). John Wiley and Sons. -Genética: Um enfoque conceitual. Benjamin Pierce (2016, 5ª Edição). Editora Guanabara Koogan. -Genetics: A Conceptual Approach. Benjamin Pierce (2019, 7th Edition). W. H. Freeman. -Introdução à genética. Griffiths, Doebley, Peichel e Wassarman (2022 – 12ª Edição). Guanabara Koogan. -An Introduction to Genetic Analysis. Anthony Griffiths, John Doebley, Catherine Peichel, David A. Wassarman (2020 12th Edition). W. H. Freeman."
+  docentes: ['8711290 - Elisson Antônio da Costa Romanel', '8853480 - Tatiane da Franca Silva']
+  oferecimento: "None"
 - LOT2054:
   sigla: "LOT2054"
   nome: " Engenharia de Segurança do Trabalho e Biossegurança"
@@ -12824,8 +12919,8 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   oferecimento: "None"
 - LOT2058:
   sigla: "LOT2058"
-  nome: " Engenharia Econômica"
-  nomeascii: " Engenharia Economica"
+  nome: " Análise Técnico-Econômica de Bioprocessos"
+  nomeascii: " Analise Tecnico-Economica de Bioprocessos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2058&codcur=88152&codhab=0"
   requisitos:
     - LOQ4053:
@@ -12951,13 +13046,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "18"
-          Pendentes: "3"
-          Matriculados: "15"
+          Inscritos: "13"
+          Pendentes: "0"
+          Matriculados: "13"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "37"
-          Inscritos: "10"
-          Pendentes: "3"
+          Inscritos: "7"
+          Pendentes: "0"
           Matriculados: "7"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "5"
@@ -12966,9 +13061,9 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
           Matriculados: "4"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "3"
-          Inscritos: "3"
+          Inscritos: "2"
           Pendentes: "0"
-          Matriculados: "3"
+          Matriculados: "2"
 - LOT2013:
   sigla: "LOT2013"
   nome: " Engenharia Bioquímica I"
@@ -13016,14 +13111,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "36"
-          Pendentes: "6"
-          Matriculados: "28"
+          Inscritos: "33"
+          Pendentes: "0"
+          Matriculados: "33"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "34"
-          Pendentes: "6"
-          Matriculados: "28"
+          Inscritos: "32"
+          Pendentes: "0"
+          Matriculados: "32"
 - LOT2017:
   sigla: "LOT2017"
   nome: " Enzimologia"
@@ -13036,11 +13131,11 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       tipo: "Requisito fraco"
     - LOT2040:
       sigla: "LOT2040"
-      nome: " Engenharia Genética "
+      nome: " Engenharia Genética Teórica e Prática "
       tipo: "Requisito fraco"
     - LOT2053:
       sigla: "LOT2053"
-      nome: " Microbiologia "
+      nome: " Microbiologia: da Teoria à Prática "
       tipo: "Requisito fraco"
   tipo:
     EB: "Obrigatórias"
@@ -13079,14 +13174,19 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "1"
-          Matriculados: "29"
+          Inscritos: "28"
+          Pendentes: "0"
+          Matriculados: "28"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "30"
-          Pendentes: "1"
-          Matriculados: "29"
+          Inscritos: "28"
+          Pendentes: "0"
+          Matriculados: "28"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2023:
   sigla: "LOT2023"
   nome: " Processos Bioquímicos Industriais"
@@ -13177,31 +13277,36 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "20"
-          Pendentes: "2"
-          Matriculados: "17"
+          Inscritos: "16"
+          Pendentes: "0"
+          Matriculados: "16"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "19"
-          Pendentes: "2"
-          Matriculados: "17"
+          Inscritos: "15"
+          Pendentes: "0"
+          Matriculados: "15"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOT2049:
   sigla: "LOT2049"
   nome: " Genética e Biotecnologia Vegetal"
   nomeascii: " Genetica e Biotecnologia Vegetal"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2049&codcur=88152&codhab=0"
   requisitos:
+    - LOT2040:
+      sigla: "LOT2040"
+      nome: " Engenharia Genética Teórica e Prática "
+      tipo: "Requisito fraco"
     - LOT2008:
       sigla: "LOT2008"
       nome: " Bioquímica II "
       tipo: "Requisito fraco"
-    - LOT2040:
-      sigla: "LOT2040"
-      nome: " Engenharia Genética "
-      tipo: "Requisito fraco"
     - LOT2053:
       sigla: "LOT2053"
-      nome: " Microbiologia "
+      nome: " Microbiologia: da Teoria à Prática "
       tipo: "Requisito fraco"
   tipo:
     EB: "Obrigatórias"
@@ -13240,14 +13345,14 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "48"
-          Pendentes: "8"
-          Matriculados: "39"
+          Inscritos: "45"
+          Pendentes: "0"
+          Matriculados: "45"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "60"
-          Inscritos: "47"
-          Pendentes: "8"
-          Matriculados: "39"
+          Inscritos: "44"
+          Pendentes: "0"
+          Matriculados: "44"
 - LOT2064:
   sigla: "LOT2064"
   nome: " Empreendedorismo Tecnológico"
@@ -13256,7 +13361,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   requisitos:
     - LOT2058:
       sigla: "LOT2058"
-      nome: " Engenharia Econômica "
+      nome: " Análise Técnico"
       tipo: "Requisito fraco"
   tipo:
     EB: "Obrigatórias"
@@ -13338,24 +13443,24 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       vagas:
         - Obrigatoria:
           Vagas: "30"
-          Inscritos: "22"
-          Pendentes: "5"
-          Matriculados: "17"
+          Inscritos: "21"
+          Pendentes: "0"
+          Matriculados: "21"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "8"
           Inscritos: "8"
-          Pendentes: "2"
-          Matriculados: "6"
+          Pendentes: "0"
+          Matriculados: "8"
         - EEL_-_Engenharia_Bioquimica:
           Vagas: "4"
-          Inscritos: "4"
-          Pendentes: "2"
-          Matriculados: "2"
+          Inscritos: "3"
+          Pendentes: "0"
+          Matriculados: "3"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "10"
           Inscritos: "10"
-          Pendentes: "1"
-          Matriculados: "9"
+          Pendentes: "0"
+          Matriculados: "10"
 - LOT2015:
   sigla: "LOT2015"
   nome: " Engenharia Bioquímica II"
@@ -13475,13 +13580,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   nomeascii: " Laboratorio de Engenharia Bioquimica"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2047&codcur=88152&codhab=0"
   requisitos:
-    - LOT2013:
-      sigla: "LOT2013"
-      nome: " Engenharia Bioquímica I "
-      tipo: "Requisito fraco"
     - LOT2017:
       sigla: "LOT2017"
       nome: " Enzimologia "
+      tipo: "Requisito fraco"
+    - LOT2013:
+      sigla: "LOT2013"
+      nome: " Engenharia Bioquímica I "
       tipo: "Requisito fraco"
   tipo:
     EB: "Obrigatórias"
@@ -13514,13 +13619,13 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   nomeascii: " Estatistica em Bioprocessos"
   link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2055&codcur=88152&codhab=0"
   requisitos:
-    - LOB1012:
-      sigla: "LOB1012"
-      nome: " Estatística "
-      tipo: "Requisito fraco"
     - LOT2023:
       sigla: "LOT2023"
       nome: " Processos Bioquímicos Industriais "
+      tipo: "Requisito fraco"
+    - LOB1012:
+      sigla: "LOB1012"
+      nome: " Estatística "
       tipo: "Requisito fraco"
   tipo:
     EB: "Obrigatórias"
@@ -13552,21 +13657,22 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       Inicio: "24/02/2025"
       Fim: "07/07/2025"
       Tipo_da_Turma: "Prática"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  19:00  22:00 "
           prof: "(R) Valdeir Arantes "
       vagas:
         - Obrigatoria:
-          Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "16"
-          Matriculados: "24"
+          Vagas: "45"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
         - EEL_-_Engenharia_Bioquimica:
-          Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "16"
-          Matriculados: "24"
+          Vagas: "45"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
 - LOT2062:
   sigla: "LOT2062"
   nome: " Solução de Problemas de Engenharia"
@@ -13577,25 +13683,25 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       sigla: "LOT2013"
       nome: " Engenharia Bioquímica I "
       tipo: "Requisito"
-    - LOT2017:
-      sigla: "LOT2017"
-      nome: " Enzimologia "
-      tipo: "Requisito"
     - LOT2023:
       sigla: "LOT2023"
       nome: " Processos Bioquímicos Industriais "
-      tipo: "Requisito"
-    - LOT2030:
-      sigla: "LOT2030"
-      nome: " Tecnologia de Conversão de Biomassa Vegetal "
       tipo: "Requisito"
     - LOT2049:
       sigla: "LOT2049"
       nome: " Genética e Biotecnologia Vegetal "
       tipo: "Requisito"
+    - LOT2030:
+      sigla: "LOT2030"
+      nome: " Tecnologia de Conversão de Biomassa Vegetal "
+      tipo: "Requisito"
     - LOT2060:
       sigla: "LOT2060"
       nome: " Tecnologia de Biopolímeros "
+      tipo: "Requisito"
+    - LOT2017:
+      sigla: "LOT2017"
+      nome: " Enzimologia "
       tipo: "Requisito"
   tipo:
     EB: "Obrigatórias"
@@ -13775,7 +13881,24 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   exame: "Não será oferecida recuperação."
   bibliografia: "A ser definida com o orientador em função das atividades desenvolvidas no estágio."
   docentes: ['101761 - Arnaldo Márcio Ramalho Prata']
-  oferecimento: "None"
+  oferecimento:
+    - 20251B1:
+      Codigo_da_Turma: "20251B1"
+      Inicio: "24/02/2025"
+      Fim: "07/07/2025"
+      Tipo_da_Turma: "Prática"
+      aulas:
+      vagas:
+        - Obrigatoria:
+          Vagas: "20"
+          Inscritos: "7"
+          Pendentes: "0"
+          Matriculados: "7"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "20"
+          Inscritos: "7"
+          Pendentes: "0"
+          Matriculados: "7"
 - LOB1058:
   sigla: "LOB1058"
   nome: " Pré Cálculo"
@@ -13818,12 +13941,23 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       Inicio: "24/02/2025"
       Fim: "07/07/2025"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  10:00  12:00 "
           prof: "(R) Juan Fernando Zapata Zapata "
       vagas:
         - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_para_toda_a_Unidade:
+          Vagas: "160"
+          Inscritos: "57"
+          Pendentes: "0"
+          Matriculados: "57"
+        - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
           Pendentes: "0"
@@ -13864,12 +13998,23 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       Inicio: "24/02/2025"
       Fim: "07/07/2025"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " qua  08:00  10:00 "
           prof: "(R) Tatiane da Franca Silva "
       vagas:
         - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_Engenharia_Bioquimica:
+          Vagas: "30"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
+        - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
           Pendentes: "0"
@@ -13886,7 +14031,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
       tipo: "Requisito fraco"
     - LOT2053:
       sigla: "LOT2053"
-      nome: " Microbiologia "
+      nome: " Microbiologia: da Teoria à Prática "
       tipo: "Requisito fraco"
   tipo:
     EB: "Optativas"
@@ -13912,88 +14057,6 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   exame: "A recuperação será feita por meio de uma prova escrita (PR) e a média de recuperação (MR) calculada pela fórmula: MR = (NF + PR)/2"
   bibliografia: "POTTER, N.N., HOTCHKISS, J.H., Food Science - 5ª Ed. Chapman & Hall, 1995.ARAÚJO, J.M.A., Química de Alimentos: Teoria e Prática. 3ª Ed. Editora UFV, 2004.FRAZIER, W.C., Microbiologia de los Alimentos. Editora Acribia, Zaragoza-Epanha,1981. EVANGELISTA, J., Tecnologia de Alimentos, Livraria Atheneu, RJ. 1987.FENEMA, O.R., Principles of Food Science: Part I: Food Chemistry. Marcel Dekker,Inc. NY-USA.1975.BENWART, G.J., Basic Food Microbiology. AVI Publishing Company Inc. USA,1970.TEIXEIRA, L.J.Q; LIMA FILHO, T; SILVA, T; CASSIANO. O. Tecnologia deAlimentos: Processamento Não Térmico Editora: Editora Rubio Ltda. . ISBN:6588340176 ISBN13: 9786588340172/ Páginas: 224 Publicação: Ed.2023ALCARDE, A.R.; D’ARGE, M. R.; SPOLO, M.H.F; Fundamentos de Ciência eTecnologia de Alimentos. E. 2ª - Editora Manole. ISBN: 9788520447147, pags. 480;2019.LAJOLO, F. M & MERCADANTE, A.Z. Química e Bioquímica dos Alimentos -Volume 2 – Ed. 1 - Coleção: Ciência, Tecnologia, Engenharia de Alimentos eNutrição. ISBN-10 ‏ : ‎ 8538808516 ISBN-13 ‏ : ‎ 978-8538808510 . Pag.432. EditoraAtheneu – RJ. 2017."
   docentes: ['3403572 - Ismael Maciel de Mancilha']
-  oferecimento: "None"
-- LOT2066:
-  sigla: "LOT2066"
-  nome: " Introdução à Bioinformática"
-  nomeascii: " Introducao a Bioinformatica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2066&codcur=88152&codhab=0"
-  requisitos:
-    - LOT2008:
-      sigla: "LOT2008"
-      nome: " Bioquímica II "
-      tipo: "Requisito fraco"
-    - LOT2040:
-      sigla: "LOT2040"
-      nome: " Engenharia Genética "
-      tipo: "Requisito fraco"
-    - LOT2053:
-      sigla: "LOT2053"
-      nome: " Microbiologia "
-      tipo: "Requisito fraco"
-  tipo:
-    EB: "Optativas"
-  semestre:
-    EB: "6"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Biotecnologia"
-  nome_en: "Introduction to Bioinformatics"
-  objectives: "Introduce the basic bioinformatics principles in the analysis of DNA, RNA and proteins sequences and promote the interpretation of biological data under evolutionary hypothesis."
-  abstract: "Introduction to bioinformatics; Biological databases; Analysis of biological sequences; Phylogenetic analysis; and Case studies."
-  program: "1. Introduction to bioinformatics.2. Fundamentals of molecular biology.3. FASTA, sequence search by BLAST and GenBank4. Open reading frames, alignments and physicochemical properties.5. Analysis of sequences and their regions6. Patterns of substitutions, homology and conservation7. Tree of life, molecular phylogeny and phylogenetic reconstruction.8. Use of bioinformatics software for case studies and analysis of biological problems9. Educational Excursion"
-  ndoc: "1"
-  CA: "2"
-  CT: "1"
-  CH: "60 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2025"
-  objetivos: "Introduzir os princípios básicos de bioinformática na análise de sequencias de DNA, RNA e proteína e conduzir a interpretação dos dados biológicos sob a ótica evolutiva."
-  resumo: "Introdução à bioinformática; Bancos de dados biológicos; Análise de sequencias biológicas; Análise filogenética; e Estudos de caso."
-  programa: "1. Introdução à bioinformática2. Fundamentos de biologia molecular.3. FASTA, busca de sequencias por BLAST e GenBank.4. Matriz aberta de leitura, alinhamentos e propriedades físico-química5. Análise de sequencias e suas regiões6. Padrões de substituições, homologia e conservação7. Árvore da vida, filogenia molecular e reconstrução filogenética8. Uso de softwares da bioinformática para estudo de caso e análise de problemas biológicos9. Viagem Didática Complementar"
-  metodo: "Notas - N distribuído no semestre. A composição das N fica critério do docente."
-  criterio: "MF = (somatório de N)/número de N (adequando o valor de N, quando houver peso distinto para as Ns)."
-  exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação. Prova de Recuperação (PR) para alunos com Média Final (MF) maior ou igual a 3,0 e menor do que 5,0. Será considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maior do que 5,0."
-  bibliografia: "- Introdução à bioinformática (2021 - Primeira Edição). Editora UNICAMP. Sergio Russo Matioli e Diego Trindade de Souza.- Introdução à Bioinformática (2007 – Segunda Edição). Editora Jones & Bartlett. Arthur M. Lesk.- Reading the story in DNA, a beginner`s guide to molecular evolution (2008 - First published). Ed. Oxford University Press. Lindell Bromham.- An introduction to molecular evolution and phylogenetics. (2016 - 2nd Edition). Ed. Oxford University Press. Lindell Bromham.- Bioinformatics: A practical guide to the analysis of genes and proteins. (2020 - 4th Edition). Ed. Wiley. Andreas D. Baxevanis, Gary D. Bader & David S. Wishart."
-  docentes: ['8711290 - Elisson Antônio da Costa Romanel']
-  oferecimento: "None"
-- LOT2067:
-  sigla: "LOT2067"
-  nome: " Biotecnologia Farmacêutica"
-  nomeascii: " Biotecnologia Farmaceutica"
-  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2067&codcur=88152&codhab=0"
-  requisitos:
-    - LOT2040:
-      sigla: "LOT2040"
-      nome: " Engenharia Genética "
-      tipo: "Requisito fraco"
-    - LOT2053:
-      sigla: "LOT2053"
-      nome: " Microbiologia "
-      tipo: "Requisito fraco"
-  tipo:
-    EB: "Optativas"
-  semestre:
-    EB: "6"
-  unidade: "Escola de Engenharia de Lorena"
-  departamento: "Biotecnologia"
-  nome_en: "Pharmaceutical Biotechnology"
-  objectives: "Provide basic knowledge to Biochemical Engineering students on the molecular aspects of using microorganisms to obtain new compounds and produce molecules of pharmaceutical interest (drugs, inputs and diagnostics)."
-  abstract: "A brief history of the use of microorganisms in the pharmaceutical industry, general concepts about biological medicines, enzymes in medicines, therapeutic proteins, molecular and synthetic biology, expression and production of proteins of interest in the pharmaceutical industry."
-  program: "1. Fundamentals of modern biotechnology2. Biotechnology aimed at therapeutics3. Molecular biology aimed at the pharmaceutical industry4. Microbial production of therapeutic agents5. High-efficiency technologies for prospecting new molecules6. Rational design of molecules of therapeutic interest7. Production of therapeutic agents in microorganisms"
-  ndoc: "1"
-  CA: "2"
-  CT: "0"
-  CH: "30 h"
-  periodicidade: "Semestral"
-  ativacao: "01/01/2025"
-  objetivos: "Fornecer conhecimentos básicos aos estudantes do curso de Engenharia Bioquímica sobre os aspectos moleculares da utilização de microrganismos na obtenção novos compostos e na produção de moléculas de interesse farmacêutico (fármacos, insumos e de diagnóstico)."
-  resumo: "Uma breve história sobre o uso de microrganismos na indústria farmacêutica, conceitos gerais sobre medicamentos biológicos, enzimas em medicamentos, proteínas terapêuticas, biologia molecular e sintética, expressão e produção de proteínas de interesse na indústria farmacêutica."
-  programa: "1. Fundamentos de biotecnologia moderna;2. Biotecnologia voltada a terapêutica;3. Biologia molecular voltada a indústria farmacêutica;4. Produção microbiana de agentes terapêuticos;5. Tecnologias de alta eficiência para prospecção de novas moléculas;6. Desenho racional de moléculas de interesse terapêutico;7. Produção de agentes terapêuticos em microrganismos;"
-  metodo: "A avaliação será feita por meio de provas escritas (P1 e P2)."
-  criterio: "A Nota final (NF) será calculada da seguinte maneira: NF = (P1 + P2)/2"
-  exame: "A recuperação será feita por meio de uma prova escrita (PR) e a média de recuperação (MR) calculada pela fórmula: MR = (NF + PR)/2"
-  bibliografia: "1. Shayna Cox Gad (2007). Handbook of Pharmaceutical Biotechnology. John Wiley & Sons, New Jersey.2. Heinrich Klefenz (2002). Industrial Pharmaceutical Biotechnology. Wiley-VCH Verlag GmbH.3. Michael J. Groves (2006). Pharmaceutical Biotechnology. Taylor and Francis Group, USA."
-  docentes: ['4873328 - Fernando Segato']
   oferecimento: "None"
 - LOQ4099:
   sigla: "LOQ4099"
@@ -14037,43 +14100,6 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   exame: "Aos alunos que tiverem freqüência mínima de 70% e média final menor que 5,0 e igual ou maior que 3,0, será dada recuperação com uma avaliação escrita. A média dessa avaliação somada com a média anterior das P1 e P2, se superior a cinco (5,0), levará a aprovação do aluno."
   bibliografia: "Desiraju, G. R., Vittal, J. J., & Ramanan, A. (2011). Crystal engineering: a textbook. World Scientific. Lehn, J.-M. (1995) Supramolecular Chemistry. Wiley-VCH. ISBN 978-3-527-29311-7Steed, J. W., & Atwood, J. L. (2013). Supramolecular chemistry. John Wiley & Sons.Silverstein, Robert M.; Webster Francis X.; Kiemle David J. Identificação Espectrométrica de Compostos Orgânicos, 7ª edição LTC.Kumar, D. K., & Steed, J. W. (2014). Supramolecular gel phase crystallization: orthogonal self-assembly under non-equilibrium conditions. Chemical Society Reviews, 43(7), 2080-2088.Desiraju, G. R. (2007). Crystal engineering: a holistic view. Angewandte Chemie International Edition, 46(44), 8342-8356.Williams, J. H. (2017). Crystal Engineering. Morgan & Claypool Publishers"
   docentes: ['210064 - Eduardo Rezende Triboni']
-  oferecimento:
-    - 20251B1:
-      Codigo_da_Turma: "20251B1"
-      Inicio: "24/02/2025"
-      Fim: "07/07/2025"
-      Tipo_da_Turma: "Teórica"
-      Observacoes: ""
-      aulas:
-        - h0:
-          horario: " qui  10:00  12:00 "
-          prof: "(R) Eduardo Rezende Triboni "
-      vagas:
-        - Obrigatoria:
-          Vagas: "0"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Bioquimica:
-          Vagas: "10"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "15"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "15"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
-        - Qualquer_Unidade_da_USP:
-          Vagas: "0"
-          Inscritos: "0"
-          Pendentes: "0"
-          Matriculados: "0"
 - LOT2038:
   sigla: "LOT2038"
   nome: " Tecnologia de Bebidas"
@@ -14187,6 +14213,88 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
   bibliografia: "1. MORAES, A.M., AUGUSTO, E.F.P., CASTILHO, L.R. Tecnologia do Cultivo de Células Animais – de Biofármacos a Terapia Gênica. São Paulo: Rocca, 2008. 2. VITOLO, M. (Coordenador). Biotecnologia Farmacêutica – Aspectos sobre aplicação industrial. São Paulo: Edgard Blücher Ltda, 2015. 3. SHULER, M.L., KARGI, F. Bioprocess Engineering – Basic Concepts. Second edition. New Jersey: Prentice Hall, 2002. 4. Lima, U. A. Processos Fermentativos e Enzimáticos. vol. 3. In: Alterthum, F.; Schimidell, W.; Lima, U. A.; Moraes, I. Organizadores. Coleção Biotecnologia Industrial, 2ª Ed. São Paulo. Edgard Blücher. 2019."
   docentes: ['101761 - Arnaldo Márcio Ramalho Prata']
   oferecimento: "None"
+- LOT2066:
+  sigla: "LOT2066"
+  nome: " Introdução à Bioinformática"
+  nomeascii: " Introducao a Bioinformatica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2066&codcur=88152&codhab=0"
+  requisitos:
+    - LOT2008:
+      sigla: "LOT2008"
+      nome: " Bioquímica II "
+      tipo: "Requisito fraco"
+    - LOT2053:
+      sigla: "LOT2053"
+      nome: " Microbiologia: da Teoria à Prática "
+      tipo: "Requisito fraco"
+    - LOT2040:
+      sigla: "LOT2040"
+      nome: " Engenharia Genética Teórica e Prática "
+      tipo: "Requisito fraco"
+  tipo:
+    EB: "Optativas"
+  semestre:
+    EB: "8"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Biotecnologia"
+  nome_en: "Introduction to Bioinformatics"
+  objectives: "Introduce the basic bioinformatics principles in the analysis of DNA, RNA and proteins sequences and promote the interpretation of biological data under evolutionary hypothesis."
+  abstract: "Introduction to bioinformatics; Biological databases; Analysis of biological sequences; Phylogenetic analysis; and Case studies."
+  program: "1. Introduction to bioinformatics.2. Fundamentals of molecular biology.3. FASTA, sequence search by BLAST and GenBank4. Open reading frames, alignments and physicochemical properties.5. Analysis of sequences and their regions6. Patterns of substitutions, homology and conservation7. Tree of life, molecular phylogeny and phylogenetic reconstruction.8. Use of bioinformatics software for case studies and analysis of biological problems9. Educational Excursion"
+  ndoc: "1"
+  CA: "2"
+  CT: "1"
+  CH: "60 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2025"
+  objetivos: "Introduzir os princípios básicos de bioinformática na análise de sequencias de DNA, RNA e proteína e conduzir a interpretação dos dados biológicos sob a ótica evolutiva."
+  resumo: "Introdução à bioinformática; Bancos de dados biológicos; Análise de sequencias biológicas; Análise filogenética; e Estudos de caso."
+  programa: "1. Introdução à bioinformática2. Fundamentos de biologia molecular.3. FASTA, busca de sequencias por BLAST e GenBank.4. Matriz aberta de leitura, alinhamentos e propriedades físico-química5. Análise de sequencias e suas regiões6. Padrões de substituições, homologia e conservação7. Árvore da vida, filogenia molecular e reconstrução filogenética8. Uso de softwares da bioinformática para estudo de caso e análise de problemas biológicos9. Viagem Didática Complementar"
+  metodo: "Notas - N distribuído no semestre. A composição das N fica critério do docente."
+  criterio: "MF = (somatório de N)/número de N (adequando o valor de N, quando houver peso distinto para as Ns)."
+  exame: "NF = (MF + PR)/2, onde PR é uma prova de recuperação. Prova de Recuperação (PR) para alunos com Média Final (MF) maior ou igual a 3,0 e menor do que 5,0. Será considerado aprovado o aluno que tenha obtido Nota Final (NF) igual ou maior do que 5,0."
+  bibliografia: "- Introdução à bioinformática (2021 - Primeira Edição). Editora UNICAMP. Sergio Russo Matioli e Diego Trindade de Souza.- Introdução à Bioinformática (2007 – Segunda Edição). Editora Jones & Bartlett. Arthur M. Lesk.- Reading the story in DNA, a beginner`s guide to molecular evolution (2008 - First published). Ed. Oxford University Press. Lindell Bromham.- An introduction to molecular evolution and phylogenetics. (2016 - 2nd Edition). Ed. Oxford University Press. Lindell Bromham.- Bioinformatics: A practical guide to the analysis of genes and proteins. (2020 - 4th Edition). Ed. Wiley. Andreas D. Baxevanis, Gary D. Bader & David S. Wishart."
+  docentes: ['8711290 - Elisson Antônio da Costa Romanel']
+  oferecimento: "None"
+- LOT2067:
+  sigla: "LOT2067"
+  nome: " Biotecnologia Farmacêutica"
+  nomeascii: " Biotecnologia Farmaceutica"
+  link: "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LOT2067&codcur=88152&codhab=0"
+  requisitos:
+    - LOT2040:
+      sigla: "LOT2040"
+      nome: " Engenharia Genética Teórica e Prática "
+      tipo: "Requisito fraco"
+    - LOT2053:
+      sigla: "LOT2053"
+      nome: " Microbiologia: da Teoria à Prática "
+      tipo: "Requisito fraco"
+  tipo:
+    EB: "Optativas"
+  semestre:
+    EB: "8"
+  unidade: "Escola de Engenharia de Lorena"
+  departamento: "Biotecnologia"
+  nome_en: "Pharmaceutical Biotechnology"
+  objectives: "Provide basic knowledge to Biochemical Engineering students on the molecular aspects of using microorganisms to obtain new compounds and produce molecules of pharmaceutical interest (drugs, inputs and diagnostics)."
+  abstract: "A brief history of the use of microorganisms in the pharmaceutical industry, general concepts about biological medicines, enzymes in medicines, therapeutic proteins, molecular and synthetic biology, expression and production of proteins of interest in the pharmaceutical industry."
+  program: "1. Fundamentals of modern biotechnology2. Biotechnology aimed at therapeutics3. Molecular biology aimed at the pharmaceutical industry4. Microbial production of therapeutic agents5. High-efficiency technologies for prospecting new molecules6. Rational design of molecules of therapeutic interest7. Production of therapeutic agents in microorganisms"
+  ndoc: "1"
+  CA: "2"
+  CT: "0"
+  CH: "30 h"
+  periodicidade: "Semestral"
+  ativacao: "01/01/2025"
+  objetivos: "Fornecer conhecimentos básicos aos estudantes do curso de Engenharia Bioquímica sobre os aspectos moleculares da utilização de microrganismos na obtenção novos compostos e na produção de moléculas de interesse farmacêutico (fármacos, insumos e de diagnóstico)."
+  resumo: "Uma breve história sobre o uso de microrganismos na indústria farmacêutica, conceitos gerais sobre medicamentos biológicos, enzimas em medicamentos, proteínas terapêuticas, biologia molecular e sintética, expressão e produção de proteínas de interesse na indústria farmacêutica."
+  programa: "1. Fundamentos de biotecnologia moderna;2. Biotecnologia voltada a terapêutica;3. Biologia molecular voltada a indústria farmacêutica;4. Produção microbiana de agentes terapêuticos;5. Tecnologias de alta eficiência para prospecção de novas moléculas;6. Desenho racional de moléculas de interesse terapêutico;7. Produção de agentes terapêuticos em microrganismos;"
+  metodo: "A avaliação será feita por meio de provas escritas (P1 e P2)."
+  criterio: "A Nota final (NF) será calculada da seguinte maneira: NF = (P1 + P2)/2"
+  exame: "A recuperação será feita por meio de uma prova escrita (PR) e a média de recuperação (MR) calculada pela fórmula: MR = (NF + PR)/2"
+  bibliografia: "1. Shayna Cox Gad (2007). Handbook of Pharmaceutical Biotechnology. John Wiley & Sons, New Jersey.2. Heinrich Klefenz (2002). Industrial Pharmaceutical Biotechnology. Wiley-VCH Verlag GmbH.3. Michael J. Groves (2006). Pharmaceutical Biotechnology. Taylor and Francis Group, USA."
+  docentes: ['4873328 - Fernando Segato']
+  oferecimento: "None"
 - LOQ4201:
   sigla: "LOQ4201"
   nome: " Introdução à Engenharia de Produção"
@@ -14224,7 +14332,7 @@ Alunos com média superior ou igual a 3,0 e inferior a 5,0 e que tenham freqüê
 SLACK, N. et. al. Administração da Produção. São Paulo, Atlas, 1999. 
 
 BATALHA, M.O. et al , Introdução à Engenharia de Produção, Rio de Janeiro, Elsevier, 2008."
-  docentes: ['11079086 - Herlandí de Souza Andrade']
+  docentes: ['5840535 - Messias Borges Silva']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -14235,18 +14343,23 @@ BATALHA, M.O. et al , Introdução à Engenharia de Produção, Rio de Janeiro, 
       aulas:
         - h0:
           horario: " qua  19:00  21:00 "
-          prof: "Messias Borges Silva "
+          prof: "(R) Messias Borges Silva "
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "48"
-          Pendentes: "1"
-          Matriculados: "47"
+          Inscritos: "50"
+          Pendentes: "0"
+          Matriculados: "50"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "50"
-          Inscritos: "48"
-          Pendentes: "1"
-          Matriculados: "47"
+          Inscritos: "42"
+          Pendentes: "0"
+          Matriculados: "42"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4236:
   sigla: "LOQ4236"
   nome: " Projeto Integrado de Engenharia de Produção I"
@@ -14291,14 +14404,14 @@ BATALHA, M.O. et al , Introdução à Engenharia de Produção, Rio de Janeiro, 
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "38"
-          Pendentes: "1"
-          Matriculados: "37"
+          Inscritos: "50"
+          Pendentes: "0"
+          Matriculados: "50"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "50"
-          Inscritos: "38"
-          Pendentes: "1"
-          Matriculados: "37"
+          Inscritos: "42"
+          Pendentes: "0"
+          Matriculados: "42"
 - LOQ4239:
   sigla: "LOQ4239"
   nome: " Administração e Organização I"
@@ -14339,23 +14452,23 @@ BATALHA, M.O. et al , Introdução à Engenharia de Produção, Rio de Janeiro, 
       aulas:
         - h0:
           horario: " qua  21:00  23:00 "
-          prof: "(R) Herlandí de Souza Andrade "
+          prof: "Humberto Felipe da Silva "
       vagas:
         - Obrigatoria:
           Vagas: "52"
-          Inscritos: "33"
+          Inscritos: "43"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "43"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "52"
-          Inscritos: "33"
+          Inscritos: "35"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "35"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "2"
-          Inscritos: "0"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "0"
+          Matriculados: "1"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -14405,14 +14518,14 @@ BATALHA, M.O. et al , Introdução à Engenharia de Produção, Rio de Janeiro, 
       vagas:
         - Obrigatoria:
           Vagas: "48"
-          Inscritos: "33"
+          Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "31"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "48"
-          Inscritos: "33"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "33"
+          Matriculados: "24"
         - EEL_-_para_toda_a_Unidade:
           Vagas: "2"
           Inscritos: "0"
@@ -14511,7 +14624,7 @@ Textos complementares serão usados durante o curso."
   objectives: "Introduce the basic concepts of Economic Science, enabling the students to understand the main micro and macroeconomic concepts and to analyze the discourse and practice of economics, guided by their critical sense."
   abstract: "A. Microeconomy. B. Macroeconomy. C. Economic Development. D. International Economy. E. Brazilian Economy"
   program: "A. MICROECONOMY: 1. Introduction to the concepts of Economics and fundamentals of microeconomic analysis. 2. Consumer and demand theory. 3. Firm and offer theory. 4. Costs and price formation. 5. Market Structures 6. Strategic behavior and competition. 7. Technology as a factor of production. 8. Sustainability: resources, costs and environmental indicators.B. MACROECONOMY: 1. Fundamentals of macroeconomic analysis. 2. National accounting. 3. Classical and Keynesian balances. 4. Monetary system. 5. Fiscal policy. 6. World economy and international trade. 7. Fundamentals of regression as a tool to quantify economic relationships. 8. Public sector.C. ECONOMIC DEVELOPMENT: 1. Growth factors. 2. Sources of Development. 3. Financing Economic Development. 4. A model of economic growth. 5. The internationalization and globalization process.D. INTERNATIONAL ECONOMY: 1. Fundamentals of International Trade. 2. Determination of Exchange Rates. 3. External policies. 4. Factors determining the behavior of imports and exports.E. BRAZILIAN ECONOMY: 1. The historical experience of Brazilian industrialization. 2. The internationalization of the Brazilian economy. 3. Cycle theory and Brazilian reality. 4. Brazil's economic cycles throughout its recent history."
-  ndoc: "2"
+  ndoc: "1"
   CA: "4"
   CT: "0"
   CH: "60 h"
@@ -14524,7 +14637,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média das atividades avaliativas."
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "MANKIW, N.G. Introdução à economia. São Paulo: Thomson Learning, 2006.SAMUELSON, P. Introdução à Economia. New York: Mc Graw-Hill Book Company.BACHA, Edmar. Introdução à Macroeconomia: Uma perspectiva brasileira. Rio de Janeiro: Campus, 1987.BACHA et al. Estado da Economia Mundial - Desafios e Respostas - Seminário em Homenagem a Pedro Malan. São Paulo: LTC, 2015.FURTADO, C. Formação econômica do Brasil. São Paulo: Companhia Editora Nacional, 2003.GREMAUD, A. P.; VASCONCELLOS, M. A. S.; TONETO JÚNIOR, R. Economia Brasileira Contemporânea. 8 ed. São Paulo: Atlas, 2017.VASCONCELLOS, M. A. S.; GARCIA, M. E. Fundamentos de Economia. 6 ed. São Paulo: Saraiva, 2018.VASCONCELLOS, M. A. S. ECONOMIA: Micro e Macro. São Paulo: Atlas, 2015."
-  docentes: ['11079086 - Herlandí de Souza Andrade', '3295113 - José Eduardo Holler Branco']
+  docentes: ['7811306 - Diogo Ferraz']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -14534,18 +14647,18 @@ Textos complementares serão usados durante o curso."
       aulas:
         - h0:
           horario: " qua  19:00  23:00 "
-          prof: "Diogo Ferraz "
+          prof: "(R) Diogo Ferraz "
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "25"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "25"
+          Matriculados: "24"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "45"
-          Inscritos: "25"
+          Inscritos: "24"
           Pendentes: "0"
-          Matriculados: "25"
+          Matriculados: "24"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -14709,10 +14822,10 @@ Textos complementares serão usados durante o curso."
           prof: "(R) Fabricio Maciel Gomes "
       vagas:
         - Obrigatoria:
-          Vagas: "28"
-          Inscritos: "28"
+          Vagas: "29"
+          Inscritos: "29"
           Pendentes: "0"
-          Matriculados: "28"
+          Matriculados: "29"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "27"
           Inscritos: "11"
@@ -14781,13 +14894,18 @@ Textos complementares serão usados durante o curso."
         - Obrigatoria:
           Vagas: "52"
           Inscritos: "52"
-          Pendentes: "3"
-          Matriculados: "48"
+          Pendentes: "0"
+          Matriculados: "52"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "52"
           Inscritos: "51"
-          Pendentes: "3"
-          Matriculados: "48"
+          Pendentes: "0"
+          Matriculados: "51"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4253:
   sigla: "LOQ4253"
   nome: " Processos Químicos Industriais"
@@ -14868,7 +14986,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média das atividades avaliativas"
   exame: "MF = (0,5 M + 0,5 R)M = Média de aproveitamento do aluno, antes da recuperaçãoR = Nota de uma prova de recuperaçãoMF = nota final de aproveitamento, após a recuperaçãoAprovação com média final de aproveitamento maior ou igual a 5,0.A recuperação deverá consistir de uma prova escrita englobando a matéria toda do semestre.Terá direito à prova de recuperação aqueles alunos reprovados com nota acima de 3,0 e frequência mínima de 70%."
   bibliografia: "BARNEY, J.B.; CLARK, D.N. Resource-Based Theory: Creating and Sustaining Competitive Advantage. Oxford University Press, 2007.BESSANT, J.; TIDD, J. Inovação e empreendedorismo. Porto Alegre, Bookman, 2009.BURGELMAN, R. A.; CHRISTENSEN, C. M.; WHEELWRIGTH, S. C. Gestão estratégica da tecnologia e da inovação: conceitos e soluções. AMGH Editora, 2013.CONWAY, S; STEWARD, F. Managing and shaping innovation. Oxford University Press, 2009.CHRISTENSEN, Clayton M. O dilema da inovação. São Paulo: Makron Books, 2011.DAVILA, T; EPSTEIN, M. J.; SHELTON, R. As regras da Inovação. Porto Alegre, Bookman, 2008.DE NEGRI, J.A; SALERNO, M.S., (Orgs.). Inovação, padrões tecnológicos e desempenho das firmas industriais brasileiras. Brasília, Ipea, 2005.DODGSON, M.; GANN, D.; SALTER, A. The management of technological innovation: strategy and practice. Oxford University Press, 2008.DRUCKER, P.F. Inovação e espírito empreendedor. São Paulo: Pioneira, 2000.FIGUEIREDO, P.N. Gestão da inovação: conceitos, métricas e experiências de empresas no Brasil. Rio de Janeiro, LTC, 2015.FITZGERALD, E. et al. Inside Real Innovation: How the Right Approach Can Move Ideas from R&D to Market-And Get the Economy Moving. World Scientific, 2011.GOFFIN, K.; MITCHELL, R. Innovation management. 3nd ed. Palgrave – MacMillan, Houndsmill, 2017.HELFAT, C.E. et al. Dynamic capabilities: understanding strategic change in organizations. Blackwell Publishing, 2007.PRAHALAD,C.K.; KRISHNAN,M.S. The new of innovation. EUA: Editora Soundview Executive Book Sumaries, 2008.PROENÇA, A. et al. Gestão da inovação e competitividade no Brasil: da teoria para a prática. Bookman Editora, 2015.SALERNO, M.S.; GOMES, L.A.V. Gestão da inovação (mais) radical. Rio de Janeiro: Elsevier, 2018.SCHILLING, M.A. Strategic management of technological innovation. MacGraw-Hill/Irwin, 2009. TEECE, D. Capabilities and strategic management. In: Edited by Foss. N. Resources firms and strategies. A reader in the Resource-based Perspective. WA: Ed. Oxford University, 1987.TIDD, J.; BESSANT, J. Gestão da Inovação. Porto Alegre, Bookman, 2015.TIDD, J.; BESSANT, J. Strategic innovation management, Wiley, 2014.TIGRE, P. B. Gestão da inovação. Rio de Janeiro, Campus-Elsevier, 2006.TROTT, P. innovation management and new product development. Prentice Hall, 2008.WHITE, M. A.; BRUTON, G.D. The management of technology and innovation: a strategic approach. South-Western, Cengage Learning, 2011."
-  docentes: ['5701460 - Antonio Iacono']
+  docentes: ['11079086 - Herlandí de Souza Andrade']
   oferecimento: "None"
 - LOQ4258:
   sigla: "LOQ4258"
@@ -14938,7 +15056,7 @@ Textos complementares serão usados durante o curso."
   criterio: "NF≥ 5,0."
   exame: "Média aritmética da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recuperação."
   bibliografia: "1. S. Zachs, INTRODUCTION TO RELIABILITY ANALYSIS: PROBABILITY MODELS AND STATISTICAL METHODS, Springer Verlag, New York, 19922. I.B. Gertsbakh, STATISTICAL RELIABILITY THEORY, Marcel Dekker, New York, 1989.3. J. Knezevic, RELIABILITY, MAINTAINABILITY, AND SUPPORTABILITY: A PROBABILITY APPROACH, McGraw-Hill, 1993.4. R.S. Dhillon, C. Singh, ENGINEERING RELIABILITY. NEW TECHNIQUES AND APPLICATIONS, Wiley Interscience, 1981. 5. HARRY, M. , LINSENMANND.R., The Six Sigma Fieldbook, Doubleday, New York, 2006"
-  docentes: ['5840535 - Messias Borges Silva']
+  docentes: ['3295113 - José Eduardo Holler Branco']
   oferecimento: "None"
 - LOQ4213:
   sigla: "LOQ4213"
@@ -14973,7 +15091,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média Aritmética dos Projetos, Trabalhos e Exercícios realizados no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude) desenvolvidas."
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "IUDICIBUS, S.; MARION, J. C. Curso de Contabilidade para não Contadores. 8 ed. São Paulo: Atlas, 2018.MARTINS, E. Contabilidade de Custos. 11 ed. São Paulo: Atlas, 2018.SANTOS, J. J. Manual de Contabilidade e Análise de Custos. 7 ed. São Paulo: Atlas, 2017.SILVA, R. N. S.; LINS, L. S. Gestão de Custos - Contabilidade, Controle e Análise. 4 ed. São Paulo: Atlas, 2017.DUTRA, R. G. Custos: Uma Abordagem Prática. 8 ed. São Paulo: Atlas, 2017.MEGLIORINI, E.; BUENO, A. S. Contabilidade para cursos de Engenharia. São Paulo: Atlas, 2014.MORANTE, A. S. Análise das Demonstrações Financeiras. 2 ed. São Paulo: Atlas, 2009.Bruni, Adriano L., Fama, Rubens. Gestão de custos e formação de preços. 5. Ed., São Paulo: Atlas, 2008.Hansen, Don R., Mowen, Maryanne M., Gestão de custos – contabilidade e controle. São Paulo: Pioneira Thomson, 2001Horngren, Charles T., Datar, Srikant M., Foster, George. Contabilidade de custos (vol. 1 e 2). 11. Ed. São Paulo: Pearson, 2004.Maher, Michael. Contabilidade de custos – criando valor para a administração. 5. ed., São Paulo: Atlas, 2001.Martins, Eliseu. Contabilidade de Custos (livro de exercícios). 9. Ed., São Paulo: Atlas, 2006.Martins, Eliseu. Contabilidade de Custos (livro texto). 9. Ed., São Paulo: Atlas, 2003."
-  docentes: ['11079086 - Herlandí de Souza Andrade']
+  docentes: ['7811306 - Diogo Ferraz']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -14983,18 +15101,18 @@ Textos complementares serão usados durante o curso."
       aulas:
         - h0:
           horario: " sex  19:00  23:00 "
-          prof: "Diogo Ferraz "
+          prof: "(R) Diogo Ferraz "
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "39"
-          Pendentes: "2"
-          Matriculados: "37"
+          Inscritos: "34"
+          Pendentes: "0"
+          Matriculados: "34"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "39"
-          Pendentes: "2"
-          Matriculados: "37"
+          Inscritos: "34"
+          Pendentes: "0"
+          Matriculados: "34"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -15044,14 +15162,14 @@ Textos complementares serão usados durante o curso."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "55"
-          Pendentes: "2"
-          Matriculados: "53"
+          Inscritos: "57"
+          Pendentes: "0"
+          Matriculados: "57"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "48"
-          Pendentes: "2"
-          Matriculados: "46"
+          Inscritos: "49"
+          Pendentes: "0"
+          Matriculados: "49"
 - LOQ4241:
   sigla: "LOQ4241"
   nome: " Sistemas de Apoio à Decisão"
@@ -15099,14 +15217,14 @@ Textos complementares serão usados durante o curso."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "38"
-          Pendentes: "3"
-          Matriculados: "35"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "25"
-          Pendentes: "3"
-          Matriculados: "22"
+          Inscritos: "26"
+          Pendentes: "0"
+          Matriculados: "26"
 - LOQ4245:
   sigla: "LOQ4245"
   nome: " Ergonomia"
@@ -15136,7 +15254,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Exercícios de aprendizado e exercícios de avaliação farão parte da composição de notas individuais (NI), com aplicação de trabalhos práticos em grupo (NG). Sendo: Nota Final = (NI+NG)/2"
   exame: "A recuperação deverá consistir de uma prova englobando a matéria toda do semestre. - A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
   bibliografia: "IIDA, I. Ergonomia: Projeto e Produção. São Paulo: Edgard Blücher, 2001.GUÉRIN et al. Compreender o trabalho para transformá-lo. São Paulo: Edgard Blücher, 2001.VIDAL, M. C. Ergonomia na empresa, útil, prática e aplicada, 2º ed.. Rio de Janeiro: Editora CVC, 2002.COUTO, H. A. Como implantar a ergonomia na empresa. Belo Horizonte: Ergo Editora, 2002."
-  docentes: ['8767640 - Eduardo Ferro dos Santos']
+  docentes: ['5840917 - Fabricio Maciel Gomes']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -15151,13 +15269,13 @@ Textos complementares serão usados durante o curso."
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "33"
-          Pendentes: "2"
-          Matriculados: "31"
+          Pendentes: "0"
+          Matriculados: "33"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "31"
-          Pendentes: "2"
-          Matriculados: "29"
+          Pendentes: "0"
+          Matriculados: "31"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -15196,7 +15314,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média Aritmética dos Projetos, Trabalhos, Exercícios e outras atividades avaliativas realizadas no decorrer da disciplina, considerando as questões relativas às Competências (Conhecimento, Habilidade e Atitude, que incluem a presença e participação dos alunos nas aulas) desenvolvidas"
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação"
   bibliografia: "CARVALHO, M. M. (organizadora) e outros. Gestão de Serviços: Casos Brasileiros. Atlas. 2013CORREA, H. C. e CAON, M. Gestão de Serviços: Lucratividade por meio de operação e de satisfação dos clientes. Atlas, 2014FITZSIMMONS, J.; FITZSIMMONS, M.J. Administração de serviços: operações, estratégia e tecnologia de informação. PortoAlegre: Bookman, 2000.GIANESI, I e CORREA, H. Administração Estratégia de Serviços, ATLAS, 1995 – SPJOHNSTON, R. e CLARK, G. Administração e Operações de Serviços. Atlas, 2001LOVELOCK, C.H.; WRIGHT, L. Serviços: marketing e gestão. São Paulo: Saraiva, 2001.MELLO, C. H. P.; NETO, P. L. O. C.; TURRIONI, J.B. SILVA, C. E. S. Gestão do Processo de Desenvolvimento de Serviços.Atlas. 2010NORMANN, R. Administração de Serviços. São Paulo. Atlas. 1992.Bibliografia complementar será indicada ao longo do curso."
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira']
+  docentes: ['6046221 - Camila Fabricio Poltronieri']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -15206,18 +15324,18 @@ Textos complementares serão usados durante o curso."
       aulas:
         - h0:
           horario: " qua  21:00  23:00 "
-          prof: "Camila Fabricio Poltronieri "
+          prof: "(R) Camila Fabricio Poltronieri "
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "37"
-          Pendentes: "1"
-          Matriculados: "36"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
-          Inscritos: "37"
-          Pendentes: "1"
-          Matriculados: "36"
+          Inscritos: "39"
+          Pendentes: "0"
+          Matriculados: "39"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -15256,7 +15374,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média das atividades avaliativas"
   exame: "MF = (0,5 M + 0,5 R) M = Média de aproveitamento do aluno, antes da recuperação R = Nota de uma prova de recuperação MF = nota final de aproveitamento, após a recuperação Aprovação com média final de aproveitamento maior ou igual a 5,0. A recuperação deverá consistir em uma prova escrita englobando a matéria toda do semestre. Terá direito à prova de recuperação aqueles alunos reprovados com nota acima de 3,0 e frequência mínima de 70%."
   bibliografia: "1.CORRÊA, H. L.; GIANESI, I. G. N.; CAON, M. Planejamento, programação e controle da produção: MRPII/ERP conceitos, uso e implantação. 5. ed. São Paulo: Atlas, 2007. 2.CORRÊA, H. L.; CORRÊA, C. A. Administração da Produção e Operações: manufatura e serviços: uma abordagem estratégica. 2.ed. São Paulo: Atlas, 2011. 3.DAVIS, M.M. et al. Fundamentos da administração da Produção. Porto Alegre: Bookman, 2018. 4.FERNANDES, F.C.F.; GODINHO FILHO. Planejamento e controle da produção: dos fundamentos ao essencial. São Paulo: Atlas, 2010. 5.GAITHER, N.; FRAZIER, G. Administração da Produção e Operações. 8. ed. São Paulo: Pioneira Thomson, 2005. 6.GONÇALVES, P.S. Administração de materiais. Rio de Janeiro: Elsevier, 2013. 7.HEIZER, J.; RENDER, B. Administração de Operações: bens e serviços. 5. ed. Rio de Janeiro: LTC, 2001.8.JACOBS, F.R.; CHASE, R. B. Administração da produção e de operações: o essencial. Porto Alegre: Bookman, 2009. 9.LUSTOSA, L. et. Al. Planejamento e controle da produção. Rio de Janeiro: Elsevier, 2008. 10.MOREIRA, D. A. Administração da Produção e Operações. 2. ed. São Paulo: Cengage Learning, 2008.11.REID, R.D.; SANDERS, N. R. Gestão de operações. Rio de Janeiro: LTC, 2005. 12.SLACK, N., BRANDON-JONES, A., JOHNSTON, R. Administração da produção. Henrique Luiz Corrêa (Trad.). 3. ed. São Paulo: Atlas, 2018. 13.TUBINO, D.V. Planejamento e controle da produção: teoria e prática. 2.ed. São Paulo: Atlas, 2009. 14.VOLLMANN, T.; BERRY, W.; WHYBARK, D.; JACOBS, F. Sistemas de planejamento e controle da produção: para o gerenciamento da cadeia de suprimentos. 5. ed. Porto Alegre: Bookman, 2006. 15.WANKE, P.F. Gerência de operações: uma abordagem logística. São Paulo: Atlas, 2010."
-  docentes: ['5701460 - Antonio Iacono']
+  docentes: ['8971158 - Claudemir Leif Tramarico']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -15266,18 +15384,18 @@ Textos complementares serão usados durante o curso."
       aulas:
         - h0:
           horario: " qui  19:00  23:00 "
-          prof: "Claudemir Leif Tramarico "
+          prof: "(R) Claudemir Leif Tramarico "
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "29"
-          Pendentes: "4"
-          Matriculados: "25"
+          Inscritos: "28"
+          Pendentes: "0"
+          Matriculados: "28"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "45"
-          Inscritos: "28"
-          Pendentes: "4"
-          Matriculados: "24"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
 - LOQ4262:
   sigla: "LOQ4262"
   nome: " Automação e Controle"
@@ -15315,7 +15433,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Exercícios de aprendizado e exercícios de avaliação farão parte da composição de notas individuais (NI), com aplicação de trabalhos práticos em grupo (NG). Sendo: Nota Final = (NI+NG)/2"
   exame: "A recuperação deverá consistir de uma prova englobando a matéria toda do semestre. - A média final (pós-recuperação) deverá ser composta por uma média simples entre a nota do semestre (nota final) e a da prova de recuperação."
   bibliografia: "Tutoriais de Arduino disponibilizados pelo fabricante (arduino.cc) NISE, N. S., “Engenharia de Sistemas de Controle”, 3ª ed., LTC, 2002. OGATA, K., “Engenharia de Controle Moderno”, 4ª ed., Prentice-Hall do Brasil, 2003. Tutoriais disponibilizados pelo professor BOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos Eletrônicos e Teoria de Circuitos. 8ª ed. São Paulo: Pearson. 696 p. THOMAZINI, Daniel; ALBUQUERQUE, Pedro U. B.. Sensores Industriais – Fundamentos e Aplicações. 8ª ed. São Paulo: Érica, 2011. 224 p. CAPELLI, A. Automação Industrial: controle de movimento e processos contínuos. São Paulo: Érica, 2006. SILVEIRA, P. R. da; SANTOS, W. E. Automação e controle discreto. 3. ed. São Paulo: Érica, 1998. MORAES, C. C.; CATRUCCI, P. Engenharia de automação industrial. 2. ed. Rio de Janeiro: LTC, 2007. GIORGINI, M. Automação aplicada: descrição e implementação de sistemas sequencias com PLC's. 5. ed. São Paulo: Érica, 2003."
-  docentes: ['8767640 - Eduardo Ferro dos Santos']
+  docentes: ['5840917 - Fabricio Maciel Gomes']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -15329,14 +15447,19 @@ Textos complementares serão usados durante o curso."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "24"
-          Pendentes: "3"
-          Matriculados: "19"
+          Inscritos: "25"
+          Pendentes: "0"
+          Matriculados: "25"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
-          Inscritos: "22"
-          Pendentes: "3"
-          Matriculados: "19"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4222:
   sigla: "LOQ4222"
   nome: " Engenharia Econômica e Finanças"
@@ -15366,7 +15489,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média das atividades avaliativas."
   exame: "NF = (MF + PR)/2, onde MF é a média final da avaliação e PR é uma prova de recuperação."
   bibliografia: "EHRLICH, P. J. Engenharia Econômica. São Paulo: Editora Atlas, 2005.JAFFE, R. W. Administração Financeira. 2 ed. São Paulo, Editora Atlas, 2002.GITMAN, L. J. - ZUTTER, C. J. Princípios de Administração Financeira. 14 ed. São Paulo: Pearson, 2017.ASSAF NETO, A. E LIMA, F. G. 3 ed. CURSO DE ADMINISTRAÇÃO FINANCEIRA. São Paulo: Atlas, 2014MORANTE, A. S. Análise das Demonstrações Financeiras. 2 ed. São Paulo: Atlas, 2009.NEWNAN, D. G.; LAVELLE, J. P. Fundamentos de Engenharia Econômica. São Paulo: LTC, 2000.HOJI, M.; LUZ, A. E. Gestão Financeira Econômica: Didática, Objetiva e Prática. São Paulo: Atlas, 2019.SANVICENTE, A. Z. Administração Financeira. São Paulo: Editora Atlas, 2007."
-  docentes: ['11079086 - Herlandí de Souza Andrade']
+  docentes: ['7811306 - Diogo Ferraz']
   oferecimento: "None"
 - LOQ4260:
   sigla: "LOQ4260"
@@ -15436,7 +15559,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média das atividades avaliativas"
   exame: "MF = (0,5 M + 0,5 R) M = Média de aproveitamento do aluno, antes da recuperação R = Nota de uma prova de recuperação MF = nota final de aproveitamento, após a recuperação Aprovação com média final de aproveitamento maior ou igual a 5,0. A recuperação deverá consistir em uma prova escrita englobando a matéria toda do semestre. Terá direito à prova de recuperação aqueles alunos reprovados com nota acima de 3,0 e frequência mínima de 70%."
   bibliografia: "DENNIS, P. (2009). Produção lean simplificada. Bookman Editora.LEAN ENTERPRISE INSTITUTE (2007). Léxico lean – glossário ilustrado para praticantes do pensamento lean. v.2.0. São Paulo: Lean Institute Brasil.LIKER, J. K. (2005). O Modelo Toyota: 14 princípios de gestão do maior fabricante do mundo. Tradução  de Lene Belon Ribeiro. Porto Alegre: Bookman.ROSER, C. (2022). Tudo Sobre Produção Puxada: Projetando, Implementando e Mantendo Kanban, CONWIP e outros Sistemas Puxados na Produção Enxuta. AllAboutLean.com Publishing.ROTHER, M.; HARRIS, R. (2002). Criando fluxo contínuo. São Paulo, SP. Lean Institute Brasil.SHOOK, John; ROTHER, Mike. Manual. Aprendendo a enxergar. Leam Institute Brasil. São Paulo: IMAM, s/d.TUBINO, D. F. (2015). Manufatura enxuta como estratégia de produção. Editora Atlas SA.WOMACK, James P.; JONES, Daniel T. A Mentalidade enxuta nas empresas. Rio de Janeiro: Campus, 1998. WOMACK, James P.; JONES, Daniel T. Lean Thinking: Banish Waste and Create Wealth in Your Corporation. Free Press, 2010."
-  docentes: ['5701460 - Antonio Iacono']
+  docentes: ['8971158 - Claudemir Leif Tramarico']
   oferecimento: "None"
 - LOQ4271:
   sigla: "LOQ4271"
@@ -15502,7 +15625,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média das atividades avaliativas"
   exame: "MF = (0,5 M + 0,5 R) M = Média de aproveitamento do aluno, antes da recuperação R = Nota de uma prova de recuperação MF = nota final de aproveitamento, após a recuperação Aprovação com média final de aproveitamento maior ou igual a 5,0. A recuperação deverá consistir de uma prova escrita englobando a matéria toda do semestre. Terá direito à prova de recuperação aqueles alunos reprovados com nota acima de 3,0 e frequência mínima de 70%."
   bibliografia: "BANZATO, Eduardo et al. Atualidades na armazenagem. São Paulo: IMAM, 2003.BARNES, R.M. Estudo de Movimentos de Tempos: projeto e medida do trabalho. São Paulo, Edgar Blücher, 1977.GURGEL, F.A.C. Administração de recursos materiais e patrimoniais. 2a. Edição. São Paulo. Editora Cengage. 2013. FRANCISCHINI, P.G.; VALLE, C.E. Implantação de Indústrias. Rio de Janeiro, LTC Editora, 1975.LEE, Q et al. Projeto de Instalações e Locais de Trabalho. São Paulo: IMAM, 1998.MOURA, Reinaldo Aparecido. Sistemas e técnicas de movimentação e armazenagem de materiais. IMAM, 2012.NEWMANN, C.; SCALICE, R.K. Projeto de Fábrica e Layout. Rio de Janeiro, Elsevier, 2015.Müther, R. Planejamento do Layout: Sistema SLP. São Paulo, Edgard Blücher, 1978. SLACK, Nigel et al. Administração da produção. São Paulo: Atlas, 8ª ed. 2018.TOMPKINS, James A. et al. Planejamento de instalações. Editora LTC:, 2013."
-  docentes: ['5701460 - Antonio Iacono']
+  docentes: ['8971158 - Claudemir Leif Tramarico']
   oferecimento: "None"
 - LOQ4217:
   sigla: "LOQ4217"
@@ -15551,14 +15674,14 @@ Textos complementares serão usados durante o curso."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "32"
-          Pendentes: "4"
-          Matriculados: "28"
+          Inscritos: "33"
+          Pendentes: "0"
+          Matriculados: "33"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "21"
-          Pendentes: "4"
-          Matriculados: "17"
+          Pendentes: "0"
+          Matriculados: "21"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -15612,13 +15735,18 @@ Textos complementares serão usados durante o curso."
         - Obrigatoria:
           Vagas: "40"
           Inscritos: "11"
-          Pendentes: "4"
-          Matriculados: "7"
+          Pendentes: "0"
+          Matriculados: "11"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "11"
-          Pendentes: "4"
-          Matriculados: "7"
+          Pendentes: "0"
+          Matriculados: "11"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4228:
   sigla: "LOQ4228"
   nome: " Trabalho de Graduação em Engenharia de Produção I"
@@ -15864,7 +15992,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Avaliação Ad hoc por 2 examinadores. A nota da disciplina será a média das duas notas"
   exame: "Reapresentação do trabalho modificado para nova avaliação"
   bibliografia: "Cauchick-Miguel, P. A.,   Metodologia de pesquisa em engenharia de produção e gestão de operações / Afonso Fleury ... [et al.] ; coordenação . - 3. ed. - Rio de Janeiro : Elsevier, 2018. Cauchick-Miguel, P. A.,   Metodologia de pesquisa em engenharia , 1. ed. - Rio de Janeiro : GEN LTC, 2019. BOOTH, W.; COLOMB, G.; WILLIAMS, J. A arte da Pesquisa. 3 ed. Martins Fontes. São Paulo. 2005.GIL, A.C. Como elaborar projetos de pesquisa. 5 ed. Atlas, São Paulo, 2010.MEDEIROS, J. B. Redação Cientifica: A Prática de Fichamentos, Resumos e Resenhas. 11 ed. São Paulo: Atlas, 2009"
-  docentes: ['198273 - Domingos Savio Giordani']
+  docentes: ['3295113 - José Eduardo Holler Branco']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -15878,14 +16006,19 @@ Textos complementares serão usados durante o curso."
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "36"
-          Pendentes: "22"
-          Matriculados: "8"
+          Inscritos: "40"
+          Pendentes: "0"
+          Matriculados: "40"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "60"
           Inscritos: "28"
-          Pendentes: "22"
-          Matriculados: "6"
+          Pendentes: "0"
+          Matriculados: "28"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4244:
   sigla: "LOQ4244"
   nome: " Lean Six Sigma"
@@ -15933,14 +16066,14 @@ Textos complementares serão usados durante o curso."
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "8"
-          Matriculados: "28"
+          Inscritos: "36"
+          Pendentes: "0"
+          Matriculados: "36"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "36"
-          Pendentes: "8"
-          Matriculados: "28"
+          Pendentes: "0"
+          Matriculados: "36"
 - LOQ4268:
   sigla: "LOQ4268"
   nome: " Gestão da Tecnologia da Informação"
@@ -15970,7 +16103,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média Aritmética das atividades avaliativas realizadas."
   exame: "Média aritmética da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recuperação."
   bibliografia: "HAL R. VARIAN, H. R.; FARRELL, J., SHAPIRO, C. The economics of information technology: an introduction. Cambridge University Press, 2004LAURINDO, F. J. B.; ROTONDARO, R. G. orgs. Gestão integrada de processos e da tecnologia da informação. São Paulo:Atlas, 2006.LAURINDO, F.J.B. Tecnologia da Informação: Eficácia nas Organizações. São Paulo, Editora Futura, 2002.STAIR, R.M., Princípios de Sistema de Informação: Uma Abordagem Gerencial, Rio de Janeiro, LTC, 1998.TURBAN, E. et al. Information Technology for Management: Transforming Organizations in the Digital Economy. 7th edition, Wiley, 2009.TURBAN, E., RAIANER JR, K., POTTER, R. E., Administração de Tecnologia da Informação: Teoria e Prática”, São Paulo, Editora Campus, 2003."
-  docentes: ['11079086 - Herlandí de Souza Andrade']
+  docentes: ['5840917 - Fabricio Maciel Gomes']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -15984,14 +16117,14 @@ Textos complementares serão usados durante o curso."
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "35"
-          Pendentes: "2"
-          Matriculados: "33"
+          Inscritos: "32"
+          Pendentes: "0"
+          Matriculados: "32"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "45"
-          Inscritos: "35"
-          Pendentes: "2"
-          Matriculados: "33"
+          Inscritos: "32"
+          Pendentes: "0"
+          Matriculados: "32"
         - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
@@ -16030,7 +16163,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Média das atividades avaliativas"
   exame: "MF = (0,5 M + 0,5 R) M = Média de aproveitamento do aluno, antes da recuperação R = Nota de uma prova de recuperação MF = nota final de aproveitamento, após a recuperação Aprovação com média final de aproveitamento maior ou igual a 5,0. A recuperação deverá consistir em uma prova escrita englobando a matéria toda do semestre. Terá direito à prova de recuperação aqueles alunos reprovados com nota acima de 3,0 e frequência mínima de 70%."
   bibliografia: "Crawford, C. M., Di Benedetto, C. A. New products management (p. 540). New York, NY: McGraw-Hill/Irwin. 2021.Crawford, M., Di Benedetto, A. Gestão de novos produtos. McGraw Hill Brasil, 2016uma referência para a melhoria do processo. São Paulo: Saraiva, 2006. 542p. CHENG, L.C. QFD: desdobramento da função qualidade na gestão de desenvolvimento de produtos. São Paulo: Edgard Blücher, 2007. DENIS, R. C. Uma introdução à história do design. São Paulo: Edgard Blücher., 2000. MALHOTRA, N.K. Pesquisa de marketing: uma orientação aplicada. Porto Alegre: Bookman, 2006. PAHL,G.; BEITZ,W.; FELDHUSEN,J.;GROTE,K. Projeto na engenharia. São Paulo: Edgard Blucher, 2005.ROZENFELD, H.; FORCELLINI, F.A.; AMARAL, D.C.; TOLEDO, J. A.; SILVA, S.L.; ALLIPRANDINI, D.H.; SCALICE, R.K. Gestão de desenvolvimento de produtos:"
-  docentes: ['5701460 - Antonio Iacono']
+  docentes: ['6046221 - Camila Fabricio Poltronieri']
   oferecimento:
     - 20251P1:
       Codigo_da_Turma: "20251P1"
@@ -16041,18 +16174,18 @@ Textos complementares serão usados durante o curso."
       aulas:
         - h0:
           horario: " sex  19:00  23:00 "
-          prof: "Camila Fabricio Poltronieri "
+          prof: "(R) Camila Fabricio Poltronieri "
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "32"
-          Pendentes: "9"
-          Matriculados: "21"
+          Inscritos: "35"
+          Pendentes: "0"
+          Matriculados: "35"
         - EEL_-_Engenharia_de_Producao:
           Vagas: "40"
           Inscritos: "29"
-          Pendentes: "9"
-          Matriculados: "20"
+          Pendentes: "0"
+          Matriculados: "29"
 - LOQ4230:
   sigla: "LOQ4230"
   nome: " Estágio em Engenharia de Produção"
@@ -16155,7 +16288,18 @@ Textos complementares serão usados durante o curso."
   exame: "Não será oferecida recuperação."
   bibliografia: "A ser definida com o orientador em função das atividades desenvolvidas no estágio."
   docentes: ['5840560 - Marco Antonio Carvalho Pereira']
-  oferecimento: "None"
+  oferecimento:
+    - 20251P1:
+      Codigo_da_Turma: "20251P1"
+      Inicio: "24/02/2025"
+      Fim: "07/07/2025"
+      Tipo_da_Turma: "Prática"
+      aulas:
+        - h0:
+          horario: " sex  18:00  19:00 "
+          prof: " "
+      vagas:
+        - Atividades_Didaticas:
 - LOQ4256:
   sigla: "LOQ4256"
   nome: " Gestão Estratégica de Produção"
@@ -16211,7 +16355,7 @@ Textos complementares serão usados durante o curso."
   objectives: ""
   abstract: ""
   program: ""
-  ndoc: "2"
+  ndoc: "1"
   CA: "0"
   CT: "6"
   CH: "180 h"
@@ -16224,7 +16368,7 @@ Textos complementares serão usados durante o curso."
   criterio: "Uma única prova perante uma banca com 3 examinadores. A nota da disciplina será decidida pelos docentes da banca."
   exame: "Reapresentação do trabalho modificado para nova avaliação."
   bibliografia: "Recomendada pelo orientador"
-  docentes: ['5840560 - Marco Antonio Carvalho Pereira', '1285870 - Marcos Villela Barcza']
+  docentes: ['5840917 - Fabricio Maciel Gomes']
   oferecimento: "None"
 - LOB1045:
   sigla: "LOB1045"
@@ -16735,14 +16879,14 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "34"
+          Inscritos: "42"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "42"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "34"
+          Inscritos: "31"
           Pendentes: "0"
-          Matriculados: "34"
+          Matriculados: "31"
 - LOQ4102:
   sigla: "LOQ4102"
   nome: " Nivelamento em Engenharia"
@@ -16789,19 +16933,24 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "41"
+          Inscritos: "43"
           Pendentes: "0"
-          Matriculados: "41"
+          Matriculados: "43"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "59"
-          Inscritos: "40"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "36"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "1"
           Inscritos: "1"
           Pendentes: "0"
           Matriculados: "1"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4103:
   sigla: "LOQ4103"
   nome: " Escrita Acadêmico Científica"
@@ -16848,14 +16997,24 @@ ESPECÍFICO: Preparar o aluno para o mercado de trabalho com as noções mínima
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "40"
+          Inscritos: "43"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "43"
         - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "60"
-          Inscritos: "40"
+          Vagas: "58"
+          Inscritos: "36"
           Pendentes: "0"
-          Matriculados: "40"
+          Matriculados: "36"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "1"
+          Inscritos: "1"
+          Pendentes: "0"
+          Matriculados: "1"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4037:
   sigla: "LOQ4037"
   nome: " Química Orgânica I"
@@ -16922,20 +17081,25 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
           prof: "(R) Eduardo Rezende Triboni "
       vagas:
         - Obrigatoria:
-          Vagas: "54"
-          Inscritos: "64"
-          Pendentes: "17"
-          Matriculados: "36"
+          Vagas: "63"
+          Inscritos: "63"
+          Pendentes: "0"
+          Matriculados: "63"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "49"
           Inscritos: "48"
-          Pendentes: "16"
-          Matriculados: "32"
+          Pendentes: "0"
+          Matriculados: "48"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "5"
           Inscritos: "5"
-          Pendentes: "1"
-          Matriculados: "4"
+          Pendentes: "0"
+          Matriculados: "5"
+        - Qualquer_Unidade_da_USP:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4055:
   sigla: "LOQ4055"
   nome: " Quimica Inorgânica"
@@ -17047,19 +17211,19 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "28"
+          Inscritos: "29"
           Pendentes: "0"
-          Matriculados: "27"
+          Matriculados: "29"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "18"
-          Inscritos: "17"
+          Inscritos: "16"
           Pendentes: "0"
-          Matriculados: "17"
+          Matriculados: "16"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "11"
-          Inscritos: "10"
+          Inscritos: "11"
           Pendentes: "0"
-          Matriculados: "10"
+          Matriculados: "11"
 - LOM3022:
   sigla: "LOM3022"
   nome: " Materiais para a  Indústria Química"
@@ -17102,21 +17266,27 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       Inicio: "24/02/2025"
       Fim: "07/07/2025"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " ter  19:00  21:00 "
           prof: "(R) Cassius Olivio Figueiredo Terra Ruchert "
       vagas:
         - Obrigatoria:
-          Vagas: "62"
-          Inscritos: "62"
-          Pendentes: "2"
-          Matriculados: "60"
+          Vagas: "48"
+          Inscritos: "45"
+          Pendentes: "0"
+          Matriculados: "45"
         - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "2"
-          Matriculados: "58"
+          Vagas: "42"
+          Inscritos: "38"
+          Pendentes: "0"
+          Matriculados: "38"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "6"
+          Inscritos: "5"
+          Pendentes: "0"
+          Matriculados: "5"
 - LOQ4009:
   sigla: "LOQ4009"
   nome: " Instrumentação na Industria Química"
@@ -17183,26 +17353,27 @@ MORRISON, R.; BOYD, R. Química Orgânica. São Paulo: Editora Calouste Gulbenki
       Inicio: "24/02/2025"
       Fim: "07/07/2025"
       Tipo_da_Turma: "Teórica"
+      Observacoes: ""
       aulas:
         - h0:
           horario: " seg  14:00  18:00 "
-          prof: " "
+          prof: "Félix Monteiro Pereira "
       vagas:
         - Obrigatoria:
-          Vagas: "45"
-          Inscritos: "45"
-          Pendentes: "4"
-          Matriculados: "36"
+          Vagas: "85"
+          Inscritos: "74"
+          Pendentes: "0"
+          Matriculados: "74"
         - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "23"
-          Inscritos: "23"
-          Pendentes: "3"
-          Matriculados: "20"
+          Vagas: "55"
+          Inscritos: "46"
+          Pendentes: "0"
+          Matriculados: "46"
         - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "19"
-          Inscritos: "17"
-          Pendentes: "1"
-          Matriculados: "16"
+          Vagas: "30"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
 - LOQ4056:
   sigla: "LOQ4056"
   nome: " Química Analítica para Engenharia"
@@ -17272,18 +17443,23 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       aulas:
         - h0:
           horario: " sex  14:00  18:00 "
-          prof: " "
+          prof: "Isabel Cristina Coelho Calegao "
       vagas:
         - Obrigatoria:
-          Vagas: "35"
-          Inscritos: "33"
-          Pendentes: "2"
-          Matriculados: "29"
+          Vagas: "37"
+          Inscritos: "38"
+          Pendentes: "0"
+          Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "35"
-          Inscritos: "31"
-          Pendentes: "2"
-          Matriculados: "29"
+          Vagas: "30"
+          Inscritos: "30"
+          Pendentes: "0"
+          Matriculados: "30"
+        - EEL_-_Engenharia_Quimica_-_Noturno:
+          Vagas: "7"
+          Inscritos: "7"
+          Pendentes: "0"
+          Matriculados: "7"
 - LOQ4060:
   sigla: "LOQ4060"
   nome: " Laboratório de Engenharia Química I"
@@ -17335,17 +17511,17 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
           Vagas: "30"
           Inscritos: "18"
           Pendentes: "0"
-          Matriculados: "14"
+          Matriculados: "18"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "27"
-          Inscritos: "11"
+          Inscritos: "12"
           Pendentes: "0"
-          Matriculados: "11"
+          Matriculados: "12"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "3"
-          Inscritos: "3"
+          Inscritos: "2"
           Pendentes: "0"
-          Matriculados: "3"
+          Matriculados: "2"
 - LOQ4001:
   sigla: "LOQ4001"
   nome: " Análise Instrumental"
@@ -17432,19 +17608,19 @@ HARRIS, Daniel C. Análise Química Quantitativa. 6. ed. Rio de Janeiro: Livros 
       vagas:
         - Obrigatoria:
           Vagas: "55"
-          Inscritos: "46"
-          Pendentes: "7"
-          Matriculados: "39"
+          Inscritos: "47"
+          Pendentes: "0"
+          Matriculados: "47"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "45"
-          Inscritos: "27"
-          Pendentes: "6"
-          Matriculados: "21"
+          Inscritos: "28"
+          Pendentes: "0"
+          Matriculados: "28"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "10"
           Inscritos: "10"
-          Pendentes: "1"
-          Matriculados: "9"
+          Pendentes: "0"
+          Matriculados: "10"
 - LOQ4004:
   sigla: "LOQ4004"
   nome: " Controle de Processos Químicos"
@@ -17557,14 +17733,14 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "21"
+          Inscritos: "18"
           Pendentes: "0"
-          Matriculados: "19"
+          Matriculados: "18"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "40"
-          Inscritos: "12"
+          Inscritos: "11"
           Pendentes: "0"
-          Matriculados: "12"
+          Matriculados: "11"
 - LOT2004:
   sigla: "LOT2004"
   nome: " Bioquímica"
@@ -17613,15 +17789,15 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
           prof: "(R) Anuj Kumar "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "67"
+          Vagas: "65"
+          Inscritos: "65"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "65"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "60"
-          Inscritos: "58"
+          Inscritos: "57"
           Pendentes: "0"
-          Matriculados: "58"
+          Matriculados: "57"
 - LOQ4002:
   sigla: "LOQ4002"
   nome: " Reatores Quimicos"
@@ -17671,19 +17847,19 @@ Média das notas N1 e REC:N2=(N1+REC)/2"
       vagas:
         - Obrigatoria:
           Vagas: "45"
-          Inscritos: "41"
-          Pendentes: "7"
-          Matriculados: "21"
+          Inscritos: "42"
+          Pendentes: "0"
+          Matriculados: "42"
         - EEL_-_Engenharia_Quimica_-_Diurno:
-          Vagas: "40"
-          Inscritos: "23"
-          Pendentes: "5"
-          Matriculados: "18"
+          Vagas: "30"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
         - EEL_-_Engenharia_Quimica_-_Noturno:
-          Vagas: "5"
+          Vagas: "15"
           Inscritos: "5"
-          Pendentes: "2"
-          Matriculados: "3"
+          Pendentes: "0"
+          Matriculados: "5"
 - LOQ4064:
   sigla: "LOQ4064"
   nome: " Engenharia de Processos Quimicos I"
@@ -17743,7 +17919,7 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
           Vagas: "35"
           Inscritos: "8"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "8"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "35"
           Inscritos: "2"
@@ -17798,14 +17974,14 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "8"
-          Matriculados: "52"
+          Inscritos: "56"
+          Pendentes: "0"
+          Matriculados: "56"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "60"
-          Inscritos: "59"
-          Pendentes: "8"
-          Matriculados: "51"
+          Inscritos: "55"
+          Pendentes: "0"
+          Matriculados: "55"
 - LOQ4049:
   sigla: "LOQ4049"
   nome: " Projeto na Industria Química"
@@ -17858,20 +18034,20 @@ FELDER, R.M; Rousseau, R.W. Princípios elementares dos processos químicos. LTC
           prof: "(R) Francisco José Moreira Chaves "
       vagas:
         - Obrigatoria:
-          Vagas: "60"
-          Inscritos: "60"
-          Pendentes: "17"
-          Matriculados: "43"
+          Vagas: "61"
+          Inscritos: "57"
+          Pendentes: "0"
+          Matriculados: "57"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "11"
-          Matriculados: "29"
+          Inscritos: "37"
+          Pendentes: "0"
+          Matriculados: "37"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "20"
-          Inscritos: "20"
-          Pendentes: "6"
-          Matriculados: "14"
+          Inscritos: "18"
+          Pendentes: "0"
+          Matriculados: "18"
 - LOQ4059:
   sigla: "LOQ4059"
   nome: " Polímeros"
@@ -17928,19 +18104,19 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
           prof: "(R) Amilton Martins dos Santos "
       vagas:
         - Obrigatoria:
-          Vagas: "50"
-          Inscritos: "65"
-          Pendentes: "11"
-          Matriculados: "37"
+          Vagas: "52"
+          Inscritos: "47"
+          Pendentes: "1"
+          Matriculados: "46"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "41"
-          Inscritos: "39"
-          Pendentes: "9"
-          Matriculados: "30"
+          Inscritos: "36"
+          Pendentes: "1"
+          Matriculados: "35"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "9"
-          Inscritos: "9"
-          Pendentes: "2"
+          Inscritos: "7"
+          Pendentes: "0"
           Matriculados: "7"
 - LOQ4063:
   sigla: "LOQ4063"
@@ -18005,14 +18181,14 @@ VAN KREVELEN, D.W., HOFTYZER, P. J. Properties of polymers: correlation with che
       vagas:
         - Obrigatoria:
           Vagas: "40"
-          Inscritos: "40"
-          Pendentes: "17"
-          Matriculados: "21"
+          Inscritos: "38"
+          Pendentes: "0"
+          Matriculados: "38"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "40"
-          Inscritos: "36"
-          Pendentes: "17"
-          Matriculados: "19"
+          Inscritos: "33"
+          Pendentes: "0"
+          Matriculados: "33"
 - LOQ4065:
   sigla: "LOQ4065"
   nome: " Engenharia de Processos Químicos II"
@@ -18069,13 +18245,13 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
         - Obrigatoria:
           Vagas: "35"
           Inscritos: "33"
-          Pendentes: "17"
-          Matriculados: "9"
+          Pendentes: "0"
+          Matriculados: "33"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "35"
-          Inscritos: "26"
-          Pendentes: "17"
-          Matriculados: "9"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
 - LOQ4078:
   sigla: "LOQ4078"
   nome: " Modelagem e Simulação de Processos"
@@ -18133,20 +18309,20 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
           prof: "Fabio Rodolfo Miguel Batista "
       vagas:
         - Obrigatoria:
-          Vagas: "38"
-          Inscritos: "38"
-          Pendentes: "15"
-          Matriculados: "23"
+          Vagas: "39"
+          Inscritos: "37"
+          Pendentes: "0"
+          Matriculados: "37"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "19"
-          Inscritos: "19"
-          Pendentes: "7"
-          Matriculados: "12"
+          Inscritos: "17"
+          Pendentes: "0"
+          Matriculados: "17"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "19"
-          Inscritos: "18"
-          Pendentes: "8"
-          Matriculados: "10"
+          Inscritos: "17"
+          Pendentes: "0"
+          Matriculados: "17"
 - LOQ4104:
   sigla: "LOQ4104"
   nome: " Processos Químicos Industriais"
@@ -18205,19 +18381,19 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "50"
-          Inscritos: "26"
-          Pendentes: "5"
+          Inscritos: "20"
+          Pendentes: "0"
           Matriculados: "20"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "25"
-          Inscritos: "7"
-          Pendentes: "2"
-          Matriculados: "5"
+          Inscritos: "6"
+          Pendentes: "0"
+          Matriculados: "6"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "25"
-          Inscritos: "11"
-          Pendentes: "3"
-          Matriculados: "8"
+          Inscritos: "6"
+          Pendentes: "0"
+          Matriculados: "6"
 - LOT2042:
   sigla: "LOT2042"
   nome: " Processos Bioquímicos"
@@ -18267,19 +18443,19 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "60"
-          Inscritos: "29"
-          Pendentes: "8"
-          Matriculados: "17"
+          Inscritos: "27"
+          Pendentes: "0"
+          Matriculados: "27"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "43"
-          Inscritos: "10"
-          Pendentes: "3"
-          Matriculados: "7"
+          Inscritos: "6"
+          Pendentes: "0"
+          Matriculados: "6"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "17"
           Inscritos: "15"
-          Pendentes: "5"
-          Matriculados: "10"
+          Pendentes: "0"
+          Matriculados: "15"
 - LOQ4047:
   sigla: "LOQ4047"
   nome: " Trabalho de Conclusão de Curso I"
@@ -18333,19 +18509,19 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
       vagas:
         - Obrigatoria:
           Vagas: "100"
-          Inscritos: "86"
-          Pendentes: "23"
-          Matriculados: "25"
+          Inscritos: "83"
+          Pendentes: "0"
+          Matriculados: "83"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
-          Inscritos: "20"
-          Pendentes: "13"
-          Matriculados: "7"
+          Inscritos: "22"
+          Pendentes: "0"
+          Matriculados: "22"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "50"
-          Inscritos: "28"
-          Pendentes: "10"
-          Matriculados: "18"
+          Inscritos: "32"
+          Pendentes: "0"
+          Matriculados: "32"
 - LOQ4051:
   sigla: "LOQ4051"
   nome: " Estágio Supervisionado"
@@ -18474,7 +18650,28 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
   exame: "Não será oferecida recuperação."
   bibliografia: "A ser definida com o orientador em função das atividades desenvolvidas no estágio."
   docentes: ['198273 - Domingos Savio Giordani']
-  oferecimento: "None"
+  oferecimento:
+    - 20251Q1:
+      Codigo_da_Turma: "20251Q1"
+      Inicio: "24/02/2025"
+      Fim: "07/07/2025"
+      Tipo_da_Turma: "Teórica"
+      Observacoes: ""
+      aulas:
+        - h0:
+          horario: " Patrícia Caroline Molgero Da Rós                                   Supervisão de Estágio     180"
+          prof: " Simone de Fátima Medeiros Sampaio                             "
+      vagas:
+        - Obrigatoria:
+          Vagas: "80"
+          Inscritos: "24"
+          Pendentes: "0"
+          Matriculados: "24"
+        - EEL_-_Engenharia_Quimica:
+          Vagas: "80"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
 - LOQ4048:
   sigla: "LOQ4048"
   nome: " Trabalho de  Conclusão do Curso II"
@@ -18525,18 +18722,18 @@ CUTLIP, M.B.; SACHAM, M. Problem solving in chemical and biochemical engineering
         - Obrigatoria:
           Vagas: "100"
           Inscritos: "58"
-          Pendentes: "23"
-          Matriculados: "35"
+          Pendentes: "0"
+          Matriculados: "58"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "50"
-          Inscritos: "16"
-          Pendentes: "12"
-          Matriculados: "4"
+          Inscritos: "15"
+          Pendentes: "0"
+          Matriculados: "15"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "50"
-          Inscritos: "23"
-          Pendentes: "11"
-          Matriculados: "12"
+          Inscritos: "21"
+          Pendentes: "0"
+          Matriculados: "21"
 - LOQ4091:
   sigla: "LOQ4091"
   nome: " Projeto Integrador em Engenharia Química I"
@@ -18785,9 +18982,9 @@ N. BIRKS and G.H.MEIER, Introduction to High Temperature Oxidation of Metals, Ed
           Matriculados: "0"
         - EEL_-_Engenharia_Quimica_-_Diurno:
           Vagas: "15"
-          Inscritos: "2"
+          Inscritos: "1"
           Pendentes: "0"
-          Matriculados: "2"
+          Matriculados: "1"
         - EEL_-_Engenharia_Quimica_-_Noturno:
           Vagas: "15"
           Inscritos: "1"
@@ -18852,6 +19049,16 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
           prof: "(R) Domingos Savio Giordani "
       vagas:
         - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_para_toda_a_Unidade:
+          Vagas: "12"
+          Inscritos: "11"
+          Pendentes: "0"
+          Matriculados: "11"
+        - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
           Pendentes: "0"
@@ -18930,6 +19137,16 @@ Artigos extraídos de revistas especializadas na área de gestão e produção."
           prof: "(R) Domingos Savio Giordani "
       vagas:
         - Obrigatoria:
+          Vagas: "0"
+          Inscritos: "0"
+          Pendentes: "0"
+          Matriculados: "0"
+        - EEL_-_para_toda_a_Unidade:
+          Vagas: "16"
+          Inscritos: "16"
+          Pendentes: "0"
+          Matriculados: "16"
+        - Qualquer_Unidade_da_USP:
           Vagas: "0"
           Inscritos: "0"
           Pendentes: "0"

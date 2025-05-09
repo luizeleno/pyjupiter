@@ -49,15 +49,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "66",
-"Inscritos": "57",
-"Pendentes": "1",
-"Matriculados": "56"
+"Inscritos": "62",
+"Pendentes": "0",
+"Matriculados": "62"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "50",
-"Inscritos": "41",
+"Inscritos": "29",
 "Pendentes": "0",
-"Matriculados": "41"
+"Matriculados": "29"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "3",
@@ -68,8 +68,8 @@
 "EEL - Engenharia  de Materiais": {
 "Vagas": "2",
 "Inscritos": "2",
-"Pendentes": "1",
-"Matriculados": "1"
+"Pendentes": "0",
+"Matriculados": "2"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "1",
@@ -133,21 +133,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "59",
-"Inscritos": "35",
-"Pendentes": "2",
-"Matriculados": "33"
+"Inscritos": "34",
+"Pendentes": "0",
+"Matriculados": "34"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "52",
-"Inscritos": "28",
+"Inscritos": "19",
 "Pendentes": "0",
-"Matriculados": "28"
+"Matriculados": "19"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "3",
-"Inscritos": "3",
-"Pendentes": "2",
-"Matriculados": "1"
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 },
 "EEL - Engenharia Qu\u00edmica": {
 "Vagas": "3",
@@ -163,9 +163,9 @@
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
-"Inscritos": "1",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "1"
+"Matriculados": "0"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -227,26 +227,26 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "48",
-"Pendentes": "2",
-"Matriculados": "46"
+"Inscritos": "52",
+"Pendentes": "0",
+"Matriculados": "52"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "48",
-"Inscritos": "36",
+"Inscritos": "26",
 "Pendentes": "0",
-"Matriculados": "36"
+"Matriculados": "26"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "2",
-"Inscritos": "2",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "2"
+"Matriculados": "1"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
-"Inscritos": "1",
-"Pendentes": "1",
+"Inscritos": "0",
+"Pendentes": "0",
 "Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
@@ -264,8 +264,8 @@
 "EEL - Engenharia Qu\u00edmica": {
 "Vagas": "4",
 "Inscritos": "4",
-"Pendentes": "1",
-"Matriculados": "3"
+"Pendentes": "0",
+"Matriculados": "4"
 }
 }
 }
@@ -317,10 +317,10 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "40",
-"Inscritos": "0",
+"Vagas": "41",
+"Inscritos": "41",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "41"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "40",
@@ -360,7 +360,7 @@
 "exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o.",
 "bibliografia": "BAZZO, W.A. Introdu\u00e7\u00e3o \u00e0 Engenharia. Florian\u00f3polis: Editora da UFSC, 1998.\n\nSLACK, N. et. al. Administra\u00e7\u00e3o da Produ\u00e7\u00e3o. S\u00e3o Paulo, Atlas, 1999. \n\nBATALHA, M.O. et al , Introdu\u00e7\u00e3o \u00e0 Engenharia de Produ\u00e7\u00e3o, Rio de Janeiro, Elsevier, 2008.",
 "docentes": [
-"11079086 - Herland\u00ed de Souza Andrade"
+"5840535 - Messias Borges Silva"
 ],
 "oferecimento": {
 "20251P1": {
@@ -372,21 +372,27 @@
 "aulas": {
 "h0": {
 "horario": " qua  19:00  21:00 ",
-"prof": "Messias Borges Silva "
+"prof": "(R) Messias Borges Silva "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "48",
-"Pendentes": "1",
-"Matriculados": "47"
+"Inscritos": "50",
+"Pendentes": "0",
+"Matriculados": "50"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "50",
-"Inscritos": "48",
-"Pendentes": "1",
-"Matriculados": "47"
+"Inscritos": "42",
+"Pendentes": "0",
+"Matriculados": "42"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 }
 }
 }
@@ -443,15 +449,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "38",
-"Pendentes": "1",
-"Matriculados": "37"
+"Inscritos": "50",
+"Pendentes": "0",
+"Matriculados": "50"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "50",
-"Inscritos": "38",
-"Pendentes": "1",
-"Matriculados": "37"
+"Inscritos": "42",
+"Pendentes": "0",
+"Matriculados": "42"
 }
 }
 }
@@ -497,27 +503,27 @@
 "aulas": {
 "h0": {
 "horario": " qua  21:00  23:00 ",
-"prof": "(R) Herland\u00ed de Souza Andrade "
+"prof": "Humberto Felipe da Silva "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "52",
-"Inscritos": "33",
+"Inscritos": "43",
 "Pendentes": "0",
-"Matriculados": "33"
+"Matriculados": "43"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "52",
-"Inscritos": "33",
+"Inscritos": "35",
 "Pendentes": "0",
-"Matriculados": "33"
+"Matriculados": "35"
 },
 "EEL -  para toda a Unidade": {
 "Vagas": "2",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -575,15 +581,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "48",
-"Inscritos": "33",
+"Inscritos": "31",
 "Pendentes": "0",
-"Matriculados": "33"
+"Matriculados": "31"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "48",
-"Inscritos": "33",
+"Inscritos": "24",
 "Pendentes": "0",
-"Matriculados": "33"
+"Matriculados": "24"
 },
 "EEL -  para toda a Unidade": {
 "Vagas": "2",
@@ -661,15 +667,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "64",
-"Inscritos": "63",
+"Inscritos": "62",
 "Pendentes": "0",
-"Matriculados": "63"
+"Matriculados": "62"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "14",
-"Inscritos": "14",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "14"
+"Matriculados": "13"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "6",
@@ -760,9 +766,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "71",
-"Inscritos": "71",
-"Pendentes": "6",
-"Matriculados": "65"
+"Inscritos": "64",
+"Pendentes": "2",
+"Matriculados": "62"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "3",
@@ -772,9 +778,9 @@
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "5",
-"Inscritos": "5",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "5"
+"Matriculados": "3"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "12",
@@ -784,15 +790,15 @@
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "11",
-"Inscritos": "11",
-"Pendentes": "1",
+"Inscritos": "10",
+"Pendentes": "0",
 "Matriculados": "10"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "6",
-"Inscritos": "6",
-"Pendentes": "2",
-"Matriculados": "4"
+"Inscritos": "4",
+"Pendentes": "1",
+"Matriculados": "3"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "3",
@@ -803,8 +809,8 @@
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "20",
 "Inscritos": "20",
-"Pendentes": "2",
-"Matriculados": "18"
+"Pendentes": "0",
+"Matriculados": "20"
 }
 }
 }
@@ -865,27 +871,27 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "71",
-"Inscritos": "70",
-"Pendentes": "1",
-"Matriculados": "68"
+"Inscritos": "65",
+"Pendentes": "0",
+"Matriculados": "65"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "14",
-"Inscritos": "14",
+"Inscritos": "13",
 "Pendentes": "0",
-"Matriculados": "14"
+"Matriculados": "13"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "6",
-"Inscritos": "4",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "4"
+"Matriculados": "3"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "6",
-"Inscritos": "6",
+"Inscritos": "5",
 "Pendentes": "0",
-"Matriculados": "6"
+"Matriculados": "5"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "6",
@@ -895,9 +901,9 @@
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "6",
-"Inscritos": "5",
-"Pendentes": "1",
-"Matriculados": "4"
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "6"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "11",
@@ -907,9 +913,9 @@
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "11",
-"Inscritos": "11",
+"Inscritos": "10",
 "Pendentes": "0",
-"Matriculados": "11"
+"Matriculados": "10"
 }
 }
 }
@@ -965,10 +971,16 @@
 "Matriculados": "9"
 },
 "EEL - Engenharia Ambiental": {
-"Vagas": "40",
+"Vagas": "35",
 "Inscritos": "2",
 "Pendentes": "0",
 "Matriculados": "2"
+},
+"EEL - Engenharia  de Materiais": {
+"Vagas": "5",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
 }
 }
 }
@@ -1021,27 +1033,27 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "46",
-"Pendentes": "5",
-"Matriculados": "36"
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "28"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "21",
-"Inscritos": "19",
+"Inscritos": "16",
 "Pendentes": "0",
-"Matriculados": "19"
+"Matriculados": "16"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "6",
-"Inscritos": "6",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "6"
+"Matriculados": "3"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "5",
-"Inscritos": "4",
-"Pendentes": "3",
-"Matriculados": "1"
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "1",
@@ -1051,15 +1063,21 @@
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "3",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "9",
 "Inscritos": "3",
 "Pendentes": "0",
 "Matriculados": "3"
 },
-"EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "9",
-"Inscritos": "7",
-"Pendentes": "2",
-"Matriculados": "5"
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 }
 }
 }
@@ -1190,15 +1208,33 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "52",
+"Inscritos": "59",
 "Pendentes": "0",
-"Matriculados": "52"
+"Matriculados": "59"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "60",
-"Inscritos": "35",
+"Vagas": "54",
+"Inscritos": "36",
 "Pendentes": "0",
-"Matriculados": "35"
+"Matriculados": "36"
+},
+"EEL - Engenharia Ambiental": {
+"Vagas": "3",
+"Inscritos": "3",
+"Pendentes": "0",
+"Matriculados": "3"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "1",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL - Engenharia Qu\u00edmica - Noturno": {
+"Vagas": "2",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
 }
 }
 }
@@ -1264,8 +1300,8 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "24",
-"Pendentes": "1",
+"Inscritos": "23",
+"Pendentes": "0",
 "Matriculados": "23"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
@@ -1276,9 +1312,9 @@
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "2",
-"Inscritos": "2",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "2"
+"Matriculados": "1"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "6",
@@ -1307,8 +1343,8 @@
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "2",
 "Inscritos": "1",
-"Pendentes": "1",
-"Matriculados": "0"
+"Pendentes": "0",
+"Matriculados": "1"
 }
 }
 }
@@ -1370,9 +1406,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "53",
+"Inscritos": "40",
 "Pendentes": "0",
-"Matriculados": "32"
+"Matriculados": "40"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
@@ -1440,13 +1476,13 @@
 "Obrigat\u00f3ria": {
 "Vagas": "60",
 "Inscritos": "40",
-"Pendentes": "1",
-"Matriculados": "31"
+"Pendentes": "0",
+"Matriculados": "40"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "5",
-"Inscritos": "5",
-"Pendentes": "1",
+"Inscritos": "4",
+"Pendentes": "0",
 "Matriculados": "4"
 },
 "EEL - Engenharia  de Materiais": {
@@ -1509,7 +1545,7 @@
 "objectives": "Introduce the basic concepts of Economic Science, enabling the students to understand the main micro and macroeconomic concepts and to analyze the discourse and practice of economics, guided by their critical sense.",
 "abstract": "A. Microeconomy. B. Macroeconomy. C. Economic Development. D. International Economy. E. Brazilian Economy",
 "program": "A. MICROECONOMY: 1. Introduction to the concepts of Economics and fundamentals of microeconomic analysis. 2. Consumer and demand theory. 3. Firm and offer theory. 4. Costs and price formation. 5. Market Structures 6. Strategic behavior and competition. 7. Technology as a factor of production. 8. Sustainability: resources, costs and environmental indicators.B. MACROECONOMY: 1. Fundamentals of macroeconomic analysis. 2. National accounting. 3. Classical and Keynesian balances. 4. Monetary system. 5. Fiscal policy. 6. World economy and international trade. 7. Fundamentals of regression as a tool to quantify economic relationships. 8. Public sector.C. ECONOMIC DEVELOPMENT: 1. Growth factors. 2. Sources of Development. 3. Financing Economic Development. 4. A model of economic growth. 5. The internationalization and globalization process.D. INTERNATIONAL ECONOMY: 1. Fundamentals of International Trade. 2. Determination of Exchange Rates. 3. External policies. 4. Factors determining the behavior of imports and exports.E. BRAZILIAN ECONOMY: 1. The historical experience of Brazilian industrialization. 2. The internationalization of the Brazilian economy. 3. Cycle theory and Brazilian reality. 4. Brazil's economic cycles throughout its recent history.",
-"ndoc": 2,
+"ndoc": 1,
 "CA": "4",
 "CT": "0",
 "CH": "60 h",
@@ -1523,8 +1559,7 @@
 "exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o.",
 "bibliografia": "MANKIW, N.G. Introdu\u00e7\u00e3o \u00e0 economia. S\u00e3o Paulo: Thomson Learning, 2006.SAMUELSON, P. Introdu\u00e7\u00e3o \u00e0 Economia. New York: Mc Graw-Hill Book Company.BACHA, Edmar. Introdu\u00e7\u00e3o \u00e0 Macroeconomia: Uma perspectiva brasileira. Rio de Janeiro: Campus, 1987.BACHA et al. Estado da Economia Mundial - Desafios e Respostas - Semin\u00e1rio em Homenagem a Pedro Malan. S\u00e3o Paulo: LTC, 2015.FURTADO, C. Forma\u00e7\u00e3o econ\u00f4mica do Brasil. S\u00e3o Paulo: Companhia Editora Nacional, 2003.GREMAUD, A. P.; VASCONCELLOS, M. A. S.; TONETO J\u00daNIOR, R. Economia Brasileira Contempor\u00e2nea. 8 ed. S\u00e3o Paulo: Atlas, 2017.VASCONCELLOS, M. A. S.; GARCIA, M. E. Fundamentos de Economia. 6 ed. S\u00e3o Paulo: Saraiva, 2018.VASCONCELLOS, M. A. S. ECONOMIA: Micro e Macro. S\u00e3o Paulo: Atlas, 2015.",
 "docentes": [
-"11079086 - Herland\u00ed de Souza Andrade",
-"3295113 - Jos\u00e9 Eduardo Holler Branco"
+"7811306 - Diogo Ferraz"
 ],
 "oferecimento": {
 "20251P1": {
@@ -1535,21 +1570,21 @@
 "aulas": {
 "h0": {
 "horario": " qua  19:00  23:00 ",
-"prof": "Diogo Ferraz "
+"prof": "(R) Diogo Ferraz "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "25",
+"Inscritos": "24",
 "Pendentes": "0",
-"Matriculados": "25"
+"Matriculados": "24"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "45",
-"Inscritos": "25",
+"Inscritos": "24",
 "Pendentes": "0",
-"Matriculados": "25"
+"Matriculados": "24"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -1597,6 +1632,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " seg  19:00  21:00 ",
@@ -1606,14 +1642,14 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "50",
-"Inscritos": "28",
-"Pendentes": "1",
+"Inscritos": "27",
+"Pendentes": "0",
 "Matriculados": "27"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "49",
-"Inscritos": "28",
-"Pendentes": "1",
+"Inscritos": "27",
+"Pendentes": "0",
 "Matriculados": "27"
 },
 "EEL - Engenharia F\u00edsica": {
@@ -1692,14 +1728,14 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "60",
-"Pendentes": "2",
-"Matriculados": "58"
+"Inscritos": "59",
+"Pendentes": "0",
+"Matriculados": "59"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "30",
-"Inscritos": "30",
-"Pendentes": "1",
+"Inscritos": "29",
+"Pendentes": "0",
 "Matriculados": "29"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
@@ -1729,8 +1765,8 @@
 "EEL - Engenharia  de Materiais": {
 "Vagas": "2",
 "Inscritos": "2",
-"Pendentes": "1",
-"Matriculados": "1"
+"Pendentes": "0",
+"Matriculados": "2"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "8",
@@ -1793,9 +1829,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "15",
+"Inscritos": "20",
 "Pendentes": "0",
-"Matriculados": "15"
+"Matriculados": "20"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "40",
@@ -2006,21 +2042,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "60",
-"Pendentes": "2",
-"Matriculados": "58"
+"Inscritos": "48",
+"Pendentes": "0",
+"Matriculados": "48"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "34",
-"Inscritos": "31",
-"Pendentes": "1",
-"Matriculados": "30"
+"Inscritos": "27",
+"Pendentes": "0",
+"Matriculados": "27"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "15",
-"Inscritos": "14",
-"Pendentes": "1",
-"Matriculados": "13"
+"Inscritos": "9",
+"Pendentes": "0",
+"Matriculados": "9"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
@@ -2030,9 +2066,9 @@
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "10",
-"Inscritos": "10",
+"Inscritos": "8",
 "Pendentes": "0",
-"Matriculados": "10"
+"Matriculados": "8"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -2173,21 +2209,27 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "48",
+"Inscritos": "45",
 "Pendentes": "2",
-"Matriculados": "46"
+"Matriculados": "43"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "30",
-"Inscritos": "22",
+"Inscritos": "17",
 "Pendentes": "1",
-"Matriculados": "21"
+"Matriculados": "16"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "30",
+"Vagas": "25",
 "Inscritos": "21",
 "Pendentes": "1",
 "Matriculados": "20"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "5",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
 }
 }
 }
@@ -2238,27 +2280,27 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "49",
-"Pendentes": "1",
-"Matriculados": "46"
+"Inscritos": "45",
+"Pendentes": "0",
+"Matriculados": "45"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "33",
-"Inscritos": "32",
-"Pendentes": "1",
+"Inscritos": "31",
+"Pendentes": "0",
 "Matriculados": "31"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "10",
-"Inscritos": "10",
+"Inscritos": "7",
 "Pendentes": "0",
-"Matriculados": "10"
+"Matriculados": "7"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
-"Inscritos": "1",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "1"
+"Matriculados": "0"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "4",
@@ -2331,10 +2373,16 @@
 "Matriculados": "17"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
-"Inscritos": "7",
+"Vagas": "30",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "7"
+"Matriculados": "6"
+},
+"EEL - Engenharia Qu\u00edmica - Diurno": {
+"Vagas": "5",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
 }
 }
 }
@@ -2404,10 +2452,10 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "28",
-"Inscritos": "28",
+"Vagas": "29",
+"Inscritos": "29",
 "Pendentes": "0",
-"Matriculados": "28"
+"Matriculados": "29"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "27",
@@ -2489,14 +2537,20 @@
 "Obrigat\u00f3ria": {
 "Vagas": "52",
 "Inscritos": "52",
-"Pendentes": "3",
-"Matriculados": "48"
+"Pendentes": "0",
+"Matriculados": "52"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "52",
 "Inscritos": "51",
-"Pendentes": "3",
-"Matriculados": "48"
+"Pendentes": "0",
+"Matriculados": "51"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 }
 }
 }
@@ -2612,9 +2666,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "35",
-"Pendentes": "1",
-"Matriculados": "33"
+"Inscritos": "36",
+"Pendentes": "0",
+"Matriculados": "36"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "33",
@@ -2625,8 +2679,8 @@
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "18",
 "Inscritos": "7",
-"Pendentes": "1",
-"Matriculados": "6"
+"Pendentes": "0",
+"Matriculados": "7"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "6",
@@ -2648,9 +2702,9 @@
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "1",
-"Inscritos": "0",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "0"
+"Matriculados": "1"
 }
 }
 }
@@ -2707,15 +2761,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "34",
-"Pendentes": "8",
-"Matriculados": "24"
+"Inscritos": "38",
+"Pendentes": "0",
+"Matriculados": "38"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
-"Vagas": "40",
+"Vagas": "35",
 "Inscritos": "17",
-"Pendentes": "8",
-"Matriculados": "9"
+"Pendentes": "0",
+"Matriculados": "17"
+},
+"EEL - Engenharia de Produ\u00e7\u00e3o": {
+"Vagas": "2",
+"Inscritos": "1",
+"Pendentes": "0",
+"Matriculados": "1"
 }
 }
 }
@@ -2775,9 +2835,9 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "43",
-"Pendentes": "1",
-"Matriculados": "34"
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "39"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "14",
@@ -2794,8 +2854,8 @@
 "EEL - Engenharia Ambiental": {
 "Vagas": "8",
 "Inscritos": "8",
-"Pendentes": "1",
-"Matriculados": "7"
+"Pendentes": "0",
+"Matriculados": "8"
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
@@ -2805,9 +2865,9 @@
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "7",
-"Inscritos": "7",
+"Inscritos": "4",
 "Pendentes": "0",
-"Matriculados": "7"
+"Matriculados": "4"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "10",
@@ -2820,6 +2880,12 @@
 "Inscritos": "2",
 "Pendentes": "0",
 "Matriculados": "2"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 }
 }
 }
@@ -2913,21 +2979,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "47",
-"Pendentes": "5",
-"Matriculados": "33"
+"Inscritos": "49",
+"Pendentes": "0",
+"Matriculados": "49"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "43",
 "Inscritos": "26",
-"Pendentes": "2",
-"Matriculados": "24"
+"Pendentes": "0",
+"Matriculados": "26"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "8",
-"Inscritos": "7",
+"Inscritos": "6",
 "Pendentes": "0",
-"Matriculados": "7"
+"Matriculados": "6"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "1",
@@ -2937,9 +3003,15 @@
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "8",
-"Inscritos": "5",
-"Pendentes": "3",
-"Matriculados": "2"
+"Inscritos": "6",
+"Pendentes": "0",
+"Matriculados": "6"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 }
 }
 }
@@ -2973,7 +3045,7 @@
 "exame": "MF = (0,5 M + 0,5 R)M = M\u00e9dia de aproveitamento do aluno, antes da recupera\u00e7\u00e3oR = Nota de uma prova de recupera\u00e7\u00e3oMF = nota final de aproveitamento, ap\u00f3s a recupera\u00e7\u00e3oAprova\u00e7\u00e3o com m\u00e9dia final de aproveitamento maior ou igual a 5,0.A recupera\u00e7\u00e3o dever\u00e1 consistir de uma prova escrita englobando a mat\u00e9ria toda do semestre.Ter\u00e1 direito \u00e0 prova de recupera\u00e7\u00e3o aqueles alunos reprovados com nota acima de 3,0 e frequ\u00eancia m\u00ednima de 70%.",
 "bibliografia": "BARNEY, J.B.; CLARK, D.N. Resource-Based Theory: Creating and Sustaining Competitive Advantage. Oxford University Press, 2007.BESSANT, J.; TIDD, J. Inova\u00e7\u00e3o e empreendedorismo. Porto Alegre, Bookman, 2009.BURGELMAN, R. A.; CHRISTENSEN, C. M.; WHEELWRIGTH, S. C. Gest\u00e3o estrat\u00e9gica da tecnologia e da inova\u00e7\u00e3o: conceitos e solu\u00e7\u00f5es. AMGH Editora, 2013.CONWAY, S; STEWARD, F. Managing and shaping innovation. Oxford University Press, 2009.CHRISTENSEN, Clayton M. O dilema da inova\u00e7\u00e3o. S\u00e3o Paulo: Makron Books, 2011.DAVILA, T; EPSTEIN, M. J.; SHELTON, R. As regras da Inova\u00e7\u00e3o. Porto Alegre, Bookman, 2008.DE NEGRI, J.A; SALERNO, M.S., (Orgs.). Inova\u00e7\u00e3o, padr\u00f5es tecnol\u00f3gicos e desempenho das firmas industriais brasileiras. Bras\u00edlia, Ipea, 2005.DODGSON, M.; GANN, D.; SALTER, A. The management of technological innovation: strategy and practice. Oxford University Press, 2008.DRUCKER, P.F. Inova\u00e7\u00e3o e esp\u00edrito empreendedor. S\u00e3o Paulo: Pioneira, 2000.FIGUEIREDO, P.N. Gest\u00e3o da inova\u00e7\u00e3o: conceitos, m\u00e9tricas e experi\u00eancias de empresas no Brasil. Rio de Janeiro, LTC, 2015.FITZGERALD, E. et al. Inside Real Innovation: How the Right Approach Can Move Ideas from R&D to Market-And Get the Economy Moving. World Scientific, 2011.GOFFIN, K.; MITCHELL, R. Innovation management. 3nd ed. Palgrave \u2013 MacMillan, Houndsmill, 2017.HELFAT, C.E. et al. Dynamic capabilities: understanding strategic change in organizations. Blackwell Publishing, 2007.PRAHALAD,C.K.; KRISHNAN,M.S. The new of innovation. EUA: Editora Soundview Executive Book Sumaries, 2008.PROEN\u00c7A, A. et al. Gest\u00e3o da inova\u00e7\u00e3o e competitividade no Brasil: da teoria para a pr\u00e1tica. Bookman Editora, 2015.SALERNO, M.S.; GOMES, L.A.V. Gest\u00e3o da inova\u00e7\u00e3o (mais) radical. Rio de Janeiro: Elsevier, 2018.SCHILLING, M.A. Strategic management of technological innovation. MacGraw-Hill/Irwin, 2009. TEECE, D. Capabilities and strategic management. In: Edited by Foss. N. Resources firms and strategies. A reader in the Resource-based Perspective. WA: Ed. Oxford University, 1987.TIDD, J.; BESSANT, J. Gest\u00e3o da Inova\u00e7\u00e3o. Porto Alegre, Bookman, 2015.TIDD, J.; BESSANT, J. Strategic innovation management, Wiley, 2014.TIGRE, P. B. Gest\u00e3o da inova\u00e7\u00e3o. Rio de Janeiro, Campus-Elsevier, 2006.TROTT, P. innovation management and new product development. Prentice Hall, 2008.WHITE, M. A.; BRUTON, G.D. The management of technology and innovation: a strategic approach. South-Western, Cengage Learning, 2011.",
 "docentes": [
-"5701460 - Antonio Iacono"
+"11079086 - Herland\u00ed de Souza Andrade"
 ],
 "oferecimento": null
 },
@@ -3049,7 +3121,7 @@
 "exame": "M\u00e9dia aritm\u00e9tica da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recupera\u00e7\u00e3o.",
 "bibliografia": "1. S. Zachs, INTRODUCTION TO RELIABILITY ANALYSIS: PROBABILITY MODELS AND STATISTICAL METHODS, Springer Verlag, New York, 19922. I.B. Gertsbakh, STATISTICAL RELIABILITY THEORY, Marcel Dekker, New York, 1989.3. J. Knezevic, RELIABILITY, MAINTAINABILITY, AND SUPPORTABILITY: A PROBABILITY APPROACH, McGraw-Hill, 1993.4. R.S. Dhillon, C. Singh, ENGINEERING RELIABILITY. NEW TECHNIQUES AND APPLICATIONS, Wiley Interscience, 1981. 5. HARRY, M. , LINSENMANND.R., The Six Sigma Fieldbook, Doubleday, New York, 2006",
 "docentes": [
-"5840535 - Messias Borges Silva"
+"3295113 - Jos\u00e9 Eduardo Holler Branco"
 ],
 "oferecimento": null
 },
@@ -3087,7 +3159,7 @@
 "exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o.",
 "bibliografia": "IUDICIBUS, S.; MARION, J. C. Curso de Contabilidade para n\u00e3o Contadores. 8 ed. S\u00e3o Paulo: Atlas, 2018.MARTINS, E. Contabilidade de Custos. 11 ed. S\u00e3o Paulo: Atlas, 2018.SANTOS, J. J. Manual de Contabilidade e An\u00e1lise de Custos. 7 ed. S\u00e3o Paulo: Atlas, 2017.SILVA, R. N. S.; LINS, L. S. Gest\u00e3o de Custos - Contabilidade, Controle e An\u00e1lise. 4 ed. S\u00e3o Paulo: Atlas, 2017.DUTRA, R. G. Custos: Uma Abordagem Pr\u00e1tica. 8 ed. S\u00e3o Paulo: Atlas, 2017.MEGLIORINI, E.; BUENO, A. S. Contabilidade para cursos de Engenharia. S\u00e3o Paulo: Atlas, 2014.MORANTE, A. S. An\u00e1lise das Demonstra\u00e7\u00f5es Financeiras. 2 ed. S\u00e3o Paulo: Atlas, 2009.Bruni, Adriano L., Fama, Rubens. Gest\u00e3o de custos e forma\u00e7\u00e3o de pre\u00e7os. 5. Ed., S\u00e3o Paulo: Atlas, 2008.Hansen, Don R., Mowen, Maryanne M., Gest\u00e3o de custos \u2013 contabilidade e controle. S\u00e3o Paulo: Pioneira Thomson, 2001Horngren, Charles T., Datar, Srikant M., Foster, George. Contabilidade de custos (vol. 1 e 2). 11. Ed. S\u00e3o Paulo: Pearson, 2004.Maher, Michael. Contabilidade de custos \u2013 criando valor para a administra\u00e7\u00e3o. 5. ed., S\u00e3o Paulo: Atlas, 2001.Martins, Eliseu. Contabilidade de Custos (livro de exerc\u00edcios). 9. Ed., S\u00e3o Paulo: Atlas, 2006.Martins, Eliseu. Contabilidade de Custos (livro texto). 9. Ed., S\u00e3o Paulo: Atlas, 2003.",
 "docentes": [
-"11079086 - Herland\u00ed de Souza Andrade"
+"7811306 - Diogo Ferraz"
 ],
 "oferecimento": {
 "20251P1": {
@@ -3098,21 +3170,21 @@
 "aulas": {
 "h0": {
 "horario": " sex  19:00  23:00 ",
-"prof": "Diogo Ferraz "
+"prof": "(R) Diogo Ferraz "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "39",
-"Pendentes": "2",
-"Matriculados": "37"
+"Inscritos": "34",
+"Pendentes": "0",
+"Matriculados": "34"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "39",
-"Pendentes": "2",
-"Matriculados": "37"
+"Inscritos": "34",
+"Pendentes": "0",
+"Matriculados": "34"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -3176,15 +3248,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "55",
-"Pendentes": "2",
-"Matriculados": "53"
+"Inscritos": "57",
+"Pendentes": "0",
+"Matriculados": "57"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "60",
-"Inscritos": "48",
-"Pendentes": "2",
-"Matriculados": "46"
+"Inscritos": "49",
+"Pendentes": "0",
+"Matriculados": "49"
 }
 }
 }
@@ -3241,15 +3313,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "38",
-"Pendentes": "3",
-"Matriculados": "35"
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "39"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "25",
-"Pendentes": "3",
-"Matriculados": "22"
+"Inscritos": "26",
+"Pendentes": "0",
+"Matriculados": "26"
 }
 }
 }
@@ -3283,7 +3355,7 @@
 "exame": "A recupera\u00e7\u00e3o dever\u00e1 consistir de uma prova englobando a mat\u00e9ria toda do semestre. - A m\u00e9dia final (p\u00f3s-recupera\u00e7\u00e3o) dever\u00e1 ser composta por uma m\u00e9dia simples entre a nota do semestre (nota final) e a da prova de recupera\u00e7\u00e3o.",
 "bibliografia": "IIDA, I. Ergonomia: Projeto e Produ\u00e7\u00e3o. S\u00e3o Paulo: Edgard Bl\u00fccher, 2001.GU\u00c9RIN et al. Compreender o trabalho para transform\u00e1-lo. S\u00e3o Paulo: Edgard Bl\u00fccher, 2001.VIDAL, M. C. Ergonomia na empresa, \u00fatil, pr\u00e1tica e aplicada, 2\u00ba ed.. Rio de Janeiro: Editora CVC, 2002.COUTO, H. A. Como implantar a ergonomia na empresa. Belo Horizonte: Ergo Editora, 2002.",
 "docentes": [
-"8767640 - Eduardo Ferro dos Santos"
+"5840917 - Fabricio Maciel Gomes"
 ],
 "oferecimento": {
 "20251P1": {
@@ -3301,14 +3373,14 @@
 "Obrigat\u00f3ria": {
 "Vagas": "40",
 "Inscritos": "33",
-"Pendentes": "2",
-"Matriculados": "31"
+"Pendentes": "0",
+"Matriculados": "33"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
 "Inscritos": "31",
-"Pendentes": "2",
-"Matriculados": "29"
+"Pendentes": "0",
+"Matriculados": "31"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -3354,7 +3426,7 @@
 "exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o",
 "bibliografia": "CARVALHO, M. M. (organizadora) e outros. Gest\u00e3o de Servi\u00e7os: Casos Brasileiros. Atlas. 2013CORREA, H. C. e CAON, M. Gest\u00e3o de Servi\u00e7os: Lucratividade por meio de opera\u00e7\u00e3o e de satisfa\u00e7\u00e3o dos clientes. Atlas, 2014FITZSIMMONS, J.; FITZSIMMONS, M.J. Administra\u00e7\u00e3o de servi\u00e7os: opera\u00e7\u00f5es, estrat\u00e9gia e tecnologia de informa\u00e7\u00e3o. PortoAlegre: Bookman, 2000.GIANESI, I e CORREA, H. Administra\u00e7\u00e3o Estrat\u00e9gia de Servi\u00e7os, ATLAS, 1995 \u2013 SPJOHNSTON, R. e CLARK, G. Administra\u00e7\u00e3o e Opera\u00e7\u00f5es de Servi\u00e7os. Atlas, 2001LOVELOCK, C.H.; WRIGHT, L. Servi\u00e7os: marketing e gest\u00e3o. S\u00e3o Paulo: Saraiva, 2001.MELLO, C. H. P.; NETO, P. L. O. C.; TURRIONI, J.B. SILVA, C. E. S. Gest\u00e3o do Processo de Desenvolvimento de Servi\u00e7os.Atlas. 2010NORMANN, R. Administra\u00e7\u00e3o de Servi\u00e7os. S\u00e3o Paulo. Atlas. 1992.Bibliografia complementar ser\u00e1 indicada ao longo do curso.",
 "docentes": [
-"5840560 - Marco Antonio Carvalho Pereira"
+"6046221 - Camila Fabricio Poltronieri"
 ],
 "oferecimento": {
 "20251P1": {
@@ -3365,21 +3437,21 @@
 "aulas": {
 "h0": {
 "horario": " qua  21:00  23:00 ",
-"prof": "Camila Fabricio Poltronieri "
+"prof": "(R) Camila Fabricio Poltronieri "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "37",
-"Pendentes": "1",
-"Matriculados": "36"
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "39"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "60",
-"Inscritos": "37",
-"Pendentes": "1",
-"Matriculados": "36"
+"Inscritos": "39",
+"Pendentes": "0",
+"Matriculados": "39"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -3425,7 +3497,7 @@
 "exame": "MF = (0,5 M + 0,5 R) M = M\u00e9dia de aproveitamento do aluno, antes da recupera\u00e7\u00e3o R = Nota de uma prova de recupera\u00e7\u00e3o MF = nota final de aproveitamento, ap\u00f3s a recupera\u00e7\u00e3o Aprova\u00e7\u00e3o com m\u00e9dia final de aproveitamento maior ou igual a 5,0. A recupera\u00e7\u00e3o dever\u00e1 consistir em uma prova escrita englobando a mat\u00e9ria toda do semestre. Ter\u00e1 direito \u00e0 prova de recupera\u00e7\u00e3o aqueles alunos reprovados com nota acima de 3,0 e frequ\u00eancia m\u00ednima de 70%.",
 "bibliografia": "1.CORR\u00caA, H. L.; GIANESI, I. G. N.; CAON, M. Planejamento, programa\u00e7\u00e3o e controle da produ\u00e7\u00e3o: MRPII/ERP conceitos, uso e implanta\u00e7\u00e3o. 5. ed. S\u00e3o Paulo: Atlas, 2007. 2.CORR\u00caA, H. L.; CORR\u00caA, C. A. Administra\u00e7\u00e3o da Produ\u00e7\u00e3o e Opera\u00e7\u00f5es: manufatura e servi\u00e7os: uma abordagem estrat\u00e9gica. 2.ed. S\u00e3o Paulo: Atlas, 2011. 3.DAVIS, M.M. et al. Fundamentos da administra\u00e7\u00e3o da Produ\u00e7\u00e3o. Porto Alegre: Bookman, 2018. 4.FERNANDES, F.C.F.; GODINHO FILHO. Planejamento e controle da produ\u00e7\u00e3o: dos fundamentos ao essencial. S\u00e3o Paulo: Atlas, 2010. 5.GAITHER, N.; FRAZIER, G. Administra\u00e7\u00e3o da Produ\u00e7\u00e3o e Opera\u00e7\u00f5es. 8. ed. S\u00e3o Paulo: Pioneira Thomson, 2005. 6.GON\u00c7ALVES, P.S. Administra\u00e7\u00e3o de materiais. Rio de Janeiro: Elsevier, 2013. 7.HEIZER, J.; RENDER, B. Administra\u00e7\u00e3o de Opera\u00e7\u00f5es: bens e servi\u00e7os. 5. ed. Rio de Janeiro: LTC, 2001.8.JACOBS, F.R.; CHASE, R. B. Administra\u00e7\u00e3o da produ\u00e7\u00e3o e de opera\u00e7\u00f5es: o essencial. Porto Alegre: Bookman, 2009. 9.LUSTOSA, L. et. Al. Planejamento e controle da produ\u00e7\u00e3o. Rio de Janeiro: Elsevier, 2008. 10.MOREIRA, D. A. Administra\u00e7\u00e3o da Produ\u00e7\u00e3o e Opera\u00e7\u00f5es. 2. ed. S\u00e3o Paulo: Cengage Learning, 2008.11.REID, R.D.; SANDERS, N. R. Gest\u00e3o de opera\u00e7\u00f5es. Rio de Janeiro: LTC, 2005. 12.SLACK, N., BRANDON-JONES, A., JOHNSTON, R. Administra\u00e7\u00e3o da produ\u00e7\u00e3o. Henrique Luiz Corr\u00eaa (Trad.). 3. ed. S\u00e3o Paulo: Atlas, 2018. 13.TUBINO, D.V. Planejamento e controle da produ\u00e7\u00e3o: teoria e pr\u00e1tica. 2.ed. S\u00e3o Paulo: Atlas, 2009. 14.VOLLMANN, T.; BERRY, W.; WHYBARK, D.; JACOBS, F. Sistemas de planejamento e controle da produ\u00e7\u00e3o: para o gerenciamento da cadeia de suprimentos. 5. ed. Porto Alegre: Bookman, 2006. 15.WANKE, P.F. Ger\u00eancia de opera\u00e7\u00f5es: uma abordagem log\u00edstica. S\u00e3o Paulo: Atlas, 2010.",
 "docentes": [
-"5701460 - Antonio Iacono"
+"8971158 - Claudemir Leif Tramarico"
 ],
 "oferecimento": {
 "20251P1": {
@@ -3436,21 +3508,21 @@
 "aulas": {
 "h0": {
 "horario": " qui  19:00  23:00 ",
-"prof": "Claudemir Leif Tramarico "
+"prof": "(R) Claudemir Leif Tramarico "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "29",
-"Pendentes": "4",
-"Matriculados": "25"
+"Inscritos": "28",
+"Pendentes": "0",
+"Matriculados": "28"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "45",
-"Inscritos": "28",
-"Pendentes": "4",
-"Matriculados": "24"
+"Inscritos": "27",
+"Pendentes": "0",
+"Matriculados": "27"
 }
 }
 }
@@ -3495,7 +3567,7 @@
 "exame": "A recupera\u00e7\u00e3o dever\u00e1 consistir de uma prova englobando a mat\u00e9ria toda do semestre. - A m\u00e9dia final (p\u00f3s-recupera\u00e7\u00e3o) dever\u00e1 ser composta por uma m\u00e9dia simples entre a nota do semestre (nota final) e a da prova de recupera\u00e7\u00e3o.",
 "bibliografia": "Tutoriais de Arduino disponibilizados pelo fabricante (arduino.cc) NISE, N. S., \u201cEngenharia de Sistemas de Controle\u201d, 3\u00aa ed., LTC, 2002. OGATA, K., \u201cEngenharia de Controle Moderno\u201d, 4\u00aa ed., Prentice-Hall do Brasil, 2003. Tutoriais disponibilizados pelo professor BOYLESTAD, Robert L.; NASHELSKY, Louis. Dispositivos Eletr\u00f4nicos e Teoria de Circuitos. 8\u00aa ed. S\u00e3o Paulo: Pearson. 696 p. THOMAZINI, Daniel; ALBUQUERQUE, Pedro U. B.. Sensores Industriais \u2013 Fundamentos e Aplica\u00e7\u00f5es. 8\u00aa ed. S\u00e3o Paulo: \u00c9rica, 2011. 224 p. CAPELLI, A. Automac\u0327a\u0303o Industrial: controle de movimento e processos cont\u00ednuos. S\u00e3o Paulo: E\u0301rica, 2006. SILVEIRA, P. R. da; SANTOS, W. E. Automac\u0327a\u0303o e controle discreto. 3. ed. S\u00e3o Paulo: E\u0301rica, 1998. MORAES, C. C.; CATRUCCI, P. Engenharia de automac\u0327a\u0303o industrial. 2. ed. Rio de Janeiro: LTC, 2007. GIORGINI, M. Automac\u0327a\u0303o aplicada: descric\u0327\u00e3o e implementac\u0327\u00e3o de sistemas sequencias com PLC's. 5. ed. S\u00e3o Paulo: E\u0301rica, 2003.",
 "docentes": [
-"8767640 - Eduardo Ferro dos Santos"
+"5840917 - Fabricio Maciel Gomes"
 ],
 "oferecimento": {
 "20251P1": {
@@ -3512,15 +3584,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "24",
-"Pendentes": "3",
-"Matriculados": "19"
+"Inscritos": "25",
+"Pendentes": "0",
+"Matriculados": "25"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
-"Inscritos": "22",
-"Pendentes": "3",
-"Matriculados": "19"
+"Inscritos": "24",
+"Pendentes": "0",
+"Matriculados": "24"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 }
 }
 }
@@ -3540,7 +3618,7 @@
 "objectives": "Provide knowledge and tools for analyzing the sustainability of production chains, developing an understanding of how to use engineering decisions to improve environmental, social and economic performance.",
 "abstract": "Planning sustainable supply chains.",
 "program": "i) Sustainability of the supply chain; ii) Planning focused in reducing energy consumption and fossil fuels; iii) Renewable fuels with low greenhouse gas emissions; iv) The carbon market; v) Certification programs and vi) Circular Economy and Reverse Logistics.",
-"ndoc": 1,
+"ndoc": 2,
 "CA": "2",
 "CT": "0",
 "CH": "30 h",
@@ -3554,6 +3632,7 @@
 "exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o.",
 "bibliografia": "BOWERSOX, D. J.; CLOSS, D. J.; COOPER, M. B.; BOWERSOX, J. C. Gest\u00e3o Log\u00edstica da Cadeia de Suprimentos. [s.l.] AMGH, 2013. 472 p.BARBIERI, J. C. Gest\u00e3o Ambiental Empresarial: conceitos, modelos e instrumentos. Editora Saraiva, 2004.ALLEN, D.T.; SHONNARD, D. R., Sustainable Engineering: concepts, design and case studies, Prentice Hall, 2015. AKKUCUK, U. Handbook of Research on Sustainable Supply Chain Management for the Global Economy. [s.l.] IGI Global, 2020. 409 p.BOUCHERY, Y.; CORBETT, C. J.; FRANSOO, J. C.; TAN, T. (ed.). Sustainable Supply Chains. Cham: Springer International Publishing, 2017. v. 4. 130 p.SCHMIDT, M.; GIOVANNUCCI, D.; PALEKHOV, D.; HANSMANN, B. (ed.). Sustainable Global Value Chains. Cham: Springer International Publishing, 2019. v. 2. 304 p.LAVE, L. B.; HENDRICKSON, C. T. Environmental Life Cycle Assessment of Goods and Services, Editora John Hopkins, 2006.LEITE, P. R. Log\u00edstica Reversa - Meio Ambiente e Competitividade, Editora Prentice Hall: S\u00e3o Paulo, 2002.",
 "docentes": [
+"3295113 - Jos\u00e9 Eduardo Holler Branco",
 "5840535 - Messias Borges Silva"
 ],
 "oferecimento": {
@@ -3571,21 +3650,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "41",
-"Pendentes": "3",
-"Matriculados": "30"
+"Inscritos": "31",
+"Pendentes": "0",
+"Matriculados": "31"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
-"Vagas": "59",
-"Inscritos": "31",
-"Pendentes": "3",
-"Matriculados": "28"
+"Vagas": "55",
+"Inscritos": "19",
+"Pendentes": "0",
+"Matriculados": "19"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
-"Vagas": "1",
-"Inscritos": "1",
+"Vagas": "5",
+"Inscritos": "2",
 "Pendentes": "0",
-"Matriculados": "1"
+"Matriculados": "2"
 }
 }
 }
@@ -3651,7 +3730,7 @@
 "exame": "NF = (MF + PR)/2, onde MF \u00e9 a m\u00e9dia final da avalia\u00e7\u00e3o e PR \u00e9 uma prova de recupera\u00e7\u00e3o.",
 "bibliografia": "EHRLICH, P. J. Engenharia Econ\u00f4mica. S\u00e3o Paulo: Editora Atlas, 2005.JAFFE, R. W. Administra\u00e7\u00e3o Financeira. 2 ed. S\u00e3o Paulo, Editora Atlas, 2002.GITMAN, L. J. - ZUTTER, C. J. Princ\u00edpios de Administra\u00e7\u00e3o Financeira. 14 ed. S\u00e3o Paulo: Pearson, 2017.ASSAF NETO, A. E LIMA, F. G. 3 ed. CURSO DE ADMINISTRA\u00c7\u00c3O FINANCEIRA. S\u00e3o Paulo: Atlas, 2014MORANTE, A. S. An\u00e1lise das Demonstra\u00e7\u00f5es Financeiras. 2 ed. S\u00e3o Paulo: Atlas, 2009.NEWNAN, D. G.; LAVELLE, J. P. Fundamentos de Engenharia Econ\u00f4mica. S\u00e3o Paulo: LTC, 2000.HOJI, M.; LUZ, A. E. Gest\u00e3o Financeira Econ\u00f4mica: Did\u00e1tica, Objetiva e Pr\u00e1tica. S\u00e3o Paulo: Atlas, 2019.SANVICENTE, A. Z. Administra\u00e7\u00e3o Financeira. S\u00e3o Paulo: Editora Atlas, 2007.",
 "docentes": [
-"11079086 - Herland\u00ed de Souza Andrade"
+"7811306 - Diogo Ferraz"
 ],
 "oferecimento": null
 },
@@ -3727,7 +3806,7 @@
 "exame": "MF = (0,5 M + 0,5 R) M = M\u00e9dia de aproveitamento do aluno, antes da recupera\u00e7\u00e3o R = Nota de uma prova de recupera\u00e7\u00e3o MF = nota final de aproveitamento, ap\u00f3s a recupera\u00e7\u00e3o Aprova\u00e7\u00e3o com m\u00e9dia final de aproveitamento maior ou igual a 5,0. A recupera\u00e7\u00e3o dever\u00e1 consistir em uma prova escrita englobando a mat\u00e9ria toda do semestre. Ter\u00e1 direito \u00e0 prova de recupera\u00e7\u00e3o aqueles alunos reprovados com nota acima de 3,0 e frequ\u00eancia m\u00ednima de 70%.",
 "bibliografia": "DENNIS, P. (2009). Produ\u00e7\u00e3o lean simplificada. Bookman Editora.LEAN ENTERPRISE INSTITUTE (2007). L\u00e9xico lean \u2013 gloss\u00e1rio ilustrado para praticantes do pensamento lean. v.2.0. S\u00e3o Paulo: Lean Institute Brasil.LIKER, J. K. (2005). O Modelo Toyota: 14 princ\u00edpios de gest\u00e3o do maior fabricante do mundo. Tradu\u00e7\u00e3o  de Lene Belon Ribeiro. Porto Alegre: Bookman.ROSER, C. (2022). Tudo Sobre Produ\u00e7\u00e3o Puxada: Projetando, Implementando e Mantendo Kanban, CONWIP e outros Sistemas Puxados na Produ\u00e7\u00e3o Enxuta. AllAboutLean.com Publishing.ROTHER, M.; HARRIS, R. (2002). Criando fluxo cont\u00ednuo. S\u00e3o Paulo, SP. Lean Institute Brasil.SHOOK, John; ROTHER, Mike. Manual. Aprendendo a enxergar. Leam Institute Brasil. S\u00e3o Paulo: IMAM, s/d.TUBINO, D. F. (2015). Manufatura enxuta como estrat\u00e9gia de produ\u00e7\u00e3o. Editora Atlas SA.WOMACK, James P.; JONES, Daniel T. A Mentalidade enxuta nas empresas. Rio de Janeiro: Campus, 1998. WOMACK, James P.; JONES, Daniel T. Lean Thinking: Banish Waste and Create Wealth in Your Corporation. Free Press, 2010.",
 "docentes": [
-"5701460 - Antonio Iacono"
+"8971158 - Claudemir Leif Tramarico"
 ],
 "oferecimento": null
 },
@@ -3797,7 +3876,7 @@
 "exame": "MF = (0,5 M + 0,5 R) M = M\u00e9dia de aproveitamento do aluno, antes da recupera\u00e7\u00e3o R = Nota de uma prova de recupera\u00e7\u00e3o MF = nota final de aproveitamento, ap\u00f3s a recupera\u00e7\u00e3o Aprova\u00e7\u00e3o com m\u00e9dia final de aproveitamento maior ou igual a 5,0. A recupera\u00e7\u00e3o dever\u00e1 consistir de uma prova escrita englobando a mat\u00e9ria toda do semestre. Ter\u00e1 direito \u00e0 prova de recupera\u00e7\u00e3o aqueles alunos reprovados com nota acima de 3,0 e frequ\u00eancia m\u00ednima de 70%.",
 "bibliografia": "BANZATO, Eduardo et al. Atualidades na armazenagem. S\u00e3o Paulo: IMAM, 2003.BARNES, R.M. Estudo de Movimentos de Tempos: projeto e medida do trabalho. S\u00e3o Paulo, Edgar Bl\u00fccher, 1977.GURGEL, F.A.C. Administra\u00e7\u00e3o de recursos materiais e patrimoniais. 2a. Edi\u00e7\u00e3o. S\u00e3o Paulo. Editora Cengage. 2013. FRANCISCHINI, P.G.; VALLE, C.E. Implanta\u00e7\u00e3o de Ind\u00fastrias. Rio de Janeiro, LTC Editora, 1975.LEE, Q et al. Projeto de Instala\u00e7\u00f5es e Locais de Trabalho. S\u00e3o Paulo: IMAM, 1998.MOURA, Reinaldo Aparecido. Sistemas e t\u00e9cnicas de movimenta\u00e7\u00e3o e armazenagem de materiais. IMAM, 2012.NEWMANN, C.; SCALICE, R.K. Projeto de F\u00e1brica e Layout. Rio de Janeiro, Elsevier, 2015.M\u00fcther, R. Planejamento do Layout: Sistema SLP. S\u00e3o Paulo, Edgard Bl\u00fccher, 1978. SLACK, Nigel et al. Administra\u00e7\u00e3o da produ\u00e7\u00e3o. S\u00e3o Paulo: Atlas, 8\u00aa ed. 2018.TOMPKINS, James A. et al. Planejamento de instala\u00e7\u00f5es. Editora LTC:, 2013.",
 "docentes": [
-"5701460 - Antonio Iacono"
+"8971158 - Claudemir Leif Tramarico"
 ],
 "oferecimento": null
 },
@@ -3852,15 +3931,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "32",
-"Pendentes": "4",
-"Matriculados": "28"
+"Inscritos": "33",
+"Pendentes": "0",
+"Matriculados": "33"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
 "Inscritos": "21",
-"Pendentes": "4",
-"Matriculados": "17"
+"Pendentes": "0",
+"Matriculados": "21"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -3924,14 +4003,20 @@
 "Obrigat\u00f3ria": {
 "Vagas": "40",
 "Inscritos": "11",
-"Pendentes": "4",
-"Matriculados": "7"
+"Pendentes": "0",
+"Matriculados": "11"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
 "Inscritos": "11",
-"Pendentes": "4",
-"Matriculados": "7"
+"Pendentes": "0",
+"Matriculados": "11"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 }
 }
 }
@@ -4236,7 +4321,7 @@
 "exame": "Reapresenta\u00e7\u00e3o do trabalho modificado para nova avalia\u00e7\u00e3o",
 "bibliografia": "Cauchick-Miguel, P. A.,   Metodologia de pesquisa em engenharia de produ\u00e7\u00e3o e gest\u00e3o de opera\u00e7\u00f5es / Afonso Fleury ... [et al.] ; coordena\u00e7\u00e3o . - 3. ed. - Rio de Janeiro : Elsevier, 2018. Cauchick-Miguel, P. A.,   Metodologia de pesquisa em engenharia , 1. ed. - Rio de Janeiro : GEN LTC, 2019. BOOTH, W.; COLOMB, G.; WILLIAMS, J. A arte da Pesquisa. 3 ed. Martins Fontes. S\u00e3o Paulo. 2005.GIL, A.C. Como elaborar projetos de pesquisa. 5 ed. Atlas, S\u00e3o Paulo, 2010.MEDEIROS, J. B. Reda\u00e7\u00e3o Cientifica: A Pr\u00e1tica de Fichamentos, Resumos e Resenhas. 11 ed. S\u00e3o Paulo: Atlas, 2009",
 "docentes": [
-"198273 - Domingos Savio Giordani"
+"3295113 - Jos\u00e9 Eduardo Holler Branco"
 ],
 "oferecimento": {
 "20251P1": {
@@ -4253,15 +4338,21 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "60",
-"Inscritos": "36",
-"Pendentes": "22",
-"Matriculados": "8"
+"Inscritos": "40",
+"Pendentes": "0",
+"Matriculados": "40"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "60",
 "Inscritos": "28",
-"Pendentes": "22",
-"Matriculados": "6"
+"Pendentes": "0",
+"Matriculados": "28"
+},
+"Qualquer Unidade da USP": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
 }
 }
 }
@@ -4318,15 +4409,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "40",
-"Pendentes": "8",
-"Matriculados": "28"
+"Inscritos": "36",
+"Pendentes": "0",
+"Matriculados": "36"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
 "Inscritos": "36",
-"Pendentes": "8",
-"Matriculados": "28"
+"Pendentes": "0",
+"Matriculados": "36"
 }
 }
 }
@@ -4360,7 +4451,7 @@
 "exame": "M\u00e9dia aritm\u00e9tica da nota final obtida pelo aluno durante o semestre e da nota obtida na Prova de Recupera\u00e7\u00e3o.",
 "bibliografia": "HAL R. VARIAN, H. R.; FARRELL, J., SHAPIRO, C. The economics of information technology: an introduction. Cambridge University Press, 2004LAURINDO, F. J. B.; ROTONDARO, R. G. orgs. Gest\u00e3o integrada de processos e da tecnologia da informa\u00e7\u00e3o. S\u00e3o Paulo:Atlas, 2006.LAURINDO, F.J.B. Tecnologia da Informa\u00e7\u00e3o: Efic\u00e1cia nas Organiza\u00e7\u00f5es. S\u00e3o Paulo, Editora Futura, 2002.STAIR, R.M., Princ\u00edpios de Sistema de Informa\u00e7\u00e3o: Uma Abordagem Gerencial, Rio de Janeiro, LTC, 1998.TURBAN, E. et al. Information Technology for Management: Transforming Organizations in the Digital Economy. 7th edition, Wiley, 2009.TURBAN, E., RAIANER JR, K., POTTER, R. E., Administra\u00e7\u00e3o de Tecnologia da Informa\u00e7\u00e3o: Teoria e Pr\u00e1tica\u201d, S\u00e3o Paulo, Editora Campus, 2003.",
 "docentes": [
-"11079086 - Herland\u00ed de Souza Andrade"
+"5840917 - Fabricio Maciel Gomes"
 ],
 "oferecimento": {
 "20251P1": {
@@ -4377,15 +4468,15 @@
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "45",
-"Inscritos": "35",
-"Pendentes": "2",
-"Matriculados": "33"
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "32"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "45",
-"Inscritos": "35",
-"Pendentes": "2",
-"Matriculados": "33"
+"Inscritos": "32",
+"Pendentes": "0",
+"Matriculados": "32"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
@@ -4431,7 +4522,7 @@
 "exame": "MF = (0,5 M + 0,5 R) M = M\u00e9dia de aproveitamento do aluno, antes da recupera\u00e7\u00e3o R = Nota de uma prova de recupera\u00e7\u00e3o MF = nota final de aproveitamento, ap\u00f3s a recupera\u00e7\u00e3o Aprova\u00e7\u00e3o com m\u00e9dia final de aproveitamento maior ou igual a 5,0. A recupera\u00e7\u00e3o dever\u00e1 consistir em uma prova escrita englobando a mat\u00e9ria toda do semestre. Ter\u00e1 direito \u00e0 prova de recupera\u00e7\u00e3o aqueles alunos reprovados com nota acima de 3,0 e frequ\u00eancia m\u00ednima de 70%.",
 "bibliografia": "Crawford, C. M., Di Benedetto, C. A. New products management (p. 540). New York, NY: McGraw-Hill/Irwin. 2021.Crawford, M., Di Benedetto, A. Gest\u00e3o de novos produtos. McGraw Hill Brasil, 2016uma refer\u00eancia para a melhoria do processo. S\u00e3o Paulo: Saraiva, 2006. 542p. CHENG, L.C. QFD: desdobramento da fun\u00e7\u00e3o qualidade na gest\u00e3o de desenvolvimento de produtos. S\u00e3o Paulo: Edgard Bl\u00fccher, 2007. DENIS, R. C. Uma introdu\u00e7\u00e3o \u00e0 hist\u00f3ria do design. S\u00e3o Paulo: Edgard Bl\u00fccher., 2000. MALHOTRA, N.K. Pesquisa de marketing: uma orienta\u00e7\u00e3o aplicada. Porto Alegre: Bookman, 2006. PAHL,G.; BEITZ,W.; FELDHUSEN,J.;GROTE,K. Projeto na engenharia. S\u00e3o Paulo: Edgard Blucher, 2005.ROZENFELD, H.; FORCELLINI, F.A.; AMARAL, D.C.; TOLEDO, J. A.; SILVA, S.L.; ALLIPRANDINI, D.H.; SCALICE, R.K. Gest\u00e3o de desenvolvimento de produtos:",
 "docentes": [
-"5701460 - Antonio Iacono"
+"6046221 - Camila Fabricio Poltronieri"
 ],
 "oferecimento": {
 "20251P1": {
@@ -4443,21 +4534,21 @@
 "aulas": {
 "h0": {
 "horario": " sex  19:00  23:00 ",
-"prof": "Camila Fabricio Poltronieri "
+"prof": "(R) Camila Fabricio Poltronieri "
 }
 },
 "vagas": {
 "Obrigat\u00f3ria": {
 "Vagas": "40",
-"Inscritos": "32",
-"Pendentes": "9",
-"Matriculados": "21"
+"Inscritos": "35",
+"Pendentes": "0",
+"Matriculados": "35"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "40",
 "Inscritos": "29",
-"Pendentes": "9",
-"Matriculados": "20"
+"Pendentes": "0",
+"Matriculados": "29"
 }
 }
 }
@@ -4512,34 +4603,34 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
-"Vagas": "60",
-"Inscritos": "68",
-"Pendentes": "3",
-"Matriculados": "55"
+"Vagas": "66",
+"Inscritos": "63",
+"Pendentes": "0",
+"Matriculados": "63"
 },
 "EEL - Engenharia Qu\u00edmica - Diurno": {
 "Vagas": "46",
-"Inscritos": "44",
-"Pendentes": "1",
-"Matriculados": "43"
+"Inscritos": "41",
+"Pendentes": "0",
+"Matriculados": "41"
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "5",
-"Inscritos": "5",
+"Inscritos": "3",
 "Pendentes": "0",
-"Matriculados": "5"
+"Matriculados": "3"
 },
 "EEL - Engenharia F\u00edsica": {
 "Vagas": "3",
 "Inscritos": "3",
-"Pendentes": "1",
-"Matriculados": "2"
+"Pendentes": "0",
+"Matriculados": "3"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "3",
 "Inscritos": "3",
-"Pendentes": "1",
-"Matriculados": "2"
+"Pendentes": "0",
+"Matriculados": "3"
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "3",
@@ -4672,7 +4763,23 @@
 "docentes": [
 "5840560 - Marco Antonio Carvalho Pereira"
 ],
-"oferecimento": null
+"oferecimento": {
+"20251P1": {
+"C\u00f3digo da Turma": "20251P1",
+"In\u00edcio": "24/02/2025",
+"Fim": "07/07/2025",
+"Tipo da Turma": "Pr\u00e1tica",
+"aulas": {
+"h0": {
+"horario": " sex  18:00  19:00 ",
+"prof": " "
+}
+},
+"vagas": {
+"Atividades                             Did\u00e1ticas": {}
+}
+}
+}
 },
 "LOQ4256": {
 "sigla": "LOQ4256",
@@ -4732,7 +4839,7 @@
 "objectives": "",
 "abstract": "",
 "program": "",
-"ndoc": 2,
+"ndoc": 1,
 "CA": "0",
 "CT": "6",
 "CH": "180 h",
@@ -4746,8 +4853,7 @@
 "exame": "Reapresenta\u00e7\u00e3o do trabalho modificado para nova avalia\u00e7\u00e3o.",
 "bibliografia": "Recomendada pelo orientador",
 "docentes": [
-"5840560 - Marco Antonio Carvalho Pereira",
-"1285870 - Marcos Villela Barcza"
+"5840917 - Fabricio Maciel Gomes"
 ],
 "oferecimento": null
 },
@@ -4819,6 +4925,7 @@
 "In\u00edcio": "24/02/2025",
 "Fim": "07/07/2025",
 "Tipo da Turma": "Te\u00f3rica",
+"Observa\u00e7\u00f5es": "",
 "aulas": {
 "h0": {
 "horario": " seg  10:00  12:00 ",
@@ -4827,6 +4934,18 @@
 },
 "vagas": {
 "Obrigat\u00f3ria": {
+"Vagas": "0",
+"Inscritos": "0",
+"Pendentes": "0",
+"Matriculados": "0"
+},
+"EEL -  para toda a Unidade": {
+"Vagas": "160",
+"Inscritos": "57",
+"Pendentes": "0",
+"Matriculados": "57"
+},
+"Qualquer Unidade da USP": {
 "Vagas": "0",
 "Inscritos": "0",
 "Pendentes": "0",
@@ -5155,9 +5274,9 @@
 },
 "EEL - Engenharia Bioqu\u00edmica": {
 "Vagas": "1",
-"Inscritos": "1",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "1"
+"Matriculados": "0"
 },
 "EEL - Engenharia Ambiental": {
 "Vagas": "1",
@@ -5173,9 +5292,9 @@
 },
 "EEL - Engenharia Qu\u00edmica - Noturno": {
 "Vagas": "2",
-"Inscritos": "1",
+"Inscritos": "0",
 "Pendentes": "0",
-"Matriculados": "1"
+"Matriculados": "0"
 },
 "EEL - Engenharia  de Materiais": {
 "Vagas": "1",
@@ -5191,9 +5310,9 @@
 },
 "EEL - Engenharia de Produ\u00e7\u00e3o": {
 "Vagas": "51",
-"Inscritos": "2",
+"Inscritos": "1",
 "Pendentes": "0",
-"Matriculados": "2"
+"Matriculados": "1"
 },
 "Qualquer Unidade da USP": {
 "Vagas": "0",
